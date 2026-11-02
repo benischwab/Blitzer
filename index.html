@@ -3,62 +3,101 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Messstellen Berlin & Umland – Info vorab</title>
+<title>Stationäre Messanlagen Berlin – Info vorab</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
   :root { --bg:#eef1ef; --ink:#14282a; --accent:#c8441b; --line:#c9d2cf; }
   * { box-sizing: border-box; }
   body { margin:0; font:16px/1.5 system-ui, sans-serif; background:var(--bg); color:var(--ink); }
-  header { padding:20px 16px 8px; max-width:900px; margin:auto; }
-  h1 { font-size:1.6rem; margin:0 0 4px; }
-  .hinweis { border-left:4px solid var(--accent); padding:8px 12px; background:#fff; font-size:.9rem; }
-  #karte { height:55vh; max-width:900px; margin:16px auto; border:1px solid var(--line); }
-  main { max-width:900px; margin:auto; padding:0 16px 40px; }
-  ul { list-style:none; padding:0; }
-  li { padding:10px 0; border-bottom:1px solid var(--line); }
+  header, main { max-width:900px; margin:auto; padding:16px; }
+  h1 { font-size:1.5rem; margin:0 0 8px; }
+  h2 { font-size:1.15rem; margin:24px 0 8px; }
+  .hinweis { border-left:4px solid var(--accent); padding:8px 12px; background:#fff; font-size:.9rem; margin:8px 0; }
+  #karte { height:55vh; max-width:900px; margin:0 auto; border:1px solid var(--line); }
+  ul { list-style:none; padding:0; margin:0; }
+  li { padding:8px 0; border-bottom:1px solid var(--line); }
   li small { color:#51666a; display:block; }
   a { color:var(--accent); }
 </style>
 </head>
 <body>
 <header>
-  <h1>Messstellen Berlin & Umland</h1>
+  <h1>Stationäre Messanlagen in Berlin</h1>
   <p class="hinweis">Nur zur Information vor Fahrtantritt. Nicht während der Fahrt verwenden.
-  Die Einträge sind Beispieldaten und keine echten Messstellen.</p>
+  Die Kartenpositionen sind ungefähr (auf Kreuzungen geschätzt).
+  Die Liste stammt aus einer Senatsantwort mit Stand 30.06.2019 und ist nicht vollständig.</p>
 </header>
 
 <div id="karte"></div>
 
 <main>
-  <h2>Liste</h2>
+  <h2>Offizielle Quellen für Ankündigungen</h2>
+  <ul id="quellen"></ul>
+
+  <h2>Anlagen (Stand 2019)</h2>
   <ul id="liste"></ul>
 </main>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  // 1) Karte erstellen, Mittelpunkt Berlin, Zoom 9 zeigt auch das Umland
-  const karte = L.map("karte").setView([52.52, 13.405], 9);
-
-  // 2) Kartenkacheln von OpenStreetMap laden
+  // Karte auf Berlin und Umland
+  const karte = L.map("karte").setView([52.52, 13.405], 10);
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 18,
-    attribution: "© OpenStreetMap-Mitwirkende"
+    maxZoom: 18, attribution: "© OpenStreetMap-Mitwirkende"
   }).addTo(karte);
 
-  // 3) Daten direkt in der Datei (später hier Einträge ändern)
-  const daten = [
-  {"ort": "BEISPIEL: Frankfurter Allee", "lat": 52.5157, "lon": 13.4742, "datum": "2026-11-03", "quelle": "Beispieldaten", "link": "https://www.berlin.de/polizei/"},
-  {"ort": "BEISPIEL: Potsdamer Chaussee", "lat": 52.4300, "lon": 13.1500, "datum": "2026-11-04", "quelle": "Beispieldaten", "link": "https://polizei.brandenburg.de/"},
-  {"ort": "BEISPIEL: Landstraße Richtung Oranienburg", "lat": 52.7500, "lon": 13.2400, "datum": "2026-11-05", "quelle": "Beispieldaten", "link": "https://polizei.brandenburg.de/"}
-];
+  // Format: [Standort, PLZ, Breite, Länge]  (Breite/Länge ungefähr)
+  const anlagen = [
+    ["Scharnweberstraße / Antonienstraße","13405",52.5700,13.3250],
+    ["Bornholmer Straße / Schönhauser Allee","10439",52.5530,13.4030],
+    ["Hermsdorfer Damm / Waidmannsluster Damm","13467",52.6200,13.3030],
+    ["Osloer Straße / Koloniestraße","13359",52.5560,13.3720],
+    ["Prenzlauer Allee / Ostseestraße","10409",52.5430,13.4380],
+    ["Siemensdamm / Nikolaus-Groß-Weg","13627",52.5400,13.2700],
+    ["Bundesallee / Güntzelstraße","10717",52.4880,13.3280],
+    ["Bundesallee / Nachodstraße","10779",52.4950,13.3310],
+    ["Seestraße 91-93","13347",52.5460,13.3500],
+    ["Reichpietschufer / George-C.-Marshall-Brücke","10785",52.5070,13.3680],
+    ["Großer Stern / Altonaer Straße","10557",52.5140,13.3510],
+    ["Schildhornstraße / Gritznerstraße","12163",52.4550,13.3170],
+    ["Innsbrucker Platz","10827",52.4900,13.3410],
+    ["A 100, Tunnel Ortskern Britz","12347",52.4370,13.4400],
+    ["Mehringdamm / Bergmannstraße","10961",52.4900,13.3860],
+    ["Hallesches Ufer / Schöneberger Straße","10963",52.4990,13.3780],
+    ["Frankfurter Allee 169","10365",52.5130,13.4780],
+    ["Theodor-Heuss-Platz 2","14052",52.5090,13.2720],
+    ["Ernst-Reuter-Platz / Otto-Suhr-Allee","10587",52.5125,13.3220],
+    ["Lindauer Allee / Roedernallee","13407",52.5740,13.3470],
+    ["Kaiserdamm / Messedamm","14057",52.5070,13.2800],
+    ["Mollstraße / Otto-Braun-Straße","10178",52.5240,13.4200],
+    ["Kurfürstenstraße / An der Urania","10785",52.5010,13.3410],
+    ["Potsdamer Straße / Bülowstraße","10783",52.4985,13.3580],
+    ["Buschkrugallee / Autobahnanschlussstelle","12359",52.4410,13.4460],
+    ["Elsenstraße / Puschkinallee","12435",52.4900,13.4540],
+    ["An der Wuhlheide / Rudolf-Rühl-Allee","12555",52.4690,13.5430],
+    ["Adlergestell / Otto-Franke-Straße","12489",52.4350,13.5400],
+    ["BAB 111, Landesgrenze bis Schulzendorfer Straße","13503",52.6200,13.2700]
+  ];
 
   const liste = document.getElementById("liste");
-  daten.forEach(e => {
-    L.marker([e.lat, e.lon]).addTo(karte)
-      .bindPopup(`<b>${e.ort}</b><br>${e.datum}<br><a href="${e.link}">Quelle</a>`);
+  anlagen.forEach(([name, plz, lat, lon]) => {
+    L.marker([lat, lon]).addTo(karte).bindPopup(`<b>${name}</b><br>${plz} Berlin`);
     const li = document.createElement("li");
-    li.innerHTML = `<b>${e.ort}</b><small>${e.datum} · ${e.quelle} · <a href="${e.link}">Quelle</a></small>`;
+    li.innerHTML = `<b>${name}</b><small>${plz} Berlin</small>`;
     liste.appendChild(li);
+  });
+
+  // Offizielle Quellen (Links zu den Presseseiten)
+  const quellen = [
+    ["Polizei Berlin", "https://www.berlin.de/polizei/", "Pressemitteilungen, Blitz-Marathon"],
+    ["Polizei Brandenburg", "https://polizei.brandenburg.de/", "Pressemitteilungen, Blitz-Marathon"],
+    ["Senatsantwort mit Standortliste (2019)", "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/18/SchrAnfr/s18-21034.pdf", "Quelle der Anlagenliste"]
+  ];
+  const ul = document.getElementById("quellen");
+  quellen.forEach(([name, url, info]) => {
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="${url}">${name}</a><small>${info}</small>`;
+    ul.appendChild(li);
   });
 </script>
 </body>

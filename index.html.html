@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Messstellen Berlin & Umland – Info vorab</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  :root { --bg:#eef1ef; --ink:#14282a; --accent:#c8441b; --line:#c9d2cf; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:16px/1.5 system-ui, sans-serif; background:var(--bg); color:var(--ink); }
+  header { padding:20px 16px 8px; max-width:900px; margin:auto; }
+  h1 { font-size:1.6rem; margin:0 0 4px; }
+  .hinweis { border-left:4px solid var(--accent); padding:8px 12px; background:#fff; font-size:.9rem; }
+  #karte { height:55vh; max-width:900px; margin:16px auto; border:1px solid var(--line); }
+  main { max-width:900px; margin:auto; padding:0 16px 40px; }
+  ul { list-style:none; padding:0; }
+  li { padding:10px 0; border-bottom:1px solid var(--line); }
+  li small { color:#51666a; display:block; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Messstellen Berlin & Umland</h1>
+  <p class="hinweis">Nur zur Information vor Fahrtantritt. Nicht während der Fahrt verwenden.
+  Die Einträge sind Beispieldaten und keine echten Messstellen.</p>
+</header>
+
+<div id="karte"></div>
+
+<main>
+  <h2>Liste</h2>
+  <ul id="liste"></ul>
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  // 1) Karte erstellen, Mittelpunkt Berlin, Zoom 9 zeigt auch das Umland
+  const karte = L.map("karte").setView([52.52, 13.405], 9);
+
+  // 2) Kartenkacheln von OpenStreetMap laden
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 18,
+    attribution: "© OpenStreetMap-Mitwirkende"
+  }).addTo(karte);
+
+  // 3) Daten direkt in der Datei (später hier Einträge ändern)
+  const daten = [
+  {"ort": "BEISPIEL: Frankfurter Allee", "lat": 52.5157, "lon": 13.4742, "datum": "2026-11-03", "quelle": "Beispieldaten", "link": "https://www.berlin.de/polizei/"},
+  {"ort": "BEISPIEL: Potsdamer Chaussee", "lat": 52.4300, "lon": 13.1500, "datum": "2026-11-04", "quelle": "Beispieldaten", "link": "https://polizei.brandenburg.de/"},
+  {"ort": "BEISPIEL: Landstraße Richtung Oranienburg", "lat": 52.7500, "lon": 13.2400, "datum": "2026-11-05", "quelle": "Beispieldaten", "link": "https://polizei.brandenburg.de/"}
+];
+
+  const liste = document.getElementById("liste");
+  daten.forEach(e => {
+    L.marker([e.lat, e.lon]).addTo(karte)
+      .bindPopup(`<b>${e.ort}</b><br>${e.datum}<br><a href="${e.link}">Quelle</a>`);
+    const li = document.createElement("li");
+    li.innerHTML = `<b>${e.ort}</b><small>${e.datum} · ${e.quelle} · <a href="${e.link}">Quelle</a></small>`;
+    liste.appendChild(li);
+  });
+</script>
+</body>
+</html>

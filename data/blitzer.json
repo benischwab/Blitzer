@@ -1,94 +1,684 @@
 {
   "stand": "2026-10-29",
   "abgerufen": "2026-11-03",
-  "zentrum": { "name": "Olten", "lat": 47.3500, "lon": 7.9030 },
+  "zentrum": {
+    "name": "Olten",
+    "lat": 47.35,
+    "lon": 7.903
+  },
   "quellen": [
-    { "id": "kapo-so", "name": "Polizei Kanton Solothurn, Radarstandorte (so.ch/radar)", "url": "https://so.ch/verwaltung/departement-des-innern/polizei/praevention/verkehr/radarstandorte/" },
-    { "id": "kapo-so-mm", "name": "Medienmitteilung Kapo SO vom 3. September 2026", "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Medienmitteilungen/2026/09_September/2026-09-03_Kantonspolizei_Solothurn_veroeffentlicht_Radarstandorte_weiterhin.pdf" },
-    { "id": "pvs-2025", "name": "Polizeiliche Verkehrsstatistik Kanton Solothurn 2025", "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Ueber_uns/Statistiken/PVS_2025.pdf" },
-    { "id": "osm", "name": "OpenStreetMap (highway=speed_camera)", "url": "https://www.openstreetmap.org/" }
+    {
+      "id": "kapo-so",
+      "name": "Polizei Kanton Solothurn, Radarstandorte (so.ch/radar)",
+      "url": "https://so.ch/verwaltung/departement-des-innern/polizei/praevention/verkehr/radarstandorte/"
+    },
+    {
+      "id": "kapo-so-mm",
+      "name": "Medienmitteilung Kapo SO vom 3. September 2026",
+      "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Medienmitteilungen/2026/09_September/2026-09-03_Kantonspolizei_Solothurn_veroeffentlicht_Radarstandorte_weiterhin.pdf"
+    },
+    {
+      "id": "pvs-2025",
+      "name": "Polizeiliche Verkehrsstatistik Kanton Solothurn 2025",
+      "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Ueber_uns/Statistiken/PVS_2025.pdf"
+    },
+    {
+      "id": "osm",
+      "name": "OpenStreetMap (highway=speed_camera)",
+      "url": "https://www.openstreetmap.org/"
+    },
+    {
+      "id": "kapo-mm",
+      "name": "Medienmitteilungen Polizei Kanton Solothurn",
+      "url": "https://so.ch/verwaltung/departement-des-innern/polizei/medienmitteilungen/"
+    },
+    {
+      "id": "kapo-radarstat",
+      "name": "Kapo SO, monatliche Radarstatistik 2010–2015",
+      "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Medienmitteilungen/2014/10_Oktober/15-10-2014_Kanton_Solothurn__Radarstatistik_September_2014.pdf"
+    },
+    {
+      "id": "kapo-handelshof",
+      "name": "Kapo SO, Handelshofkreuzung Olten (17.8.2020)",
+      "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Medienmitteilungen/2020/08_August/2020-08-17_Olten__Rotlichtueberwachungs-_und_Geschwindigkeitsmessanlage_zur_Verbesserung_des_Verkehrsflusses_installiert.pdf"
+    },
+    {
+      "id": "lesvoitures",
+      "name": "lesvoitures.fr Radar-Datenbank Schweiz",
+      "url": "https://lesvoitures.fr/adresse/radar-feu-rouge-suisse-olten-solothurnerstrasse/"
+    }
   ],
   "standorte": [
     {
-      "id": "olten-dampfhammer", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
-      "ort": "Gösgerstrasse, Dampfhammer", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
-      "lat": 47.35817, "lon": 7.90805, "lage": "genau",
+      "id": "olten-dampfhammer",
+      "typ": "stationaer",
+      "kanton": "SO",
+      "gemeinde": "Olten",
+      "ort": "Gösgerstrasse, Dampfhammer",
+      "art": "Rotlicht + Geschwindigkeit",
+      "tempo": 50,
+      "lat": 47.35817,
+      "lon": 7.90805,
+      "lage": "genau",
       "lagehinweis": "Kreuzung Gösger-/Industriestrasse, durch OSM-Knoten 283157264 und 8109931419 bestätigt.",
+      "quelle": "kapo-so",
+      "historisch": {
+        "zeitraum": "Nov. 2013 bis Feb. 2015 (12 Monate)",
+        "monate": 12,
+        "rotlicht_pro_monat": 18,
+        "tempo_pro_monat": 44,
+        "tempo_max_monat": 63,
+        "hinweis": null
+      }
+    },
+    {
+      "id": "olten-handelshof",
+      "typ": "stationaer",
+      "kanton": "SO",
+      "gemeinde": "Olten",
+      "ort": "Baslerstrasse, Handelshofkreuzung",
+      "art": "Rotlicht + Geschwindigkeit",
+      "tempo": 50,
+      "lat": 47.35203,
+      "lon": 7.90263,
+      "lage": "kreuzung",
+      "lagehinweis": "Basler-/Ringstrasse. Laut Kapo am 17. August 2020 installiert, um Rotlichtfahrten zu reduzieren, die die Kreuzung blockierten.",
       "quelle": "kapo-so"
     },
     {
-      "id": "olten-handelshof", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
-      "ort": "Baslerstrasse, Handelshofkreuzung", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
-      "lat": 47.35203, "lon": 7.90263, "lage": "kreuzung",
-      "lagehinweis": "Mitte der Handelshofkreuzung (Basler-/Ringstrasse). Genaue Masthöhe und Fahrtrichtung nicht veröffentlicht.",
-      "quelle": "kapo-so"
+      "id": "olten-postplatz",
+      "typ": "stationaer",
+      "kanton": "SO",
+      "gemeinde": "Olten",
+      "ort": "Aarauerstrasse, Postplatz",
+      "art": "Rotlicht + Geschwindigkeit",
+      "tempo": 50,
+      "lat": 47.34958,
+      "lon": 7.9063,
+      "lage": "kreuzung",
+      "lagehinweis": "Lichtsignal Postplatz. Neue Lichtsignalanlage seit Oktober 2023; laut Verkehrsstatistik 2025 hat die neue Messanlage nach dem Umbau die Zahl der Übertretungen in Olten stark erhöht.",
+      "quelle": "kapo-so",
+      "historisch": {
+        "zeitraum": "Nov. 2013 bis Feb. 2015 (12 Monate)",
+        "monate": 12,
+        "rotlicht_pro_monat": 15,
+        "tempo_pro_monat": 61,
+        "tempo_max_monat": 81,
+        "hinweis": "Damals noch alte Anlage; heutige Zahlen werden nur als Summe für Olten veröffentlicht."
+      }
     },
     {
-      "id": "olten-postplatz", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
-      "ort": "Aarauerstrasse, Postplatz", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
-      "lat": 47.34958, "lon": 7.90630, "lage": "kreuzung",
-      "lagehinweis": "Lichtsignal Postplatz. Laut Verkehrsstatistik 2025 nach dem Umbau des Postplatzes neu in Betrieb genommen.",
-      "quelle": "kapo-so"
+      "id": "olten-solothurnerstrasse",
+      "typ": "stationaer",
+      "kanton": "SO",
+      "gemeinde": "Olten",
+      "ort": "Solothurnerstrasse",
+      "art": "Rotlicht + Geschwindigkeit",
+      "tempo": 50,
+      "lat": 47.3489,
+      "lon": 7.89,
+      "lage": "kreuzung",
+      "lagehinweis": "Lichtsignal Solothurner-/Rainstrasse. Gleiche Position nennt die Radar-Datenbank von lesvoitures.fr. In den Kapo-Statistiken bis 2015 hiess die Anlage vermutlich «Usego».",
+      "quelle": "kapo-so",
+      "historisch": {
+        "zeitraum": "Nov. 2013 bis Feb. 2015 (12 Monate)",
+        "monate": 12,
+        "rotlicht_pro_monat": 22,
+        "tempo_pro_monat": 164,
+        "tempo_max_monat": 235,
+        "hinweis": null
+      }
     },
     {
-      "id": "olten-solothurnerstrasse", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
-      "ort": "Solothurnerstrasse", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
-      "lat": 47.34781, "lon": 7.88792, "lage": "ungefaehr",
-      "lagehinweis": "Die Kapo nennt nur die Strasse. Gesetzt ist die signalisierte Kreuzung Solothurner-/Gäustrasse (früher in Statistiken als «Usego» geführt). Nicht vor Ort überprüft.",
-      "quelle": "kapo-so"
+      "id": "winznau-oltnerstrasse",
+      "typ": "stationaer",
+      "kanton": "SO",
+      "gemeinde": "Winznau",
+      "ort": "Oltnerstrasse",
+      "art": "Rotlicht + Geschwindigkeit",
+      "tempo": 50,
+      "lat": 47.36467,
+      "lon": 7.9333,
+      "lage": "kreuzung",
+      "lagehinweis": "Lichtsignal Oltner-/Oberdorfstrasse im Dorf. In den Kapo-Statistiken als «Lichtsignalanlage Winznau» geführt, Position laut lesvoitures.fr und OSM-Lichtsignal.",
+      "quelle": "kapo-so",
+      "historisch": {
+        "zeitraum": "Nov. 2013 bis Feb. 2015 (12 Monate)",
+        "monate": 12,
+        "rotlicht_pro_monat": 7,
+        "tempo_pro_monat": 23,
+        "tempo_max_monat": 52,
+        "hinweis": null
+      }
     },
     {
-      "id": "winznau-oltnerstrasse", "typ": "stationaer", "kanton": "SO", "gemeinde": "Winznau",
-      "ort": "Oltnerstrasse", "art": "Geschwindigkeit", "tempo": 50,
-      "lat": 47.36727, "lon": 7.92288, "lage": "ungefaehr",
-      "lagehinweis": "Die Kapo nennt nur die Strasse. Punkt liegt auf der Oltnerstrasse im Dorf, nicht vor Ort überprüft.",
-      "quelle": "kapo-so"
-    },
-    {
-      "id": "oberbuchsiten-a1", "typ": "stationaer", "kanton": "SO", "gemeinde": "Oberbuchsiten",
-      "ort": "Autobahn A1", "art": "Geschwindigkeit (beide Richtungen)", "tempo": 120,
-      "lat": 47.29795, "lon": 7.75960, "lage": "genau",
+      "id": "oberbuchsiten-a1",
+      "typ": "stationaer",
+      "kanton": "SO",
+      "gemeinde": "Oberbuchsiten",
+      "ort": "Autobahn A1",
+      "art": "Geschwindigkeit (beide Richtungen)",
+      "tempo": 120,
+      "lat": 47.29795,
+      "lon": 7.7596,
+      "lage": "genau",
       "lagehinweis": "Unter der Signalbrücke, durch OSM-Knoten 600532488 und 600532509 bestätigt.",
       "quelle": "kapo-so"
     },
     {
-      "id": "haegendorf-a2-semi", "typ": "semistationaer", "kanton": "SO", "gemeinde": "Hägendorf",
-      "ort": "Autobahn A2, Fahrtrichtung Basel", "art": "Geschwindigkeit", "tempo": null,
-      "lat": 47.35244, "lon": 7.83554, "lage": "ungefaehr",
+      "id": "haegendorf-a2-semi",
+      "typ": "semistationaer",
+      "kanton": "SO",
+      "gemeinde": "Hägendorf",
+      "ort": "Autobahn A2, Fahrtrichtung Basel",
+      "art": "Geschwindigkeit",
+      "tempo": null,
+      "lat": 47.35244,
+      "lon": 7.83554,
+      "lage": "ungefaehr",
       "lagehinweis": "Woche ab 29.10.2026. Die Kapo nennt nur Gemeinde und Fahrtrichtung. Punkt auf der A2 bei Hägendorf, an einem in OSM erfassten Messpunkt.",
       "gueltig": "Woche ab 29.10.2026",
       "quelle": "kapo-so"
     },
     {
-      "id": "wynau-bernstrasse-osm", "typ": "osm", "kanton": "BE", "gemeinde": "Wynau",
-      "ort": "Bernstrasse", "art": "Geschwindigkeit (beide Richtungen)", "tempo": 50,
-      "lat": 47.25624, "lon": 7.81989, "lage": "genau",
+      "id": "wynau-bernstrasse-osm",
+      "typ": "osm",
+      "kanton": "BE",
+      "gemeinde": "Wynau",
+      "ort": "Bernstrasse",
+      "art": "Geschwindigkeit (beide Richtungen)",
+      "tempo": 50,
+      "lat": 47.25624,
+      "lon": 7.81989,
+      "lage": "genau",
       "lagehinweis": "Nur in OpenStreetMap erfasst (Knoten 6042442302, 6042442303). Der Kanton Bern veröffentlicht keine Liste, daher nicht amtlich bestätigt.",
       "quelle": "osm"
     },
     {
-      "id": "aarwangen-langenthalstrasse-osm", "typ": "osm", "kanton": "BE", "gemeinde": "Aarwangen",
-      "ort": "Langenthalstrasse", "art": "Geschwindigkeit (beide Richtungen)", "tempo": 50,
-      "lat": 47.23657, "lon": 7.77213, "lage": "genau",
+      "id": "aarwangen-langenthalstrasse-osm",
+      "typ": "osm",
+      "kanton": "BE",
+      "gemeinde": "Aarwangen",
+      "ort": "Langenthalstrasse",
+      "art": "Geschwindigkeit (beide Richtungen)",
+      "tempo": 50,
+      "lat": 47.23657,
+      "lon": 7.77213,
+      "lage": "genau",
       "lagehinweis": "Nur in OpenStreetMap erfasst (Knoten 7215231642, 7215231643). Nicht amtlich bestätigt.",
       "quelle": "osm"
     }
   ],
   "ausserhalb": [
-    { "typ": "stationaer", "gemeinde": "Biberist", "ort": "Autobahn A5" },
-    { "typ": "stationaer", "gemeinde": "Grenchen", "ort": "Solothurnstrasse/Kapellstrasse" },
-    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Bürenstrasse, Vorstadtschulhaus (vorübergehend ausser Betrieb)" },
-    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Bielstrasse, Wildbachkreuzung" },
-    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Bielstrasse, Hermesbühlschulhaus" },
-    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Werkhofstrasse, Konzertsaal" },
-    { "typ": "semistationaer", "gemeinde": "Grenchen", "ort": "Solothurnstrasse (Woche ab 29.10.2026)" }
+    {
+      "typ": "stationaer",
+      "gemeinde": "Biberist",
+      "ort": "Autobahn A5"
+    },
+    {
+      "typ": "stationaer",
+      "gemeinde": "Grenchen",
+      "ort": "Solothurnstrasse/Kapellstrasse"
+    },
+    {
+      "typ": "stationaer",
+      "gemeinde": "Solothurn",
+      "ort": "Bürenstrasse, Vorstadtschulhaus (vorübergehend ausser Betrieb)"
+    },
+    {
+      "typ": "stationaer",
+      "gemeinde": "Solothurn",
+      "ort": "Bielstrasse, Wildbachkreuzung"
+    },
+    {
+      "typ": "stationaer",
+      "gemeinde": "Solothurn",
+      "ort": "Bielstrasse, Hermesbühlschulhaus"
+    },
+    {
+      "typ": "stationaer",
+      "gemeinde": "Solothurn",
+      "ort": "Werkhofstrasse, Konzertsaal"
+    },
+    {
+      "typ": "semistationaer",
+      "gemeinde": "Grenchen",
+      "ort": "Solothurnstrasse (Woche ab 29.10.2026)"
+    }
   ],
   "statistik": {
     "quelle": "pvs-2025",
-    "mobil": { "anlagen": 4, "kontrollen_2024": 1255, "kontrollen_2025": 1333, "fahrzeuge_2025": 2274541, "uebertretungen_2025": 123854, "quote_2025": 5.45 },
-    "semistationaer": { "anlagen": 2, "kontrollen_2024": 97, "kontrollen_2025": 89, "fahrzeuge_2025": 6870443, "uebertretungen_2025": 66924, "quote_2025": 0.97 },
-    "olten_fix": { "tempo_2024": 1632, "tempo_2025": 2705, "rotlicht_2024": 2405, "rotlicht_2025": 4467 },
-    "autobahn_fix": { "fahrzeuge_2025": 23384398, "uebertretungen_2025": 40203, "quote_2025": 0.17 },
+    "mobil": {
+      "anlagen": 4,
+      "kontrollen_2024": 1255,
+      "kontrollen_2025": 1333,
+      "fahrzeuge_2025": 2274541,
+      "uebertretungen_2025": 123854,
+      "quote_2025": 5.45
+    },
+    "semistationaer": {
+      "anlagen": 2,
+      "kontrollen_2024": 97,
+      "kontrollen_2025": 89,
+      "fahrzeuge_2025": 6870443,
+      "uebertretungen_2025": 66924,
+      "quote_2025": 0.97
+    },
+    "olten_fix": {
+      "tempo_2024": 1632,
+      "tempo_2025": 2705,
+      "rotlicht_2024": 2405,
+      "rotlicht_2025": 4467
+    },
+    "autobahn_fix": {
+      "fahrzeuge_2025": 23384398,
+      "uebertretungen_2025": 40203,
+      "quote_2025": 0.17
+    },
     "ortsfeste_geraete_kanton": 18
-  }
+  },
+  "kontrollen": [
+    {
+      "id": "haegendorf-egerkingen-80",
+      "gemeinde": "Hägendorf / Egerkingen",
+      "strasse": "Solothurnerstrasse / Oltnerstrasse (ausserorts)",
+      "lat": 47.32588,
+      "lon": 7.81623,
+      "tempo": 80,
+      "lage": "strecke",
+      "lagehinweis": "Ausserortsstrecke zwischen Hägendorf und Egerkingen, gleiche Strasse mit wechselndem Namen an der Gemeindegrenze.",
+      "meldungen": [
+        {
+          "datum": "2026-03-14",
+          "ort": "Solothurnerstrasse, Hägendorf",
+          "richtung": "Richtung Egerkingen",
+          "erlaubt": 80,
+          "gemessen": 152,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-automobilist-ausserorts-im-80er-bereich-mit-152-km-h-gemessen/"
+        },
+        {
+          "datum": "2021-11-06",
+          "ort": "Solothurnerstrasse, Hägendorf",
+          "richtung": "Richtung Egerkingen",
+          "erlaubt": 80,
+          "gemessen": 158,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-automobilist-ausserorts-mit-158-km/h-gemessen/"
+        },
+        {
+          "datum": "2020-04-05",
+          "ort": "Solothurnerstrasse, Hägendorf",
+          "richtung": "",
+          "erlaubt": null,
+          "gemessen": 151,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-ausserorts-zu-schnell-unterwegs/"
+        },
+        {
+          "datum": "2019-04-07",
+          "ort": "Oltnerstrasse, Egerkingen",
+          "richtung": "Richtung Hägendorf",
+          "erlaubt": 80,
+          "gemessen": 141,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/egerkingen-ausserorts-mit-141-km-h-gemessen-lenker-besass-fuehrerausweis-erst-seit-zehn-tagen/"
+        }
+      ]
+    },
+    {
+      "id": "a2-haerkingen",
+      "gemeinde": "Härkingen / Egerkingen",
+      "strasse": "Autobahn A2, Verzweigung Härkingen",
+      "lat": 47.31818,
+      "lon": 7.8059,
+      "tempo": 80,
+      "lage": "strecke",
+      "lagehinweis": "80er-Abschnitt im Bereich der Verzweigung, Fahrtrichtung Basel.",
+      "meldungen": [
+        {
+          "datum": "2023-01-29",
+          "ort": "A2, Verzweigung Härkingen/Egerkingen",
+          "richtung": "Richtung Basel",
+          "erlaubt": 80,
+          "gemessen": 161,
+          "geraet": "Messgerät (netto)",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/autobahn-a2-verzweigung-haerkingen-egerkingen-fahrzeuglenker-mit-161-km-h-bei-erlaubten-80-km-h-gemessen/"
+        },
+        {
+          "datum": "2022-03-13",
+          "ort": "A2 bei Härkingen",
+          "richtung": "Richtung Basel",
+          "erlaubt": 80,
+          "gemessen": 147,
+          "geraet": "Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haerkingen/autobahn-a2-automobilist-mit-147-km/h-gemessen-erlaubt-waeren-80-km/h-gewesen/"
+        }
+      ]
+    },
+    {
+      "id": "kappel-mittelgaeustrasse",
+      "gemeinde": "Kappel",
+      "strasse": "Mittelgäustrasse",
+      "lat": 47.32895,
+      "lon": 7.85596,
+      "tempo": null,
+      "lage": "strecke",
+      "lagehinweis": "Innerorts Kappel (2025) und ausserorts Richtung Wangen bei Olten (2019); Punkt dazwischen.",
+      "meldungen": [
+        {
+          "datum": "2025-11-08",
+          "ort": "Mittelgäustrasse, Kappel (innerorts)",
+          "richtung": "Richtung Olten",
+          "erlaubt": 50,
+          "gemessen": 129,
+          "geraet": "mobiles Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/kappel-automobilist-innerorts-mit-129-km-h-gemessen/"
+        },
+        {
+          "datum": "2019-03-22",
+          "ort": "Mittelgäustrasse zwischen Kappel und Wangen",
+          "richtung": "Richtung Wangen bei Olten",
+          "erlaubt": null,
+          "gemessen": 141,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/kappel-ausserorts-mit-141-km-h-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "oensingen-oltenstrasse",
+      "gemeinde": "Oensingen",
+      "strasse": "Oltenstrasse (ausserorts)",
+      "lat": 47.29386,
+      "lon": 7.73738,
+      "tempo": 80,
+      "lage": "strecke",
+      "lagehinweis": "Ausserortsstrecke zwischen Oensingen und Oberbuchsiten.",
+      "meldungen": [
+        {
+          "datum": "2026-06-25",
+          "ort": "Oltenstrasse, Oensingen",
+          "richtung": "Richtung Oberbuchsiten",
+          "erlaubt": 80,
+          "gemessen": 148,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/oensingen-automobilist-ausserorts-im-80er-bereich-mit-148-km-h-gemessen/"
+        },
+        {
+          "datum": "2024-07-10",
+          "ort": "Oltenstrasse, Oensingen",
+          "richtung": "von Oberbuchsiten Richtung Oensingen",
+          "erlaubt": 80,
+          "gemessen": 154,
+          "geraet": "mobiles Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/oensingen-automobilist-ausserorts-mit-154-km-h-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "dulliken-niederaemterstrasse",
+      "gemeinde": "Dulliken",
+      "strasse": "Niederämterstrasse",
+      "lat": 47.3541,
+      "lon": 7.94638,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Innerorts Dulliken; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2018-02-05",
+          "ort": "Niederämterstrasse, Dulliken",
+          "richtung": "Richtung Olten",
+          "erlaubt": 50,
+          "gemessen": 113,
+          "geraet": "mobiles Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/dulliken-innerorts-mit-113-km-h-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "gretzenbach-oltnerstrasse",
+      "gemeinde": "Gretzenbach",
+      "strasse": "Oltnerstrasse",
+      "lat": 47.35905,
+      "lon": 7.98878,
+      "tempo": 60,
+      "lage": "strasse",
+      "lagehinweis": "60er-Bereich; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2015-08-14",
+          "ort": "Oltnerstrasse, Gretzenbach",
+          "richtung": "Richtung Schönenwerd",
+          "erlaubt": 60,
+          "gemessen": 145,
+          "geraet": "Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/gretzenbach-motorrad-mit-145-km-h-im-60er-bereich-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "gunzgen-rastplatz",
+      "gemeinde": "Gunzgen",
+      "strasse": "Rastplatz Gunzgen-Nord (A1)",
+      "lat": 47.31042,
+      "lon": 7.8311,
+      "tempo": null,
+      "lage": "strasse",
+      "lagehinweis": "Kontrolle von Fahrzeugen, die den Stau über den Rastplatz umfahren.",
+      "meldungen": [
+        {
+          "datum": "2017-07-03",
+          "ort": "Rastplatz Gunzgen-Nord",
+          "richtung": "",
+          "erlaubt": null,
+          "gemessen": null,
+          "geraet": "Radar, knapp 60 % zu schnell",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/a1-bei-gunzgen-radarkontrolle-beim-rastplatz/"
+        }
+      ]
+    },
+    {
+      "id": "haegendorf-solothurnerstrasse-io",
+      "gemeinde": "Hägendorf",
+      "strasse": "Solothurnerstrasse (innerorts)",
+      "lat": 47.32746,
+      "lon": 7.82528,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Strassenpunkt aus OSM; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2015-07-06",
+          "ort": "Solothurnerstrasse, Hägendorf",
+          "richtung": "",
+          "erlaubt": 50,
+          "gemessen": 135,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-auto-mit-135-km-h-in-50er-bereich-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "haegendorf-oltnerstrasse",
+      "gemeinde": "Hägendorf",
+      "strasse": "Oltnerstrasse",
+      "lat": 47.33351,
+      "lon": 7.84524,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Strassenpunkt aus OSM; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2024-10-26",
+          "ort": "Oltnerstrasse, Hägendorf",
+          "richtung": "Richtung Olten",
+          "erlaubt": 50,
+          "gemessen": 110,
+          "geraet": "mobiles Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-automobilist-innerorts-mit-110-km-h-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "a1-haerkingen",
+      "gemeinde": "Härkingen",
+      "strasse": "Autobahn A1",
+      "lat": 47.31104,
+      "lon": 7.82458,
+      "tempo": 100,
+      "lage": "strecke",
+      "lagehinweis": "Abschnitt östlich der Verzweigung Härkingen, Richtung Zürich.",
+      "meldungen": [
+        {
+          "datum": "2025-11-12",
+          "ort": "A1 bei Härkingen",
+          "richtung": "Richtung Zürich",
+          "erlaubt": 100,
+          "gemessen": 187,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/haerkingen-autobahn-a1-automobilist-im-100er-bereich-mit-187-km-h-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "niedergoesgen-oltnerstrasse",
+      "gemeinde": "Niedergösgen",
+      "strasse": "Oltnerstrasse",
+      "lat": 47.37115,
+      "lon": 7.98457,
+      "tempo": 60,
+      "lage": "strasse",
+      "lagehinweis": "60er-Bereich; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2015-09-25",
+          "ort": "Oltnerstrasse, Niedergösgen",
+          "richtung": "",
+          "erlaubt": 60,
+          "gemessen": 130,
+          "geraet": "Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/niedergoesgen-mit-130-km-h-im-60er-bereich-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "oensingen-jurastrasse",
+      "gemeinde": "Oensingen",
+      "strasse": "Jurastrasse",
+      "lat": 47.28784,
+      "lon": 7.72611,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Zwischen Autobahnausfahrt und Kestenholzstrasse.",
+      "meldungen": [
+        {
+          "datum": "2018-04-12",
+          "ort": "Jurastrasse, Oensingen",
+          "richtung": "von der Autobahnausfahrt Richtung Kestenholzstrasse",
+          "erlaubt": 50,
+          "gemessen": 109,
+          "geraet": "Laser",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/oensingen-ein-automobilist-fuhr-innerorts-viel-zu-schnell/"
+        }
+      ]
+    },
+    {
+      "id": "oensingen-lehngasse",
+      "gemeinde": "Oensingen",
+      "strasse": "Lehngasse",
+      "lat": 47.28864,
+      "lon": 7.70495,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Strassenpunkt aus OSM; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2016-05-01",
+          "ort": "Lehngasse, Oensingen",
+          "richtung": "",
+          "erlaubt": 50,
+          "gemessen": 113,
+          "geraet": "Messgerät",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/oensingen-auto-innerorts-mit-113-km-h-gemessen/"
+        }
+      ]
+    },
+    {
+      "id": "olten-aarburgerstrasse",
+      "gemeinde": "Olten",
+      "strasse": "Aarburgerstrasse",
+      "lat": 47.34411,
+      "lon": 7.90742,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Strassenpunkt aus OSM; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2015-11-08",
+          "ort": "Aarburgerstrasse, Olten",
+          "richtung": "Richtung Aarburg",
+          "erlaubt": 50,
+          "gemessen": 100,
+          "geraet": "mobiles Radar (über 100)",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/olten-raser-in-geschwindigkeitskontrolle-erfasst/"
+        }
+      ]
+    },
+    {
+      "id": "olten-aarauerstrasse",
+      "gemeinde": "Olten",
+      "strasse": "Aarauerstrasse",
+      "lat": 47.34971,
+      "lon": 7.91687,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Strassenpunkt aus OSM; Messung Richtung Postplatz.",
+      "meldungen": [
+        {
+          "datum": "2026-04-21",
+          "ort": "Aarauerstrasse, Olten",
+          "richtung": "Richtung Postplatz",
+          "erlaubt": 50,
+          "gemessen": 112,
+          "geraet": "mobiles Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/olten-motorradlenker-innerorts-mit-112-km-h-gemessen-fuehrerausweis-abgenommen/"
+        }
+      ]
+    },
+    {
+      "id": "schoenenwerd-aarauerstrasse",
+      "gemeinde": "Schönenwerd",
+      "strasse": "Aarauerstrasse",
+      "lat": 47.37328,
+      "lon": 8.008,
+      "tempo": 50,
+      "lage": "strasse",
+      "lagehinweis": "Innerorts; die genaue Messstelle wurde nicht genannt.",
+      "meldungen": [
+        {
+          "datum": "2020-08-27",
+          "ort": "Aarauerstrasse, Schönenwerd",
+          "richtung": "Richtung Aarau",
+          "erlaubt": null,
+          "gemessen": 106,
+          "geraet": "Radar",
+          "url": "https://so.ch/startseite/aktuell/aktuell/news/schoenenwerd-innerorts-mit-106-km/h-gemessen/"
+        }
+      ]
+    }
+  ],
+  "kontrollen_ohne_strasse": [
+    {
+      "datum": "2016-05-20",
+      "text": "Hägendorf innerorts und Oensingen ausserorts: Kontrollen mit Anhalteposten, rund 200 Übertretungen",
+      "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-oensingen-rund-200-uebertretungen-waehrend-geschwindigkeitskontrollen/"
+    },
+    {
+      "datum": "2018-06-30",
+      "text": "Hägendorf innerorts: Kontrolle mit Anhalteposten, 54 Übertretungen (plus Herbetswil)",
+      "url": "https://so.ch/startseite/aktuell/aktuell/news/haegendorf-herbetswil-rund-150-uebertretungen-waehrend-geschwindigkeitskontrollen/"
+    }
+  ]
 }

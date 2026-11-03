@@ -10,9 +10,9 @@
 "Jalen Duren"
 ],
 "dtd": [],
-"spread": -1.5,
+"spread": -2.5,
 "total": 217.5,
-"p_home": 0.5598
+"p_home": 0.5743
 },
 "401909923": {
 "matchup": "ATL @ WSH",
@@ -21,6 +21,7 @@
 "out": [
 "Henri Veesaar",
 "Jamir Watkins",
+"Jock Landale",
 "Justin Champagnie",
 "Mouhamed Gueye",
 "Reece Beekman",
@@ -29,12 +30,11 @@
 "dtd": [
 "Alex Sarr",
 "Anthony Gill",
-"Jalen Johnson",
-"Jock Landale"
+"Jalen Johnson"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.4767
+"spread": 1.5,
+"total": 234.5,
+"p_home": 0.4809
 },
 "401909924": {
 "matchup": "MIL @ BOS",
@@ -44,11 +44,12 @@
 "Devin Carter"
 ],
 "dtd": [
-"Paul George"
+"Jayson Tatum",
+"Payton Pritchard"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.7948
+"spread": -11.5,
+"total": 223.5,
+"p_home": 0.8014
 },
 "401909925": {
 "matchup": "CHA @ BKN",
@@ -60,10 +61,12 @@
 "Kon Knueppel",
 "Tyler Bilodeau"
 ],
-"dtd": [],
-"spread": 2.5,
-"total": 213.5,
-"p_home": 0.4882
+"dtd": [
+"Coby White"
+],
+"spread": 3.5,
+"total": 212.5,
+"p_home": 0.4743
 },
 "401909926": {
 "matchup": "CHI @ NY",
@@ -72,10 +75,13 @@
 "out": [
 "Nic Claxton"
 ],
-"dtd": [],
-"spread": null,
-"total": null,
-"p_home": 0.782
+"dtd": [
+"Jalen Smith",
+"Josh Hart"
+],
+"spread": -12.5,
+"total": 232.5,
+"p_home": 0.8147
 },
 "401909927": {
 "matchup": "IND @ MEM",
@@ -100,7 +106,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.8972
+"p_home": 0.8971
 },
 "401909928": {
 "matchup": "UTAH @ NO",
@@ -117,7 +123,7 @@
 "dtd": [],
 "spread": null,
 "total": null,
-"p_home": 0.6531
+"p_home": 0.653
 },
 "401909929": {
 "matchup": "CLE @ OKC",
@@ -128,16 +134,15 @@
 "Cason Wallace",
 "Chet Holmgren",
 "Jalen Williams",
+"Jaylon Tyson",
 "Nikola Topic",
+"Peyton Watson",
 "Thomas Sorber"
 ],
-"dtd": [
-"Jaylon Tyson",
-"Peyton Watson"
-],
-"spread": -2.5,
+"dtd": [],
+"spread": -1.5,
 "total": 228.5,
-"p_home": 0.5149
+"p_home": 0.5177
 },
 "401909930": {
 "matchup": "MIN @ HOU",
@@ -152,9 +157,9 @@
 "Clint Capela",
 "Terrence Shannon Jr."
 ],
-"spread": -8.5,
-"total": 220.5,
-"p_home": 0.7309
+"spread": -7.5,
+"total": 219.5,
+"p_home": 0.7126
 },
 "401909931": {
 "matchup": "TOR @ DEN",
@@ -169,9 +174,9 @@
 "dtd": [
 "Jakob Poeltl"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.4727
+"spread": -5.5,
+"total": 231.5,
+"p_home": 0.6018
 },
 "401909932": {
 "matchup": "POR @ PHX",
@@ -185,9 +190,9 @@
 "dtd": [
 "Jordan Goodwin"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.3515
+"spread": 3.5,
+"total": 227.5,
+"p_home": 0.4051
 },
 "401909933": {
 "matchup": "DAL @ SA",
@@ -196,18 +201,16 @@
 "out": [
 "Dereck Lively II",
 "Jayden Quaintance",
+"Max Christie",
 "Santi Aldama",
 "Sergio de Larrea",
 "Tarik Biberovic",
 "Tobias Harris"
 ],
-"dtd": [
-"Kyrie Irving",
-"Max Christie"
-],
-"spread": -12.5,
-"total": 228.5,
-"p_home": 0.7833
+"dtd": [],
+"spread": -11.5,
+"total": 227.5,
+"p_home": 0.7887
 },
 "401909934": {
 "matchup": "LAL @ SAC",
@@ -221,9 +224,9 @@
 "Maxime Raynaud"
 ],
 "dtd": [],
-"spread": null,
-"total": null,
-"p_home": 0.2766
+"spread": 11.5,
+"total": 238.5,
+"p_home": 0.2053
 },
 "401909935": {
 "matchup": "MIA @ LAC",
@@ -244,10 +247,10 @@
 "p_home": 0.5467
 },
 "_tips": [
-"Sieg DET (PHI @ DET)",
-"DAL +12.5 (DAL @ SA)",
-"CLE +2.5 (CLE @ OKC)",
-"BKN +2.5 (CHA @ BKN)"
+"Under 234.5 (ATL @ WSH)",
+"TOR +5.5 (TOR @ DEN)",
+"BKN +3.5 (CHA @ BKN)",
+"Under 228.5 (CLE @ OKC)"
 ],
 "_game_day": "2026-11-04"
 }

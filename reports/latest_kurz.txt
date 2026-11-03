@@ -1,17 +1,21 @@
-TEST
-Sieger 12/15 richtig · Ø-Fehler Total 16 Pkt
-❌ OKC 117–112 CLE (Prog. CLE 63%)
-✅ DET 124–91 CHA (Prog. DET 69%)
-✅ ATL 108–104 IND (Prog. ATL 61%)
-✅ BKN 90–103 NY (Prog. NY 70%)
-✅ WSH 103–94 ORL (Prog. WSH 53%)
-✅ CHI 107–126 PHI (Prog. PHI 79%)
-❌ SAC 115–100 DAL (Prog. DAL 83%)
-❌ NO 135–134 MEM (Prog. MEM 77%)
-✅ MIL 100–112 MIN (Prog. MIN 89%)
-✅ BOS 93–109 HOU (Prog. HOU 73%)
-✅ UTAH 97–119 SA (Prog. SA 77%)
-✅ POR 118–110 DEN (Prog. POR 60%)
-✅ PHX 113–116 GS (Prog. GS 73%)
-✅ TOR 125–118 LAC (Prog. TOR 62%)
-✅ MIA 117–138 LAL (Prog. LAL 64%)
+TIPPS (ab Mindestquote):
+• Sieg DET (PHI @ DET) 56% – ab 1.84
+• DAL +12.5 (DAL @ SA) 55% – ab 1.87
+• CLE +2.5 (CLE @ OKC) 55% – ab 1.87
+• 2er-Kombi: Sieg HOU + Sieg LAL – 53%, ab 1.95
+• 3er-Kombi: Sieg HOU + Sieg LAL + Sieg NO – 35%, ab 2.98
+
+01:00 PHI@DET: DET 56% · U218.5 53%
+01:00 ATL@WSH: ATL 52%
+01:30 MIL@BOS: BOS 79%
+01:30 CHA@BKN: CHA 51% · U214.5 52%
+01:30 CHI@NY: NY 78%
+02:00 IND@MEM: MEM 90%
+02:00 UTAH@NO: NO 65%
+02:00 CLE@OKC: OKC 51% · U228.5 54%
+02:30 MIN@HOU: HOU 73% · O220.5 50%
+03:00 TOR@DEN: TOR 53%
+03:00 POR@PHX: POR 65%
+03:30 DAL@SA: SA 79% · U229.5 53%
+04:00 LAL@SAC: LAL 72%
+04:30 MIA@LAC: LAC 55%

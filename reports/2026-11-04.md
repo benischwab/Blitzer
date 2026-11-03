@@ -1,6 +1,6 @@
 # NBA-Tipps für die Nacht 04.11.–05.11.2026
 
-Stand: Di 03.11. 15:31 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Di 03.11. 17:20 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -73,7 +73,7 @@ _DET out: Isaiah Joe*, Jalen Duren · PHI out: Dominick Barlow*, Ariel Hukporti_
 
 ### ATL @ WSH — Do 01:00 Uhr
 **Sieg:** WSH 48% (faire Quote 2.10) · ATL 52% (1.91)
-**Prognose:** WSH 109.4 – ATL 110.3 (Diff. ATL +0.9, Total 219.6)
+**Prognose:** WSH 109.4 – ATL 110.3 (Diff. ATL +0.9, Total 219.7)
 **Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** WSH SNNSS (+2.4) · ATL NNSNS (-7.4)
 _WSH out: Reece Beekman*, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · WSH fraglich: Alex Sarr*, Anthony Gill* · ATL out: Mouhamed Gueye, Henri Veesaar · ATL fraglich: Jock Landale*, Jalen Johnson*_ (* = Meldung der letzten 24 h)
@@ -92,7 +92,7 @@ _WSH out: Reece Beekman*, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · 
 | Aaron Wiggins (ATL) | 25 | 12.9 (10.5 / 13.5) | 3.7 | 2.0 | 2.5 | 18.6 |
 
 ### MIL @ BOS — Do 01:30 Uhr
-**Sieg:** BOS 80% (faire Quote 1.26) · MIL 20% (4.88)
+**Sieg:** BOS 79% (faire Quote 1.26) · MIL 21% (4.88)
 **Prognose:** BOS 120.6 – MIL 108.7 (Diff. BOS +11.9, Total 229.3)
 **Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
 **Form (letzte 5):** BOS SSSSN (+9.0) · MIL NSNNN (-14.4)
@@ -135,8 +135,8 @@ _BKN out: Egor Demin, Tyler Bilodeau · CHA out: Grant Williams, Kon Knueppel_
 
 ### CHI @ NY — Do 01:30 Uhr
 **Sieg:** NY 78% (faire Quote 1.28) · CHI 22% (4.59)
-**Prognose:** NY 120.3 – CHI 108.9 (Diff. NY +11.3, Total 229.2)
-**Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
+**Prognose:** NY 120.3 – CHI 109.0 (Diff. NY +11.3, Total 229.2)
+**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 233.5 (≥57%)
 **Form (letzte 5):** NY NSSNS (+3.8) · CHI NNNNN (-15.6)
 _CHI out: Nic Claxton*_ (* = Meldung der letzten 24 h)
 > 📰 How the Knicks' season, title defense got chaotic -- fast
@@ -217,12 +217,12 @@ _OKC out: Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams, Alex Caru
 
 ### MIN @ HOU — Do 02:30 Uhr
 **Sieg:** HOU 73% (faire Quote 1.37) · MIN 27% (3.72) — Markt HOU 74%
-**Prognose:** HOU 115.5 – MIN 106.5 (Diff. HOU +8.9, Total 222.0)
+**Prognose:** HOU 114.8 – MIN 105.8 (Diff. HOU +8.9, Total 220.6)
 **Handicap** HOU -9.5: HOU deckt 48% · MIN +9.5 deckt 52%
-**Over/Under 222.5:** Over 49% (2.04) · Under 51% (1.96)
-**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
+**Over/Under 220.5:** Over 50% (1.99) · Under 50% (2.01)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** HOU SSNSS (+14.8) · MIN NNSNS (+4.2)
-_HOU out: Clint Capela*, Steven Adams · MIN out: Anthony Edwards, Donte DiVincenzo · MIN fraglich: Terrence Shannon Jr.*_ (* = Meldung der letzten 24 h)
+_HOU out: Steven Adams · HOU fraglich: Clint Capela* · MIN out: Anthony Edwards, Donte DiVincenzo · MIN fraglich: Terrence Shannon Jr.*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
 > 📰 Houston takes home win streak into matchup with Minnesota
 
@@ -324,7 +324,7 @@ _SAC out: Dylan Cardwell*, Maxime Raynaud, Keegan Murray, Ben Simmons · LAL out
 **Prognose:** LAC 118.3 – MIA 116.6 (Diff. LAC +1.7, Total 235.0)
 **Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 239.5 (≥57%)
 **Form (letzte 5):** LAC NNNNN (-13.6) · MIA NNSSN (+0.4)
-_LAC out: Yanic Konan Niederhauser*, Brandon Ingram*, Bradley Beal, Jordan Miller · LAC fraglich: Derrick Jones Jr.*, Rui Hachimura*_ (* = Meldung der letzten 24 h)
+_LAC out: Yanic Konan Niederhauser, Brandon Ingram, Bradley Beal, Jordan Miller · LAC fraglich: Derrick Jones Jr.*, Rui Hachimura*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
 > 📰 Clippers face the Heat on 6-game slide
 

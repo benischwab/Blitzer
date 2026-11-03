@@ -1,15 +1,15 @@
 {
 "games": {
 "401909922": {
-"p_home": 0.568,
+"p_home": 0.5598,
 "margin": 2.7,
 "total": 217.06,
 "matchup": "PHI @ DET"
 },
 "401909923": {
 "p_home": 0.4765,
-"margin": -0.86,
-"total": 219.64,
+"margin": -0.85,
+"total": 219.65,
 "matchup": "ATL @ WSH"
 },
 "401909924": {
@@ -25,7 +25,7 @@
 "matchup": "CHA @ BKN"
 },
 "401909926": {
-"p_home": 0.7823,
+"p_home": 0.7822,
 "margin": 11.31,
 "total": 229.21,
 "matchup": "CHI @ NY"
@@ -61,7 +61,7 @@
 "matchup": "TOR @ DEN"
 },
 "401909932": {
-"p_home": 0.3509,
+"p_home": 0.351,
 "margin": -5.55,
 "total": 229.53,
 "matchup": "POR @ PHX"
@@ -74,7 +74,7 @@
 },
 "401909934": {
 "p_home": 0.2762,
-"margin": -8.62,
+"margin": -8.61,
 "total": 236.25,
 "matchup": "LAL @ SAC"
 },
@@ -88,12 +88,22 @@
 "singles": {
 "2026-11-04": [
 {
+"game_id": "401909922",
+"matchup": "PHI @ DET",
+"market": "ml",
+"side": "DET",
+"line": null,
+"p": 0.5598,
+"dk": 1.8403361344537816,
+"label": "Sieg DET"
+},
+{
 "game_id": "401909933",
 "matchup": "DAL @ SA",
 "market": "spread",
 "side": "DAL",
 "line": 12.5,
-"p": 0.5516,
+"p": 0.5517,
 "dk": 1.9090909090909092,
 "label": "DAL +12.5"
 },

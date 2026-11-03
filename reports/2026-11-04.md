@@ -1,6 +1,6 @@
 # NBA-Tipps für die Nacht 04.11.–05.11.2026
 
-Stand: Di 03.11. 14:31 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Di 03.11. 15:24 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,6 +10,7 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
+| Sieg DET | PHI @ DET | 56% | 1.84 | +3.0% | **1.84** |
 | DAL +12.5 | DAL @ SA | 55% | 1.91 | +5.3% | **1.87** |
 | CLE +2.5 | CLE @ OKC | 55% | 1.95 | +7.6% | **1.87** |
 | BKN +2.5 | CHA @ BKN | 55% | 1.91 | +5.0% | **1.87** |
@@ -49,7 +50,7 @@ _Noch keine ausgewerteten Tipps – die Bilanz baut sich ab den nächsten Spiele
 ## Spiele
 
 ### PHI @ DET — Do 01:00 Uhr
-**Sieg:** DET 57% (faire Quote 1.76) · PHI 43% (2.31) — Markt DET 53%
+**Sieg:** DET 56% (faire Quote 1.79) · PHI 44% (2.27) — Markt DET 52%
 **Prognose:** DET 109.9 – PHI 107.2 (Diff. DET +2.7, Total 217.1)
 **Handicap** DET -1.5: DET deckt 54% · PHI +1.5 deckt 46%
 **Over/Under 218.5:** Over 47% (2.13) · Under 53% (1.88)
@@ -72,7 +73,7 @@ _DET out: Isaiah Joe*, Jalen Duren · PHI out: Dominick Barlow*, Ariel Hukporti_
 
 ### ATL @ WSH — Do 01:00 Uhr
 **Sieg:** WSH 48% (faire Quote 2.10) · ATL 52% (1.91)
-**Prognose:** WSH 109.4 – ATL 110.2 (Diff. ATL +0.9, Total 219.6)
+**Prognose:** WSH 109.4 – ATL 110.3 (Diff. ATL +0.9, Total 219.6)
 **Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** WSH SNNSS (+2.4) · ATL NNSNS (-7.4)
 _WSH out: Reece Beekman*, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · WSH fraglich: Alex Sarr*, Anthony Gill* · ATL out: Mouhamed Gueye, Henri Veesaar · ATL fraglich: Jock Landale*, Jalen Johnson*_ (* = Meldung der letzten 24 h)
@@ -92,7 +93,7 @@ _WSH out: Reece Beekman*, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · 
 
 ### MIL @ BOS — Do 01:30 Uhr
 **Sieg:** BOS 80% (faire Quote 1.26) · MIL 20% (4.88)
-**Prognose:** BOS 120.6 – MIL 108.7 (Diff. BOS +12.0, Total 229.3)
+**Prognose:** BOS 120.6 – MIL 108.7 (Diff. BOS +11.9, Total 229.3)
 **Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
 **Form (letzte 5):** BOS SSSSN (+9.0) · MIL NSNNN (-14.4)
 _BOS out: Devin Carter · BOS fraglich: Paul George*_ (* = Meldung der letzten 24 h)
@@ -153,7 +154,7 @@ _CHI out: Nic Claxton*_ (* = Meldung der letzten 24 h)
 | Jalen Smith (CHI) | 25 | 11.5 (9.5 / 12.5) | 8.6 | 2.2 | 1.4 | 22.2 |
 
 ### IND @ MEM — Do 02:00 Uhr
-**Sieg:** MEM 90% (faire Quote 1.11) · IND 10% (9.76)
+**Sieg:** MEM 90% (faire Quote 1.11) · IND 10% (9.75)
 **Prognose:** MEM 121.2 – IND 102.8 (Diff. MEM +18.4, Total 224.0)
 **Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** MEM SSSSN (+13.4) · IND NNNNN (-9.0)
@@ -200,8 +201,8 @@ _NO out: Dejounte Murray*, Jordan Poole, Yves Missi · UTAH out: Jaren Jackson J
 **Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** OKC SSNNS (-4.4) · CLE SSNSN (+5.8)
 _OKC out: Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams, Alex Caruso, Nikola Topic · CLE fraglich: Peyton Watson*, Jaylon Tyson*_ (* = Meldung der letzten 24 h)
+> 📰 Sources: Injury-plagued Thunder agree to 2-year deal with veteran Dalen Terry
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
-> 📰 Gilgeous-Alexander leads Oklahoma City against Cleveland after 43-point game
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -258,7 +259,7 @@ _DEN out: Spencer Jones, Julian Strawther · TOR out: Nate Bittle*, Kawhi Leonar
 
 ### POR @ PHX — Do 03:00 Uhr
 **Sieg:** PHX 35% (faire Quote 2.85) · POR 65% (1.54)
-**Prognose:** PHX 112.0 – POR 117.5 (Diff. POR +5.6, Total 229.5)
+**Prognose:** PHX 112.0 – POR 117.5 (Diff. POR +5.5, Total 229.5)
 **Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
 **Form (letzte 5):** PHX NSNNN (-10.6) · POR SSNSS (+4.8)
 _PHX out: Mark Williams · PHX fraglich: Jordan Goodwin* · POR out: Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)

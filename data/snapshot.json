@@ -12,7 +12,7 @@
 "dtd": [],
 "spread": -1.5,
 "total": 218.5,
-"p_home": 0.568
+"p_home": 0.5598
 },
 "401909923": {
 "matchup": "ATL @ WSH",
@@ -75,7 +75,7 @@
 "dtd": [],
 "spread": null,
 "total": null,
-"p_home": 0.7823
+"p_home": 0.7822
 },
 "401909927": {
 "matchup": "IND @ MEM",
@@ -187,7 +187,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.3509
+"p_home": 0.351
 },
 "401909933": {
 "matchup": "DAL @ SA",
@@ -244,6 +244,7 @@
 "p_home": 0.5467
 },
 "_tips": [
+"Sieg DET (PHI @ DET)",
 "DAL +12.5 (DAL @ SA)",
 "CLE +2.5 (CLE @ OKC)",
 "BKN +2.5 (CHA @ BKN)"

@@ -11,7 +11,7 @@
 ],
 "dtd": [],
 "spread": -1.5,
-"total": 218.5,
+"total": 217.5,
 "p_home": 0.5598
 },
 "401909923": {
@@ -34,7 +34,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.4766
+"p_home": 0.4767
 },
 "401909924": {
 "matchup": "MIL @ BOS",
@@ -48,7 +48,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.795
+"p_home": 0.7948
 },
 "401909925": {
 "matchup": "CHA @ BKN",
@@ -62,8 +62,8 @@
 ],
 "dtd": [],
 "spread": 2.5,
-"total": 214.5,
-"p_home": 0.4869
+"total": 213.5,
+"p_home": 0.4882
 },
 "401909926": {
 "matchup": "CHI @ NY",
@@ -75,7 +75,7 @@
 "dtd": [],
 "spread": null,
 "total": null,
-"p_home": 0.7821
+"p_home": 0.782
 },
 "401909927": {
 "matchup": "IND @ MEM",
@@ -100,7 +100,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.8974
+"p_home": 0.8972
 },
 "401909928": {
 "matchup": "UTAH @ NO",
@@ -152,7 +152,7 @@
 "Clint Capela",
 "Terrence Shannon Jr."
 ],
-"spread": -9.5,
+"spread": -8.5,
 "total": 220.5,
 "p_home": 0.7309
 },
@@ -171,7 +171,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.4726
+"p_home": 0.4727
 },
 "401909932": {
 "matchup": "POR @ PHX",
@@ -187,7 +187,7 @@
 ],
 "spread": null,
 "total": null,
-"p_home": 0.3512
+"p_home": 0.3515
 },
 "401909933": {
 "matchup": "DAL @ SA",
@@ -206,8 +206,8 @@
 "Max Christie"
 ],
 "spread": -12.5,
-"total": 229.5,
-"p_home": 0.7875
+"total": 228.5,
+"p_home": 0.7833
 },
 "401909934": {
 "matchup": "LAL @ SAC",
@@ -223,7 +223,7 @@
 "dtd": [],
 "spread": null,
 "total": null,
-"p_home": 0.2763
+"p_home": 0.2766
 },
 "401909935": {
 "matchup": "MIA @ LAC",

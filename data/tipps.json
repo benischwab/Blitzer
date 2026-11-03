@@ -1,0 +1,125 @@
+{
+"games": {
+"401909922": {
+"p_home": 0.568,
+"margin": 2.7,
+"total": 217.06,
+"matchup": "PHI @ DET"
+},
+"401909923": {
+"p_home": 0.4765,
+"margin": -0.86,
+"total": 219.64,
+"matchup": "ATL @ WSH"
+},
+"401909924": {
+"p_home": 0.7951,
+"margin": 11.95,
+"total": 229.34,
+"matchup": "MIL @ BOS"
+},
+"401909925": {
+"p_home": 0.4869,
+"margin": -0.86,
+"total": 213.53,
+"matchup": "CHA @ BKN"
+},
+"401909926": {
+"p_home": 0.7823,
+"margin": 11.31,
+"total": 229.21,
+"matchup": "CHI @ NY"
+},
+"401909927": {
+"p_home": 0.8975,
+"margin": 18.38,
+"total": 224.0,
+"matchup": "IND @ MEM"
+},
+"401909928": {
+"p_home": 0.6531,
+"margin": 5.71,
+"total": 227.23,
+"matchup": "UTAH @ NO"
+},
+"401909929": {
+"p_home": 0.5149,
+"margin": 0.83,
+"total": 226.79,
+"matchup": "CLE @ OKC"
+},
+"401909930": {
+"p_home": 0.7309,
+"margin": 8.92,
+"total": 222.0,
+"matchup": "MIN @ HOU"
+},
+"401909931": {
+"p_home": 0.4726,
+"margin": -1.0,
+"total": 228.26,
+"matchup": "TOR @ DEN"
+},
+"401909932": {
+"p_home": 0.3509,
+"margin": -5.55,
+"total": 229.53,
+"matchup": "POR @ PHX"
+},
+"401909933": {
+"p_home": 0.7875,
+"margin": 10.81,
+"total": 228.23,
+"matchup": "DAL @ SA"
+},
+"401909934": {
+"p_home": 0.2762,
+"margin": -8.62,
+"total": 236.25,
+"matchup": "LAL @ SAC"
+},
+"401909935": {
+"p_home": 0.5467,
+"margin": 1.7,
+"total": 234.99,
+"matchup": "MIA @ LAC"
+}
+},
+"singles": {
+"2026-11-04": [
+{
+"game_id": "401909933",
+"matchup": "DAL @ SA",
+"market": "spread",
+"side": "DAL",
+"line": 12.5,
+"p": 0.5516,
+"dk": 1.9090909090909092,
+"label": "DAL +12.5"
+},
+{
+"game_id": "401909929",
+"matchup": "CLE @ OKC",
+"market": "spread",
+"side": "CLE",
+"line": 2.5,
+"p": 0.5511,
+"dk": 1.9523809523809523,
+"label": "CLE +2.5"
+},
+{
+"game_id": "401909925",
+"matchup": "CHA @ BKN",
+"market": "spread",
+"side": "BKN",
+"line": 2.5,
+"p": 0.5501,
+"dk": 1.9090909090909092,
+"label": "BKN +2.5"
+}
+]
+},
+"combos": {
+"2026-11-04": []
+}
+}

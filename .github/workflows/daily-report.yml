@@ -2,9 +2,20 @@ name: NBA Tagesbericht
 
 on:
   schedule:
-    # 15:30 UTC = 16:30 Uhr Winterzeit / 17:30 Uhr Sommerzeit (Schweiz)
+    # Hauptbericht: 15:30 UTC = 16:30 Uhr Winterzeit / 17:30 Uhr Sommerzeit (Schweiz)
     - cron: "30 15 * * *"
-  workflow_dispatch: {}
+    # Updates bis kurz vor Spielbeginn (neue Ausfaelle, News, Linien, Resultate).
+    # Gemeldet wird nur, wenn sich etwas Relevantes geaendert hat.
+    - cron: "30 19 * * *"
+    - cron: "15 22 * * *"
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "report = neuer Bericht, update = nur Aenderungen melden"
+        type: choice
+        options: [report, update]
+        default: report
 
 permissions:
   contents: write
@@ -28,18 +39,26 @@ jobs:
       - name: Tests
         run: python -m unittest discover -s tests -v
 
-      - name: Bericht erstellen
-        run: python -m nba_tipp report
+      - name: Daten aktualisieren und Bericht erstellen
+        id: run
+        run: |
+          if [ "${{ github.event.schedule }}" = "30 15 * * *" ] || [ "${{ inputs.mode }}" = "report" ]; then
+            python -m nba_tipp report > /dev/null
+          else
+            python -m nba_tipp update
+          fi
 
       - name: Bericht und Daten speichern
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add reports data
-          git diff --cached --quiet || git commit -m "Tagesbericht $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "NBA-Bericht $(date -u +%Y-%m-%dT%H:%M)"
+          git pull --rebase -X ours origin "${GITHUB_REF_NAME}" || true
           git push
 
-      - name: Als GitHub-Issue veroeffentlichen (Benachrichtigung per App/E-Mail)
+      - name: Neuer Bericht als GitHub-Issue
+        if: steps.run.outputs.mode == 'report'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -51,11 +70,24 @@ jobs:
           gh issue create --title "$(cat reports/latest_title.txt)" --label nba-tipp --body-file /tmp/body.md \
             | tee /tmp/issue_url.txt
 
+      - name: Update im bestehenden Issue
+        if: steps.run.outputs.mode == 'update' && steps.run.outputs.changed == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --label nba-tipp --state open --json number -q '.[0].number')
+          if [ -z "$n" ]; then exit 0; fi
+          gh issue edit "$n" --body-file reports/latest.md >/dev/null
+          { echo "**Update $(TZ=Europe/Zurich date +%H:%M) Uhr**"; echo; echo '```'; cat reports/latest_kurz.txt; echo '```';
+            echo; echo "@${{ github.repository_owner }}"; } > /tmp/comment.md
+          gh issue comment "$n" --body-file /tmp/comment.md | tee /tmp/issue_url.txt
+
       - name: Push-Nachricht (optional)
+        if: steps.run.outputs.changed == '1'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          export REPORT_URL="$(tail -n1 /tmp/issue_url.txt)"
+          export REPORT_URL="$(tail -n1 /tmp/issue_url.txt 2>/dev/null)"
           python -m nba_tipp.notify

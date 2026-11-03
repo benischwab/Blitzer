@@ -1,4 +1,5 @@
 import datetime as dt
+import math
 import unittest
 
 from nba_tipp.model import TeamModel, GameForecast
@@ -48,6 +49,43 @@ class ModelTests(unittest.TestCase):
         self.assertAlmostEqual(f.p_over(220.5) + (1 - f.p_over(220.5)), 1.0)
         # Kombination liegt zwischen Modell und Markt
         self.assertTrue(min(f.model_margin, 10) <= f.margin <= max(f.model_margin, 10))
+
+
+class TrackingTests(unittest.TestCase):
+    def test_leg_results_and_summary(self):
+        from nba_tipp import tracking
+        res = {"1": {"home": {"abbr": "AAA"}, "away": {"abbr": "BBB"}, "home_pts": 110, "away_pts": 104}}
+        ml = {"game_id": "1", "market": "ml", "side": "AAA", "line": None, "dk": 1.5, "label": "Sieg AAA", "matchup": "BBB @ AAA"}
+        sp = {"game_id": "1", "market": "spread", "side": "BBB", "line": 6.0, "dk": 1.9, "label": "BBB +6", "matchup": "BBB @ AAA"}
+        ov = {"game_id": "1", "market": "total", "side": "over", "line": 220.5, "dk": 1.9, "label": "Over", "matchup": "BBB @ AAA"}
+        self.assertIs(tracking.leg_result(ml, res), True)
+        self.assertEqual(tracking.leg_result(sp, res), "push")
+        self.assertIs(tracking.leg_result(ov, res), False)
+        self.assertIsNone(tracking.leg_result({**ml, "game_id": "2"}, res))
+        state = {"games": {"1": {"p_home": 0.6}}, "singles": {"d": [ml, ov]},
+                 "combos": {"d": [{"legs": [ml, sp]}]}}
+        s = tracking.summary(state, res)
+        self.assertEqual((s["singles"]["n"], s["singles"]["hits"]), (2, 1))
+        self.assertAlmostEqual(s["singles"]["profit"], 0.5 - 1)
+        self.assertAlmostEqual(s["combos"]["profit"], 0.5)  # Push zaehlt als Quote 1
+        self.assertEqual(s["games"]["correct"], 1)
+
+
+class ComboTests(unittest.TestCase):
+    def test_one_leg_per_game_and_profitable_first(self):
+        from nba_tipp import bets
+        def leg(gid, p, am, market="ml", side="X"):
+            g = {"id": gid, "home": {"abbr": "H" + gid}, "away": {"abbr": "A" + gid}}
+            return bets.Leg(g, market, side, None, p, am)
+        legs = [leg("1", 0.70, "-150"), leg("1", 0.65, "-120", "total", "over"),
+                leg("2", 0.68, "-140"), leg("3", 0.75, "-400")]
+        combos, prof = bets.best_combos(legs, 2, min_odds=1.6)
+        self.assertTrue(combos)
+        c = combos[0]
+        self.assertEqual(len({l.game_id for l in c.legs}), 2)
+        self.assertAlmostEqual(c.p, math.prod(l.p for l in c.legs))
+        if prof:
+            self.assertGreaterEqual(c.ev, bets.MIN_EDGE)
 
 
 if __name__ == "__main__":

@@ -45,11 +45,28 @@ def injuries() -> dict:
                 "name": a.get("displayName", "?"),
                 "status": inj.get("status", "?"),
                 "comment": inj.get("shortComment", ""),
+                "date": inj.get("date", ""),
                 "team": abbr,
             })
         if lst:
             key = lst[0]["team"] or team.get("displayName")
             out[key] = lst
+    return out
+
+
+def news(limit=100) -> list[dict]:
+    """Aktuelle NBA-Schlagzeilen: [{headline, description, published, team_ids}]"""
+    d = _get(f"{BASE}/news?limit={limit}")
+    out = []
+    for a in d.get("articles", []):
+        out.append({
+            "headline": a.get("headline", ""),
+            "description": a.get("description", ""),
+            "published": a.get("published", ""),
+            "team_ids": {str(c.get("teamId")) for c in a.get("categories", [])
+                         if c.get("type") == "team" and c.get("teamId")},
+            "url": ((a.get("links") or {}).get("web") or {}).get("href", ""),
+        })
     return out
 
 

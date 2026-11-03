@@ -1,6 +1,8 @@
 """Kommandozeile.
 
   python -m nba_tipp report                 # Tageszusammenfassung -> reports/JJJJ-MM-TT.md
+  python -m nba_tipp update                 # aktualisieren, nur bei Aenderungen melden
+  python -m nba_tipp tipps                  # sichere/profitable Einzel- und Kombiwetten
   python -m nba_tipp spiel DET              # Detail zu einem Spiel (Team-Kuerzel)
   python -m nba_tipp check DET total 221.5 over 1.87       # eigene Sporttip-Quote pruefen
   python -m nba_tipp check DET spread -3.5 DET 1.90
@@ -42,21 +44,82 @@ def _verdict(p, odds):
         print(" → kein Value, Finger weg.")
 
 
+SNAPSHOT = os.path.join(ROOT, "data", "snapshot.json")
+
+
+def _write_outputs(ctx, args, changes=None):
+    import json
+    title, md = build_report(ctx, detail=not getattr(args, "kurz", False), changes=changes)
+    rep = os.path.join(ROOT, "reports")
+    os.makedirs(rep, exist_ok=True)
+    day = ctx.game_day or ctx.now.date()
+    path = os.path.join(rep, f"{day:%Y-%m-%d}.md")
+    files = {path: md, os.path.join(rep, "latest.md"): md,
+             os.path.join(rep, "latest_title.txt"): ("UPDATE: " if changes else "") + title,
+             os.path.join(rep, "latest_kurz.txt"): build_short(ctx, changes)}
+    for fp, content in files.items():
+        with open(fp, "w", encoding="utf-8") as f:
+            f.write(content)
+    ctx.record_tips()
+    snap = ctx.snapshot()
+    snap["_game_day"] = day.isoformat()
+    with open(SNAPSHOT, "w", encoding="utf-8") as f:
+        json.dump(snap, f, ensure_ascii=False, indent=0)
+    return path, md
+
+
+def _gh_output(**kv):
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as f:
+            for k, v in kv.items():
+                f.write(f"{k}={v}\n")
+
+
 def cmd_report(args):
     ctx = Context()
-    title, md = build_report(ctx, detail=not args.kurz)
-    os.makedirs(os.path.join(ROOT, "reports"), exist_ok=True)
-    path = os.path.join(ROOT, "reports", f"{ctx.now.astimezone().date():%Y-%m-%d}.md")
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(md)
-    with open(os.path.join(ROOT, "reports", "latest.md"), "w", encoding="utf-8") as f:
-        f.write(md)
-    with open(os.path.join(ROOT, "reports", "latest_title.txt"), "w", encoding="utf-8") as f:
-        f.write(title)
-    with open(os.path.join(ROOT, "reports", "latest_kurz.txt"), "w", encoding="utf-8") as f:
-        f.write(build_short(ctx))
+    path, md = _write_outputs(ctx, args)
     print(md)
     print(f"\n[gespeichert: {path}]", file=sys.stderr)
+    _gh_output(mode="report", changed="1")
+
+
+def cmd_update(args):
+    """Aktualisiert Daten, News, Verletzungen und Linien. Meldet nur, wenn sich
+    etwas Relevantes geaendert hat (oder ein neuer Spieltag begonnen hat)."""
+    import json
+    from .report import diff_snapshots
+    ctx = Context()
+    games = ctx.upcoming()
+    old = {}
+    if os.path.exists(SNAPSHOT):
+        with open(SNAPSHOT, encoding="utf-8") as f:
+            old = json.load(f)
+    if not games:
+        print("Keine anstehenden Spiele.")
+        _gh_output(mode="update", changed="0")
+        return
+    if old.get("_game_day") != ctx.game_day.isoformat():
+        path, md = _write_outputs(ctx, args)
+        print(f"Neuer Spieltag – vollstaendiger Bericht erstellt: {path}")
+        _gh_output(mode="report", changed="1")
+        return
+    changes = diff_snapshots(old, ctx.snapshot())
+    if not changes:
+        # Bericht trotzdem auffrischen (z.B. neue Resultate), aber keine Nachricht
+        _write_outputs(ctx, args)
+        print("Keine relevanten Aenderungen.")
+        _gh_output(mode="update", changed="0")
+        return
+    path, _ = _write_outputs(ctx, args, changes=changes)
+    print("Aenderungen:\n- " + "\n- ".join(changes))
+    _gh_output(mode="update", changed="1")
+
+
+def cmd_tipps(args):
+    ctx = Context()
+    from .report import tips_section
+    print("\n".join(tips_section(ctx)))
 
 
 def cmd_spiel(args):
@@ -173,6 +236,11 @@ def main(argv=None):
     r = sub.add_parser("report", help="Tageszusammenfassung erstellen")
     r.add_argument("--kurz", action="store_true", help="ohne Spielertabellen")
     r.set_defaults(fn=cmd_report)
+    u = sub.add_parser("update", help="Nur bei Aenderungen (News, Ausfaelle, Linien) neu melden")
+    u.add_argument("--kurz", action="store_true")
+    u.set_defaults(fn=cmd_update)
+    t = sub.add_parser("tipps", help="Aktuelle Wettvorschlaege inkl. Kombis")
+    t.set_defaults(fn=cmd_tipps)
     s = sub.add_parser("spiel", help="Detail zu einem Spiel")
     s.add_argument("team")
     s.set_defaults(fn=cmd_spiel)

@@ -1,6 +1,6 @@
 # NBA-Tipps für die Nacht 04.11.–05.11.2026
 
-Stand: Di 03.11. 15:24 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Di 03.11. 15:31 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Wett-Vorschläge: sicher und profitabel
 

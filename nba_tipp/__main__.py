@@ -119,8 +119,26 @@ def cmd_update(args):
 
 def cmd_rueckblick(args):
     """Vergleich Prognose vs. Resultat der letzten Spielnacht."""
-    from .report import review_lines
+    from .report import review_lines, retro_state
     ctx = Context()
+    if args.test:
+        day, lines, short = review_lines(ctx, args.test, retro_state(ctx, args.test))
+        if not day:
+            sys.exit(f"Keine Resultate fuer {args.test} gefunden.")
+        d = dt.date.fromisoformat(day)
+        lines = ["> **TEST** – Prognosen nachträglich berechnet (nur mit Daten vor diesen Spielen, "
+                 "ohne Buchmacherlinien und Tipps). Zählt nicht zur Bilanz.", ""] + lines
+        md = "\n".join(lines) + "\n"
+        rep = os.path.join(ROOT, "reports")
+        for fp, content in {os.path.join(rep, "rueckblick_latest.md"): md,
+                            os.path.join(rep, "latest_title.txt"):
+                                f"TEST-Rückblick NBA-Nacht {d:%d.%m.}–{d + dt.timedelta(days=1):%d.%m.%Y}",
+                            os.path.join(rep, "latest_kurz.txt"): "TEST\n" + short}.items():
+            with open(fp, "w", encoding="utf-8") as f:
+                f.write(content)
+        print(md)
+        _gh_output(mode="rueckblick", changed="1")
+        return
     day, lines, short = review_lines(ctx, args.tag)
     if not day:
         print("Noch keine ausgewerteten Spiele mit gespeicherter Prognose.")
@@ -274,6 +292,8 @@ def main(argv=None):
     u.set_defaults(fn=cmd_update)
     rb = sub.add_parser("rueckblick", help="Prognose vs. Resultat der letzten Nacht")
     rb.add_argument("--tag", help="US-Spieltag JJJJ-MM-TT (Standard: letzter ausgewerteter)")
+    rb.add_argument("--test", metavar="JJJJ-MM-TT",
+                    help="Test: Prognosen fuer diesen vergangenen Spieltag nachtraeglich berechnen")
     rb.set_defaults(fn=cmd_rueckblick)
     t = sub.add_parser("tipps", help="Aktuelle Wettvorschlaege inkl. Kombis")
     t.set_defaults(fn=cmd_tipps)

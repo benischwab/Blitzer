@@ -423,10 +423,31 @@ def bilanz_section(ctx: Context) -> list[str]:
     return out
 
 
-def review_lines(ctx: Context, day=None):
+def retro_state(ctx: Context, day: str) -> dict:
+    """Test/Demo: Prognosen fuer einen vergangenen Spieltag nachtraeglich berechnen –
+    nur mit Spielen VOR diesem Tag (keine historischen Linien, keine Tipps)."""
+    target = [g for g in ctx.games if tracking._game_day(g) == day]
+    state = {"games": {}, "singles": {}, "combos": {}}
+    if not target:
+        return state
+    first = min(g["date"] for g in target)
+    past = [g for g in ctx.games if g["date"] < first]
+    model = TeamModel(past, as_of=_ts(first))
+    for g in target:
+        gg = dict(g)
+        gg["odds"] = None
+        f = GameForecast(model, gg)
+        state["games"][g["id"]] = {
+            "p_home": round(f.p_home_win(), 4), "margin": round(f.margin, 2), "total": round(f.total, 2),
+            "matchup": f"{g['away']['abbr']} @ {g['home']['abbr']}",
+            "home": g["home"]["abbr"], "away": g["away"]["abbr"], "day": day}
+    return state
+
+
+def review_lines(ctx: Context, day=None, state=None):
     """Rueckblick: Prognose vs. Resultat fuer den letzten ausgewerteten Spieltag.
     Gibt (tag, zeilen, kurzfassung) zurueck oder (None, [], "")."""
-    r = tracking.review(tracking.load(), ctx.results, day)
+    r = tracking.review(state if state is not None else tracking.load(), ctx.results, day)
     if not r:
         return None, [], ""
     d = dt.date.fromisoformat(r["day"])

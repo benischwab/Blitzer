@@ -18,6 +18,10 @@ on:
         type: choice
         options: [report, update, rueckblick]
         default: report
+      test_tag:
+        description: "Nur Rueckblick-Test: vergangener US-Spieltag JJJJ-MM-TT (leer lassen = normal)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -47,7 +51,11 @@ jobs:
           if [ "${{ github.event.schedule }}" = "30 15 * * *" ] || [ "${{ inputs.mode }}" = "report" ]; then
             python -m nba_tipp report > /dev/null
           elif [ "${{ github.event.schedule }}" = "30 7 * * *" ] || [ "${{ inputs.mode }}" = "rueckblick" ]; then
-            python -m nba_tipp rueckblick
+            if [ -n "${{ inputs.test_tag }}" ]; then
+              python -m nba_tipp rueckblick --test "${{ inputs.test_tag }}"
+            else
+              python -m nba_tipp rueckblick
+            fi
           else
             python -m nba_tipp update
           fi

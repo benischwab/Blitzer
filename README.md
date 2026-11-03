@@ -106,6 +106,8 @@ Benötigt nur Python 3.10+, keine zusätzlichen Pakete.
 - **Auffälligkeiten:** Spiele, bei denen das eigene Modell deutlich vom Markt
   abweicht. Das sind Hinweise zum genaueren Hinschauen, keine sicheren Tipps.
 
+**Schritt-für-Schritt-Anleitung fürs Handy:** [ANLEITUNG_APP.md](ANLEITUNG_APP.md)
+
 ## Wichtig
 
 - Buchmacher sind sehr gut; ein einfaches Modell schlägt sie selten dauerhaft.

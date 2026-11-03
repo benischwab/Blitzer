@@ -1,0 +1,334 @@
+<title>Blitzerkarte Olten</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Feste und semistationäre Geschwindigkeitsmessanlagen rund um Olten, nach den Angaben der Polizei Kanton Solothurn.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/*LEAFLET_CSS*/
+</style>
+<style>
+/* Layout: Kartenfläche links, Seitenleiste rechts wie ein Signalisationsplan; auf dem Handy Karte oben, Liste darunter. */
+:root {
+  --bg: #f3f4f1;
+  --panel: #ffffff;
+  --fg: #1c2321;
+  --muted: #5d6763;
+  --line: #d9ddd8;
+  --land: #eceee9;
+  --road-mw: #e08a3c;
+  --road-pr: #ffffff;
+  --road-casing: #c3c8c2;
+  --road-lo: #ffffff;
+  --water: #9ec3d6;
+  --rail: #9aa29d;
+  --label: #3d4642;
+  --red: #c8201b;
+  --amber: #e9a400;
+  --slate: #4f6d8a;
+  --ring: #1c2321;
+  --focus: #2b6cb0;
+  --font-display: "Barlow Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Barlow", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141917; --panel: #1b211f; --fg: #e8ebe7; --muted: #9ba59f; --line: #2d3532;
+    --land: #1d2321; --road-mw: #b66a2a; --road-pr: #3a4440; --road-casing: #2a312e; --road-lo: #2f3835;
+    --water: #2e5163; --rail: #56605b; --label: #c3cbc6; --red: #ef4a3f; --amber: #f2b71c; --slate: #87a8c8;
+    --ring: #e8ebe7; --focus: #7fb2f0; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #141917; --panel: #1b211f; --fg: #e8ebe7; --muted: #9ba59f; --line: #2d3532;
+  --land: #1d2321; --road-mw: #b66a2a; --road-pr: #3a4440; --road-casing: #2a312e; --road-lo: #2f3835;
+  --water: #2e5163; --rail: #56605b; --label: #c3cbc6; --red: #ef4a3f; --amber: #f2b71c; --slate: #87a8c8;
+  --ring: #e8ebe7; --focus: #7fb2f0; color-scheme: dark;
+}
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.45; }
+* { box-sizing: border-box; }
+.app { display: grid; grid-template-columns: minmax(0, 1fr) 400px; height: 100%; }
+#map { height: 100%; background: var(--land); }
+aside {
+  background: var(--panel); border-left: 1px solid var(--line); overflow-y: auto;
+  padding-block: 20px 32px; padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 22px;
+}
+header h1 { font-family: var(--font-display); font-weight: 700; font-size: 34px; line-height: 1; margin: 0; letter-spacing: .01em; text-wrap: balance; }
+header p { margin: 8px 0 0; color: var(--muted); }
+.stand { font-family: var(--font-mono); font-size: 12px; color: var(--muted); margin-top: 10px; display: flex; gap: 6px 14px; flex-wrap: wrap; }
+h2 { font-family: var(--font-display); font-weight: 600; font-size: 15px; text-transform: uppercase; letter-spacing: .09em; margin: 0 0 10px; color: var(--muted); }
+.filters { display: flex; flex-direction: column; gap: 6px; }
+.filter { display: grid; grid-template-columns: auto 22px 1fr auto; align-items: center; gap: 10px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; cursor: pointer; }
+.filter input { margin: 0; accent-color: var(--fg); }
+.filter .n { font-family: var(--font-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.filter small { display: block; color: var(--muted); font-size: 12.5px; line-height: 1.3; }
+.filter:focus-within { outline: 2px solid var(--focus); outline-offset: 1px; }
+.sym { width: 20px; height: 20px; border-radius: 50%; display: inline-grid; place-items: center; }
+.sym.stationaer { background: var(--red); }
+.sym.semistationaer { background: var(--amber); }
+.sym.osm { background: transparent; border: 2.5px solid var(--slate); }
+.sym svg { width: 11px; height: 11px; }
+.list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.list li { border-bottom: 1px solid var(--line); }
+.list button {
+  all: unset; box-sizing: border-box; width: 100%; cursor: pointer; padding: 10px 2px;
+  display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 10px; align-items: start;
+}
+.list button:focus-visible { outline: 2px solid var(--focus); outline-offset: -2px; }
+.list button:hover .ort { text-decoration: underline; }
+.list .ort { font-weight: 600; }
+.list .meta { color: var(--muted); font-size: 13px; }
+.list .km { font-family: var(--font-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; padding-top: 1px; }
+.pill { display: inline-block; font-family: var(--font-mono); font-size: 11px; padding: 0 6px; border-radius: 3px; border: 1px solid var(--line); color: var(--muted); margin-left: 4px; vertical-align: 1px; }
+.pill.approx { border-style: dashed; }
+.speed { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; border: 3px solid var(--red); background: #fff; color: #1c2321; font-family: var(--font-display); font-weight: 700; font-size: 11px; vertical-align: middle; }
+.outside { margin: 10px 0 0; padding: 0; list-style: none; color: var(--muted); font-size: 13.5px; display: flex; flex-direction: column; gap: 3px; }
+.mobile-box { border: 1px solid var(--line); border-radius: 8px; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+.mobile-box p { margin: 0; }
+.figs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.fig b { display: block; font-family: var(--font-display); font-size: 26px; font-weight: 600; line-height: 1.05; font-variant-numeric: tabular-nums; }
+.fig span { font-size: 12.5px; color: var(--muted); }
+.note { font-size: 13px; color: var(--muted); }
+.note p { margin: 0 0 8px; }
+a { color: inherit; text-decoration-color: var(--muted); text-underline-offset: 2px; }
+a:focus-visible { outline: 2px solid var(--focus); }
+.sources { margin: 0; padding-left: 18px; font-size: 13px; color: var(--muted); display: flex; flex-direction: column; gap: 4px; }
+.tilebtn { all: unset; cursor: pointer; font-size: 13px; color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+.tilebtn:focus-visible { outline: 2px solid var(--focus); }
+#tilemsg { font-size: 12.5px; color: var(--muted); }
+
+/* Karte */
+.leaflet-container { font-family: var(--font-body); background: var(--land); }
+.place-label { font-family: var(--font-display); color: var(--label); font-weight: 600; white-space: nowrap; text-shadow: 0 0 3px var(--land), 0 0 3px var(--land), 0 0 2px var(--land); pointer-events: none; }
+.place-label.town { font-size: 16px; letter-spacing: .03em; text-transform: uppercase; }
+.place-label.village { font-size: 12.5px; font-weight: 500; }
+.ring-label { font-family: var(--font-mono); font-size: 11px; color: var(--muted); white-space: nowrap; pointer-events: none; }
+.cam { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; box-shadow: 0 1px 3px rgba(0,0,0,.35); border: 2px solid #fff; }
+.cam svg { width: 15px; height: 15px; }
+.cam.stationaer { background: var(--red); }
+.cam.semistationaer { background: var(--amber); }
+.cam.osm { background: var(--panel); border: 3px solid var(--slate); box-shadow: none; }
+.cam.osm svg path { fill: var(--slate); }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--panel); color: var(--fg); }
+.leaflet-popup-content { margin: 12px 14px; font-size: 14px; line-height: 1.4; }
+.pop h3 { font-family: var(--font-display); font-size: 20px; margin: 0 0 2px; font-weight: 700; }
+.pop .typ { font-family: var(--font-mono); font-size: 11.5px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.pop dl { display: grid; grid-template-columns: auto 1fr; gap: 2px 10px; margin: 8px 0 0; }
+.pop dt { color: var(--muted); }
+.pop dd { margin: 0; }
+.pop .hint { margin: 8px 0 0; font-size: 12.5px; color: var(--muted); }
+.leaflet-control-attribution { background: color-mix(in srgb, var(--panel) 85%, transparent) !important; color: var(--muted); }
+.leaflet-control-attribution a { color: var(--fg); }
+.leaflet-bar a { background: var(--panel); color: var(--fg); border-color: var(--line); }
+
+@media (max-width: 820px) {
+  .app { grid-template-columns: minmax(0, 1fr); grid-template-rows: 58vh auto; height: auto; }
+  #map { height: 58vh; }
+  aside { border-left: 0; border-top: 1px solid var(--line); overflow: visible; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  header h1 { font-size: 30px; }
+}
+@media (prefers-reduced-motion: reduce) { .leaflet-fade-anim .leaflet-popup, .leaflet-zoom-anim .leaflet-zoom-animated { transition: none !important; } }
+</style>
+
+<div class="app">
+  <div id="map" role="region" aria-label="Karte der Messanlagen rund um Olten"></div>
+  <aside>
+    <header>
+      <h1>Blitzerkarte Olten</h1>
+      <p>Feste und semistationäre Geschwindigkeitsmessanlagen im Umkreis von rund 15 km um Olten, nach den Angaben der Polizei Kanton Solothurn.</p>
+      <div class="stand"><span id="stand">Liste Stand –</span><span id="abgerufen"></span></div>
+    </header>
+
+    <section>
+      <h2>Anzeigen</h2>
+      <div class="filters" id="filters"></div>
+    </section>
+
+    <section>
+      <h2>Standorte nach Distanz zu Olten</h2>
+      <ul class="list" id="list"></ul>
+      <ul class="outside" id="outside"></ul>
+    </section>
+
+    <section>
+      <h2>Mobile Kontrollen</h2>
+      <div class="mobile-box">
+        <p>Die Kantonspolizei veröffentlicht die Standorte ihrer vier mobilen Anlagen nicht. Diese Karte zeigt deshalb keine mobilen Standorte, nur die Jahreszahlen aus der Verkehrsstatistik 2025.</p>
+        <div class="figs" id="figs"></div>
+      </div>
+    </section>
+
+    <section class="note">
+      <h2>Hinweise</h2>
+      <p>Semistationäre Anlagen wechseln den Standort, die Kapo aktualisiert die Liste meist am Donnerstag. Kurzfristige Änderungen sind möglich.</p>
+      <p>Die Kapo nennt nur Gemeinde und Strasse. Punkte mit dem Vermerk <span class="pill approx">ungefähr</span> sind auf der Strasse gesetzt, aber nicht vor Ort überprüft.</p>
+      <p>Öffentliche Warnungen vor Verkehrskontrollen sind in der Schweiz nach Art. 98a SVG strafbar. Diese Karte gibt nur wieder, was die Polizei selbst veröffentlicht, plus feste Anlagen aus OpenStreetMap.</p>
+      <p><button class="tilebtn" id="tiles" type="button" aria-pressed="false">Detailkarte von OpenStreetMap einblenden</button> <span id="tilemsg" role="status"></span></p>
+    </section>
+
+    <section>
+      <h2>Quellen</h2>
+      <ol class="sources" id="sources"></ol>
+    </section>
+  </aside>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+(function () {
+  const CAM = '<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="#fff" d="M2 5.2c0-.7.5-1.2 1.2-1.2h1.6l1-1.5h4.4l1 1.5h1.6c.7 0 1.2.5 1.2 1.2v6.6c0 .7-.5 1.2-1.2 1.2H3.2C2.5 13 2 12.5 2 11.8V5.2zm6 6.3a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-1.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg>';
+  const TYP = {
+    stationaer: { label: "Stationär", desc: "Fest installiert, Kapo Solothurn" },
+    semistationaer: { label: "Semistationär", desc: "Diese Woche, wechselt den Standort" },
+    osm: { label: "OpenStreetMap", desc: "Kanton Bern, nicht amtlich bestätigt" }
+  };
+  const LAGE = { genau: "genau", kreuzung: "Kreuzung", ungefaehr: "ungefähr" };
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const fmt = n => n.toLocaleString("de-CH");
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  const map = L.map("map", { zoomSnap: 0.5, preferCanvas: true, attributionControl: true }).setView([47.335, 7.875], 11.5);
+  map.attributionControl.setPrefix(false);
+  const renderer = L.canvas({ padding: 0.3 });
+  const base = L.layerGroup().addTo(map);
+  let basemapData = null;
+
+  function drawBase() {
+    if (!basemapData) return;
+    base.clearLayers();
+    const z = map.getZoom();
+    const L1 = basemapData.lines;
+    const add = (key, color, weight, extra) => (L1[key] || []).forEach(ln => L.polyline(ln, Object.assign({ color, weight, renderer, interactive: false, lineCap: "round", lineJoin: "round" }, extra)).addTo(base));
+    add("wa", css("--water"), z >= 13 ? 4 : 2.5);
+    if (z >= 13) add("lo", css("--road-casing"), 3.2);
+    if (z >= 13) add("lo", css("--road-lo"), 2);
+    add("rl", css("--rail"), 1.2, { dashArray: "4 3" });
+    add("se", css("--road-casing"), z >= 13 ? 5 : 3);
+    add("pr", css("--road-casing"), z >= 13 ? 6 : 4);
+    add("tr", css("--road-casing"), 5);
+    add("se", css("--road-pr"), z >= 13 ? 3.4 : 1.8);
+    add("pr", css("--road-pr"), z >= 13 ? 4.2 : 2.4);
+    add("tr", css("--road-mw"), 3);
+    add("mw", css("--road-mw"), z >= 13 ? 4.5 : 3);
+    basemapData.places.forEach(p => {
+      if (p.p === "village" && z < 12) return;
+      const cls = p.p === "village" ? "village" : "town";
+      L.marker([p.lat, p.lon], { interactive: false, keyboard: false, icon: L.divIcon({ className: "", html: `<div class="place-label ${cls}" style="transform:${p.n === "Olten" ? "translate(14px,-130%)" : "translate(-50%,-50%)"}">${esc(p.n)}</div>`, iconSize: [0, 0] }) }).addTo(base);
+    });
+  }
+
+  const rings = L.layerGroup().addTo(map);
+  function drawRings(c) {
+    rings.clearLayers();
+    [5, 10, 15].forEach(km => {
+      L.circle([c.lat, c.lon], { radius: km * 1000, color: css("--ring"), weight: 1, opacity: 0.35, fill: false, dashArray: "2 5", interactive: false }).addTo(rings);
+      const lat = c.lat + km / 111.2;
+      L.marker([lat, c.lon], { interactive: false, keyboard: false, icon: L.divIcon({ className: "", html: `<div class="ring-label" style="transform:translate(-50%,-110%)">${km} km</div>`, iconSize: [0, 0] }) }).addTo(rings);
+    });
+  }
+
+  function distKm(a, b) {
+    const R = 6371, r = Math.PI / 180;
+    const dLat = (b.lat - a.lat) * r, dLon = (b.lon - a.lon) * r;
+    const h = Math.sin(dLat / 2) ** 2 + Math.cos(a.lat * r) * Math.cos(b.lat * r) * Math.sin(dLon / 2) ** 2;
+    return 2 * R * Math.asin(Math.sqrt(h));
+  }
+
+  let tileLayer = null;
+  document.getElementById("tiles").addEventListener("click", e => {
+    const btn = e.currentTarget, msg = document.getElementById("tilemsg");
+    if (tileLayer) {
+      map.removeLayer(tileLayer); tileLayer = null; btn.setAttribute("aria-pressed", "false");
+      btn.textContent = "Detailkarte von OpenStreetMap einblenden"; msg.textContent = ""; drawBase(); return;
+    }
+    let ok = false;
+    tileLayer = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "© OpenStreetMap" });
+    tileLayer.on("tileload", () => { if (!ok) { ok = true; base.clearLayers(); msg.textContent = ""; } });
+    tileLayer.on("tileerror", () => { if (!ok) msg.textContent = "Kacheln konnten hier nicht geladen werden. Die eingebaute Karte bleibt sichtbar."; });
+    tileLayer.addTo(map); tileLayer.bringToBack();
+    btn.setAttribute("aria-pressed", "true"); btn.textContent = "Eingebaute Karte verwenden";
+  });
+
+  Promise.all([fetch("data/blitzer.json").then(r => r.json()), fetch("data/basemap.json").then(r => r.json())]).then(([data, bm]) => {
+    basemapData = bm;
+    map.attributionControl.addAttribution(esc(bm.attribution) + " · Standorte: Polizei Kanton Solothurn");
+    drawBase();
+    map.on("zoomend", () => { if (!tileLayer) drawBase(); });
+
+    const c = data.zentrum;
+    drawRings(c);
+    const d = s => new Date(s + "T12:00:00").toLocaleDateString("de-CH", { day: "numeric", month: "long", year: "numeric" });
+    document.getElementById("stand").textContent = "Liste Stand " + d(data.stand);
+    document.getElementById("abgerufen").textContent = "abgerufen " + d(data.abgerufen);
+
+    const src = Object.fromEntries(data.quellen.map(q => [q.id, q]));
+    const items = data.standorte.map(s => Object.assign({ km: distKm(c, s) }, s)).sort((a, b) => a.km - b.km);
+    const layers = { stationaer: L.layerGroup().addTo(map), semistationaer: L.layerGroup().addTo(map), osm: L.layerGroup().addTo(map) };
+    const markers = {};
+
+    items.forEach(s => {
+      const t = TYP[s.typ];
+      const tempo = s.tempo ? `<span class="speed">${s.tempo}</span>` : "nicht angegeben";
+      const html = `<div class="pop"><div class="typ">${t.label} · ${esc(s.kanton)}</div><h3>${esc(s.gemeinde)}</h3><div>${esc(s.ort)}</div>
+        <dl><dt>Messung</dt><dd>${esc(s.art)}</dd><dt>Tempo</dt><dd>${tempo}</dd><dt>Lage</dt><dd>${LAGE[s.lage]}</dd>${s.gueltig ? `<dt>Gültig</dt><dd>${esc(s.gueltig)}</dd>` : ""}<dt>Quelle</dt><dd><a href="${src[s.quelle].url}" target="_blank" rel="noopener">${esc(src[s.quelle].name.split(",")[0].split(" (")[0])}</a></dd></dl>
+        <p class="hint">${esc(s.lagehinweis)}</p></div>`;
+      if (s.lage !== "genau") {
+        L.circle([s.lat, s.lon], { radius: s.lage === "kreuzung" ? 60 : 250, color: css(s.typ === "semistationaer" ? "--amber" : s.typ === "osm" ? "--slate" : "--red"), weight: 1.5, dashArray: "4 4", fillOpacity: 0.07, interactive: false }).addTo(layers[s.typ]);
+      }
+      const m = L.marker([s.lat, s.lon], { title: `${s.gemeinde}, ${s.ort}`, icon: L.divIcon({ className: "", html: `<div class="cam ${s.typ}">${CAM}</div>`, iconSize: [30, 30], iconAnchor: [15, 15], popupAnchor: [0, -14] }) }).bindPopup(html, { maxWidth: 290 });
+      m.addTo(layers[s.typ]);
+      markers[s.id] = m;
+    });
+
+    const counts = items.reduce((a, s) => (a[s.typ] = (a[s.typ] || 0) + 1, a), {});
+    const filters = document.getElementById("filters");
+    Object.entries(TYP).forEach(([k, t]) => {
+      const lab = document.createElement("label");
+      lab.className = "filter";
+      lab.innerHTML = `<input type="checkbox" id="f-${k}" checked><span class="sym ${k}">${k === "osm" ? "" : CAM}</span><span>${t.label}<small>${t.desc}</small></span><span class="n">${counts[k] || 0}</span>`;
+      lab.querySelector("input").addEventListener("change", e => {
+        e.target.checked ? layers[k].addTo(map) : map.removeLayer(layers[k]);
+        document.querySelectorAll(`.list li[data-typ="${k}"]`).forEach(li => li.hidden = !e.target.checked);
+      });
+      filters.appendChild(lab);
+    });
+
+    const list = document.getElementById("list");
+    items.forEach(s => {
+      const li = document.createElement("li");
+      li.dataset.typ = s.typ;
+      const approx = s.lage === "ungefaehr" ? '<span class="pill approx">ungefähr</span>' : "";
+      li.innerHTML = `<button type="button"><span class="sym ${s.typ}">${s.typ === "osm" ? "" : CAM}</span><span><span class="ort">${esc(s.gemeinde)}</span>${approx}<br><span class="meta">${esc(s.ort)} · ${esc(s.art)}</span></span><span class="km">${s.km.toFixed(1).replace(".", ",")} km</span></button>`;
+      li.querySelector("button").addEventListener("click", () => {
+        map.flyTo([s.lat, s.lon], 15, { duration: matchMedia("(prefers-reduced-motion: reduce)").matches ? 0 : 0.8 });
+        map.once("moveend", () => markers[s.id].openPopup());
+        if (matchMedia("(max-width: 820px)").matches) document.getElementById("map").scrollIntoView({ behavior: "smooth" });
+      });
+      list.appendChild(li);
+    });
+
+    const out = document.getElementById("outside");
+    out.innerHTML = `<li><b>Weitere im Kanton, ausserhalb des Ausschnitts:</b></li>` + data.ausserhalb.map(a => `<li>${esc(a.gemeinde)}, ${esc(a.ort)}${a.typ === "semistationaer" ? " · semistationär" : ""}</li>`).join("");
+
+    const st = data.statistik;
+    document.getElementById("figs").innerHTML = [
+      [fmt(st.mobil.kontrollen_2025), `mobile Kontrollen 2025 im Kanton (2024: ${fmt(st.mobil.kontrollen_2024)})`],
+      [st.mobil.quote_2025.toFixed(2).replace(".", ",") + " %", `der ${fmt(st.mobil.fahrzeuge_2025)} mobil gemessenen Fahrzeuge zu schnell`],
+      [fmt(st.olten_fix.tempo_2025), `Tempoübertretungen an den festen Anlagen in Olten 2025 (2024: ${fmt(st.olten_fix.tempo_2024)})`],
+      [fmt(st.olten_fix.rotlicht_2025), `Rotlichtverstösse in Olten 2025, Anstieg wegen der neuen Anlage am Postplatz`]
+    ].map(([b, s]) => `<div class="fig"><b>${b}</b><span>${s}</span></div>`).join("");
+
+    document.getElementById("sources").innerHTML = data.quellen.map(q => `<li><a href="${q.url}" target="_blank" rel="noopener">${esc(q.name)}</a></li>`).join("");
+  }).catch(err => {
+    document.getElementById("list").innerHTML = `<li class="note" style="padding:10px 0">Die Daten konnten nicht geladen werden (${esc(err.message)}). Lokal die Seite über einen Webserver öffnen, z. B. <code>python3 -m http.server</code>.</li>`;
+  });
+
+  const mq = matchMedia("(prefers-color-scheme: dark)");
+  const redraw = () => { if (!tileLayer) drawBase(); };
+  mq.addEventListener && mq.addEventListener("change", redraw);
+  new MutationObserver(redraw).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+})();
+</script>

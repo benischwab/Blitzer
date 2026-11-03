@@ -1,0 +1,94 @@
+{
+  "stand": "2026-10-29",
+  "abgerufen": "2026-11-03",
+  "zentrum": { "name": "Olten", "lat": 47.3500, "lon": 7.9030 },
+  "quellen": [
+    { "id": "kapo-so", "name": "Polizei Kanton Solothurn, Radarstandorte (so.ch/radar)", "url": "https://so.ch/verwaltung/departement-des-innern/polizei/praevention/verkehr/radarstandorte/" },
+    { "id": "kapo-so-mm", "name": "Medienmitteilung Kapo SO vom 3. September 2026", "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Medienmitteilungen/2026/09_September/2026-09-03_Kantonspolizei_Solothurn_veroeffentlicht_Radarstandorte_weiterhin.pdf" },
+    { "id": "pvs-2025", "name": "Polizeiliche Verkehrsstatistik Kanton Solothurn 2025", "url": "https://so.ch/fileadmin/internet/ddi/ddi-kapo/Ueber_uns/Statistiken/PVS_2025.pdf" },
+    { "id": "osm", "name": "OpenStreetMap (highway=speed_camera)", "url": "https://www.openstreetmap.org/" }
+  ],
+  "standorte": [
+    {
+      "id": "olten-dampfhammer", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
+      "ort": "Gösgerstrasse, Dampfhammer", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
+      "lat": 47.35817, "lon": 7.90805, "lage": "genau",
+      "lagehinweis": "Kreuzung Gösger-/Industriestrasse, durch OSM-Knoten 283157264 und 8109931419 bestätigt.",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "olten-handelshof", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
+      "ort": "Baslerstrasse, Handelshofkreuzung", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
+      "lat": 47.35203, "lon": 7.90263, "lage": "kreuzung",
+      "lagehinweis": "Mitte der Handelshofkreuzung (Basler-/Ringstrasse). Genaue Masthöhe und Fahrtrichtung nicht veröffentlicht.",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "olten-postplatz", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
+      "ort": "Aarauerstrasse, Postplatz", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
+      "lat": 47.34958, "lon": 7.90630, "lage": "kreuzung",
+      "lagehinweis": "Lichtsignal Postplatz. Laut Verkehrsstatistik 2025 nach dem Umbau des Postplatzes neu in Betrieb genommen.",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "olten-solothurnerstrasse", "typ": "stationaer", "kanton": "SO", "gemeinde": "Olten",
+      "ort": "Solothurnerstrasse", "art": "Rotlicht + Geschwindigkeit", "tempo": 50,
+      "lat": 47.34781, "lon": 7.88792, "lage": "ungefaehr",
+      "lagehinweis": "Die Kapo nennt nur die Strasse. Gesetzt ist die signalisierte Kreuzung Solothurner-/Gäustrasse (früher in Statistiken als «Usego» geführt). Nicht vor Ort überprüft.",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "winznau-oltnerstrasse", "typ": "stationaer", "kanton": "SO", "gemeinde": "Winznau",
+      "ort": "Oltnerstrasse", "art": "Geschwindigkeit", "tempo": 50,
+      "lat": 47.36727, "lon": 7.92288, "lage": "ungefaehr",
+      "lagehinweis": "Die Kapo nennt nur die Strasse. Punkt liegt auf der Oltnerstrasse im Dorf, nicht vor Ort überprüft.",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "oberbuchsiten-a1", "typ": "stationaer", "kanton": "SO", "gemeinde": "Oberbuchsiten",
+      "ort": "Autobahn A1", "art": "Geschwindigkeit (beide Richtungen)", "tempo": 120,
+      "lat": 47.29795, "lon": 7.75960, "lage": "genau",
+      "lagehinweis": "Unter der Signalbrücke, durch OSM-Knoten 600532488 und 600532509 bestätigt.",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "haegendorf-a2-semi", "typ": "semistationaer", "kanton": "SO", "gemeinde": "Hägendorf",
+      "ort": "Autobahn A2, Fahrtrichtung Basel", "art": "Geschwindigkeit", "tempo": null,
+      "lat": 47.35244, "lon": 7.83554, "lage": "ungefaehr",
+      "lagehinweis": "Woche ab 29.10.2026. Die Kapo nennt nur Gemeinde und Fahrtrichtung. Punkt auf der A2 bei Hägendorf, an einem in OSM erfassten Messpunkt.",
+      "gueltig": "Woche ab 29.10.2026",
+      "quelle": "kapo-so"
+    },
+    {
+      "id": "wynau-bernstrasse-osm", "typ": "osm", "kanton": "BE", "gemeinde": "Wynau",
+      "ort": "Bernstrasse", "art": "Geschwindigkeit (beide Richtungen)", "tempo": 50,
+      "lat": 47.25624, "lon": 7.81989, "lage": "genau",
+      "lagehinweis": "Nur in OpenStreetMap erfasst (Knoten 6042442302, 6042442303). Der Kanton Bern veröffentlicht keine Liste, daher nicht amtlich bestätigt.",
+      "quelle": "osm"
+    },
+    {
+      "id": "aarwangen-langenthalstrasse-osm", "typ": "osm", "kanton": "BE", "gemeinde": "Aarwangen",
+      "ort": "Langenthalstrasse", "art": "Geschwindigkeit (beide Richtungen)", "tempo": 50,
+      "lat": 47.23657, "lon": 7.77213, "lage": "genau",
+      "lagehinweis": "Nur in OpenStreetMap erfasst (Knoten 7215231642, 7215231643). Nicht amtlich bestätigt.",
+      "quelle": "osm"
+    }
+  ],
+  "ausserhalb": [
+    { "typ": "stationaer", "gemeinde": "Biberist", "ort": "Autobahn A5" },
+    { "typ": "stationaer", "gemeinde": "Grenchen", "ort": "Solothurnstrasse/Kapellstrasse" },
+    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Bürenstrasse, Vorstadtschulhaus (vorübergehend ausser Betrieb)" },
+    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Bielstrasse, Wildbachkreuzung" },
+    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Bielstrasse, Hermesbühlschulhaus" },
+    { "typ": "stationaer", "gemeinde": "Solothurn", "ort": "Werkhofstrasse, Konzertsaal" },
+    { "typ": "semistationaer", "gemeinde": "Grenchen", "ort": "Solothurnstrasse (Woche ab 29.10.2026)" }
+  ],
+  "statistik": {
+    "quelle": "pvs-2025",
+    "mobil": { "anlagen": 4, "kontrollen_2024": 1255, "kontrollen_2025": 1333, "fahrzeuge_2025": 2274541, "uebertretungen_2025": 123854, "quote_2025": 5.45 },
+    "semistationaer": { "anlagen": 2, "kontrollen_2024": 97, "kontrollen_2025": 89, "fahrzeuge_2025": 6870443, "uebertretungen_2025": 66924, "quote_2025": 0.97 },
+    "olten_fix": { "tempo_2024": 1632, "tempo_2025": 2705, "rotlicht_2024": 2405, "rotlicht_2025": 4467 },
+    "autobahn_fix": { "fahrzeuge_2025": 23384398, "uebertretungen_2025": 40203, "quote_2025": 0.17 },
+    "ortsfeste_geraete_kanton": 18
+  }
+}

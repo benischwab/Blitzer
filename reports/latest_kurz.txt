@@ -1,31 +1,28 @@
 ÄNDERUNGEN:
-• ATL @ WSH: Jock Landale fällt NEU aus
-• ATL @ WSH: Linien jetzt verfügbar (WSH +1.5, Total 234.5)
-• MIL @ BOS: Linien jetzt verfügbar (BOS -11.5, Total 223.5)
-• CHI @ NY: Linien jetzt verfügbar (NY -12.5, Total 232.5)
-• CLE @ OKC: Jaylon Tyson fällt NEU aus
-• CLE @ OKC: Peyton Watson fällt NEU aus
-• TOR @ DEN: Linien jetzt verfügbar (DEN -5.5, Total 231.5)
-• TOR @ DEN: Sieg DEN 47% → 60%
+• IND @ MEM: Scotty Pippen Jr. fällt NEU aus
+• UTAH @ NO: Dejounte Murray wieder dabei / nicht mehr out
+• UTAH @ NO: Sieg NO 65% → 71%
+• CLE @ OKC: Alex Caruso wieder dabei / nicht mehr out
+• Neue Tipps: Under 233.5 (ATL @ WSH); TOR +4.5 (TOR @ DEN)
+• Gestrichen: Under 234.5 (ATL @ WSH); TOR +5.5 (TOR @ DEN); Under 228.5 (CLE @ OKC)
 
 TIPPS (ab Mindestquote):
-• Under 234.5 (ATL @ WSH) 60% – ab 1.71
-• TOR +5.5 (TOR @ DEN) 56% – ab 1.84
+• Under 233.5 (ATL @ WSH) 60% – ab 1.73
 • BKN +3.5 (CHA @ BKN) 56% – ab 1.84
-• 2er-Kombi: Under 234.5 + Sieg NY – 49%, ab 2.10
-• 3er-Kombi: Under 234.5 + Sieg BOS + Sieg NY – 39%, ab 2.62
+• TOR +4.5 (TOR @ DEN) 55% – ab 1.87
+• 2er-Kombi: Sieg LAL + Sieg NO – 56%, ab 1.84
 
 01:00 PHI@DET: DET 57% · U217.5 52%
-01:00 ATL@WSH: ATL 52% · U234.5 60%
+01:00 ATL@WSH: ATL 52% · U233.5 60%
 01:30 MIL@BOS: BOS 80% · O223.5 54%
 01:30 CHA@BKN: CHA 53% · U212.5 51%
-01:30 CHI@NY: NY 81% · U232.5 52%
-02:00 IND@MEM: MEM 90%
-02:00 UTAH@NO: NO 65%
-02:00 CLE@OKC: OKC 52% · U228.5 56%
-02:30 MIN@HOU: HOU 71% · O219.5 51%
-03:00 TOR@DEN: DEN 60% · U231.5 52%
+01:30 CHI@NY: NY 81% · U233.5 53%
+02:00 IND@MEM: MEM 88%
+02:00 UTAH@NO: NO 71%
+02:00 CLE@OKC: OKC 54% · U227.5 54%
+02:30 MIN@HOU: HOU 72% · O220.5 50%
+03:00 TOR@DEN: DEN 59% · U231.5 52%
 03:00 POR@PHX: POR 59% · O227.5 51%
-03:30 DAL@SA: SA 79% · U227.5 52%
-04:00 LAL@SAC: LAL 79% · U238.5 51%
+03:30 DAL@SA: SA 78% · U227.5 52%
+04:00 LAL@SAC: LAL 79% · U237.5 51%
 04:30 MIA@LAC: LAC 55%

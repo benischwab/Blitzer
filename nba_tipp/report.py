@@ -181,9 +181,19 @@ class Context:
         preds = {}
         for g in p["games"]:
             f = self.forecast(g)
-            preds[g["id"]] = {"p_home": round(bets.win_prob_home(f, g.get("odds")), 4),
-                              "margin": round(f.margin, 2), "total": round(f.total, 2),
-                              "matchup": f"{g['away']['abbr']} @ {g['home']['abbr']}"}
+            odds = g.get("odds") or {}
+            pr = {"p_home": round(bets.win_prob_home(f, odds), 4),
+                  "margin": round(f.margin, 2), "total": round(f.total, 2),
+                  "matchup": f"{g['away']['abbr']} @ {g['home']['abbr']}",
+                  "home": g["home"]["abbr"], "away": g["away"]["abbr"],
+                  "day": self.game_day.isoformat()}
+            if "home_spread" in odds:
+                pr["home_spread"] = odds["home_spread"]
+                pr["p_cover"] = round(f.p_home_cover(odds["home_spread"]), 4)
+            if "total" in odds:
+                pr["line_total"] = odds["total"]
+                pr["p_over"] = round(f.p_over(odds["total"]), 4)
+            preds[g["id"]] = pr
         combos = []
         for cs, prof in (p["combo2"], p["combo3"]):
             if prof:
@@ -413,6 +423,50 @@ def bilanz_section(ctx: Context) -> list[str]:
     return out
 
 
+def review_lines(ctx: Context, day=None):
+    """Rueckblick: Prognose vs. Resultat fuer den letzten ausgewerteten Spieltag.
+    Gibt (tag, zeilen, kurzfassung) zurueck oder (None, [], "")."""
+    r = tracking.review(tracking.load(), ctx.results, day)
+    if not r:
+        return None, [], ""
+    d = dt.date.fromisoformat(r["day"])
+    out = [f"## Rückblick: Nacht {d:%d.%m.}–{d + dt.timedelta(days=1):%d.%m.}", ""]
+    out.append("| Spiel | Prognose | Resultat | Sieger | Total (Prog./Ist) | O/U-Linie |")
+    out.append("|---|---|---|---|---|---|")
+    for x in r["rows"]:
+        fav = x["home"] if x["p_home"] >= 0.5 else x["away"]
+        pf = max(x["p_home"], 1 - x["p_home"])
+        ou = "–"
+        if x.get("ou_hit") is not None:
+            ou = f"{x['ou_pick']} {x['line_total']} ({pct(x['ou_p'])}) {'✅' if x['ou_hit'] else '❌'}"
+        out.append(f"| {x['matchup']} | {fav} {pct(pf)} · {x['away']} {x['pred_away']:.0f}–{x['pred_home']:.0f} {x['home']} | "
+                   f"{x['away']} {x['away_pts']}–{x['home_pts']} {x['home']} | {'✅' if x['win_hit'] else '❌'} | "
+                   f"{x['total_pred']:.0f} / {x['total_real']} ({x['total_real'] - x['total_pred']:+.0f}) | {ou} |")
+    sm = r["summary"]
+    out.append("")
+    out.append(f"**Sieger richtig:** {sm['win_hits']}/{sm['n']} ({sm['win_hits'] / sm['n']:.0%}) · "
+               f"**Mittlerer Fehler:** Differenz {sm['mae_margin']:.1f} Pkt, Total {sm['mae_total']:.1f} Pkt"
+               + (f" · **Over/Under:** {sm['ou_hits']}/{sm['ou_n']}" if sm["ou_n"] else ""))
+    tips = r["tips"]
+    if tips:
+        out.append("")
+        out.append("**Tipps dieser Nacht:**")
+        for t in tips:
+            mark = {True: "✅", False: "❌", None: "⏳", "push": "↩️"}[t["result"]]
+            out.append(f"- {mark} {t['text']}" + (f" (Quote {t['odds']:.2f})" if t.get("odds") else ""))
+        out.append(f"- **Ergebnis:** {r['tip_hits']}/{r['tip_n']} getroffen · "
+                   f"{r['tip_profit']:+.2f} Fr. bei 1 Fr. pro Tipp (DK-Quoten)")
+    short = [f"Sieger {sm['win_hits']}/{sm['n']} richtig · Ø-Fehler Total {sm['mae_total']:.0f} Pkt"]
+    if sm["ou_n"]:
+        short[0] += f" · O/U {sm['ou_hits']}/{sm['ou_n']}"
+    for x in r["rows"]:
+        short.append(f"{'✅' if x['win_hit'] else '❌'} {x['away']} {x['away_pts']}–{x['home_pts']} {x['home']} "
+                     f"(Prog. {x['home'] if x['p_home'] >= 0.5 else x['away']} {pct(max(x['p_home'], 1 - x['p_home']))})")
+    if tips:
+        short.append(f"Tipps: {r['tip_hits']}/{r['tip_n']} · {r['tip_profit']:+.2f} Fr.")
+    return r["day"], out, "\n".join(short)
+
+
 def build_report(ctx: Context, detail=True, changes=None) -> tuple[str, str]:
     games = ctx.upcoming()
     if not games:
@@ -442,6 +496,9 @@ def build_report(ctx: Context, detail=True, changes=None) -> tuple[str, str]:
         out.append("- Keine grossen Abweichungen – Markt und Modell sind sich einig.")
     out.append("")
     out += bilanz_section(ctx)
+    _, rev, _ = review_lines(ctx)
+    if rev:
+        out += [""] + rev
     out += ["", "## Spiele"]
     for b in blocks:
         out += ["", b]

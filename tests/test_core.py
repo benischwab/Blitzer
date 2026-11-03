@@ -88,5 +88,24 @@ class ComboTests(unittest.TestCase):
             self.assertGreaterEqual(c.ev, bets.MIN_EDGE)
 
 
+class ReviewTests(unittest.TestCase):
+    def test_review_compares_prediction_and_result(self):
+        from nba_tipp import tracking
+        res = {"1": {"id": "1", "date": "2026-11-05T00:00Z", "home": {"abbr": "AAA"}, "away": {"abbr": "BBB"},
+                     "home_pts": 100, "away_pts": 110}}
+        state = {"games": {"1": {"p_home": 0.7, "margin": 5.0, "total": 220.0, "matchup": "BBB @ AAA",
+                                 "day": "2026-11-04", "line_total": 215.5, "p_over": 0.55}},
+                 "singles": {"2026-11-04": [{"game_id": "1", "market": "ml", "side": "BBB", "line": None,
+                                             "dk": 2.5, "label": "Sieg BBB", "matchup": "BBB @ AAA"}]},
+                 "combos": {}}
+        r = tracking.review(state, res)
+        self.assertEqual(r["day"], "2026-11-04")
+        x = r["rows"][0]
+        self.assertFalse(x["win_hit"])          # AAA favorisiert, BBB gewinnt
+        self.assertFalse(x["ou_hit"])           # Over getippt, aber 210 < 215.5
+        self.assertEqual(r["tip_hits"], 1)
+        self.assertAlmostEqual(r["tip_profit"], 1.5)
+
+
 if __name__ == "__main__":
     unittest.main()

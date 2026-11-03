@@ -3,6 +3,7 @@
   python -m nba_tipp report                 # Tageszusammenfassung -> reports/JJJJ-MM-TT.md
   python -m nba_tipp update                 # aktualisieren, nur bei Aenderungen melden
   python -m nba_tipp tipps                  # sichere/profitable Einzel- und Kombiwetten
+  python -m nba_tipp rueckblick             # Prognose vs. Resultat der letzten Nacht
   python -m nba_tipp spiel DET              # Detail zu einem Spiel (Team-Kuerzel)
   python -m nba_tipp check DET total 221.5 over 1.87       # eigene Sporttip-Quote pruefen
   python -m nba_tipp check DET spread -3.5 DET 1.90
@@ -114,6 +115,38 @@ def cmd_update(args):
     path, _ = _write_outputs(ctx, args, changes=changes)
     print("Aenderungen:\n- " + "\n- ".join(changes))
     _gh_output(mode="update", changed="1")
+
+
+def cmd_rueckblick(args):
+    """Vergleich Prognose vs. Resultat der letzten Spielnacht."""
+    from .report import review_lines
+    ctx = Context()
+    day, lines, short = review_lines(ctx, args.tag)
+    if not day:
+        print("Noch keine ausgewerteten Spiele mit gespeicherter Prognose.")
+        _gh_output(mode="rueckblick", changed="0")
+        return
+    marker = os.path.join(ROOT, "data", "rueckblick_done.txt")
+    last = open(marker, encoding="utf-8").read().strip() if os.path.exists(marker) else ""
+    if not args.tag and day == last:
+        print(f"Rueckblick fuer {day} wurde bereits verschickt.")
+        _gh_output(mode="rueckblick", changed="0")
+        return
+    with open(marker, "w", encoding="utf-8") as f:
+        f.write(day)
+    d = dt.date.fromisoformat(day)
+    rep = os.path.join(ROOT, "reports")
+    md = "\n".join(lines) + "\n"
+    files = {os.path.join(rep, f"rueckblick_{day}.md"): md,
+             os.path.join(rep, "rueckblick_latest.md"): md,
+             os.path.join(rep, "latest_title.txt"):
+                 f"Rückblick NBA-Nacht {d:%d.%m.}–{d + dt.timedelta(days=1):%d.%m.%Y}",
+             os.path.join(rep, "latest_kurz.txt"): short}
+    for fp, content in files.items():
+        with open(fp, "w", encoding="utf-8") as f:
+            f.write(content)
+    print(md)
+    _gh_output(mode="rueckblick", changed="1")
 
 
 def cmd_tipps(args):
@@ -239,6 +272,9 @@ def main(argv=None):
     u = sub.add_parser("update", help="Nur bei Aenderungen (News, Ausfaelle, Linien) neu melden")
     u.add_argument("--kurz", action="store_true")
     u.set_defaults(fn=cmd_update)
+    rb = sub.add_parser("rueckblick", help="Prognose vs. Resultat der letzten Nacht")
+    rb.add_argument("--tag", help="US-Spieltag JJJJ-MM-TT (Standard: letzter ausgewerteter)")
+    rb.set_defaults(fn=cmd_rueckblick)
     t = sub.add_parser("tipps", help="Aktuelle Wettvorschlaege inkl. Kombis")
     t.set_defaults(fn=cmd_tipps)
     s = sub.add_parser("spiel", help="Detail zu einem Spiel")

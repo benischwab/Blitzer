@@ -2,6 +2,8 @@ name: NBA Tagesbericht
 
 on:
   schedule:
+    # Rueckblick: 07:30 UTC = 08:30 Uhr Winterzeit / 09:30 Uhr Sommerzeit – Prognose vs. Resultat
+    - cron: "30 7 * * *"
     # Hauptbericht: 15:30 UTC = 16:30 Uhr Winterzeit / 17:30 Uhr Sommerzeit (Schweiz)
     - cron: "30 15 * * *"
     # Updates bis kurz vor Spielbeginn (neue Ausfaelle, News, Linien, Resultate).
@@ -12,9 +14,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "report = neuer Bericht, update = nur Aenderungen melden"
+        description: "report = neuer Bericht, update = nur Aenderungen melden, rueckblick = Prognose vs. Resultat"
         type: choice
-        options: [report, update]
+        options: [report, update, rueckblick]
         default: report
 
 permissions:
@@ -44,6 +46,8 @@ jobs:
         run: |
           if [ "${{ github.event.schedule }}" = "30 15 * * *" ] || [ "${{ inputs.mode }}" = "report" ]; then
             python -m nba_tipp report > /dev/null
+          elif [ "${{ github.event.schedule }}" = "30 7 * * *" ] || [ "${{ inputs.mode }}" = "rueckblick" ]; then
+            python -m nba_tipp rueckblick
           else
             python -m nba_tipp update
           fi
@@ -81,6 +85,20 @@ jobs:
           { echo "**Update $(TZ=Europe/Zurich date +%H:%M) Uhr**"; echo; echo '```'; cat reports/latest_kurz.txt; echo '```';
             echo; echo "@${{ github.repository_owner }}"; } > /tmp/comment.md
           gh issue comment "$n" --body-file /tmp/comment.md | tee /tmp/issue_url.txt
+
+      - name: Rueckblick als Kommentar im Bericht der letzten Nacht
+        if: steps.run.outputs.mode == 'rueckblick' && steps.run.outputs.changed == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --label nba-tipp --state all --limit 1 --json number -q '.[0].number')
+          { cat reports/rueckblick_latest.md; echo; echo "@${{ github.repository_owner }}"; } > /tmp/rb.md
+          if [ -n "$n" ]; then
+            gh issue comment "$n" --body-file /tmp/rb.md | tee /tmp/issue_url.txt
+          else
+            gh issue create --title "$(cat reports/latest_title.txt)" --label nba-tipp --body-file /tmp/rb.md \
+              | tee /tmp/issue_url.txt
+          fi
 
       - name: Push-Nachricht (optional)
         if: steps.run.outputs.changed == '1'

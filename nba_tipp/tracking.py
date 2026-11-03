@@ -98,3 +98,75 @@ def summary(state, results):
         brier += (pred["p_home"] - y) ** 2
     out["games"] = {"n": n, "correct": correct, "brier": brier / n if n else None}
     return out
+
+
+def _game_day(g):
+    """US-Spieltag (Ostkueste) eines Spiels."""
+    import datetime as dt
+    from zoneinfo import ZoneInfo
+    t = dt.datetime.fromisoformat(g["date"].replace("Z", "+00:00"))
+    return t.astimezone(ZoneInfo("America/New_York")).date().isoformat()
+
+
+def review(state, results, day=None):
+    """Prognose vs. Resultat fuer einen Spieltag (Standard: letzter mit Resultaten)."""
+    by_day = {}
+    for gid, pred in state["games"].items():
+        g = results.get(gid)
+        if g:
+            by_day.setdefault(pred.get("day") or _game_day(g), []).append((gid, pred, g))
+    if not by_day:
+        return None
+    day = day or max(by_day)
+    if day not in by_day:
+        return None
+    rows = []
+    for gid, pred, g in sorted(by_day[day], key=lambda x: x[2]["date"]):
+        hp, ap = g["home_pts"], g["away_pts"]
+        tp, mg = pred["total"], pred["margin"]
+        x = {"matchup": pred["matchup"], "home": g["home"]["abbr"], "away": g["away"]["abbr"],
+             "p_home": pred["p_home"], "home_pts": hp, "away_pts": ap,
+             "pred_home": (tp + mg) / 2, "pred_away": (tp - mg) / 2,
+             "total_pred": tp, "total_real": hp + ap, "margin_err": abs((hp - ap) - mg),
+             "win_hit": (pred["p_home"] >= 0.5) == (hp > ap), "ou_hit": None}
+        if "line_total" in pred and hp + ap != pred["line_total"]:
+            over = pred["p_over"] >= 0.5
+            x.update(ou_pick="Over" if over else "Under", line_total=pred["line_total"],
+                     ou_p=max(pred["p_over"], 1 - pred["p_over"]),
+                     ou_hit=(hp + ap > pred["line_total"]) == over)
+        rows.append(x)
+    n = len(rows)
+    ou = [x for x in rows if x["ou_hit"] is not None]
+    summary = {"n": n, "win_hits": sum(x["win_hit"] for x in rows),
+               "mae_margin": sum(x["margin_err"] for x in rows) / n,
+               "mae_total": sum(abs(x["total_real"] - x["total_pred"]) for x in rows) / n,
+               "ou_n": len(ou), "ou_hits": sum(x["ou_hit"] for x in ou)}
+    tips, hits, done, profit = [], 0, 0, 0.0
+    items = [("single", t) for t in state["singles"].get(day, [])] + \
+            [("combo", c) for c in state["combos"].get(day, [])]
+    for kind, item in items:
+        legs = item["legs"] if kind == "combo" else [item]
+        res = [leg_result(l, results) for l in legs]
+        if any(r is False for r in res):
+            result = False
+        elif any(r is None for r in res):
+            result = None
+        elif all(r == "push" for r in res):
+            result = "push"
+        else:
+            result = True
+        odds = 1.0
+        for l, r in zip(legs, res):
+            odds *= 1.0 if r == "push" else (l.get("dk") or 1.0)
+        label = " + ".join(f"{l['label']} ({l['matchup']})" for l in legs)
+        tips.append({"text": ("Kombi: " if kind == "combo" else "") + label, "result": result,
+                     "odds": odds if all(l.get("dk") for l in legs) else None})
+        if result is not None:
+            done += 1
+            if result is True:
+                hits += 1
+                profit += odds - 1
+            elif result is False:
+                profit -= 1
+    return {"day": day, "rows": rows, "summary": summary, "tips": tips,
+            "tip_n": done, "tip_hits": hits, "tip_profit": profit}

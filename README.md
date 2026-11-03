@@ -52,7 +52,8 @@ Der GitHub-Workflow `.github/workflows/daily-report.yml` läuft:
 
 | Zeit (Winter / Sommer) | Was passiert |
 |---|---|
-| 16:30 / 17:30 | **Hauptbericht** → neues GitHub-Issue + Push |
+| 08:30 / 09:30 | **Rückblick**: Prognose vs. Resultat jedes Spiels der Nacht, welche Tipps getroffen haben → Kommentar im Issue der Nacht |
+| 16:30 / 17:30 | **Hauptbericht** → neues GitHub-Issue + Push (enthält auch den Rückblick) |
 | 20:30 / 21:30, 23:15 / 00:15, 00:30 / 01:30 | **Update**: nur wenn sich etwas Relevantes geändert hat (neuer Ausfall, Linie bewegt sich ≥ 1.5 Pkt, Siegchance ±5 %, Tipp neu/gestrichen) → Kommentar im Issue + Push |
 
 Zusätzlich führt das Tool eine **Bilanz**: Alle Tipps werden gespeichert (`data/tipps.json`)
@@ -84,6 +85,7 @@ Sporttip hat oft leicht andere Linien als DraftKings. Gib Linie und Quote ein:
 python -m nba_tipp report                                # Bericht erstellen
 python -m nba_tipp update                                # aktualisieren, Änderungen anzeigen
 python -m nba_tipp tipps                                 # nur Einzel- und Kombi-Vorschläge
+python -m nba_tipp rueckblick                            # Prognose vs. Resultat der letzten Nacht
 python -m nba_tipp spiel DET                             # alle Details zu einem Spiel
 python -m nba_tipp check DET total 221.5 under 1.87      # Over/Under
 python -m nba_tipp check SA spread 12.5 DAL 1.90         # Handicap: DAL +12.5

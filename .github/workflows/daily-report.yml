@@ -1,0 +1,61 @@
+name: NBA Tagesbericht
+
+on:
+  schedule:
+    # 15:30 UTC = 16:30 Uhr Winterzeit / 17:30 Uhr Sommerzeit (Schweiz)
+    - cron: "30 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: daily-report
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Bericht erstellen
+        run: python -m nba_tipp report
+
+      - name: Bericht und Daten speichern
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports data
+          git diff --cached --quiet || git commit -m "Tagesbericht $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Als GitHub-Issue veroeffentlichen (Benachrichtigung per App/E-Mail)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create nba-tipp --color 1d76db --force >/dev/null
+          for n in $(gh issue list --label nba-tipp --state open --json number -q '.[].number'); do
+            gh issue close "$n" >/dev/null
+          done
+          { cat reports/latest.md; echo; echo "@${{ github.repository_owner }}"; } > /tmp/body.md
+          gh issue create --title "$(cat reports/latest_title.txt)" --label nba-tipp --body-file /tmp/body.md \
+            | tee /tmp/issue_url.txt
+
+      - name: Push-Nachricht (optional)
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          export REPORT_URL="$(tail -n1 /tmp/issue_url.txt)"
+          python -m nba_tipp.notify

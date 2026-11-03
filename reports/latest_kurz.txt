@@ -1,0 +1,16 @@
+01:00 PHI@DET: DET 58% (1.72) · U218.5 53%
+01:00 ATL@WSH: ATL 52% (1.91) · Total ~220
+01:30 MIL@BOS: BOS 80% (1.26) · Total ~229
+01:30 CHA@BKN: CHA 53% (1.90) · U214.5 52%
+01:30 CHI@NY: NY 78% (1.28) · Total ~229
+02:00 IND@MEM: MEM 90% (1.11) · Total ~224
+02:00 UTAH@NO: NO 65% (1.53) · Total ~227
+02:00 CLE@OKC: OKC 53% (1.90) · U228.5 54%
+02:30 MIN@HOU: HOU 75% (1.33) · U222.5 51%
+03:00 TOR@DEN: TOR 53% (1.90) · Total ~228
+03:00 POR@PHX: POR 65% (1.54) · Total ~230
+03:30 DAL@SA: SA 80% (1.25) · U229.5 53%
+04:00 LAL@SAC: LAL 72% (1.38) · Total ~236
+04:30 MIA@LAC: LAC 55% (1.83) · Total ~235
+
+Auffällig: DAL @ SA: Handicap DAL +12.5 — Modell 65% | DAL @ SA: Sieg DAL — Modell 32% vs. Markt 17% | CLE @ OKC: Handicap CLE +2.5 — Modell 65%

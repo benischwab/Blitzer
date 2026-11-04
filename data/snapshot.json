@@ -29,13 +29,12 @@
 ],
 "dtd": [
 "Alex Sarr",
-"Anthony Gill",
 "Bilal Coulibaly",
 "Jalen Johnson"
 ],
-"spread": 3.5,
+"spread": 2.5,
 "total": 230.5,
-"p_home": 0.4456
+"p_home": 0.4457
 },
 "401909924": {
 "matchup": "MIL @ BOS",
@@ -51,7 +50,7 @@
 ],
 "spread": -11.5,
 "total": 221.5,
-"p_home": 0.757
+"p_home": 0.7615
 },
 "401909925": {
 "matchup": "CHA @ BKN",
@@ -66,7 +65,7 @@
 "Coby White"
 ],
 "spread": 3.5,
-"total": 212.5,
+"total": 213.5,
 "p_home": 0.4509
 },
 "401909926": {
@@ -77,12 +76,10 @@
 "Josh Hart",
 "Nic Claxton"
 ],
-"dtd": [
-"Jalen Smith"
-],
-"spread": -12.5,
+"dtd": [],
+"spread": -11.5,
 "total": 233.5,
-"p_home": 0.7983
+"p_home": 0.7982
 },
 "401909927": {
 "matchup": "IND @ MEM",
@@ -158,7 +155,7 @@
 "dtd": [],
 "spread": -7.5,
 "total": 218.5,
-"p_home": 0.72
+"p_home": 0.7199
 },
 "401909931": {
 "matchup": "TOR @ DEN",
@@ -177,7 +174,7 @@
 ],
 "spread": -4.5,
 "total": 231.5,
-"p_home": 0.5833
+"p_home": 0.5922
 },
 "401909932": {
 "matchup": "POR @ PHX",
@@ -186,11 +183,11 @@
 "out": [
 "Ja Morant",
 "Mark Williams",
+"Rasheer Fleming",
 "Shaedon Sharpe"
 ],
 "dtd": [
-"Jordan Goodwin",
-"Rasheer Fleming"
+"Jordan Goodwin"
 ],
 "spread": 2.5,
 "total": 227.5,
@@ -210,9 +207,9 @@
 "Tobias Harris"
 ],
 "dtd": [],
-"spread": -11.5,
+"spread": -12.5,
 "total": 226.5,
-"p_home": 0.7886
+"p_home": 0.7918
 },
 "401909934": {
 "matchup": "LAL @ SAC",
@@ -221,15 +218,14 @@
 "out": [
 "Adou Thiero",
 "Ben Simmons",
+"Daeqwon Plowden",
 "Keegan Murray",
 "Maxime Raynaud"
 ],
-"dtd": [
-"Precious Achiuwa"
-],
-"spread": 12.5,
+"dtd": [],
+"spread": 11.5,
 "total": 233.5,
-"p_home": 0.2047
+"p_home": 0.2048
 },
 "401909935": {
 "matchup": "MIA @ LAC",

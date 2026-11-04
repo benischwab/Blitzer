@@ -1,20 +1,10 @@
 # NBA-Tipps für die Nacht 04.11.–05.11.2026
 
-Stand: Mi 04.11. 21:15 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Mi 04.11. 23:51 Uhr · 14 Spiele · Datenbasis: 107 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- ATL @ WSH: Total 232.5 → 230.5
-- MIL @ BOS: Jayson Tatum fällt NEU aus
-- MIL @ BOS: Total 223.5 → 221.5
-- MIL @ BOS: Sieg BOS 81% → 76%
-- CHA @ BKN: Kon Knueppel wieder dabei / nicht mehr out
-- CHI @ NY: Josh Hart fällt NEU aus
-- UTAH @ NO: Handicap NO -6.5 → -4.5
-- MIN @ HOU: Clint Capela fällt NEU aus
-- MIN @ HOU: Terrence Shannon Jr. fällt NEU aus
-- MIN @ HOU: Total 220.5 → 218.5
-- Neue Tipps: Under 230.5 (ATL @ WSH)
-- Gestrichen: Under 232.5 (ATL @ WSH)
+- POR @ PHX: Rasheer Fleming fällt NEU aus
+- LAL @ SAC: Daeqwon Plowden fällt NEU aus
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -28,7 +18,7 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | MEM -6.5 | IND @ MEM | 60% | 1.96 | +17.3% | **1.72** |
 | Under 230.5 | ATL @ WSH | 58% | 1.93 | +11.6% | **1.78** |
 | LAC +5.5 | MIA @ LAC | 57% | 1.95 | +10.5% | **1.82** |
-| BKN +3.5 | CHA @ BKN | 56% | 1.94 | +8.7% | **1.84** |
+| BKN +3.5 | CHA @ BKN | 56% | 1.95 | +9.2% | **1.84** |
 
 **Sichere 2er-Kombi**
 - Sieg MEM (IND @ MEM) — 74%, DK 1.42
@@ -71,9 +61,9 @@ _Noch keine ausgewerteten Tipps – die Bilanz baut sich ab den nächsten Spiele
 **Over/Under 219.5:** Over 46% (2.16) · Under 54% (1.86)
 **Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 221.5 (≥57%)
 **Form (letzte 5):** DET SNSSS (+11.2) · PHI NSSSS (+4.2)
-_DET out: Isaiah Joe*, Jalen Duren · PHI out: Dominick Barlow*, Ariel Hukporti_ (* = Meldung der letzten 24 h)
+_DET out: Isaiah Joe, Jalen Duren · PHI out: Dominick Barlow, Ariel Hukporti_
+> 📰 Updated NBA championship, MVP odds: Rockets' odds shorten; Doncic leads for MVP
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
-> 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -88,12 +78,12 @@ _DET out: Isaiah Joe*, Jalen Duren · PHI out: Dominick Barlow*, Ariel Hukporti_
 
 ### ATL @ WSH — Do 01:00 Uhr
 **Sieg:** WSH 45% (faire Quote 2.24) · ATL 55% (1.80) — Markt WSH 42%
-**Prognose:** WSH 112.3 – ATL 114.6 (Diff. ATL +2.3, Total 226.9)
-**Handicap** WSH +3.5: WSH deckt 54% · ATL -3.5 deckt 46%
+**Prognose:** WSH 112.6 – ATL 114.3 (Diff. ATL +1.6, Total 226.9)
+**Handicap** WSH +2.5: WSH deckt 53% · ATL -2.5 deckt 47%
 **Over/Under 230.5:** Over 42% (2.36) · Under 58% (1.73)
 **Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** WSH SNNSS (+2.4) · ATL NNSNS (-7.4)
-_WSH out: Reece Beekman, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · WSH fraglich: Bilal Coulibaly*, Anthony Gill*, Alex Sarr* · ATL out: Jock Landale*, Mouhamed Gueye, Henri Veesaar · ATL fraglich: Jalen Johnson*_ (* = Meldung der letzten 24 h)
+_WSH out: Reece Beekman, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · WSH fraglich: Bilal Coulibaly*, Alex Sarr · ATL out: Jock Landale, Mouhamed Gueye, Henri Veesaar · ATL fraglich: Jalen Johnson_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -108,13 +98,13 @@ _WSH out: Reece Beekman, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · W
 | Aaron Wiggins (ATL) | 25 | 12.9 (10.5 / 13.5) | 3.7 | 2.0 | 2.5 | 18.6 |
 
 ### MIL @ BOS — Do 01:30 Uhr
-**Sieg:** BOS 76% (faire Quote 1.32) · MIL 24% (4.11) — Markt BOS 80%
+**Sieg:** BOS 76% (faire Quote 1.31) · MIL 24% (4.19) — Markt BOS 81%
 **Prognose:** BOS 115.9 – MIL 106.1 (Diff. BOS +9.8, Total 222.1)
 **Handicap** BOS -11.5: BOS deckt 45% · MIL +11.5 deckt 55%
 **Over/Under 221.5:** Over 51% (1.95) · Under 49% (2.05)
 **Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** BOS SSSSN (+9.0) · MIL NSNNN (-14.4)
-_BOS out: Jayson Tatum*, Devin Carter · BOS fraglich: Payton Pritchard* · MIL fraglich: Kam Jones*_ (* = Meldung der letzten 24 h)
+_BOS out: Jayson Tatum*, Devin Carter · BOS fraglich: Payton Pritchard · MIL fraglich: Kam Jones*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
@@ -130,12 +120,12 @@ _BOS out: Jayson Tatum*, Devin Carter · BOS fraglich: Payton Pritchard* · MIL 
 
 ### CHA @ BKN — Do 01:30 Uhr
 **Sieg:** BKN 45% (faire Quote 2.22) · CHA 55% (1.82) — Markt BKN 40%
-**Prognose:** BKN 105.3 – CHA 106.9 (Diff. CHA +1.6, Total 212.2)
+**Prognose:** BKN 105.6 – CHA 107.2 (Diff. CHA +1.6, Total 212.9)
 **Handicap** BKN +3.5: BKN deckt 56% · CHA -3.5 deckt 44%
-**Over/Under 212.5:** Over 49% (2.03) · Under 51% (1.97)
-**Total-Faustregel:** Over lohnt bis 208.5 · Under lohnt ab 215.5 (≥57%)
+**Over/Under 213.5:** Over 49% (2.06) · Under 51% (1.95)
+**Total-Faustregel:** Over lohnt bis 209.5 · Under lohnt ab 216.5 (≥57%)
 **Form (letzte 5):** BKN NNNSN (-9.8) · CHA SNNNN (-11.0)
-_BKN out: Egor Demin, Tyler Bilodeau · CHA out: Grant Williams* · CHA fraglich: Coby White*_ (* = Meldung der letzten 24 h)
+_BKN out: Egor Demin, Tyler Bilodeau · CHA out: Grant Williams* · CHA fraglich: Coby White_ (* = Meldung der letzten 24 h)
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
@@ -152,12 +142,12 @@ _BKN out: Egor Demin, Tyler Bilodeau · CHA out: Grant Williams* · CHA fraglich
 
 ### CHI @ NY — Do 01:30 Uhr
 **Sieg:** NY 80% (faire Quote 1.25) · CHI 20% (4.96) — Markt NY 82%
-**Prognose:** NY 121.6 – CHI 110.0 (Diff. NY +11.6, Total 231.6)
-**Handicap** NY -12.5: NY deckt 47% · CHI +12.5 deckt 53%
+**Prognose:** NY 121.2 – CHI 110.4 (Diff. NY +10.9, Total 231.6)
+**Handicap** NY -11.5: NY deckt 48% · CHI +11.5 deckt 52%
 **Over/Under 233.5:** Over 46% (2.17) · Under 54% (1.85)
 **Total-Faustregel:** Over lohnt bis 227.5 · Under lohnt ab 235.5 (≥57%)
 **Form (letzte 5):** NY NSSNS (+3.8) · CHI NNNNN (-15.6)
-_NY out: Josh Hart* · CHI out: Nic Claxton* · CHI fraglich: Jalen Smith*_ (* = Meldung der letzten 24 h)
+_NY out: Josh Hart* · CHI out: Nic Claxton*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 > 📰 How the Knicks' season, title defense got chaotic -- fast
 
@@ -222,7 +212,7 @@ _NO out: Jordan Poole*, Yves Missi · NO fraglich: Trey Murphy III* · UTAH out:
 **Over/Under 226.5:** Over 46% (2.16) · Under 54% (1.86)
 **Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** OKC SSNNS (-4.4) · CLE SSNSN (+5.8)
-_OKC out: Nikola Topic*, Thomas Sorber*, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Jaylin Williams* · CLE out: Jaylon Tyson*, Peyton Watson*_ (* = Meldung der letzten 24 h)
+_OKC out: Nikola Topic, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Jaylin Williams · CLE out: Jaylon Tyson, Peyton Watson_
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
@@ -245,8 +235,8 @@ _OKC out: Nikola Topic*, Thomas Sorber*, Cason Wallace, Chet Holmgren, Jalen Wil
 **Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 222.5 (≥57%)
 **Form (letzte 5):** HOU SSNSS (+14.8) · MIN NNSNS (+4.2)
 _HOU out: Clint Capela*, Steven Adams · MIN out: Terrence Shannon Jr.*, Anthony Edwards, Donte DiVincenzo_ (* = Meldung der letzten 24 h)
+> 📰 Updated NBA championship, MVP odds: Rockets' odds shorten; Doncic leads for MVP
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
-> 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -260,7 +250,7 @@ _HOU out: Clint Capela*, Steven Adams · MIN out: Terrence Shannon Jr.*, Anthony
 | Jonathan Kuminga (MIN) | 31 | 11.7 (9.5 / 12.5) | 5.6 | 2.6 | 1.8 | 19.9 |
 
 ### TOR @ DEN — Do 03:00 Uhr
-**Sieg:** DEN 58% (faire Quote 1.71) · TOR 42% (2.40) — Markt DEN 63%
+**Sieg:** DEN 59% (faire Quote 1.69) · TOR 41% (2.45) — Markt DEN 64%
 **Prognose:** DEN 116.7 – TOR 113.8 (Diff. DEN +2.9, Total 230.5)
 **Handicap** DEN -4.5: DEN deckt 45% · TOR +4.5 deckt 55%
 **Over/Under 231.5:** Over 48% (2.09) · Under 52% (1.92)
@@ -288,7 +278,7 @@ _DEN out: Spencer Jones*, Julian Strawther · DEN fraglich: Cameron Johnson*, Al
 **Over/Under 227.5:** Over 51% (1.95) · Under 49% (2.05)
 **Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** PHX NSNNN (-10.6) · POR SSNSS (+4.8)
-_PHX out: Mark Williams · PHX fraglich: Jordan Goodwin*, Rasheer Fleming* · POR out: Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
+_PHX out: Rasheer Fleming*, Mark Williams · PHX fraglich: Jordan Goodwin* · POR out: Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 > 📰 Phoenix Suns vs. Golden State Warriors: Game Highlights
 
@@ -304,13 +294,13 @@ _PHX out: Mark Williams · PHX fraglich: Jordan Goodwin*, Rasheer Fleming* · PO
 | Jrue Holiday (POR) | 26 | 13.9 (11.5 / 14.5) | 4.7 | 5.1 | 2.2 | 23.7 |
 
 ### DAL @ SA — Do 03:30 Uhr
-**Sieg:** SA 79% (faire Quote 1.27) · DAL 21% (4.73) — Markt SA 82%
-**Prognose:** SA 118.1 – DAL 107.5 (Diff. SA +10.6, Total 225.7)
-**Handicap** SA -11.5: SA deckt 47% · DAL +11.5 deckt 53%
+**Sieg:** SA 79% (faire Quote 1.26) · DAL 21% (4.80) — Markt SA 82%
+**Prognose:** SA 118.5 – DAL 107.2 (Diff. SA +11.3, Total 225.7)
+**Handicap** SA -12.5: SA deckt 46% · DAL +12.5 deckt 54%
 **Over/Under 226.5:** Over 48% (2.08) · Under 52% (1.93)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** SA SSSSS (+16.2) · DAL NSSSN (+0.4)
-_SA out: Tobias Harris, Jayden Quaintance · DAL out: Santi Aldama*, Max Christie*, Tarik Biberovic, Dereck Lively II, Sergio de Larrea_ (* = Meldung der letzten 24 h)
+_SA out: Tobias Harris, Jayden Quaintance · DAL out: Santi Aldama*, Max Christie, Tarik Biberovic, Dereck Lively II, Sergio de Larrea_ (* = Meldung der letzten 24 h)
 > 📰 NBA Contract Year All-Stars: 12 playing for a payday -- and what each might get
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 
@@ -327,12 +317,12 @@ _SA out: Tobias Harris, Jayden Quaintance · DAL out: Santi Aldama*, Max Christi
 
 ### LAL @ SAC — Do 04:00 Uhr
 **Sieg:** SAC 20% (faire Quote 4.88) · LAL 80% (1.26) — Markt SAC 17%
-**Prognose:** SAC 111.5 – LAL 122.8 (Diff. LAL +11.3, Total 234.3)
-**Handicap** SAC +12.5: SAC deckt 54% · LAL -12.5 deckt 46%
+**Prognose:** SAC 111.8 – LAL 122.5 (Diff. LAL +10.6, Total 234.3)
+**Handicap** SAC +11.5: SAC deckt 53% · LAL -11.5 deckt 47%
 **Over/Under 233.5:** Over 52% (1.93) · Under 48% (2.07)
 **Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 238.5 (≥57%)
 **Form (letzte 5):** SAC NNNNS (-13.2) · LAL NSNSS (+3.8)
-_SAC out: Maxime Raynaud, Keegan Murray, Ben Simmons · SAC fraglich: Precious Achiuwa* · LAL out: Adou Thiero*_ (* = Meldung der letzten 24 h)
+_SAC out: Daeqwon Plowden*, Maxime Raynaud, Keegan Murray, Ben Simmons · LAL out: Adou Thiero*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: Summing up all 30 teams' starts
 > 📰 Lakers' Luka Doncic has 2nd tech of season rescinded by NBA
 
@@ -342,7 +332,7 @@ _SAC out: Maxime Raynaud, Keegan Murray, Ben Simmons · SAC fraglich: Precious A
 | Zach LaVine (SAC) | 32 | 23.0 (20.5 / 23.5) | 2.9 | 2.7 | 2.9 | 28.5 |
 | Domantas Sabonis (SAC) | 36 | 14.4 (11.5 / 15.5) | 14.0 | 6.7 | 0.1 | 35.2 |
 | De'Andre Hunter (SAC) | 31 | 13.5 (9.5 / 13.5) | 5.2 | 1.2 | 2.1 | 19.8 |
-| Luka Doncic (LAL) | 36 | 40.7 (37.5 / 42.5) | 8.2 | 8.3 | 6.3 | 57.0 |
+| Luka Doncic (LAL) | 36 | 40.7 (37.5 / 42.5) | 8.2 | 8.3 | 6.3 | 56.9 |
 | Austin Reaves (LAL) | 36 | 24.3 (22.5 / 25.5) | 3.3 | 4.9 | 2.6 | 32.3 |
 | Walker Kessler (LAL) | 31 | 14.6 (11.5 / 15.5) | 11.0 | 1.3 | 0.0 | 27.0 |
 | Ziaire Williams (LAL) | 25 | 11.2 (9.5 / 11.5) | 2.7 | 2.2 | 2.2 | 16.0 |

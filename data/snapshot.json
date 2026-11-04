@@ -11,8 +11,8 @@
 ],
 "dtd": [],
 "spread": -2.5,
-"total": 217.5,
-"p_home": 0.5743
+"total": 219.5,
+"p_home": 0.5887
 },
 "401909923": {
 "matchup": "ATL @ WSH",
@@ -32,9 +32,9 @@
 "Anthony Gill",
 "Jalen Johnson"
 ],
-"spread": 1.5,
-"total": 233.5,
-"p_home": 0.4824
+"spread": 3.5,
+"total": 232.5,
+"p_home": 0.4456
 },
 "401909924": {
 "matchup": "MIL @ BOS",
@@ -49,7 +49,7 @@
 ],
 "spread": -11.5,
 "total": 223.5,
-"p_home": 0.8014
+"p_home": 0.8098
 },
 "401909925": {
 "matchup": "CHA @ BKN",
@@ -65,8 +65,8 @@
 "Coby White"
 ],
 "spread": 3.5,
-"total": 212.5,
-"p_home": 0.4743
+"total": 213.5,
+"p_home": 0.452
 },
 "401909926": {
 "matchup": "CHI @ NY",
@@ -81,7 +81,7 @@
 ],
 "spread": -12.5,
 "total": 233.5,
-"p_home": 0.8106
+"p_home": 0.8104
 },
 "401909927": {
 "matchup": "IND @ MEM",
@@ -100,9 +100,9 @@
 "Kelly Oubre Jr.",
 "Quinten Post"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.8841
+"spread": -6.5,
+"total": 229.5,
+"p_home": 0.7408
 },
 "401909928": {
 "matchup": "UTAH @ NO",
@@ -119,9 +119,9 @@
 "Mo Bamba",
 "Trey Murphy III"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.708
+"spread": -6.5,
+"total": 232.5,
+"p_home": 0.6812
 },
 "401909929": {
 "matchup": "CLE @ OKC",
@@ -139,9 +139,9 @@
 "dtd": [
 "Jaylin Williams"
 ],
-"spread": -2.5,
-"total": 227.5,
-"p_home": 0.5411
+"spread": -3.5,
+"total": 226.5,
+"p_home": 0.5761
 },
 "401909930": {
 "matchup": "MIN @ HOU",
@@ -156,9 +156,9 @@
 "Clint Capela",
 "Terrence Shannon Jr."
 ],
-"spread": -8.5,
+"spread": -7.5,
 "total": 220.5,
-"p_home": 0.7158
+"p_home": 0.7089
 },
 "401909931": {
 "matchup": "TOR @ DEN",
@@ -171,11 +171,13 @@
 "Spencer Jones"
 ],
 "dtd": [
+"Alpha Diallo",
+"Cameron Johnson",
 "Jakob Poeltl"
 ],
 "spread": -4.5,
 "total": 231.5,
-"p_home": 0.5929
+"p_home": 0.5833
 },
 "401909932": {
 "matchup": "POR @ PHX",
@@ -187,11 +189,12 @@
 "Shaedon Sharpe"
 ],
 "dtd": [
-"Jordan Goodwin"
+"Jordan Goodwin",
+"Rasheer Fleming"
 ],
 "spread": 3.5,
 "total": 227.5,
-"p_home": 0.4051
+"p_home": 0.3966
 },
 "401909933": {
 "matchup": "DAL @ SA",
@@ -207,9 +210,9 @@
 "Tobias Harris"
 ],
 "dtd": [],
-"spread": -11.5,
-"total": 227.5,
-"p_home": 0.7816
+"spread": -12.5,
+"total": 225.5,
+"p_home": 0.7952
 },
 "401909934": {
 "matchup": "LAL @ SAC",
@@ -218,14 +221,15 @@
 "out": [
 "Adou Thiero",
 "Ben Simmons",
-"Dylan Cardwell",
 "Keegan Murray",
 "Maxime Raynaud"
 ],
-"dtd": [],
-"spread": 11.5,
-"total": 237.5,
-"p_home": 0.2083
+"dtd": [
+"Precious Achiuwa"
+],
+"spread": 12.5,
+"total": 234.5,
+"p_home": 0.2066
 },
 "401909935": {
 "matchup": "MIA @ LAC",
@@ -238,17 +242,19 @@
 "Yanic Konan Niederhauser"
 ],
 "dtd": [
-"Derrick Jones Jr.",
-"Rui Hachimura"
+"Giannis Antetokounmpo",
+"Myron Gardner"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.5467
+"spread": 5.5,
+"total": 233.5,
+"p_home": 0.4129
 },
 "_tips": [
-"Under 233.5 (ATL @ WSH)",
-"BKN +3.5 (CHA @ BKN)",
-"TOR +4.5 (TOR @ DEN)"
+"Sieg MEM (IND @ MEM)",
+"MEM -6.5 (IND @ MEM)",
+"Under 232.5 (ATL @ WSH)",
+"LAC +5.5 (MIA @ LAC)",
+"BKN +3.5 (CHA @ BKN)"
 ],
 "_game_day": "2026-11-04"
 }

@@ -1,187 +1,229 @@
 {
 "games": {
 "401909922": {
-"p_home": 0.5743,
+"p_home": 0.5887,
 "margin": 3.4,
-"total": 216.37,
+"total": 217.78,
 "matchup": "PHI @ DET",
 "home": "DET",
 "away": "PHI",
 "day": "2026-11-04",
 "home_spread": -2.5,
-"p_cover": 0.5276,
-"line_total": 217.5,
-"p_over": 0.4756
+"p_cover": 0.5274,
+"line_total": 219.5,
+"p_over": 0.463
 },
 "401909923": {
-"p_home": 0.4824,
-"margin": -0.94,
-"total": 228.99,
+"p_home": 0.4456,
+"margin": -2.33,
+"total": 228.3,
 "matchup": "ATL @ WSH",
 "home": "WSH",
 "away": "ATL",
 "day": "2026-11-04",
-"home_spread": 1.5,
-"p_cover": 0.5172,
-"line_total": 233.5,
-"p_over": 0.4037
+"home_spread": 3.5,
+"p_cover": 0.5358,
+"line_total": 232.5,
+"p_over": 0.4102
 },
 "401909924": {
-"p_home": 0.8014,
-"margin": 11.63,
+"p_home": 0.8098,
+"margin": 11.62,
 "total": 225.25,
 "matchup": "MIL @ BOS",
 "home": "BOS",
 "away": "MIL",
 "day": "2026-11-04",
 "home_spread": -11.5,
-"p_cover": 0.5039,
+"p_cover": 0.5036,
 "line_total": 223.5,
-"p_over": 0.5377
+"p_over": 0.5376
 },
 "401909925": {
-"p_home": 0.4743,
+"p_home": 0.452,
 "margin": -1.56,
-"total": 212.14,
+"total": 212.85,
 "matchup": "CHA @ BKN",
 "home": "BKN",
 "away": "CHA",
 "day": "2026-11-04",
 "home_spread": 3.5,
 "p_cover": 0.5592,
-"line_total": 212.5,
-"p_over": 0.4922
+"line_total": 213.5,
+"p_over": 0.486
 },
 "401909926": {
-"p_home": 0.8106,
-"margin": 12.14,
-"total": 232.21,
+"p_home": 0.8104,
+"margin": 12.12,
+"total": 232.2,
 "matchup": "CHI @ NY",
 "home": "NY",
 "away": "CHI",
 "day": "2026-11-04",
 "home_spread": -12.5,
-"p_cover": 0.4888,
+"p_cover": 0.4885,
 "line_total": 233.5,
-"p_over": 0.4722
+"p_over": 0.472
 },
 "401909927": {
-"p_home": 0.8841,
-"margin": 17.34,
-"total": 222.99,
+"p_home": 0.7408,
+"margin": 9.73,
+"total": 227.55,
 "matchup": "IND @ MEM",
 "home": "MEM",
 "away": "IND",
-"day": "2026-11-04"
+"day": "2026-11-04",
+"home_spread": -6.5,
+"p_cover": 0.5982,
+"line_total": 229.5,
+"p_over": 0.4579
 },
 "401909928": {
-"p_home": 0.708,
-"margin": 7.94,
-"total": 229.45,
+"p_home": 0.6812,
+"margin": 6.93,
+"total": 231.58,
 "matchup": "UTAH @ NO",
 "home": "NO",
 "away": "UTAH",
-"day": "2026-11-04"
+"day": "2026-11-04",
+"home_spread": -6.5,
+"p_cover": 0.5132,
+"line_total": 232.5,
+"p_over": 0.4801
 },
 "401909929": {
-"p_home": 0.5411,
-"margin": 2.16,
-"total": 225.45,
+"p_home": 0.5761,
+"margin": 2.86,
+"total": 224.75,
 "matchup": "CLE @ OKC",
 "home": "OKC",
 "away": "CLE",
 "day": "2026-11-04",
-"home_spread": -2.5,
-"p_cover": 0.4895,
-"line_total": 227.5,
-"p_over": 0.456
+"home_spread": -3.5,
+"p_cover": 0.4803,
+"line_total": 226.5,
+"p_over": 0.4624
 },
 "401909930": {
-"p_home": 0.7158,
-"margin": 8.22,
-"total": 220.6,
+"p_home": 0.7089,
+"margin": 7.52,
+"total": 220.61,
 "matchup": "MIN @ HOU",
 "home": "HOU",
 "away": "MIN",
 "day": "2026-11-04",
-"home_spread": -8.5,
-"p_cover": 0.4914,
+"home_spread": -7.5,
+"p_cover": 0.5005,
 "line_total": 220.5,
-"p_over": 0.5022
+"p_over": 0.5023
 },
 "401909931": {
-"p_home": 0.5929,
-"margin": 2.85,
+"p_home": 0.5833,
+"margin": 2.86,
 "total": 230.53,
 "matchup": "TOR @ DEN",
 "home": "DEN",
 "away": "TOR",
 "day": "2026-11-04",
 "home_spread": -4.5,
-"p_cover": 0.4496,
+"p_cover": 0.4497,
 "line_total": 231.5,
-"p_over": 0.4791
+"p_over": 0.479
 },
 "401909932": {
-"p_home": 0.4051,
-"margin": -4.11,
-"total": 228.1,
+"p_home": 0.3966,
+"margin": -4.09,
+"total": 228.09,
 "matchup": "POR @ PHX",
 "home": "PHX",
 "away": "POR",
 "day": "2026-11-04",
 "home_spread": 3.5,
-"p_cover": 0.4814,
+"p_cover": 0.4819,
 "line_total": 227.5,
-"p_over": 0.513
+"p_over": 0.5128
 },
 "401909933": {
-"p_home": 0.7816,
-"margin": 10.58,
-"total": 226.35,
+"p_home": 0.7952,
+"margin": 11.27,
+"total": 224.95,
 "matchup": "DAL @ SA",
 "home": "SA",
 "away": "DAL",
 "day": "2026-11-04",
-"home_spread": -11.5,
-"p_cover": 0.4718,
-"line_total": 227.5,
-"p_over": 0.4753
+"home_spread": -12.5,
+"p_cover": 0.4624,
+"line_total": 225.5,
+"p_over": 0.4882
 },
 "401909934": {
-"p_home": 0.2083,
-"margin": -10.63,
-"total": 237.12,
+"p_home": 0.2066,
+"margin": -11.31,
+"total": 235.01,
 "matchup": "LAL @ SAC",
 "home": "SAC",
 "away": "LAL",
 "day": "2026-11-04",
-"home_spread": 11.5,
-"p_cover": 0.5268,
-"line_total": 237.5,
-"p_over": 0.4918
+"home_spread": 12.5,
+"p_cover": 0.5363,
+"line_total": 234.5,
+"p_over": 0.5109
 },
 "401909935": {
-"p_home": 0.5467,
-"margin": 1.7,
-"total": 234.96,
+"p_home": 0.4129,
+"margin": -3.34,
+"total": 233.93,
 "matchup": "MIA @ LAC",
 "home": "LAC",
 "away": "MIA",
-"day": "2026-11-04"
+"day": "2026-11-04",
+"home_spread": 5.5,
+"p_cover": 0.566,
+"line_total": 233.5,
+"p_over": 0.5092
 }
 },
 "singles": {
 "2026-11-04": [
 {
+"game_id": "401909927",
+"matchup": "IND @ MEM",
+"market": "ml",
+"side": "MEM",
+"line": null,
+"p": 0.7408,
+"dk": 1.4132231404958677,
+"label": "Sieg MEM"
+},
+{
+"game_id": "401909927",
+"matchup": "IND @ MEM",
+"market": "spread",
+"side": "MEM",
+"line": -6.5,
+"p": 0.5982,
+"dk": 1.8771929824561404,
+"label": "MEM -6.5"
+},
+{
 "game_id": "401909923",
 "matchup": "ATL @ WSH",
 "market": "total",
 "side": "under",
-"line": 233.5,
-"p": 0.5963,
-"dk": 1.9090909090909092,
-"label": "Under 233.5"
+"line": 232.5,
+"p": 0.5898,
+"dk": 1.9174311926605505,
+"label": "Under 232.5"
+},
+{
+"game_id": "401909935",
+"matchup": "MIA @ LAC",
+"market": "spread",
+"side": "LAC",
+"line": 5.5,
+"p": 0.566,
+"dk": 1.8849557522123894,
+"label": "LAC +5.5"
 },
 {
 "game_id": "401909925",
@@ -190,22 +232,39 @@
 "side": "BKN",
 "line": 3.5,
 "p": 0.5592,
-"dk": 1.8771929824561404,
-"label": "BKN +3.5"
-},
-{
-"game_id": "401909931",
-"matchup": "TOR @ DEN",
-"market": "spread",
-"side": "TOR",
-"line": 4.5,
-"p": 0.5504,
 "dk": 1.9090909090909092,
-"label": "TOR +4.5"
+"label": "BKN +3.5"
 }
 ]
 },
 "combos": {
-"2026-11-04": []
+"2026-11-04": [
+{
+"legs": [
+{
+"game_id": "401909927",
+"matchup": "IND @ MEM",
+"market": "ml",
+"side": "MEM",
+"line": null,
+"p": 0.7408,
+"dk": 1.4132231404958677,
+"label": "Sieg MEM"
+},
+{
+"game_id": "401909932",
+"matchup": "POR @ PHX",
+"market": "ml",
+"side": "POR",
+"line": null,
+"p": 0.6034,
+"dk": 1.641025641025641,
+"label": "Sieg POR"
+}
+],
+"p": 0.447,
+"dk": 2.319
+}
+]
 }
 }

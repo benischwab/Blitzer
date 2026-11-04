@@ -1,28 +1,21 @@
-ÄNDERUNGEN:
-• IND @ MEM: Scotty Pippen Jr. fällt NEU aus
-• UTAH @ NO: Dejounte Murray wieder dabei / nicht mehr out
-• UTAH @ NO: Sieg NO 65% → 71%
-• CLE @ OKC: Alex Caruso wieder dabei / nicht mehr out
-• Neue Tipps: Under 233.5 (ATL @ WSH); TOR +4.5 (TOR @ DEN)
-• Gestrichen: Under 234.5 (ATL @ WSH); TOR +5.5 (TOR @ DEN); Under 228.5 (CLE @ OKC)
-
 TIPPS (ab Mindestquote):
-• Under 233.5 (ATL @ WSH) 60% – ab 1.73
-• BKN +3.5 (CHA @ BKN) 56% – ab 1.84
-• TOR +4.5 (TOR @ DEN) 55% – ab 1.87
-• 2er-Kombi: Sieg LAL + Sieg NO – 56%, ab 1.84
+• Sieg MEM (IND @ MEM) 74% – ab 1.39
+• MEM -6.5 (IND @ MEM) 60% – ab 1.72
+• Under 232.5 (ATL @ WSH) 59% – ab 1.75
+• 2er-Kombi: Sieg MEM + Sieg POR – 45%, ab 2.30
+• 3er-Kombi: Sieg NY + Sieg MEM + Sieg POR – 36%, ab 2.84
 
-01:00 PHI@DET: DET 57% · U217.5 52%
-01:00 ATL@WSH: ATL 52% · U233.5 60%
-01:30 MIL@BOS: BOS 80% · O223.5 54%
-01:30 CHA@BKN: CHA 53% · U212.5 51%
+01:00 PHI@DET: DET 59% · U219.5 54%
+01:00 ATL@WSH: ATL 55% · U232.5 59%
+01:30 MIL@BOS: BOS 81% · O223.5 54%
+01:30 CHA@BKN: CHA 55% · U213.5 51%
 01:30 CHI@NY: NY 81% · U233.5 53%
-02:00 IND@MEM: MEM 88%
-02:00 UTAH@NO: NO 71%
-02:00 CLE@OKC: OKC 54% · U227.5 54%
-02:30 MIN@HOU: HOU 72% · O220.5 50%
-03:00 TOR@DEN: DEN 59% · U231.5 52%
-03:00 POR@PHX: POR 59% · O227.5 51%
-03:30 DAL@SA: SA 78% · U227.5 52%
-04:00 LAL@SAC: LAL 79% · U237.5 51%
-04:30 MIA@LAC: LAC 55%
+02:00 IND@MEM: MEM 74% · U229.5 54%
+02:00 UTAH@NO: NO 68% · U232.5 52%
+02:00 CLE@OKC: OKC 58% · U226.5 54%
+02:30 MIN@HOU: HOU 71% · O220.5 50%
+03:00 TOR@DEN: DEN 58% · U231.5 52%
+03:00 POR@PHX: POR 60% · O227.5 51%
+03:30 DAL@SA: SA 80% · U225.5 51%
+04:00 LAL@SAC: LAL 79% · O234.5 51%
+04:30 MIA@LAC: MIA 59% · O233.5 51%

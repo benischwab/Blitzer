@@ -1,29 +1,16 @@
-ÄNDERUNGEN:
-• ATL @ WSH: Jalen Johnson fällt NEU aus
-• ATL @ WSH: Sieg WSH 45% → 51%
-• UTAH @ NO: Trey Murphy III fällt NEU aus
-• CLE @ OKC: Jaylin Williams fällt NEU aus
-• Neue Tipps: Under 229.5 (ATL @ WSH); MIL +12.5 (MIL @ BOS)
-• Gestrichen: Under 230.5 (ATL @ WSH); BKN +3.5 (CHA @ BKN)
-
-TIPPS (ab Mindestquote):
-• Sieg MEM (IND @ MEM) 74% – ab 1.40
-• MEM -6.5 (IND @ MEM) 60% – ab 1.72
-• Under 229.5 (ATL @ WSH) 59% – ab 1.74
-• 2er-Kombi: Sieg LAL + Sieg MEM – 59%, ab 1.75
-• 3er-Kombi: Sieg LAL + Sieg MEM + Sieg NO – 38%, ab 2.74
-
-01:00 PHI@DET: DET 58% · U219.5 54%
-01:00 ATL@WSH: WSH 51% · U229.5 59%
-01:30 MIL@BOS: BOS 77% · O221.5 51%
-01:30 CHA@BKN: CHA 55% · U213.5 51%
-01:30 CHI@NY: NY 80% · U233.5 54%
-02:00 IND@MEM: MEM 74% · U228.5 54%
-02:00 UTAH@NO: NO 64% · U231.5 53%
-02:00 CLE@OKC: OKC 57% · U226.5 54%
-02:30 MIN@HOU: HOU 72% · O218.5 50%
-03:00 TOR@DEN: DEN 59% · U231.5 52%
-03:00 POR@PHX: POR 60% · O227.5 51%
-03:30 DAL@SA: SA 80% · U226.5 52%
-04:00 LAL@SAC: LAL 80% · O233.5 52%
-04:30 MIA@LAC: MIA 60% · O233.5 51%
+Sieger 9/14 richtig · Ø-Fehler Total 8 Pkt · O/U 6/14
+❌ PHI 112–106 DET (Prog. DET 58%)
+❌ ATL 120–105 WSH (Prog. WSH 51%)
+✅ MIL 102–109 BOS (Prog. BOS 77%)
+❌ CHA 104–114 BKN (Prog. CHA 55%)
+✅ CHI 105–135 NY (Prog. NY 80%)
+❌ IND 107–103 MEM (Prog. MEM 74%)
+✅ UTAH 113–120 NO (Prog. NO 64%)
+✅ CLE 116–124 OKC (Prog. OKC 57%)
+❌ MIN 117–107 HOU (Prog. HOU 72%)
+✅ TOR 109–128 DEN (Prog. DEN 59%)
+✅ POR 132–119 PHX (Prog. POR 60%)
+✅ DAL 111–112 SA (Prog. SA 80%)
+✅ LAL 116–103 SAC (Prog. LAL 80%)
+✅ MIA 117–116 LAC (Prog. MIA 60%)
+Tipps: 3/5 · +0.72 Fr.

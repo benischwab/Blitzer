@@ -12,7 +12,7 @@
 "dtd": [],
 "spread": -2.5,
 "total": 219.5,
-"p_home": 0.5886
+"p_home": 0.5815
 },
 "401909923": {
 "matchup": "ATL @ WSH",
@@ -20,6 +20,7 @@
 "away": "ATL",
 "out": [
 "Henri Veesaar",
+"Jalen Johnson",
 "Jamir Watkins",
 "Jock Landale",
 "Justin Champagnie",
@@ -27,14 +28,10 @@
 "Reece Beekman",
 "Tristan Vukcevic"
 ],
-"dtd": [
-"Alex Sarr",
-"Bilal Coulibaly",
-"Jalen Johnson"
-],
-"spread": 2.5,
-"total": 230.5,
-"p_home": 0.4457
+"dtd": [],
+"spread": 1.5,
+"total": 229.5,
+"p_home": 0.5064
 },
 "401909924": {
 "matchup": "MIL @ BOS",
@@ -45,12 +42,11 @@
 "Jayson Tatum"
 ],
 "dtd": [
-"Kam Jones",
-"Payton Pritchard"
+"Kam Jones"
 ],
-"spread": -11.5,
+"spread": -12.5,
 "total": 221.5,
-"p_home": 0.7615
+"p_home": 0.7693
 },
 "401909925": {
 "matchup": "CHA @ BKN",
@@ -61,9 +57,7 @@
 "Grant Williams",
 "Tyler Bilodeau"
 ],
-"dtd": [
-"Coby White"
-],
+"dtd": [],
 "spread": 3.5,
 "total": 213.5,
 "p_home": 0.4509
@@ -100,7 +94,7 @@
 ],
 "spread": -6.5,
 "total": 228.5,
-"p_home": 0.7378
+"p_home": 0.7377
 },
 "401909928": {
 "matchup": "UTAH @ NO",
@@ -111,15 +105,15 @@
 "Jordan Poole",
 "Jusuf Nurkic",
 "Trey Alexander",
+"Trey Murphy III",
 "Yves Missi"
 ],
 "dtd": [
-"Mo Bamba",
-"Trey Murphy III"
+"Mo Bamba"
 ],
-"spread": -4.5,
+"spread": -5.5,
 "total": 231.5,
-"p_home": 0.6625
+"p_home": 0.6369
 },
 "401909929": {
 "matchup": "CLE @ OKC",
@@ -129,17 +123,16 @@
 "Cason Wallace",
 "Chet Holmgren",
 "Jalen Williams",
+"Jaylin Williams",
 "Jaylon Tyson",
 "Nikola Topic",
 "Peyton Watson",
 "Thomas Sorber"
 ],
-"dtd": [
-"Jaylin Williams"
-],
+"dtd": [],
 "spread": -3.5,
 "total": 226.5,
-"p_home": 0.5761
+"p_home": 0.571
 },
 "401909930": {
 "matchup": "MIN @ HOU",
@@ -191,7 +184,7 @@
 ],
 "spread": 2.5,
 "total": 227.5,
-"p_home": 0.4048
+"p_home": 0.4049
 },
 "401909933": {
 "matchup": "DAL @ SA",
@@ -209,7 +202,7 @@
 "dtd": [],
 "spread": -12.5,
 "total": 226.5,
-"p_home": 0.7918
+"p_home": 0.7951
 },
 "401909934": {
 "matchup": "LAL @ SAC",
@@ -223,9 +216,9 @@
 "Maxime Raynaud"
 ],
 "dtd": [],
-"spread": 11.5,
+"spread": 12.5,
 "total": 233.5,
-"p_home": 0.2048
+"p_home": 0.2013
 },
 "401909935": {
 "matchup": "MIA @ LAC",
@@ -248,9 +241,9 @@
 "_tips": [
 "Sieg MEM (IND @ MEM)",
 "MEM -6.5 (IND @ MEM)",
-"Under 230.5 (ATL @ WSH)",
+"Under 229.5 (ATL @ WSH)",
 "LAC +5.5 (MIA @ LAC)",
-"BKN +3.5 (CHA @ BKN)"
+"MIL +12.5 (MIL @ BOS)"
 ],
 "_game_day": "2026-11-04"
 }

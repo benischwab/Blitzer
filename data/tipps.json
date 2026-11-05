@@ -183,30 +183,30 @@
 "p_over": 0.5091
 },
 "401909936": {
-"p_home": 0.5271,
+"p_home": 0.5332,
 "margin": 1.99,
-"total": 223.58,
+"total": 222.87,
 "matchup": "ORL @ PHX",
 "home": "PHX",
 "away": "ORL",
 "day": "2026-11-05",
 "home_spread": -1.5,
 "p_cover": 0.5149,
-"line_total": 222.5,
-"p_over": 0.5232
+"line_total": 221.5,
+"p_over": 0.5296
 },
 "401909937": {
-"p_home": 0.7041,
-"margin": 7.49,
-"total": 234.46,
+"p_home": 0.6995,
+"margin": 6.79,
+"total": 233.75,
 "matchup": "MIA @ GS",
 "home": "GS",
 "away": "MIA",
 "day": "2026-11-05",
-"home_spread": -7.5,
-"p_cover": 0.4998,
-"line_total": 233.5,
-"p_over": 0.5207
+"home_spread": -6.5,
+"p_cover": 0.5089,
+"line_total": 232.5,
+"p_over": 0.527
 }
 },
 "singles": {

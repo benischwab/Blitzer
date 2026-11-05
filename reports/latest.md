@@ -1,6 +1,13 @@
 # NBA-Tipps für die Nacht 05.11.–06.11.2026
 
-Stand: Do 05.11. 21:14 Uhr · 2 Spiele · Datenbasis: 121 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.5 Pkt/Team
+Stand: Do 05.11. 23:51 Uhr · 2 Spiele · Datenbasis: 121 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.5 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- ORL @ PHX: Jordan Goodwin fällt NEU aus
+- ORL @ PHX: Rasheer Fleming fällt NEU aus
+- MIA @ GS: Handicap GS -6.5 → -3.5
+- MIA @ GS: Total 232.5 → 235.5
+- MIA @ GS: Sieg GS 70% → 62%
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,7 +17,7 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Sieg GS | MIA @ GS | 70% | 1.37 | -4.1% | **1.47** | _(nur mit besserer Quote)_
+| Sieg GS | MIA @ GS | 62% | 1.62 | +1.2% | **1.65** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Keine passende Kombi heute.
@@ -29,9 +36,8 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- ORL @ PHX: Over 221.5 — Modell-Total 226.1 (59%)
-- MIA @ GS: Over 232.5 — Modell-Total 236.7 (58%)
-- ORL @ PHX: Sieg PHX — Modell 59% vs. Markt 51%
+- MIA @ GS: Handicap GS -3.5 — Modell 61%
+- MIA @ GS: Sieg GS — Modell 70% vs. Markt 59%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 9/14 richtig (64%), Brier 0.210
@@ -70,13 +76,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### ORL @ PHX — Fr 03:00 Uhr
-**Sieg:** PHX 53% (faire Quote 1.88) · ORL 47% (2.14) — Markt PHX 51%
-**Prognose:** PHX 112.4 – ORL 110.4 (Diff. PHX +2.0, Total 222.9)
-**Handicap** PHX -1.5: PHX deckt 51% · ORL +1.5 deckt 49%
-**Over/Under 221.5:** Over 53% (1.89) · Under 47% (2.13)
+**Sieg:** PHX 53% (faire Quote 1.90) · ORL 47% (2.11) — Markt PHX 52%
+**Prognose:** PHX 112.4 – ORL 110.8 (Diff. PHX +1.6, Total 223.1)
+**Handicap** PHX -1.5: PHX deckt 50% · ORL +1.5 deckt 50%
+**Over/Under 222.5:** Over 51% (1.95) · Under 49% (2.06)
 **Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** PHX SNNNN (-5.0) · ORL SNSNN (-6.8)
-_PHX spielt Back-to-Back · PHX out: Mark Williams · PHX fraglich: Jordan Goodwin*, Rasheer Fleming* · ORL out: Jonathan Isaac*, Jalen Suggs, Paolo Banchero, Noah Penda, Izaiyah Nelson_ (* = Meldung der letzten 24 h)
+_PHX spielt Back-to-Back · PHX out: Rasheer Fleming*, Jordan Goodwin*, Mark Williams · ORL out: Jonathan Isaac*, Jalen Suggs, Paolo Banchero, Noah Penda, Izaiyah Nelson_ (* = Meldung der letzten 24 h)
 > 📰 Suns take on the Magic on 4-game skid
 > 📰 Lillard and Clingan power Trail Blazers past Suns 132-119 to win 5th in a row on road
 
@@ -92,11 +98,11 @@ _PHX spielt Back-to-Back · PHX out: Mark Williams · PHX fraglich: Jordan Goodw
 | Tristan da Silva (ORL) | 30 | 14.9 (12.5 / 15.5) | 3.7 | 1.7 | 3.4 | 20.2 |
 
 ### MIA @ GS — Fr 04:00 Uhr
-**Sieg:** GS 70% (faire Quote 1.43) · MIA 30% (3.33) — Markt GS 70%
-**Prognose:** GS 120.3 – MIA 113.5 (Diff. GS +6.8, Total 233.8)
-**Handicap** GS -6.5: GS deckt 51% · MIA +6.5 deckt 49%
-**Over/Under 232.5:** Over 53% (1.90) · Under 47% (2.11)
-**Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 237.5 (≥57%)
+**Sieg:** GS 62% (faire Quote 1.60) · MIA 38% (2.66) — Markt GS 59%
+**Prognose:** GS 120.3 – MIA 115.6 (Diff. GS +4.7, Total 235.9)
+**Handicap** GS -3.5: GS deckt 54% · MIA +3.5 deckt 46%
+**Over/Under 235.5:** Over 51% (1.97) · Under 49% (2.03)
+**Total-Faustregel:** Over lohnt bis 232.5 · Under lohnt ab 239.5 (≥57%)
 **Form (letzte 5):** GS SSSSS (+11.4) · MIA NSSNS (+1.6)
 _GS out: Gui Santos*, Kristaps Porzingis, Moses Moody, Jimmy Butler III · MIA spielt Back-to-Back_ (* = Meldung der letzten 24 h)
 > 📰 2027 NBA draft big board rankings: Top 100 prospects

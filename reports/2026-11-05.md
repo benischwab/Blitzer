@@ -1,13 +1,6 @@
 # NBA-Tipps für die Nacht 05.11.–06.11.2026
 
-Stand: Do 05.11. 23:51 Uhr · 2 Spiele · Datenbasis: 121 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.5 Pkt/Team
-
-## Änderungen seit dem letzten Bericht
-- ORL @ PHX: Jordan Goodwin fällt NEU aus
-- ORL @ PHX: Rasheer Fleming fällt NEU aus
-- MIA @ GS: Handicap GS -6.5 → -3.5
-- MIA @ GS: Total 232.5 → 235.5
-- MIA @ GS: Sieg GS 70% → 62%
+Stand: Fr 06.11. 01:02 Uhr · 2 Spiele · Datenbasis: 121 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.5 Pkt/Team
 
 ## Wett-Vorschläge: sicher und profitabel
 

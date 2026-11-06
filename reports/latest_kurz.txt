@@ -1,21 +1,26 @@
 ÄNDERUNGEN:
-• WSH @ ATL: Jalen Johnson fällt NEU aus
-• Neue Tipps: Under 227.5 (WSH @ ATL); WSH +8.5 (WSH @ ATL)
-• Gestrichen: Under 228.5 (WSH @ ATL)
+• WSH @ ATL: Anthony Davis fällt NEU aus
+• PHI @ CLE: Adem Bona fällt NEU aus
+• UTAH @ DAL: Santi Aldama wieder dabei / nicht mehr out
+• TOR @ MIL: Immanuel Quickley fällt NEU aus
+• TOR @ MIL: Scottie Barnes fällt NEU aus
+• TOR @ MIL: Sieg MIL 37% → 46%
+• Neue Tipps: MIL +3.5 (TOR @ MIL); Under 224.5 (OKC @ MEM)
+• Gestrichen: WSH +8.5 (WSH @ ATL)
 
 TIPPS (ab Mindestquote):
+• Under 227.5 (WSH @ ATL) 60% – ab 1.71
 • MEM +4.5 (OKC @ MEM) 60% – ab 1.73
 • SAC +17.5 (SA @ SAC) 57% – ab 1.80
-• Under 227.5 (WSH @ ATL) 57% – ab 1.80
-• 2er-Kombi: Sieg BOS + Sieg DAL – 55%, ab 1.86
-• 3er-Kombi: Sieg BOS + Sieg DAL + Sieg TOR – 35%, ab 2.94
+• 2er-Kombi: Under 227.5 + Sieg SA – 51%, ab 2.01
+• 3er-Kombi: Under 227.5 + Sieg DAL + Sieg SA – 36%, ab 2.84
 
-01:00 WSH@ATL: ATL 69% · U227.5 57%
-01:00 BOS@CHA: BOS 78% · U208.5 50%
-01:30 PHI@CLE: PHI 56% · U231.5 52%
+01:00 WSH@ATL: ATL 72% · U227.5 60%
+01:00 BOS@CHA: BOS 78% · U209.5 51%
+01:30 PHI@CLE: PHI 56% · U232.5 53%
 02:00 UTAH@DAL: DAL 71% · U225.5 53%
-02:00 OKC@MEM: OKC 53% · U223.5 55%
-02:00 TOR@MIL: TOR 63% · O228.5 52%
+02:00 OKC@MEM: OKC 53% · U224.5 55%
+02:00 TOR@MIL: TOR 54% · U228.5 53%
 02:00 MIN@NO: MIN 57% · U230.5 51%
 04:00 POR@LAL: LAL 57% · O231.5 50%
 04:00 SA@SAC: SA 85% · U231.5 52%

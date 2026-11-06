@@ -1,11 +1,16 @@
 # NBA-Tipps für die Nacht 06.11.–07.11.2026
 
-Stand: Fr 06.11. 23:44 Uhr · 9 Spiele · Datenbasis: 123 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Sa 07.11. 00:58 Uhr · 9 Spiele · Datenbasis: 123 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- WSH @ ATL: Jalen Johnson fällt NEU aus
-- Neue Tipps: Under 227.5 (WSH @ ATL); WSH +8.5 (WSH @ ATL)
-- Gestrichen: Under 228.5 (WSH @ ATL)
+- WSH @ ATL: Anthony Davis fällt NEU aus
+- PHI @ CLE: Adem Bona fällt NEU aus
+- UTAH @ DAL: Santi Aldama wieder dabei / nicht mehr out
+- TOR @ MIL: Immanuel Quickley fällt NEU aus
+- TOR @ MIL: Scottie Barnes fällt NEU aus
+- TOR @ MIL: Sieg MIL 37% → 46%
+- Neue Tipps: MIL +3.5 (TOR @ MIL); Under 224.5 (OKC @ MEM)
+- Gestrichen: WSH +8.5 (WSH @ ATL)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -15,21 +20,22 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
+| Under 227.5 | WSH @ ATL | 60% | 1.93 | +16.2% | **1.71** |
 | MEM +4.5 | OKC @ MEM | 60% | 1.85 | +10.5% | **1.73** |
 | SAC +17.5 | SA @ SAC | 57% | 1.91 | +9.1% | **1.80** |
-| Under 227.5 | WSH @ ATL | 57% | 1.88 | +7.6% | **1.80** |
-| WSH +8.5 | WSH @ ATL | 55% | 1.94 | +6.9% | **1.87** |
+| MIL +3.5 | TOR @ MIL | 56% | 1.87 | +4.9% | **1.84** |
+| Under 224.5 | OKC @ MEM | 55% | 1.87 | +3.6% | **1.86** |
 
 **Sichere 2er-Kombi**
-- Sieg BOS (BOS @ CHA) — 78%, DK 1.24
-- Sieg DAL (UTAH @ DAL) — 71%, DK 1.38
-- **Trefferchance 55%** · DK-Quote 1.70 (-5.4%) · **lohnt ab Sporttip-Gesamtquote 1.86** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Under 227.5 (WSH @ ATL) — 60%, DK 1.93
+- Sieg SA (SA @ SAC) — 85%, DK 1.07
+- **Trefferchance 51%** · DK-Quote 2.07 (+6.2%) · **lohnt ab Sporttip-Gesamtquote 2.01** · _profitabel zur DK-Quote_
 
 **3er-Kombi (höhere Quote)**
-- Sieg BOS (BOS @ CHA) — 78%, DK 1.24
-- Sieg DAL (UTAH @ DAL) — 71%, DK 1.38
-- Sieg TOR (TOR @ MIL) — 63%, DK 1.54
-- **Trefferchance 35%** · DK-Quote 2.63 (-7.7%) · **lohnt ab Sporttip-Gesamtquote 2.94** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Under 227.5 (WSH @ ATL) — 60%, DK 1.93
+- Sieg DAL (UTAH @ DAL) — 71%, DK 1.39
+- Sieg SA (SA @ SAC) — 85%, DK 1.07
+- **Trefferchance 36%** · DK-Quote 2.87 (+4.4%) · **lohnt ab Sporttip-Gesamtquote 2.84** · _profitabel zur DK-Quote_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Deni Avdija (POR, POR @ LAL): über 30.5 P+R+A — 78% · lohnt ab Quote **1.31**
@@ -42,12 +48,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- OKC @ MEM: Sieg MEM — Modell 66% vs. Markt 39%
+- WSH @ ATL: Under 227.5 — Modell-Total 211.3 (78%)
+- OKC @ MEM: Sieg MEM — Modell 66% vs. Markt 38%
 - OKC @ MEM: Handicap MEM +4.5 — Modell 77%
 - SA @ SAC: Handicap SAC +17.5 — Modell 70%
-- WSH @ ATL: Under 227.5 — Modell-Total 216.5 (70%)
-- WSH @ ATL: Sieg WSH — Modell 42% vs. Markt 27%
-- WSH @ ATL: Handicap WSH +8.5 — Modell 65%
+- TOR @ MIL: Sieg MIL — Modell 59% vs. Markt 41%
+- TOR @ MIL: Handicap MIL +3.5 — Modell 68%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 11/16 richtig (69%), Brier 0.207
@@ -66,13 +72,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### WSH @ ATL — Sa 01:00 Uhr
-**Sieg:** ATL 69% (faire Quote 1.45) · WSH 31% (3.21) — Markt ATL 73%
-**Prognose:** ATL 115.5 – WSH 108.7 (Diff. ATL +6.9, Total 224.2)
-**Handicap** ATL -8.5: ATL deckt 45% · WSH +8.5 deckt 55%
-**Over/Under 227.5:** Over 43% (2.33) · Under 57% (1.75)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
+**Sieg:** ATL 72% (faire Quote 1.38) · WSH 28% (3.60) — Markt ATL 73%
+**Prognose:** ATL 115.5 – WSH 107.1 (Diff. ATL +8.4, Total 222.6)
+**Handicap** ATL -8.5: ATL deckt 50% · WSH +8.5 deckt 50%
+**Over/Under 227.5:** Over 40% (2.52) · Under 60% (1.66)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** ATL NSNSS (-2.4) · WSH NNSSN (-1.4)
-_ATL out: Jalen Johnson*, Keshon Gilbert, Asa Newell, Jock Landale, Mouhamed Gueye, Henri Veesaar · WSH out: Reece Beekman, Tristan Vukcevic, Justin Champagnie, Jamir Watkins · WSH fraglich: Anthony Davis*_ (* = Meldung der letzten 24 h)
+_ATL out: Jalen Johnson*, Keshon Gilbert, Asa Newell, Jock Landale, Mouhamed Gueye, Henri Veesaar · WSH out: Anthony Davis*, Reece Beekman, Tristan Vukcevic, Justin Champagnie, Jamir Watkins_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -80,17 +86,17 @@ _ATL out: Jalen Johnson*, Keshon Gilbert, Asa Newell, Jock Landale, Mouhamed Gue
 | CJ McCollum (ATL) | 27 | 13.8 (11.5 / 14.5) | 3.4 | 4.5 | 1.9 | 21.7 |
 | Aaron Wiggins (ATL) | 26 | 13.3 (11.5 / 14.5) | 3.7 | 2.0 | 2.6 | 19.0 |
 | Onyeka Okongwu (ATL) | 30 | 12.5 (9.5 / 12.5) | 9.2 | 2.7 | 1.4 | 24.3 |
-| Anthony Davis (WSH) | 33 | 23.5 (20.5 / 24.5) | 9.3 | 2.1 | 0.8 | 34.9 |
 | Trae Young (WSH) | 36 | 19.2 (17.5 / 20.5) | 3.5 | 9.1 | 1.8 | 31.8 |
 | Kyshawn George (WSH) | 33 | 17.6 (14.5 / 18.5) | 4.1 | 5.0 | 2.1 | 26.7 |
 | AJ Dybantsa (WSH) | 31 | 16.1 (13.5 / 16.5) | 5.1 | 2.0 | 0.7 | 23.3 |
+| Alex Sarr (WSH) | 25 | 9.7 (7.5 / 10.5) | 6.1 | 1.8 | 0.6 | 17.7 |
 
 ### BOS @ CHA — Sa 01:00 Uhr
 **Sieg:** CHA 22% (faire Quote 4.55) · BOS 78% (1.28) — Markt CHA 22%
-**Prognose:** CHA 98.7 – BOS 109.6 (Diff. BOS +10.8, Total 208.3)
+**Prognose:** CHA 99.1 – BOS 109.9 (Diff. BOS +10.8, Total 209.0)
 **Handicap** CHA +10.5: CHA deckt 49% · BOS -10.5 deckt 51%
-**Over/Under 208.5:** Over 50% (2.02) · Under 50% (1.98)
-**Total-Faustregel:** Over lohnt bis 204.5 · Under lohnt ab 212.5 (≥57%)
+**Over/Under 209.5:** Over 49% (2.04) · Under 51% (1.96)
+**Total-Faustregel:** Over lohnt bis 205.5 · Under lohnt ab 212.5 (≥57%)
 **Form (letzte 5):** CHA NNNNN (-14.4) · BOS SSSNS (+3.4)
 _CHA out: Dennis Schroder*, Moussa Diabate*, Kon Knueppel, Grant Williams · BOS out: Devin Carter_ (* = Meldung der letzten 24 h)
 > 📰 2027 NBA draft big board rankings: Top 100 prospects
@@ -107,13 +113,13 @@ _CHA out: Dennis Schroder*, Moussa Diabate*, Kon Knueppel, Grant Williams · BOS
 | Payton Pritchard (BOS) | 26 | 12.3 (7.5 / 11.5) | 2.8 | 3.7 | 1.4 | 18.8 |
 
 ### PHI @ CLE — Sa 01:30 Uhr
-**Sieg:** CLE 44% (faire Quote 2.25) · PHI 56% (1.80) — Markt CLE 43%
-**Prognose:** CLE 114.3 – PHI 116.2 (Diff. PHI +1.9, Total 230.5)
+**Sieg:** CLE 44% (faire Quote 2.27) · PHI 56% (1.79) — Markt CLE 42%
+**Prognose:** CLE 114.6 – PHI 116.5 (Diff. PHI +1.9, Total 231.2)
 **Handicap** CLE +2.5: CLE deckt 52% · PHI -2.5 deckt 48%
-**Over/Under 231.5:** Over 48% (2.09) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 226.5 · Under lohnt ab 234.5 (≥57%)
+**Over/Under 232.5:** Over 47% (2.12) · Under 53% (1.89)
+**Total-Faustregel:** Over lohnt bis 227.5 · Under lohnt ab 234.5 (≥57%)
 **Form (letzte 5):** CLE SNSNN (+3.8) · PHI SSSSS (+8.0)
-_CLE out: Jaylon Tyson · CLE fraglich: Tyrese Proctor, Peyton Watson, Jarrett Allen · PHI out: Dominick Barlow, Ariel Hukporti · PHI fraglich: Adem Bona_
+_CLE out: Jaylon Tyson · CLE fraglich: Peyton Watson, Jarrett Allen · PHI out: Adem Bona*, Dominick Barlow, Ariel Hukporti_ (* = Meldung der letzten 24 h)
 > 📰 LeBron James vs. Cleveland: Top performances against Cavaliers
 > 📰 Inside LeBron's first game in Philly -- more than two decades ago
 
@@ -129,13 +135,13 @@ _CLE out: Jaylon Tyson · CLE fraglich: Tyrese Proctor, Peyton Watson, Jarrett A
 | LeBron James (PHI) | 33 | 16.1 (14.5 / 16.5) | 7.5 | 7.6 | 0.9 | 31.3 |
 
 ### UTAH @ DAL — Sa 02:00 Uhr
-**Sieg:** DAL 71% (faire Quote 1.41) · UTAH 29% (3.46) — Markt DAL 70%
+**Sieg:** DAL 71% (faire Quote 1.41) · UTAH 29% (3.41) — Markt DAL 69%
 **Prognose:** DAL 115.7 – UTAH 108.3 (Diff. DAL +7.4, Total 224.0)
 **Handicap** DAL -6.5: DAL deckt 53% · UTAH +6.5 deckt 47%
 **Over/Under 225.5:** Over 47% (2.14) · Under 53% (1.88)
 **Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** DAL SSSNN (+3.4) · UTAH NNNNN (-12.4)
-_DAL out: Sergio de Larrea, Santi Aldama, Tarik Biberovic, Dereck Lively II · DAL fraglich: Kyrie Irving*, Max Christie · UTAH out: Jusuf Nurkic*, Jaren Jackson Jr., Trey Alexander_ (* = Meldung der letzten 24 h)
+_DAL out: Sergio de Larrea, Tarik Biberovic, Dereck Lively II · UTAH out: Jusuf Nurkic*, Jaren Jackson Jr., Trey Alexander_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -149,13 +155,13 @@ _DAL out: Sergio de Larrea, Santi Aldama, Tarik Biberovic, Dereck Lively II · D
 | Ace Bailey (UTAH) | 31 | 12.3 (9.5 / 12.5) | 7.1 | 1.9 | 1.3 | 21.2 |
 
 ### OKC @ MEM — Sa 02:00 Uhr
-**Sieg:** MEM 47% (faire Quote 2.12) · OKC 53% (1.90) — Markt MEM 39%
-**Prognose:** MEM 110.0 – OKC 111.3 (Diff. OKC +1.3, Total 221.3)
+**Sieg:** MEM 47% (faire Quote 2.14) · OKC 53% (1.87) — Markt MEM 38%
+**Prognose:** MEM 110.3 – OKC 111.7 (Diff. OKC +1.3, Total 222.0)
 **Handicap** MEM +4.5: MEM deckt 60% · OKC -4.5 deckt 40%
-**Over/Under 223.5:** Over 45% (2.21) · Under 55% (1.83)
-**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 225.5 (≥57%)
+**Over/Under 224.5:** Over 45% (2.24) · Under 55% (1.80)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** MEM SSSNN (+10.4) · OKC SNNSS (-4.2)
-_MEM out: Isaiah Stewart*, Scotty Pippen Jr.* · OKC out: Jaylin Williams*, Nikola Topic, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams_ (* = Meldung der letzten 24 h)
+_MEM out: Isaiah Stewart, Scotty Pippen Jr. · OKC out: Jaylin Williams, Nikola Topic, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams_
 > 📰 Windhorst & MacMahon: What league insiders are seeing from Philly's 8-1 start
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -170,13 +176,13 @@ _MEM out: Isaiah Stewart*, Scotty Pippen Jr.* · OKC out: Jaylin Williams*, Niko
 | Isaiah Hartenstein (OKC) | 25 | 7.8 (5.5 / 8.5) | 10.6 | 2.6 | 0.0 | 20.9 |
 
 ### TOR @ MIL — Sa 02:00 Uhr
-**Sieg:** MIL 37% (faire Quote 2.72) · TOR 63% (1.58) — Markt MIL 38%
-**Prognose:** MIL 112.4 – TOR 117.3 (Diff. TOR +4.9, Total 229.6)
-**Handicap** MIL +4.5: MIL deckt 49% · TOR -4.5 deckt 51%
-**Over/Under 228.5:** Over 52% (1.91) · Under 48% (2.10)
-**Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
+**Sieg:** MIL 46% (faire Quote 2.17) · TOR 54% (1.85) — Markt MIL 41%
+**Prognose:** MIL 112.7 – TOR 114.2 (Diff. TOR +1.5, Total 226.9)
+**Handicap** MIL +3.5: MIL deckt 56% · TOR -3.5 deckt 44%
+**Over/Under 228.5:** Over 47% (2.15) · Under 53% (1.87)
+**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** MIL SNNNN (-13.6) · TOR SNNSN (+1.0)
-_MIL fraglich: Kam Jones* · TOR out: Kawhi Leonard, Nate Bittle · TOR fraglich: Jakob Poeltl*, Immanuel Quickley*, Scottie Barnes*, Kyle Anderson*_ (* = Meldung der letzten 24 h)
+_MIL fraglich: Kam Jones* · TOR out: Scottie Barnes*, Immanuel Quickley*, Kawhi Leonard, Nate Bittle · TOR fraglich: Kyle Anderson*_ (* = Meldung der letzten 24 h)
 > 📰 Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -185,9 +191,7 @@ _MIL fraglich: Kam Jones* · TOR out: Kawhi Leonard, Nate Bittle · TOR fraglich
 | Jaime Jaquez Jr. (MIL) | 28 | 16.7 (14.5 / 17.5) | 6.3 | 2.7 | 2.0 | 25.7 |
 | Ryan Rollins (MIL) | 24 | 11.3 (9.5 / 11.5) | 4.8 | 4.5 | 1.5 | 20.6 |
 | Kyle Kuzma (MIL) | 26 | 9.2 (6.5 / 9.5) | 5.9 | 3.0 | 1.2 | 18.1 |
-| Scottie Barnes (TOR) | 34 | 24.7 (20.5 / 25.5) | 7.7 | 5.3 | 0.5 | 37.6 |
 | RJ Barrett (TOR) | 33 | 21.9 (19.5 / 22.5) | 6.0 | 3.9 | 2.0 | 31.8 |
-| Immanuel Quickley (TOR) | 32 | 18.1 (15.5 / 18.5) | 3.5 | 5.7 | 2.7 | 27.3 |
 | Ja'Kobe Walter (TOR) | 30 | 11.6 (9.5 / 12.5) | 3.7 | 2.5 | 2.2 | 17.8 |
 
 ### MIN @ NO — Sa 02:00 Uhr

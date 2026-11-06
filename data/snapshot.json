@@ -20,25 +20,23 @@
 ],
 "spread": -7.5,
 "total": 228.5,
-"p_home": 0.7024
+"p_home": 0.7034
 },
 "401909288": {
 "matchup": "BOS @ CHA",
 "home": "CHA",
 "away": "BOS",
 "out": [
+"Dennis Schroder",
 "Devin Carter",
 "Grant Williams",
-"Kon Knueppel"
+"Kon Knueppel",
+"Moussa Diabate"
 ],
-"dtd": [
-"Dennis Schroder",
-"Moussa Diabate",
-"Payton Pritchard"
-],
-"spread": 8.5,
-"total": 207.5,
-"p_home": 0.2778
+"dtd": [],
+"spread": 9.5,
+"total": 208.5,
+"p_home": 0.2318
 },
 "401909289": {
 "matchup": "PHI @ CLE",
@@ -56,8 +54,8 @@
 "Tyrese Proctor"
 ],
 "spread": 2.5,
-"total": 230.5,
-"p_home": 0.4454
+"total": 231.5,
+"p_home": 0.4446
 },
 "401909290": {
 "matchup": "UTAH @ DAL",
@@ -73,11 +71,12 @@
 "Trey Alexander"
 ],
 "dtd": [
+"Kyrie Irving",
 "Max Christie"
 ],
-"spread": -7.5,
-"total": 224.5,
-"p_home": 0.7176
+"spread": -6.5,
+"total": 225.5,
+"p_home": 0.7111
 },
 "401909291": {
 "matchup": "OKC @ MEM",
@@ -96,7 +95,7 @@
 "dtd": [],
 "spread": 4.5,
 "total": 223.5,
-"p_home": 0.4758
+"p_home": 0.4726
 },
 "401909292": {
 "matchup": "TOR @ MIL",
@@ -107,13 +106,15 @@
 "Nate Bittle"
 ],
 "dtd": [
+"Immanuel Quickley",
+"Jakob Poeltl",
 "Kam Jones",
 "Kyle Anderson",
 "Scottie Barnes"
 ],
-"spread": 6.5,
-"total": 230.5,
-"p_home": 0.3191
+"spread": 4.5,
+"total": 229.5,
+"p_home": 0.3677
 },
 "401909293": {
 "matchup": "MIN @ NO",
@@ -122,15 +123,13 @@
 "out": [
 "Anthony Edwards",
 "Donte DiVincenzo",
+"Terrence Shannon Jr.",
 "Yves Missi"
 ],
-"dtd": [
-"Terrence Shannon Jr.",
-"Trey Murphy III"
-],
-"spread": 4.5,
+"dtd": [],
+"spread": 3.5,
 "total": 230.5,
-"p_home": 0.4076
+"p_home": 0.4316
 },
 "401909294": {
 "matchup": "POR @ LAL",
@@ -144,9 +143,9 @@
 "dtd": [
 "Sandro Mamukelashvili"
 ],
-"spread": -2.5,
+"spread": -3.5,
 "total": 231.5,
-"p_home": 0.574
+"p_home": 0.5736
 },
 "401909295": {
 "matchup": "SA @ SAC",
@@ -160,13 +159,13 @@
 "Tobias Harris"
 ],
 "dtd": [],
-"spread": 16.5,
-"total": 229.5,
-"p_home": 0.1555
+"spread": 17.5,
+"total": 231.5,
+"p_home": 0.1494
 },
 "_tips": [
 "MEM +4.5 (OKC @ MEM)",
-"SAC +16.5 (SA @ SAC)",
+"SAC +17.5 (SA @ SAC)",
 "Under 228.5 (WSH @ ATL)"
 ],
 "_game_day": "2026-11-06"

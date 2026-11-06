@@ -1,16 +1,25 @@
+ÄNDERUNGEN:
+• BOS @ CHA: Dennis Schroder fällt NEU aus
+• BOS @ CHA: Moussa Diabate fällt NEU aus
+• TOR @ MIL: Handicap MIL +6.5 → +4.5
+• MIN @ NO: Terrence Shannon Jr. fällt NEU aus
+• SA @ SAC: Total 229.5 → 231.5
+• Neue Tipps: SAC +17.5 (SA @ SAC)
+• Gestrichen: SAC +16.5 (SA @ SAC)
+
 TIPPS (ab Mindestquote):
 • MEM +4.5 (OKC @ MEM) 60% – ab 1.73
-• SAC +16.5 (SA @ SAC) 56% – ab 1.83
+• SAC +17.5 (SA @ SAC) 57% – ab 1.80
 • Under 228.5 (WSH @ ATL) 56% – ab 1.85
-• 2er-Kombi: Sieg BOS + Sieg DAL – 52%, ab 1.99
-• 3er-Kombi: Sieg BOS + Sieg DAL + Sieg TOR – 35%, ab 2.92
+• 2er-Kombi: Sieg BOS + Sieg DAL – 55%, ab 1.89
+• 3er-Kombi: Sieg BOS + Sieg DAL + Sieg TOR – 35%, ab 2.98
 
 01:00 WSH@ATL: ATL 70% · U228.5 56%
-01:00 BOS@CHA: BOS 72% · O207.5 53%
-01:30 PHI@CLE: PHI 55% · U230.5 52%
-02:00 UTAH@DAL: DAL 72% · U224.5 53%
-02:00 OKC@MEM: OKC 52% · U223.5 55%
-02:00 TOR@MIL: TOR 68% · O230.5 51%
-02:00 MIN@NO: MIN 59% · U230.5 50%
+01:00 BOS@CHA: BOS 77% · U208.5 50%
+01:30 PHI@CLE: PHI 56% · U231.5 52%
+02:00 UTAH@DAL: DAL 71% · U225.5 53%
+02:00 OKC@MEM: OKC 53% · U223.5 55%
+02:00 TOR@MIL: TOR 63% · O229.5 52%
+02:00 MIN@NO: MIN 57% · U230.5 51%
 04:00 POR@LAL: LAL 57% · O231.5 50%
-04:00 SA@SAC: SA 84% · U229.5 50%
+04:00 SA@SAC: SA 85% · U231.5 52%

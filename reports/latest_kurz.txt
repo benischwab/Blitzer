@@ -1,14 +1,24 @@
-TIPPS (ab Mindestquote):
-• CLE +4.5 (NY @ CLE) 57% – ab 1.81
-• GS -5.5 (ORL @ GS) 57% – ab 1.82
-• Under 222.5 (WSH @ OKC) 56% – ab 1.84
-• 2er-Kombi: Sieg OKC + Sieg HOU – 56%, ab 1.84
-• 3er-Kombi: Sieg HOU + Sieg GS + Sieg DEN – 35%, ab 2.94
+ÄNDERUNGEN:
+• BKN @ ATL: Asa Newell fällt NEU aus
+• BKN @ ATL: Keshon Gilbert fällt NEU aus
+• BKN @ ATL: Tyler Bilodeau wieder dabei / nicht mehr out
+• NY @ CLE: Jarrett Allen fällt NEU aus
+• NY @ CLE: Sam Merrill fällt NEU aus
+• WSH @ OKC: Jaylin Williams fällt NEU aus
+• ORL @ GS: Desmond Bane fällt NEU aus
+• ORL @ GS: Total 222.5 → 220.5
 
-23:00 DEN@IND: DEN 69% · U229.5 54%
-01:30 BKN@ATL: ATL 67% · U226.5 52%
-02:00 NY@CLE: NY 57% · U224.5 52%
-02:00 WSH@OKC: OKC 78% · U222.5 56%
-02:30 ORL@GS: GS 70% · U222.5 51%
-03:00 HOU@PHX: HOU 72% · O223.5 55%
-04:00 SA@POR: SA 61% · U226.5 51%
+TIPPS (ab Mindestquote):
+• Sieg GS (ORL @ GS) 75% – ab 1.36
+• GS -6.5 (ORL @ GS) 59% – ab 1.74
+• Under 222.5 (WSH @ OKC) 56% – ab 1.83
+• 2er-Kombi: Sieg GS + Sieg DEN – 54%, ab 1.90
+• 3er-Kombi: Sieg GS + Sieg DEN + Sieg HOU – 38%, ab 2.68
+
+23:00 DEN@IND: DEN 72% · U229.5 54%
+01:30 BKN@ATL: ATL 68% · U226.5 52%
+02:00 NY@CLE: NY 61% · U224.5 54%
+02:00 WSH@OKC: OKC 79% · U222.5 56%
+02:30 ORL@GS: GS 75% · U220.5 52%
+03:00 HOU@PHX: HOU 71% · O223.5 55%
+04:00 SA@POR: SA 60% · U229.5 52%

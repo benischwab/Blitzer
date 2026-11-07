@@ -324,6 +324,97 @@
 "p_cover": 0.5715,
 "line_total": 231.5,
 "p_over": 0.4831
+},
+"401909938": {
+"p_home": 0.3057,
+"margin": -7.3,
+"total": 227.45,
+"matchup": "DEN @ IND",
+"home": "IND",
+"away": "DEN",
+"day": "2026-11-07",
+"home_spread": 7.5,
+"p_cover": 0.506,
+"line_total": 229.5,
+"p_over": 0.4558
+},
+"401909939": {
+"p_home": 0.6708,
+"margin": 5.67,
+"total": 225.48,
+"matchup": "BKN @ ATL",
+"home": "ATL",
+"away": "BKN",
+"day": "2026-11-07",
+"home_spread": -6.5,
+"p_cover": 0.4744,
+"line_total": 226.5,
+"p_over": 0.478
+},
+"401909940": {
+"p_home": 0.4329,
+"margin": -2.26,
+"total": 223.79,
+"matchup": "NY @ CLE",
+"home": "CLE",
+"away": "NY",
+"day": "2026-11-07",
+"home_spread": 4.5,
+"p_cover": 0.5684,
+"line_total": 224.5,
+"p_over": 0.4848
+},
+"401909941": {
+"p_home": 0.7805,
+"margin": 10.42,
+"total": 219.74,
+"matchup": "WSH @ OKC",
+"home": "OKC",
+"away": "WSH",
+"day": "2026-11-07",
+"home_spread": -11.5,
+"p_cover": 0.4669,
+"line_total": 222.5,
+"p_over": 0.4406
+},
+"401909942": {
+"p_home": 0.7036,
+"margin": 7.7,
+"total": 221.91,
+"matchup": "ORL @ GS",
+"home": "GS",
+"away": "ORL",
+"day": "2026-11-07",
+"home_spread": -5.5,
+"p_cover": 0.5673,
+"line_total": 222.5,
+"p_over": 0.4873
+},
+"401909943": {
+"p_home": 0.2836,
+"margin": -7.23,
+"total": 225.95,
+"matchup": "HOU @ PHX",
+"home": "PHX",
+"away": "HOU",
+"day": "2026-11-07",
+"home_spread": 6.5,
+"p_cover": 0.4775,
+"line_total": 223.5,
+"p_over": 0.5527
+},
+"401909944": {
+"p_home": 0.3903,
+"margin": -3.84,
+"total": 226.26,
+"matchup": "SA @ POR",
+"home": "POR",
+"away": "SA",
+"day": "2026-11-07",
+"home_spread": 5.5,
+"p_cover": 0.5508,
+"line_total": 226.5,
+"p_over": 0.4949
 }
 },
 "singles": {
@@ -431,6 +522,58 @@
 "dk": 1.8695652173913042,
 "label": "Under 224.5"
 }
+],
+"2026-11-07": [
+{
+"game_id": "401909940",
+"matchup": "NY @ CLE",
+"market": "spread",
+"side": "CLE",
+"line": 4.5,
+"p": 0.5684,
+"dk": 1.9090909090909092,
+"label": "CLE +4.5"
+},
+{
+"game_id": "401909942",
+"matchup": "ORL @ GS",
+"market": "spread",
+"side": "GS",
+"line": -5.5,
+"p": 0.5673,
+"dk": 1.8849557522123894,
+"label": "GS -5.5"
+},
+{
+"game_id": "401909941",
+"matchup": "WSH @ OKC",
+"market": "total",
+"side": "under",
+"line": 222.5,
+"p": 0.5594,
+"dk": 1.925925925925926,
+"label": "Under 222.5"
+},
+{
+"game_id": "401909943",
+"matchup": "HOU @ PHX",
+"market": "total",
+"side": "over",
+"line": 223.5,
+"p": 0.5527,
+"dk": 1.8849557522123894,
+"label": "Over 223.5"
+},
+{
+"game_id": "401909944",
+"matchup": "SA @ POR",
+"market": "spread",
+"side": "POR",
+"line": 5.5,
+"p": 0.5508,
+"dk": 1.925925925925926,
+"label": "POR +5.5"
+}
 ]
 },
 "combos": {
@@ -499,6 +642,7 @@
 "p": 0.363,
 "dk": 2.875
 }
-]
+],
+"2026-11-07": []
 }
 }

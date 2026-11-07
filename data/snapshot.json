@@ -12,12 +12,11 @@
 "Mouhamed Gueye"
 ],
 "dtd": [
-"Day'Ron Sharpe",
-"Noah Clowney"
+"Day'Ron Sharpe"
 ],
 "spread": -6.5,
 "total": 226.5,
-"p_home": 0.6989
+"p_home": 0.69
 },
 "401909940": {
 "matchup": "NY @ CLE",
@@ -31,14 +30,15 @@
 ],
 "dtd": [],
 "spread": 4.5,
-"total": 224.5,
-"p_home": 0.3872
+"total": 223.5,
+"p_home": 0.3936
 },
 "401909941": {
 "matchup": "WSH @ OKC",
 "home": "OKC",
 "away": "WSH",
 "out": [
+"Anthony Davis",
 "Cason Wallace",
 "Chet Holmgren",
 "Jalen Williams",
@@ -49,12 +49,10 @@
 "Thomas Sorber",
 "Tristan Vukcevic"
 ],
-"dtd": [
-"Anthony Davis"
-],
-"spread": -11.5,
+"dtd": [],
+"spread": -12.5,
 "total": 223.5,
-"p_home": 0.7769
+"p_home": 0.818
 },
 "401909942": {
 "matchup": "ORL @ GS",
@@ -95,7 +93,7 @@
 ],
 "spread": 6.5,
 "total": 224.5,
-"p_home": 0.2929
+"p_home": 0.293
 },
 "401909944": {
 "matchup": "SA @ POR",
@@ -115,8 +113,8 @@
 "p_home": 0.3866
 },
 "_tips": [
-"GS -7.5 (ORL @ GS)",
-"Under 223.5 (WSH @ OKC)"
+"Under 223.5 (WSH @ OKC)",
+"GS -7.5 (ORL @ GS)"
 ],
 "_game_day": "2026-11-07"
 }

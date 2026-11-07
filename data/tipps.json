@@ -339,82 +339,82 @@
 "p_over": 0.4559
 },
 "401909939": {
-"p_home": 0.6772,
-"margin": 5.66,
-"total": 225.48,
+"p_home": 0.6989,
+"margin": 6.51,
+"total": 226.32,
 "matchup": "BKN @ ATL",
 "home": "ATL",
 "away": "BKN",
 "day": "2026-11-07",
 "home_spread": -6.5,
-"p_cover": 0.4743,
+"p_cover": 0.5002,
 "line_total": 226.5,
-"p_over": 0.478
+"p_over": 0.4961
 },
 "401909940": {
-"p_home": 0.3881,
-"margin": -4.25,
+"p_home": 0.3872,
+"margin": -3.55,
 "total": 222.51,
 "matchup": "NY @ CLE",
 "home": "CLE",
 "away": "NY",
 "day": "2026-11-07",
-"home_spread": 5.5,
-"p_cover": 0.5384,
+"home_spread": 4.5,
+"p_cover": 0.5293,
 "line_total": 224.5,
 "p_over": 0.4572
 },
 "401909941": {
-"p_home": 0.7878,
+"p_home": 0.7769,
 "margin": 10.27,
-"total": 219.59,
+"total": 220.29,
 "matchup": "WSH @ OKC",
 "home": "OKC",
 "away": "WSH",
 "day": "2026-11-07",
 "home_spread": -11.5,
-"p_cover": 0.4623,
-"line_total": 222.5,
-"p_over": 0.4375
+"p_cover": 0.4622,
+"line_total": 223.5,
+"p_over": 0.4312
 },
 "401909942": {
-"p_home": 0.7549,
-"margin": 9.55,
-"total": 219.36,
+"p_home": 0.7595,
+"margin": 10.25,
+"total": 218.66,
 "matchup": "ORL @ GS",
 "home": "GS",
 "away": "ORL",
 "day": "2026-11-07",
-"home_spread": -6.5,
-"p_cover": 0.5929,
-"line_total": 220.5,
-"p_over": 0.4754
+"home_spread": -7.5,
+"p_cover": 0.5839,
+"line_total": 219.5,
+"p_over": 0.4819
 },
 "401909943": {
-"p_home": 0.2901,
+"p_home": 0.2929,
 "margin": -7.23,
-"total": 225.95,
+"total": 226.65,
 "matchup": "HOU @ PHX",
 "home": "PHX",
 "away": "HOU",
 "day": "2026-11-07",
 "home_spread": 6.5,
-"p_cover": 0.4776,
-"line_total": 223.5,
-"p_over": 0.5526
+"p_cover": 0.4777,
+"line_total": 224.5,
+"p_over": 0.5462
 },
 "401909944": {
-"p_home": 0.3984,
-"margin": -3.14,
-"total": 228.36,
+"p_home": 0.3866,
+"margin": -4.27,
+"total": 227.93,
 "matchup": "SA @ POR",
 "home": "POR",
 "away": "SA",
 "day": "2026-11-07",
-"home_spread": 4.5,
-"p_cover": 0.5417,
+"home_spread": 5.5,
+"p_cover": 0.5377,
 "line_total": 229.5,
-"p_over": 0.4755
+"p_over": 0.4662
 }
 },
 "singles": {
@@ -527,42 +527,22 @@
 {
 "game_id": "401909942",
 "matchup": "ORL @ GS",
-"market": "ml",
-"side": "GS",
-"line": null,
-"p": 0.7549,
-"dk": 1.3663003663003663,
-"label": "Sieg GS"
-},
-{
-"game_id": "401909942",
-"matchup": "ORL @ GS",
 "market": "spread",
 "side": "GS",
-"line": -6.5,
-"p": 0.5929,
-"dk": 1.8620689655172413,
-"label": "GS -6.5"
+"line": -7.5,
+"p": 0.5839,
+"dk": 1.9615384615384617,
+"label": "GS -7.5"
 },
 {
 "game_id": "401909941",
 "matchup": "WSH @ OKC",
 "market": "total",
 "side": "under",
-"line": 222.5,
-"p": 0.5625,
-"dk": 1.8928571428571428,
-"label": "Under 222.5"
-},
-{
-"game_id": "401909943",
-"matchup": "HOU @ PHX",
-"market": "total",
-"side": "over",
 "line": 223.5,
-"p": 0.5526,
+"p": 0.5688,
 "dk": 1.8849557522123894,
-"label": "Over 223.5"
+"label": "Under 223.5"
 }
 ]
 },

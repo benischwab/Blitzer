@@ -7,18 +7,15 @@
 "Adem Bona",
 "Ariel Hukporti",
 "Dominick Barlow",
-"Nic Claxton",
+"Norman Powell",
 "Zach Collins"
 ],
 "dtd": [
-"Jalen Smith",
-"Joel Embiid",
-"Norman Powell",
-"Tobe Awaka"
+"Joel Embiid"
 ],
 "spread": 9.5,
 "total": 237.5,
-"p_home": 0.2325
+"p_home": 0.2008
 },
 "401909946": {
 "matchup": "LAL @ DET",
@@ -26,14 +23,13 @@
 "away": "LAL",
 "out": [
 "Isaiah Joe",
-"Jalen Duren"
-],
-"dtd": [
+"Jalen Duren",
 "Luka Doncic"
 ],
-"spread": -4.5,
-"total": 221.5,
-"p_home": 0.5955
+"dtd": [],
+"spread": -6.5,
+"total": 217.5,
+"p_home": 0.706
 },
 "401909947": {
 "matchup": "UTAH @ MIN",
@@ -46,12 +42,12 @@
 "Jusuf Nurkic"
 ],
 "dtd": [
-"Joan Beringer",
+"Keyonte George",
 "Lauri Markkanen"
 ],
 "spread": -11.5,
-"total": 223.5,
-"p_home": 0.8182
+"total": 222.5,
+"p_home": 0.8275
 },
 "401909948": {
 "matchup": "BKN @ DAL",
@@ -64,20 +60,25 @@
 "Sergio de Larrea",
 "Tarik Biberovic"
 ],
-"dtd": [],
+"dtd": [
+"Grant Nelson"
+],
 "spread": -7.5,
 "total": 222.5,
-"p_home": 0.7553
+"p_home": 0.7489
 },
 "401909949": {
 "matchup": "BOS @ MIL",
 "home": "MIL",
 "away": "BOS",
 "out": [],
-"dtd": [],
+"dtd": [
+"Gary Trent Jr.",
+"Mitchell Robinson"
+],
 "spread": 13.5,
-"total": 221.5,
-"p_home": 0.1794
+"total": 222.5,
+"p_home": 0.1801
 },
 "401909950": {
 "matchup": "NO @ LAC",
@@ -107,11 +108,12 @@
 ],
 "dtd": [],
 "spread": 10.5,
-"total": 238.5,
+"total": 237.5,
 "p_home": 0.2841
 },
 "_tips": [
-"SAC +10.5 (MIA @ SAC)"
+"SAC +10.5 (MIA @ SAC)",
+"Under 237.5 (PHI @ CHI)"
 ],
 "_game_day": "2026-11-08"
 }

@@ -1,18 +1,4 @@
 {
-"401909946": {
-"matchup": "LAL @ DET",
-"home": "DET",
-"away": "LAL",
-"out": [
-"Isaiah Joe",
-"Jalen Duren",
-"Luka Doncic"
-],
-"dtd": [],
-"spread": -8.5,
-"total": 216.5,
-"p_home": 0.7038
-},
 "401909947": {
 "matchup": "UTAH @ MIN",
 "home": "MIN",
@@ -21,15 +7,13 @@
 "Anthony Edwards",
 "Donte DiVincenzo",
 "Jaren Jackson Jr.",
-"Jusuf Nurkic"
-],
-"dtd": [
-"Keyonte George",
+"Jusuf Nurkic",
 "Lauri Markkanen"
 ],
-"spread": -11.5,
+"dtd": [],
+"spread": -12.5,
 "total": 222.5,
-"p_home": 0.8245
+"p_home": 0.851
 },
 "401909948": {
 "matchup": "BKN @ DAL",
@@ -60,7 +44,7 @@
 ],
 "spread": 13.5,
 "total": 221.5,
-"p_home": 0.1801
+"p_home": 0.1761
 },
 "401909950": {
 "matchup": "NO @ LAC",
@@ -87,13 +71,16 @@
 "Ben Simmons",
 "Maxime Raynaud"
 ],
-"dtd": [],
-"spread": 9.5,
-"total": 237.5,
-"p_home": 0.2869
+"dtd": [
+"Domantas Sabonis"
+],
+"spread": 11.5,
+"total": 236.5,
+"p_home": 0.2723
 },
 "_tips": [
-"SAC +9.5 (MIA @ SAC)"
+"SAC +11.5 (MIA @ SAC)",
+"Under 222.5 (UTAH @ MIN)"
 ],
 "_game_day": "2026-11-08"
 }

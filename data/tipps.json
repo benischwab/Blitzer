@@ -443,17 +443,17 @@
 "p_over": 0.5079
 },
 "401909947": {
-"p_home": 0.8245,
-"margin": 11.99,
-"total": 220.76,
+"p_home": 0.851,
+"margin": 13.75,
+"total": 219.7,
 "matchup": "UTAH @ MIN",
 "home": "MIN",
 "away": "UTAH",
 "day": "2026-11-08",
-"home_spread": -11.5,
-"p_cover": 0.5151,
+"home_spread": -12.5,
+"p_cover": 0.5383,
 "line_total": 222.5,
-"p_over": 0.4625
+"p_over": 0.4399
 },
 "401909948": {
 "p_home": 0.7481,
@@ -464,13 +464,13 @@
 "away": "BKN",
 "day": "2026-11-08",
 "home_spread": -7.5,
-"p_cover": 0.5456,
+"p_cover": 0.5455,
 "line_total": 223.5,
 "p_over": 0.4747
 },
 "401909949": {
-"p_home": 0.1801,
-"margin": -12.49,
+"p_home": 0.1761,
+"margin": -12.48,
 "total": 222.57,
 "matchup": "BOS @ MIL",
 "home": "MIL",
@@ -495,17 +495,17 @@
 "p_over": 0.5209
 },
 "401909951": {
-"p_home": 0.2869,
-"margin": -7.15,
-"total": 237.56,
+"p_home": 0.2723,
+"margin": -8.55,
+"total": 236.85,
 "matchup": "MIA @ SAC",
 "home": "SAC",
 "away": "MIA",
 "day": "2026-11-08",
-"home_spread": 9.5,
-"p_cover": 0.5716,
-"line_total": 237.5,
-"p_over": 0.5012
+"home_spread": 11.5,
+"p_cover": 0.5896,
+"line_total": 236.5,
+"p_over": 0.5076
 }
 },
 "singles": {
@@ -652,10 +652,20 @@
 "matchup": "MIA @ SAC",
 "market": "spread",
 "side": "SAC",
-"line": 9.5,
-"p": 0.5716,
-"dk": 1.970873786407767,
-"label": "SAC +9.5"
+"line": 11.5,
+"p": 0.5896,
+"dk": 1.8695652173913042,
+"label": "SAC +11.5"
+},
+{
+"game_id": "401909947",
+"matchup": "UTAH @ MIN",
+"market": "total",
+"side": "under",
+"line": 222.5,
+"p": 0.5601,
+"dk": 1.9090909090909092,
+"label": "Under 222.5"
 }
 ]
 },

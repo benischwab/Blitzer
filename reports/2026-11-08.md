@@ -1,12 +1,12 @@
 # NBA-Tipps für die Nacht 08.11.–09.11.2026
 
-Stand: So 08.11. 23:41 Uhr · 6 Spiele · Datenbasis: 139 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.2 Pkt/Team
+Stand: Mo 09.11. 00:57 Uhr · 5 Spiele · Datenbasis: 139 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.2 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- LAL @ DET: Handicap DET -6.5 → -8.5
-- MIA @ SAC: Keegan Murray wieder dabei / nicht mehr out
-- Neue Tipps: SAC +9.5 (MIA @ SAC)
-- Gestrichen: SAC +10.5 (MIA @ SAC); Under 237.5 (PHI @ CHI)
+- UTAH @ MIN: Lauri Markkanen fällt NEU aus
+- MIA @ SAC: Handicap SAC +9.5 → +11.5
+- Neue Tipps: SAC +11.5 (MIA @ SAC); Under 222.5 (UTAH @ MIN)
+- Gestrichen: SAC +9.5 (MIA @ SAC)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -16,34 +16,32 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| SAC +9.5 | MIA @ SAC | 57% | 1.97 | +12.7% | **1.80** |
+| SAC +11.5 | MIA @ SAC | 59% | 1.87 | +10.2% | **1.75** |
+| Under 222.5 | UTAH @ MIN | 56% | 1.91 | +6.9% | **1.84** |
 | Sieg DAL | BKN @ DAL | 75% | 1.33 | -0.7% | **1.38** | _(nur mit besserer Quote)_
-| Sieg DET | LAL @ DET | 70% | 1.38 | -3.0% | **1.46** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg MIN (UTAH @ MIN) — 82%, DK 1.16
-- Sieg DET (LAL @ DET) — 70%, DK 1.38
-- **Trefferchance 58%** · DK-Quote 1.60 (-7.1%) · **lohnt ab Sporttip-Gesamtquote 1.77** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Keine passende Kombi heute.
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
-- Austin Reaves (LAL, LAL @ DET): über 24.5 P+R+A — 78% · lohnt ab Quote **1.32**
-- Cade Cunningham (DET, LAL @ DET): über 31.5 P+R+A — 75% · lohnt ab Quote **1.37**
 - Jayson Tatum (BOS, BOS @ MIL): über 35.5 P+R+A — 77% · lohnt ab Quote **1.33**
 - Giannis Antetokounmpo (MIA, MIA @ SAC): über 38.5 P+R+A — 75% · lohnt ab Quote **1.37**
 - Jaden McDaniels (MIN, UTAH @ MIN): über 22.5 P+R+A — 76% · lohnt ab Quote **1.36**
+- Julius Randle (BKN, BKN @ DAL): über 25.5 P+R+A — 79% · lohnt ab Quote **1.30**
+- Darius Garland (LAC, NO @ LAC): über 23.5 P+R+A — 78% · lohnt ab Quote **1.32**
 
 _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. Lieber 2er als 4er+, und nur, wenn die Sporttip-Gesamtquote über der Mindestquote liegt._
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- MIA @ SAC: Sieg SAC — Modell 45% vs. Markt 22%
-- MIA @ SAC: Handicap SAC +9.5 — Modell 71%
+- MIA @ SAC: Sieg SAC — Modell 45% vs. Markt 19%
+- MIA @ SAC: Handicap SAC +11.5 — Modell 75%
+- UTAH @ MIN: Under 222.5 — Modell-Total 213.2 (67%)
 - BKN @ DAL: Handicap DAL -7.5 — Modell 63%
-- UTAH @ MIN: Under 222.5 — Modell-Total 216.7 (61%)
-- BOS @ MIL: Handicap MIL +13.5 — Modell 59%
+- UTAH @ MIN: Handicap MIN -12.5 — Modell 61%
 - BOS @ MIL: Sieg MIL — Modell 24% vs. Markt 15%
 
 ## Bilanz bisheriger Tipps
@@ -73,36 +71,14 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 
 ## Spiele
 
-### LAL @ DET — Mo 00:00 Uhr
-**Sieg:** DET 70% (faire Quote 1.42) · LAL 30% (3.38) — Markt DET 70%
-**Prognose:** DET 112.7 – LAL 104.2 (Diff. DET +8.5, Total 216.9)
-**Handicap** DET -8.5: DET deckt 50% · LAL +8.5 deckt 50%
-**Over/Under 216.5:** Over 51% (1.97) · Under 49% (2.03)
-**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
-**Form (letzte 5):** DET NSSSN (+7.4) · LAL NSSSS (+5.8)
-_DET out: Jalen Duren*, Isaiah Joe · LAL out: Luka Doncic*_ (* = Meldung der letzten 24 h)
-> 📰 Luka Doncic to sit out vs. Pistons due to lower back tightness
-> 📰 Luka Doncic's 53-point explosion pushes scoring average past 40 as Lakers roll
-
-| Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
-|---|---|---|---|---|---|---|
-| Cade Cunningham (DET) | 34 | 24.6 (22.5 / 25.5) | 5.7 | 7.7 | 2.3 | 38.0 |
-| Duncan Robinson (DET) | 31 | 19.5 (17.5 / 20.5) | 1.9 | 2.3 | 4.5 | 23.6 |
-| Paul Reed (DET) | 28 | 12.6 (10.5 / 13.5) | 6.5 | 2.5 | 0.6 | 21.6 |
-| Ausar Thompson (DET) | 28 | 10.1 (8.5 / 10.5) | 8.9 | 4.7 | 0.0 | 23.7 |
-| Austin Reaves (LAL) | 36 | 22.3 (20.5 / 23.5) | 3.2 | 4.4 | 2.0 | 30.1 |
-| Walker Kessler (LAL) | 31 | 13.8 (11.5 / 14.5) | 10.8 | 1.2 | 0.0 | 25.7 |
-| Ziaire Williams (LAL) | 24 | 9.7 (8.5 / 10.5) | 3.0 | 1.8 | 1.8 | 14.5 |
-| Sandro Mamukelashvili (LAL) | 23 | 8.3 (5.5 / 8.5) | 4.3 | 1.6 | 1.0 | 14.2 |
-
 ### UTAH @ MIN — Mo 01:00 Uhr
-**Sieg:** MIN 82% (faire Quote 1.21) · UTAH 18% (5.70) — Markt MIN 83%
-**Prognose:** MIN 116.4 – UTAH 104.4 (Diff. MIN +12.0, Total 220.8)
-**Handicap** MIN -11.5: MIN deckt 52% · UTAH +11.5 deckt 48%
-**Over/Under 222.5:** Over 46% (2.16) · Under 54% (1.86)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
+**Sieg:** MIN 85% (faire Quote 1.18) · UTAH 15% (6.71) — Markt MIN 84%
+**Prognose:** MIN 116.7 – UTAH 103.0 (Diff. MIN +13.7, Total 219.7)
+**Handicap** MIN -12.5: MIN deckt 54% · UTAH +12.5 deckt 46%
+**Over/Under 222.5:** Over 44% (2.27) · Under 56% (1.79)
+**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** MIN SNSSS (+8.8) · UTAH NNNNN (-13.8)
-_MIN out: Anthony Edwards, Donte DiVincenzo · UTAH out: Jusuf Nurkic, Jaren Jackson Jr. · UTAH fraglich: Keyonte George*, Lauri Markkanen*_ (* = Meldung der letzten 24 h)
+_MIN out: Anthony Edwards, Donte DiVincenzo · UTAH out: Lauri Markkanen*, Jusuf Nurkic, Jaren Jackson Jr._ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -111,9 +87,9 @@ _MIN out: Anthony Edwards, Donte DiVincenzo · UTAH out: Jusuf Nurkic, Jaren Jac
 | Jaden McDaniels (MIN) | 35 | 17.5 (15.5 / 18.5) | 6.2 | 3.9 | 1.4 | 27.5 |
 | Jonathan Kuminga (MIN) | 32 | 13.5 (11.5 / 14.5) | 6.2 | 3.1 | 2.0 | 22.9 |
 | Keyonte George (UTAH) | 33 | 20.3 (16.5 / 20.5) | 4.3 | 6.2 | 1.8 | 30.9 |
-| Lauri Markkanen (UTAH) | 31 | 17.6 (14.5 / 18.5) | 6.9 | 2.0 | 3.8 | 26.6 |
 | Darryn Peterson (UTAH) | 30 | 13.3 (11.5 / 14.5) | 3.6 | 4.2 | 1.7 | 21.2 |
 | Ace Bailey (UTAH) | 31 | 11.9 (9.5 / 12.5) | 6.9 | 1.6 | 1.1 | 20.4 |
+| Jaxson Hayes (UTAH) | 25 | 6.8 (4.5 / 7.5) | 6.4 | 2.0 | 0.0 | 15.1 |
 
 ### BKN @ DAL — Mo 01:30 Uhr
 **Sieg:** DAL 75% (faire Quote 1.34) · BKN 25% (3.97) — Markt DAL 72%
@@ -138,7 +114,7 @@ _DAL out: Sergio de Larrea, Tarik Biberovic, Dereck Lively II · BKN spielt Back
 | Day'Ron Sharpe (BKN) | 25 | 7.8 (5.5 / 8.5) | 7.5 | 4.5 | 0.3 | 19.7 |
 
 ### BOS @ MIL — Mo 02:00 Uhr
-**Sieg:** MIL 18% (faire Quote 5.55) · BOS 82% (1.22) — Markt MIL 15%
+**Sieg:** MIL 18% (faire Quote 5.68) · BOS 82% (1.21) — Markt MIL 15%
 **Prognose:** MIL 105.0 – BOS 117.5 (Diff. BOS +12.5, Total 222.6)
 **Handicap** MIL +13.5: MIL deckt 53% · BOS -13.5 deckt 47%
 **Over/Under 221.5:** Over 52% (1.91) · Under 48% (2.10)
@@ -179,13 +155,13 @@ _LAC out: Brandon Ingram*, Isaiah Jackson*, Yanic Konan Niederhauser, Bradley Be
 | Dejounte Murray (NO) | 35 | 15.8 (13.5 / 16.5) | 5.5 | 5.2 | 0.8 | 26.5 |
 
 ### MIA @ SAC — Mo 03:00 Uhr
-**Sieg:** SAC 29% (faire Quote 3.49) · MIA 71% (1.40) — Markt SAC 22%
-**Prognose:** SAC 115.2 – MIA 122.4 (Diff. MIA +7.2, Total 237.6)
-**Handicap** SAC +9.5: SAC deckt 57% · MIA -9.5 deckt 43%
-**Over/Under 237.5:** Over 50% (2.00) · Under 50% (2.00)
-**Total-Faustregel:** Over lohnt bis 233.5 · Under lohnt ab 241.5 (≥57%)
+**Sieg:** SAC 27% (faire Quote 3.67) · MIA 73% (1.37) — Markt SAC 19%
+**Prognose:** SAC 114.2 – MIA 122.7 (Diff. MIA +8.6, Total 236.9)
+**Handicap** SAC +11.5: SAC deckt 59% · MIA -11.5 deckt 41%
+**Over/Under 236.5:** Over 51% (1.97) · Under 49% (2.03)
+**Total-Faustregel:** Over lohnt bis 233.5 · Under lohnt ab 240.5 (≥57%)
 **Form (letzte 5):** SAC NNSNN (-11.2) · MIA SSNSN (-1.6)
-_SAC out: Maxime Raynaud, Ben Simmons_
+_SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich: Domantas Sabonis*_ (* = Meldung der letzten 24 h)
 > 📰 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings
 > 📰 Thunder get Nique Clifford in trade with Kings
 

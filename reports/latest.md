@@ -1,15 +1,12 @@
 # NBA-Tipps für die Nacht 08.11.–09.11.2026
 
-Stand: So 08.11. 21:03 Uhr · 7 Spiele · Datenbasis: 139 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.2 Pkt/Team
+Stand: So 08.11. 23:41 Uhr · 6 Spiele · Datenbasis: 139 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.2 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- PHI @ CHI: Norman Powell fällt NEU aus
-- PHI @ CHI: Nic Claxton wieder dabei / nicht mehr out
-- LAL @ DET: Luka Doncic fällt NEU aus
-- LAL @ DET: Handicap DET -4.5 → -6.5
-- LAL @ DET: Total 221.5 → 217.5
-- LAL @ DET: Sieg DET 60% → 71%
-- Neue Tipps: Under 237.5 (PHI @ CHI)
+- LAL @ DET: Handicap DET -6.5 → -8.5
+- MIA @ SAC: Keegan Murray wieder dabei / nicht mehr out
+- Neue Tipps: SAC +9.5 (MIA @ SAC)
+- Gestrichen: SAC +10.5 (MIA @ SAC); Under 237.5 (PHI @ CHI)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -19,14 +16,14 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| SAC +10.5 | MIA @ SAC | 58% | 1.89 | +9.3% | **1.78** |
-| Under 237.5 | PHI @ CHI | 56% | 1.93 | +8.5% | **1.84** |
-| Sieg DAL | BKN @ DAL | 75% | 1.32 | -0.8% | **1.38** | _(nur mit besserer Quote)_
+| SAC +9.5 | MIA @ SAC | 57% | 1.97 | +12.7% | **1.80** |
+| Sieg DAL | BKN @ DAL | 75% | 1.33 | -0.7% | **1.38** | _(nur mit besserer Quote)_
+| Sieg DET | LAL @ DET | 70% | 1.38 | -3.0% | **1.46** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg PHI (PHI @ CHI) — 80%, DK 1.22
-- Sieg DAL (BKN @ DAL) — 75%, DK 1.32
-- **Trefferchance 60%** · DK-Quote 1.62 (-3.1%) · **lohnt ab Sporttip-Gesamtquote 1.72** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg MIN (UTAH @ MIN) — 82%, DK 1.16
+- Sieg DET (LAL @ DET) — 70%, DK 1.38
+- **Trefferchance 58%** · DK-Quote 1.60 (-7.1%) · **lohnt ab Sporttip-Gesamtquote 1.77** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -34,20 +31,20 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Austin Reaves (LAL, LAL @ DET): über 24.5 P+R+A — 78% · lohnt ab Quote **1.32**
 - Cade Cunningham (DET, LAL @ DET): über 31.5 P+R+A — 75% · lohnt ab Quote **1.37**
-- Jaylen Brown (PHI, PHI @ CHI): über 27.5 P+R+A — 79% · lohnt ab Quote **1.30**
 - Jayson Tatum (BOS, BOS @ MIL): über 35.5 P+R+A — 77% · lohnt ab Quote **1.33**
 - Giannis Antetokounmpo (MIA, MIA @ SAC): über 38.5 P+R+A — 75% · lohnt ab Quote **1.37**
+- Jaden McDaniels (MIN, UTAH @ MIN): über 22.5 P+R+A — 76% · lohnt ab Quote **1.36**
 
 _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. Lieber 2er als 4er+, und nur, wenn die Sporttip-Gesamtquote über der Mindestquote liegt._
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- MIA @ SAC: Sieg SAC — Modell 44% vs. Markt 22%
-- MIA @ SAC: Handicap SAC +10.5 — Modell 72%
-- PHI @ CHI: Under 237.5 — Modell-Total 228.0 (67%)
+- MIA @ SAC: Sieg SAC — Modell 45% vs. Markt 22%
+- MIA @ SAC: Handicap SAC +9.5 — Modell 71%
 - BKN @ DAL: Handicap DAL -7.5 — Modell 63%
-- PHI @ CHI: Handicap PHI -9.5 — Modell 62%
 - UTAH @ MIN: Under 222.5 — Modell-Total 216.7 (61%)
+- BOS @ MIL: Handicap MIL +13.5 — Modell 59%
+- BOS @ MIL: Sieg MIL — Modell 24% vs. Markt 15%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 25/32 richtig (78%), Brier 0.179
@@ -76,36 +73,14 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 
 ## Spiele
 
-### PHI @ CHI — So 21:30 Uhr
-**Sieg:** CHI 20% (faire Quote 4.98) · PHI 80% (1.25) — Markt CHI 21%
-**Prognose:** CHI 111.9 – PHI 122.7 (Diff. PHI +10.8, Total 234.7)
-**Handicap** CHI +9.5: CHI deckt 46% · PHI -9.5 deckt 54%
-**Over/Under 237.5:** Over 44% (2.28) · Under 56% (1.78)
-**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 238.5 (≥57%)
-**Form (letzte 5):** CHI NNNNN (-20.8) · PHI SSSSN (+2.2)
-_CHI out: Norman Powell*, Zach Collins* · PHI out: Adem Bona*, Dominick Barlow, Ariel Hukporti · PHI fraglich: Joel Embiid*_ (* = Meldung der letzten 24 h)
-> 📰 Making sense of Jaylen Brown's previous impact with Celtics
-> 📰 Man arrested on stalking charges at LeBron James' home in Los Angeles
-
-| Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
-|---|---|---|---|---|---|---|
-| Caleb Wilson (CHI) | 32 | 18.4 (15.5 / 19.5) | 6.4 | 2.5 | 2.4 | 27.4 |
-| Matas Buzelis (CHI) | 25 | 12.1 (9.5 / 12.5) | 4.3 | 2.1 | 1.2 | 18.6 |
-| Jalen Smith (CHI) | 22 | 10.1 (7.5 / 10.5) | 7.5 | 1.8 | 1.3 | 19.4 |
-| Josh Giddey (CHI) | 27 | 9.5 (7.5 / 10.5) | 4.4 | 7.6 | 1.1 | 21.4 |
-| Tyrese Maxey (PHI) | 36 | 28.7 (25.5 / 29.5) | 3.6 | 5.4 | 2.7 | 37.2 |
-| Jaylen Brown (PHI) | 36 | 24.0 (21.5 / 25.5) | 6.7 | 3.9 | 2.3 | 34.3 |
-| Joel Embiid (PHI) | 32 | 19.1 (15.5 / 19.5) | 9.6 | 3.7 | 0.3 | 32.5 |
-| LeBron James (PHI) | 33 | 15.8 (13.5 / 16.5) | 7.4 | 6.8 | 0.8 | 30.3 |
-
 ### LAL @ DET — Mo 00:00 Uhr
-**Sieg:** DET 71% (faire Quote 1.42) · LAL 29% (3.40) — Markt DET 70%
-**Prognose:** DET 112.3 – LAL 105.2 (Diff. DET +7.1, Total 217.6)
-**Handicap** DET -6.5: DET deckt 52% · LAL +6.5 deckt 48%
-**Over/Under 217.5:** Over 50% (1.99) · Under 50% (2.01)
-**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 221.5 (≥57%)
+**Sieg:** DET 70% (faire Quote 1.42) · LAL 30% (3.38) — Markt DET 70%
+**Prognose:** DET 112.7 – LAL 104.2 (Diff. DET +8.5, Total 216.9)
+**Handicap** DET -8.5: DET deckt 50% · LAL +8.5 deckt 50%
+**Over/Under 216.5:** Over 51% (1.97) · Under 49% (2.03)
+**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** DET NSSSN (+7.4) · LAL NSSSS (+5.8)
-_DET out: Jalen Duren*, Isaiah Joe* · LAL out: Luka Doncic*_ (* = Meldung der letzten 24 h)
+_DET out: Jalen Duren*, Isaiah Joe · LAL out: Luka Doncic*_ (* = Meldung der letzten 24 h)
 > 📰 Luka Doncic to sit out vs. Pistons due to lower back tightness
 > 📰 Luka Doncic's 53-point explosion pushes scoring average past 40 as Lakers roll
 
@@ -121,7 +96,7 @@ _DET out: Jalen Duren*, Isaiah Joe* · LAL out: Luka Doncic*_ (* = Meldung der l
 | Sandro Mamukelashvili (LAL) | 23 | 8.3 (5.5 / 8.5) | 4.3 | 1.6 | 1.0 | 14.2 |
 
 ### UTAH @ MIN — Mo 01:00 Uhr
-**Sieg:** MIN 83% (faire Quote 1.21) · UTAH 17% (5.80) — Markt MIN 83%
+**Sieg:** MIN 82% (faire Quote 1.21) · UTAH 18% (5.70) — Markt MIN 83%
 **Prognose:** MIN 116.4 – UTAH 104.4 (Diff. MIN +12.0, Total 220.8)
 **Handicap** MIN -11.5: MIN deckt 52% · UTAH +11.5 deckt 48%
 **Over/Under 222.5:** Over 46% (2.16) · Under 54% (1.86)
@@ -141,11 +116,11 @@ _MIN out: Anthony Edwards, Donte DiVincenzo · UTAH out: Jusuf Nurkic, Jaren Jac
 | Ace Bailey (UTAH) | 31 | 11.9 (9.5 / 12.5) | 6.9 | 1.6 | 1.1 | 20.4 |
 
 ### BKN @ DAL — Mo 01:30 Uhr
-**Sieg:** DAL 75% (faire Quote 1.34) · BKN 25% (3.98) — Markt DAL 72%
-**Prognose:** DAL 115.3 – BKN 106.3 (Diff. DAL +9.0, Total 221.6)
+**Sieg:** DAL 75% (faire Quote 1.34) · BKN 25% (3.97) — Markt DAL 72%
+**Prognose:** DAL 115.7 – BKN 106.7 (Diff. DAL +9.0, Total 222.3)
 **Handicap** DAL -7.5: DAL deckt 55% · BKN +7.5 deckt 45%
-**Over/Under 222.5:** Over 48% (2.08) · Under 52% (1.93)
-**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 225.5 (≥57%)
+**Over/Under 223.5:** Over 47% (2.11) · Under 53% (1.90)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** DAL SSNNS (+5.0) · BKN NSNSN (-2.8)
 _DAL out: Sergio de Larrea, Tarik Biberovic, Dereck Lively II · BKN spielt Back-to-Back · BKN out: Mikel Brown Jr.*, Egor Demin · BKN fraglich: Grant Nelson*_ (* = Meldung der letzten 24 h)
 > 📰 Dallas and Brooklyn meet for cross-conference contest
@@ -164,10 +139,10 @@ _DAL out: Sergio de Larrea, Tarik Biberovic, Dereck Lively II · BKN spielt Back
 
 ### BOS @ MIL — Mo 02:00 Uhr
 **Sieg:** MIL 18% (faire Quote 5.55) · BOS 82% (1.22) — Markt MIL 15%
-**Prognose:** MIL 105.4 – BOS 117.9 (Diff. BOS +12.5, Total 223.3)
+**Prognose:** MIL 105.0 – BOS 117.5 (Diff. BOS +12.5, Total 222.6)
 **Handicap** MIL +13.5: MIL deckt 53% · BOS -13.5 deckt 47%
-**Over/Under 222.5:** Over 52% (1.94) · Under 48% (2.07)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 227.5 (≥57%)
+**Over/Under 221.5:** Over 52% (1.91) · Under 48% (2.10)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** MIL NNNNN (-18.0) · BOS SSNSS (+11.0)
 _MIL fraglich: Gary Trent Jr.* · BOS fraglich: Mitchell Robinson*_ (* = Meldung der letzten 24 h)
 > 📰 Making sense of Jaylen Brown's previous impact with Celtics
@@ -204,14 +179,15 @@ _LAC out: Brandon Ingram*, Isaiah Jackson*, Yanic Konan Niederhauser, Bradley Be
 | Dejounte Murray (NO) | 35 | 15.8 (13.5 / 16.5) | 5.5 | 5.2 | 0.8 | 26.5 |
 
 ### MIA @ SAC — Mo 03:00 Uhr
-**Sieg:** SAC 28% (faire Quote 3.52) · MIA 72% (1.40) — Markt SAC 22%
-**Prognose:** SAC 114.7 – MIA 122.7 (Diff. MIA +8.0, Total 237.5)
-**Handicap** SAC +10.5: SAC deckt 58% · MIA -10.5 deckt 42%
+**Sieg:** SAC 29% (faire Quote 3.49) · MIA 71% (1.40) — Markt SAC 22%
+**Prognose:** SAC 115.2 – MIA 122.4 (Diff. MIA +7.2, Total 237.6)
+**Handicap** SAC +9.5: SAC deckt 57% · MIA -9.5 deckt 43%
 **Over/Under 237.5:** Over 50% (2.00) · Under 50% (2.00)
 **Total-Faustregel:** Over lohnt bis 233.5 · Under lohnt ab 241.5 (≥57%)
 **Form (letzte 5):** SAC NNSNN (-11.2) · MIA SSNSN (-1.6)
-_SAC out: Keegan Murray*, Maxime Raynaud, Ben Simmons_ (* = Meldung der letzten 24 h)
-> 📰 Thunder get Nique Clifford in trade with Kings, sources say
+_SAC out: Maxime Raynaud, Ben Simmons_
+> 📰 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings
+> 📰 Thunder get Nique Clifford in trade with Kings
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|

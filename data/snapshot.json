@@ -1,22 +1,4 @@
 {
-"401909945": {
-"matchup": "PHI @ CHI",
-"home": "CHI",
-"away": "PHI",
-"out": [
-"Adem Bona",
-"Ariel Hukporti",
-"Dominick Barlow",
-"Norman Powell",
-"Zach Collins"
-],
-"dtd": [
-"Joel Embiid"
-],
-"spread": 9.5,
-"total": 237.5,
-"p_home": 0.2008
-},
 "401909946": {
 "matchup": "LAL @ DET",
 "home": "DET",
@@ -27,9 +9,9 @@
 "Luka Doncic"
 ],
 "dtd": [],
-"spread": -6.5,
-"total": 217.5,
-"p_home": 0.706
+"spread": -8.5,
+"total": 216.5,
+"p_home": 0.7038
 },
 "401909947": {
 "matchup": "UTAH @ MIN",
@@ -47,7 +29,7 @@
 ],
 "spread": -11.5,
 "total": 222.5,
-"p_home": 0.8275
+"p_home": 0.8245
 },
 "401909948": {
 "matchup": "BKN @ DAL",
@@ -64,8 +46,8 @@
 "Grant Nelson"
 ],
 "spread": -7.5,
-"total": 222.5,
-"p_home": 0.7489
+"total": 223.5,
+"p_home": 0.7481
 },
 "401909949": {
 "matchup": "BOS @ MIL",
@@ -77,7 +59,7 @@
 "Mitchell Robinson"
 ],
 "spread": 13.5,
-"total": 222.5,
+"total": 221.5,
 "p_home": 0.1801
 },
 "401909950": {
@@ -95,7 +77,7 @@
 "dtd": [],
 "spread": 1.5,
 "total": 226.5,
-"p_home": 0.4558
+"p_home": 0.4559
 },
 "401909951": {
 "matchup": "MIA @ SAC",
@@ -103,17 +85,15 @@
 "away": "MIA",
 "out": [
 "Ben Simmons",
-"Keegan Murray",
 "Maxime Raynaud"
 ],
 "dtd": [],
-"spread": 10.5,
+"spread": 9.5,
 "total": 237.5,
-"p_home": 0.2841
+"p_home": 0.2869
 },
 "_tips": [
-"SAC +10.5 (MIA @ SAC)",
-"Under 237.5 (PHI @ CHI)"
+"SAC +9.5 (MIA @ SAC)"
 ],
 "_game_day": "2026-11-08"
 }

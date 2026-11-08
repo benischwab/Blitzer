@@ -430,59 +430,59 @@
 "p_over": 0.439
 },
 "401909946": {
-"p_home": 0.706,
-"margin": 7.09,
-"total": 217.57,
+"p_home": 0.7038,
+"margin": 8.49,
+"total": 216.87,
 "matchup": "LAL @ DET",
 "home": "DET",
 "away": "LAL",
 "day": "2026-11-08",
-"home_spread": -6.5,
-"p_cover": 0.5179,
-"line_total": 217.5,
-"p_over": 0.5014
+"home_spread": -8.5,
+"p_cover": 0.4996,
+"line_total": 216.5,
+"p_over": 0.5079
 },
 "401909947": {
-"p_home": 0.8275,
-"margin": 12.0,
+"p_home": 0.8245,
+"margin": 11.99,
 "total": 220.76,
 "matchup": "UTAH @ MIN",
 "home": "MIN",
 "away": "UTAH",
 "day": "2026-11-08",
 "home_spread": -11.5,
-"p_cover": 0.5152,
+"p_cover": 0.5151,
 "line_total": 222.5,
-"p_over": 0.4624
+"p_over": 0.4625
 },
 "401909948": {
-"p_home": 0.7489,
+"p_home": 0.7481,
 "margin": 8.99,
-"total": 221.63,
+"total": 222.32,
 "matchup": "BKN @ DAL",
 "home": "DAL",
 "away": "BKN",
 "day": "2026-11-08",
 "home_spread": -7.5,
 "p_cover": 0.5456,
-"line_total": 222.5,
-"p_over": 0.4811
+"line_total": 223.5,
+"p_over": 0.4747
 },
 "401909949": {
 "p_home": 0.1801,
 "margin": -12.49,
-"total": 223.27,
+"total": 222.57,
 "matchup": "BOS @ MIL",
 "home": "MIL",
 "away": "BOS",
 "day": "2026-11-08",
 "home_spread": 13.5,
-"p_cover": 0.531,
-"line_total": 222.5,
-"p_over": 0.5166
+"p_cover": 0.5311,
+"line_total": 221.5,
+"p_over": 0.5231
 },
 "401909950": {
-"p_home": 0.4558,
+"p_home": 0.4559,
 "margin": -1.99,
 "total": 227.47,
 "matchup": "NO @ LAC",
@@ -490,22 +490,22 @@
 "away": "NO",
 "day": "2026-11-08",
 "home_spread": 1.5,
-"p_cover": 0.4849,
+"p_cover": 0.485,
 "line_total": 226.5,
-"p_over": 0.521
+"p_over": 0.5209
 },
 "401909951": {
-"p_home": 0.2841,
-"margin": -7.96,
-"total": 237.45,
+"p_home": 0.2869,
+"margin": -7.15,
+"total": 237.56,
 "matchup": "MIA @ SAC",
 "home": "SAC",
 "away": "MIA",
 "day": "2026-11-08",
-"home_spread": 10.5,
-"p_cover": 0.5775,
+"home_spread": 9.5,
+"p_cover": 0.5716,
 "line_total": 237.5,
-"p_over": 0.499
+"p_over": 0.5012
 }
 },
 "singles": {
@@ -638,16 +638,6 @@
 ],
 "2026-11-08": [
 {
-"game_id": "401909951",
-"matchup": "MIA @ SAC",
-"market": "spread",
-"side": "SAC",
-"line": 10.5,
-"p": 0.5775,
-"dk": 1.8928571428571428,
-"label": "SAC +10.5"
-},
-{
 "game_id": "401909945",
 "matchup": "PHI @ CHI",
 "market": "total",
@@ -656,6 +646,16 @@
 "p": 0.561,
 "dk": 1.9345794392523366,
 "label": "Under 237.5"
+},
+{
+"game_id": "401909951",
+"matchup": "MIA @ SAC",
+"market": "spread",
+"side": "SAC",
+"line": 9.5,
+"p": 0.5716,
+"dk": 1.970873786407767,
+"label": "SAC +9.5"
 }
 ]
 },

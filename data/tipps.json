@@ -415,6 +415,97 @@
 "p_cover": 0.5377,
 "line_total": 229.5,
 "p_over": 0.4662
+},
+"401909945": {
+"p_home": 0.2325,
+"margin": -9.55,
+"total": 235.93,
+"matchup": "PHI @ CHI",
+"home": "CHI",
+"away": "PHI",
+"day": "2026-11-08",
+"home_spread": 9.5,
+"p_cover": 0.4984,
+"line_total": 237.5,
+"p_over": 0.4662
+},
+"401909946": {
+"p_home": 0.5955,
+"margin": 3.3,
+"total": 222.75,
+"matchup": "LAL @ DET",
+"home": "DET",
+"away": "LAL",
+"day": "2026-11-08",
+"home_spread": -4.5,
+"p_cover": 0.4633,
+"line_total": 221.5,
+"p_over": 0.5269
+},
+"401909947": {
+"p_home": 0.8182,
+"margin": 12.0,
+"total": 221.45,
+"matchup": "UTAH @ MIN",
+"home": "MIN",
+"away": "UTAH",
+"day": "2026-11-08",
+"home_spread": -11.5,
+"p_cover": 0.5153,
+"line_total": 223.5,
+"p_over": 0.4559
+},
+"401909948": {
+"p_home": 0.7553,
+"margin": 8.99,
+"total": 221.63,
+"matchup": "BKN @ DAL",
+"home": "DAL",
+"away": "BKN",
+"day": "2026-11-08",
+"home_spread": -7.5,
+"p_cover": 0.5457,
+"line_total": 222.5,
+"p_over": 0.4811
+},
+"401909949": {
+"p_home": 0.1794,
+"margin": -12.49,
+"total": 222.57,
+"matchup": "BOS @ MIL",
+"home": "MIL",
+"away": "BOS",
+"day": "2026-11-08",
+"home_spread": 13.5,
+"p_cover": 0.531,
+"line_total": 221.5,
+"p_over": 0.5231
+},
+"401909950": {
+"p_home": 0.4558,
+"margin": -1.99,
+"total": 227.47,
+"matchup": "NO @ LAC",
+"home": "LAC",
+"away": "NO",
+"day": "2026-11-08",
+"home_spread": 1.5,
+"p_cover": 0.4849,
+"line_total": 226.5,
+"p_over": 0.521
+},
+"401909951": {
+"p_home": 0.2841,
+"margin": -7.96,
+"total": 238.16,
+"matchup": "MIA @ SAC",
+"home": "SAC",
+"away": "MIA",
+"day": "2026-11-08",
+"home_spread": 10.5,
+"p_cover": 0.5775,
+"line_total": 238.5,
+"p_over": 0.4926
 }
 },
 "singles": {
@@ -544,6 +635,18 @@
 "dk": 1.9615384615384617,
 "label": "GS -7.5"
 }
+],
+"2026-11-08": [
+{
+"game_id": "401909951",
+"matchup": "MIA @ SAC",
+"market": "spread",
+"side": "SAC",
+"line": 10.5,
+"p": 0.5775,
+"dk": 1.8928571428571428,
+"label": "SAC +10.5"
+}
 ]
 },
 "combos": {
@@ -613,6 +716,7 @@
 "dk": 2.875
 }
 ],
-"2026-11-07": []
+"2026-11-07": [],
+"2026-11-08": []
 }
 }

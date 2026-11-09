@@ -1,18 +1,19 @@
-## Rückblick: Nacht 07.11.–08.11.
+## Rückblick: Nacht 08.11.–09.11.
 
 | Spiel | Prognose | Resultat | Sieger | Total (Prog./Ist) | O/U-Linie |
 |---|---|---|---|---|---|
-| DEN @ IND | DEN 72% · DEN 117–110 IND | DEN 114–102 IND | ✅ | 227 / 216 (-11) | Under 229.5 (54%) ✅ |
-| BKN @ ATL | ATL 69% · BKN 110–116 ATL | BKN 121–124 ATL | ✅ | 226 / 245 (+19) | Under 226.5 (50%) ❌ |
-| NY @ CLE | NY 61% · NY 113–109 CLE | NY 109–97 CLE | ✅ | 222 / 206 (-16) | Under 223.5 (54%) ✅ |
-| WSH @ OKC | OKC 82% · WSH 103–116 OKC | WSH 75–114 OKC | ✅ | 219 / 189 (-30) | Under 223.5 (60%) ✅ |
-| ORL @ GS | GS 76% · ORL 104–114 GS | ORL 119–126 GS | ✅ | 219 / 245 (+26) | Under 219.5 (52%) ❌ |
-| HOU @ PHX | HOU 71% · HOU 117–110 PHX | HOU 99–102 PHX | ❌ | 227 / 201 (-26) | Over 224.5 (55%) ❌ |
-| SA @ POR | SA 61% · SA 116–112 POR | SA 125–103 POR | ✅ | 228 / 228 (+0) | Under 229.5 (53%) ✅ |
+| PHI @ CHI | PHI 80% · PHI 123–112 CHI | PHI 127–121 CHI | ✅ | 235 / 248 (+13) | Under 237.5 (56%) ❌ |
+| LAL @ DET | DET 70% · LAL 104–113 DET | LAL 121–116 DET | ❌ | 217 / 237 (+20) | Over 216.5 (51%) ✅ |
+| UTAH @ MIN | MIN 85% · UTAH 103–117 MIN | UTAH 100–115 MIN | ✅ | 220 / 215 (-5) | Under 222.5 (56%) ✅ |
+| BKN @ DAL | DAL 75% · BKN 107–116 DAL | BKN 93–130 DAL | ✅ | 222 / 223 (+1) | Under 223.5 (53%) ✅ |
+| BOS @ MIL | BOS 82% · BOS 118–105 MIL | BOS 117–97 MIL | ✅ | 223 / 214 (-9) | Over 221.5 (52%) ❌ |
+| NO @ LAC | NO 54% · NO 115–113 LAC | NO 123–139 LAC | ❌ | 227 / 262 (+35) | Over 226.5 (52%) ✅ |
+| MIA @ SAC | MIA 73% · MIA 123–114 SAC | MIA 114–108 SAC | ✅ | 237 / 222 (-15) | Over 236.5 (51%) ❌ |
 
-**Sieger richtig:** 6/7 (86%) · **Mittlerer Fehler:** Differenz 10.6 Pkt, Total 18.3 Pkt · **Over/Under:** 4/7
+**Sieger richtig:** 5/7 (71%) · **Mittlerer Fehler:** Differenz 10.8 Pkt, Total 13.8 Pkt · **Over/Under:** 4/7
 
 **Tipps dieser Nacht:**
-- ✅ Under 223.5 (WSH @ OKC) (Quote 1.94)
-- ❌ GS -7.5 (ORL @ GS) (Quote 1.96)
-- **Ergebnis:** 1/2 getroffen · -0.06 Fr. bei 1 Fr. pro Tipp (DK-Quoten)
+- ❌ Under 237.5 (PHI @ CHI) (Quote 1.93)
+- ✅ SAC +11.5 (MIA @ SAC) (Quote 1.87)
+- ✅ Under 222.5 (UTAH @ MIN) (Quote 1.91)
+- **Ergebnis:** 2/3 getroffen · +0.78 Fr. bei 1 Fr. pro Tipp (DK-Quoten)

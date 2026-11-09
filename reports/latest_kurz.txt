@@ -1,9 +1,15 @@
-Sieger 5/7 richtig · Ø-Fehler Total 14 Pkt · O/U 4/7
-✅ PHI 127–121 CHI (Prog. PHI 80%)
-❌ LAL 121–116 DET (Prog. DET 70%)
-✅ UTAH 100–115 MIN (Prog. MIN 85%)
-✅ BKN 93–130 DAL (Prog. DAL 75%)
-✅ BOS 117–97 MIL (Prog. BOS 82%)
-❌ NO 123–139 LAC (Prog. NO 54%)
-✅ MIA 114–108 SAC (Prog. MIA 73%)
-Tipps: 2/3 · +0.78 Fr.
+TIPPS (ab Mindestquote):
+• Sieg DAL (IND @ DAL) 64% – ab 1.61
+• CLE -8.5 (CLE @ CHA) 57% – ab 1.82
+• DAL -3.5 (IND @ DAL) 56% – ab 1.84
+• 2er-Kombi: Sieg DAL + Sieg CLE – 50%, ab 2.07
+• 3er-Kombi: Sieg DET + Sieg CLE + Sieg DAL – 39%, ab 2.65
+
+01:00 LAL@ATL: ATL 50% · U237.5 50%
+01:00 CLE@CHA: CLE 78% · U214.5 53%
+01:00 WSH@DET: DET 78% · U217.5 52%
+01:30 MEM@TOR: TOR 58% · U229.5 51%
+02:00 IND@DAL: DAL 64% · U226.5 56%
+02:30 DEN@HOU: HOU 73% · O219.5 52%
+03:00 SA@PHX: SA 74% · O227.5 51%
+04:00 NO@GS: GS 75% · O232.5 52%

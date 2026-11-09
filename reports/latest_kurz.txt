@@ -1,15 +1,23 @@
+ÄNDERUNGEN:
+• LAL @ ATL: Quentin Grimes fällt NEU aus
+• WSH @ DET: Total 217.5 → 219.5
+• DEN @ HOU: Handicap HOU -9.5 → -4.5
+• DEN @ HOU: Total 219.5 → 222.5
+• DEN @ HOU: Sieg HOU 73% → 64%
+• SA @ PHX: Devin Vassell fällt NEU aus
+
 TIPPS (ab Mindestquote):
-• Sieg DAL (IND @ DAL) 64% – ab 1.61
+• Sieg DAL (IND @ DAL) 65% – ab 1.58
 • CLE -8.5 (CLE @ CHA) 57% – ab 1.82
 • DAL -3.5 (IND @ DAL) 56% – ab 1.84
-• 2er-Kombi: Sieg DAL + Sieg CLE – 50%, ab 2.07
-• 3er-Kombi: Sieg DET + Sieg CLE + Sieg DAL – 39%, ab 2.65
+• 2er-Kombi: Sieg DAL + Sieg CLE – 50%, ab 2.04
+• 3er-Kombi: Sieg DET + Sieg CLE + Sieg DAL – 40%, ab 2.60
 
-01:00 LAL@ATL: ATL 50% · U237.5 50%
+01:00 LAL@ATL: ATL 52% · U236.5 51%
 01:00 CLE@CHA: CLE 78% · U214.5 53%
-01:00 WSH@DET: DET 78% · U217.5 52%
-01:30 MEM@TOR: TOR 58% · U229.5 51%
-02:00 IND@DAL: DAL 64% · U226.5 56%
-02:30 DEN@HOU: HOU 73% · O219.5 52%
-03:00 SA@PHX: SA 74% · O227.5 51%
-04:00 NO@GS: GS 75% · O232.5 52%
+01:00 WSH@DET: DET 79% · U219.5 53%
+01:30 MEM@TOR: TOR 57% · U228.5 50%
+02:00 IND@DAL: DAL 65% · U226.5 56%
+02:30 DEN@HOU: HOU 64% · O222.5 50%
+03:00 SA@PHX: SA 73% · O226.5 50%
+04:00 NO@GS: GS 74% · O232.5 52%

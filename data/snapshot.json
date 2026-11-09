@@ -8,15 +8,15 @@
 "Henri Veesaar",
 "Jock Landale",
 "Keshon Gilbert",
-"Mouhamed Gueye"
-],
-"dtd": [
-"Luka Doncic",
+"Mouhamed Gueye",
 "Quentin Grimes"
 ],
+"dtd": [
+"Austin Reaves"
+],
 "spread": -1.5,
-"total": 237.5,
-"p_home": 0.503
+"total": 236.5,
+"p_home": 0.5181
 },
 "401909953": {
 "matchup": "CLE @ CHA",
@@ -51,11 +51,12 @@
 "Tristan Vukcevic"
 ],
 "dtd": [
-"Anthony Davis"
+"Anthony Davis",
+"Bilal Coulibaly"
 ],
 "spread": -10.5,
-"total": 217.5,
-"p_home": 0.7804
+"total": 219.5,
+"p_home": 0.7855
 },
 "401909955": {
 "matchup": "MEM @ TOR",
@@ -69,12 +70,13 @@
 "Scotty Pippen Jr."
 ],
 "dtd": [
+"Collin Murray-Boyles",
 "Immanuel Quickley",
 "Scottie Barnes"
 ],
-"spread": -3.5,
-"total": 229.5,
-"p_home": 0.579
+"spread": -2.5,
+"total": 228.5,
+"p_home": 0.5723
 },
 "401909956": {
 "matchup": "IND @ DAL",
@@ -89,11 +91,12 @@
 "Tyrese Haliburton"
 ],
 "dtd": [
+"Morez Johnson Jr.",
 "T.J. McConnell"
 ],
 "spread": -3.5,
 "total": 226.5,
-"p_home": 0.6416
+"p_home": 0.6499
 },
 "401909957": {
 "matchup": "DEN @ HOU",
@@ -113,26 +116,25 @@
 "Jamal Murray",
 "Nikola Jokic"
 ],
-"spread": -9.5,
-"total": 219.5,
-"p_home": 0.7265
+"spread": -4.5,
+"total": 222.5,
+"p_home": 0.6389
 },
 "401909958": {
 "matchup": "SA @ PHX",
 "home": "PHX",
 "away": "SA",
 "out": [
+"Devin Vassell",
 "Jayden Quaintance",
 "Jordan Goodwin",
 "Mark Williams",
 "Tobias Harris"
 ],
-"dtd": [
-"Devin Vassell"
-],
+"dtd": [],
 "spread": 8.5,
-"total": 227.5,
-"p_home": 0.2568
+"total": 226.5,
+"p_home": 0.2715
 },
 "401909959": {
 "matchup": "NO @ GS",
@@ -146,11 +148,12 @@
 "Yves Missi"
 ],
 "dtd": [
+"Gary Payton II",
 "Gui Santos"
 ],
 "spread": -9.5,
 "total": 232.5,
-"p_home": 0.7466
+"p_home": 0.7429
 },
 "_tips": [
 "Sieg DAL (IND @ DAL)",

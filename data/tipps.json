@@ -508,17 +508,17 @@
 "p_over": 0.5076
 },
 "401909952": {
-"p_home": 0.503,
-"margin": 0.57,
-"total": 237.39,
+"p_home": 0.5181,
+"margin": 1.09,
+"total": 236.17,
 "matchup": "LAL @ ATL",
 "home": "ATL",
 "away": "LAL",
 "day": "2026-11-09",
 "home_spread": -1.5,
-"p_cover": 0.4716,
-"line_total": 237.5,
-"p_over": 0.4975
+"p_cover": 0.4875,
+"line_total": 236.5,
+"p_over": 0.4928
 },
 "401909953": {
 "p_home": 0.2238,
@@ -529,87 +529,87 @@
 "away": "CLE",
 "day": "2026-11-09",
 "home_spread": 8.5,
-"p_cover": 0.4345,
+"p_cover": 0.4347,
 "line_total": 214.5,
 "p_over": 0.4718
 },
 "401909954": {
-"p_home": 0.7804,
-"margin": 10.14,
-"total": 216.67,
+"p_home": 0.7855,
+"margin": 10.13,
+"total": 218.07,
 "matchup": "WSH @ DET",
 "home": "DET",
 "away": "WSH",
 "day": "2026-11-09",
 "home_spread": -10.5,
-"p_cover": 0.4888,
-"line_total": 217.5,
-"p_over": 0.4822
+"p_cover": 0.4887,
+"line_total": 219.5,
+"p_over": 0.4693
 },
 "401909955": {
-"p_home": 0.579,
-"margin": 3.47,
-"total": 228.97,
+"p_home": 0.5723,
+"margin": 2.77,
+"total": 228.27,
 "matchup": "MEM @ TOR",
 "home": "TOR",
 "away": "MEM",
 "day": "2026-11-09",
-"home_spread": -3.5,
-"p_cover": 0.4991,
-"line_total": 229.5,
-"p_over": 0.4886
+"home_spread": -2.5,
+"p_cover": 0.5083,
+"line_total": 228.5,
+"p_over": 0.4951
 },
 "401909956": {
-"p_home": 0.6416,
+"p_home": 0.6499,
 "margin": 5.46,
-"total": 223.89,
+"total": 223.9,
 "matchup": "IND @ DAL",
 "home": "DAL",
 "away": "IND",
 "day": "2026-11-09",
 "home_spread": -3.5,
-"p_cover": 0.5599,
+"p_cover": 0.5598,
 "line_total": 226.5,
 "p_over": 0.444
 },
 "401909957": {
-"p_home": 0.7265,
-"margin": 8.74,
-"total": 220.63,
+"p_home": 0.6389,
+"margin": 5.24,
+"total": 222.73,
 "matchup": "DEN @ HOU",
 "home": "HOU",
 "away": "DEN",
 "day": "2026-11-09",
-"home_spread": -9.5,
-"p_cover": 0.4767,
-"line_total": 219.5,
-"p_over": 0.5243
+"home_spread": -4.5,
+"p_cover": 0.5227,
+"line_total": 222.5,
+"p_over": 0.5049
 },
 "401909958": {
-"p_home": 0.2568,
-"margin": -8.55,
-"total": 228.09,
+"p_home": 0.2715,
+"margin": -7.76,
+"total": 226.6,
 "matchup": "SA @ PHX",
 "home": "PHX",
 "away": "SA",
 "day": "2026-11-09",
 "home_spread": 8.5,
-"p_cover": 0.4986,
-"line_total": 227.5,
-"p_over": 0.5127
+"p_cover": 0.5228,
+"line_total": 226.5,
+"p_over": 0.5022
 },
 "401909959": {
-"p_home": 0.7466,
-"margin": 8.93,
-"total": 233.59,
+"p_home": 0.7429,
+"margin": 8.92,
+"total": 233.58,
 "matchup": "NO @ GS",
 "home": "GS",
 "away": "NO",
 "day": "2026-11-09",
 "home_spread": -9.5,
-"p_cover": 0.4824,
+"p_cover": 0.4823,
 "line_total": 232.5,
-"p_over": 0.5235
+"p_over": 0.5234
 }
 },
 "singles": {
@@ -779,8 +779,8 @@
 "market": "ml",
 "side": "DAL",
 "line": null,
-"p": 0.6416,
-"dk": 1.62111801242236,
+"p": 0.6499,
+"dk": 1.5882352941176472,
 "label": "Sieg DAL"
 },
 {
@@ -789,8 +789,8 @@
 "market": "spread",
 "side": "CLE",
 "line": -8.5,
-"p": 0.5655,
-"dk": 1.8928571428571428,
+"p": 0.5653,
+"dk": 1.8620689655172413,
 "label": "CLE -8.5"
 },
 {
@@ -799,8 +799,8 @@
 "market": "spread",
 "side": "DAL",
 "line": -3.5,
-"p": 0.5599,
-"dk": 1.9090909090909092,
+"p": 0.5598,
+"dk": 1.847457627118644,
 "label": "DAL -3.5"
 },
 {
@@ -810,7 +810,7 @@
 "side": "under",
 "line": 226.5,
 "p": 0.556,
-"dk": 1.9090909090909092,
+"dk": 1.8695652173913042,
 "label": "Under 226.5"
 }
 ]
@@ -893,8 +893,8 @@
 "market": "ml",
 "side": "DAL",
 "line": null,
-"p": 0.6416,
-"dk": 1.62111801242236,
+"p": 0.6499,
+"dk": 1.5882352941176472,
 "label": "Sieg DAL"
 },
 {
@@ -908,8 +908,8 @@
 "label": "Sieg CLE"
 }
 ],
-"p": 0.498,
-"dk": 2.102
+"p": 0.5044,
+"dk": 2.06
 }
 ]
 }

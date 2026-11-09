@@ -29,18 +29,17 @@
 "Moussa Diabate",
 "Sam Merrill"
 ],
-"dtd": [
-"Jarrett Allen"
-],
+"dtd": [],
 "spread": 8.5,
 "total": 215.5,
-"p_home": 0.2106
+"p_home": 0.2164
 },
 "401909954": {
 "matchup": "WSH @ DET",
 "home": "DET",
 "away": "WSH",
 "out": [
+"Bilal Coulibaly",
 "Isaiah Joe",
 "Jalen Duren",
 "Jamir Watkins",
@@ -48,33 +47,29 @@
 "Reece Beekman",
 "Tristan Vukcevic"
 ],
-"dtd": [
-"Anthony Davis",
-"Bilal Coulibaly"
-],
-"spread": -10.5,
-"total": 219.5,
-"p_home": 0.7855
+"dtd": [],
+"spread": -9.5,
+"total": 218.5,
+"p_home": 0.7729
 },
 "401909955": {
 "matchup": "MEM @ TOR",
 "home": "TOR",
 "away": "MEM",
 "out": [
+"Collin Murray-Boyles",
+"Immanuel Quickley",
 "Isaiah Stewart",
 "Kawhi Leonard",
 "Nate Bittle",
 "Richie Saunders",
+"Scottie Barnes",
 "Scotty Pippen Jr."
 ],
-"dtd": [
-"Collin Murray-Boyles",
-"Immanuel Quickley",
-"Scottie Barnes"
-],
-"spread": -2.5,
-"total": 228.5,
-"p_home": 0.5639
+"dtd": [],
+"spread": 1.5,
+"total": 225.5,
+"p_home": 0.4295
 },
 "401909956": {
 "matchup": "IND @ DAL",
@@ -84,17 +79,15 @@
 "Ben Sheppard",
 "Dereck Lively II",
 "Johnny Furphy",
+"Morez Johnson Jr.",
 "Sergio de Larrea",
 "Tarik Biberovic",
 "Tyrese Haliburton"
 ],
-"dtd": [
-"Morez Johnson Jr.",
-"T.J. McConnell"
-],
+"dtd": [],
 "spread": -4.5,
 "total": 226.5,
-"p_home": 0.6499
+"p_home": 0.6566
 },
 "401909957": {
 "matchup": "DEN @ HOU",
@@ -157,10 +150,10 @@
 "p_home": 0.8326
 },
 "_tips": [
-"Sieg DAL (IND @ DAL)",
 "CLE -8.5 (CLE @ CHA)",
+"Sieg MEM (MEM @ TOR)",
 "Under 226.5 (IND @ DAL)",
-"DAL -4.5 (IND @ DAL)"
+"Under 225.5 (MEM @ TOR)"
 ],
 "_game_day": "2026-11-09"
 }

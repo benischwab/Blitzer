@@ -1,25 +1,25 @@
 ÄNDERUNGEN:
-• LAL @ ATL: Austin Reaves fällt NEU aus
-• LAL @ ATL: Jock Landale wieder dabei / nicht mehr out
-• LAL @ ATL: Total 236.5 → 233.5
-• LAL @ ATL: Sieg ATL 52% → 59%
-• CLE @ CHA: Moussa Diabate fällt NEU aus
-• NO @ GS: Trendon Watford fällt NEU aus
-• NO @ GS: Trey Murphy III fällt NEU aus
-• NO @ GS: Zion Williamson fällt NEU aus
+• WSH @ DET: Bilal Coulibaly fällt NEU aus
+• MEM @ TOR: Collin Murray-Boyles fällt NEU aus
+• MEM @ TOR: Immanuel Quickley fällt NEU aus
+• MEM @ TOR: Scottie Barnes fällt NEU aus
+• MEM @ TOR: Handicap TOR -2.5 → +1.5
+• MEM @ TOR: Total 228.5 → 225.5
+• MEM @ TOR: Sieg TOR 56% → 43%
+• IND @ DAL: Morez Johnson Jr. fällt NEU aus
 
 TIPPS (ab Mindestquote):
-• Sieg DAL (IND @ DAL) 65% – ab 1.58
 • CLE -8.5 (CLE @ CHA) 58% – ab 1.77
-• Under 226.5 (IND @ DAL) 56% – ab 1.85
-• 2er-Kombi: Sieg DAL + Sieg CLE – 51%, ab 2.01
-• 3er-Kombi: Sieg DAL + Sieg CLE + Sieg HOU – 32%, ab 3.18
+• Sieg MEM (MEM @ TOR) 57% – ab 1.81
+• Under 226.5 (IND @ DAL) 57% – ab 1.82
+• 2er-Kombi: Sieg CLE + Sieg DET – 61%, ab 1.70
+• 3er-Kombi: Sieg GS + Sieg CLE + Sieg HOU – 41%, ab 2.50
 
 01:00 LAL@ATL: ATL 59% · U233.5 52%
-01:00 CLE@CHA: CLE 79% · U215.5 55%
-01:00 WSH@DET: DET 79% · U219.5 53%
-01:30 MEM@TOR: TOR 56% · U228.5 50%
-02:00 IND@DAL: DAL 65% · U226.5 56%
+01:00 CLE@CHA: CLE 78% · U215.5 55%
+01:00 WSH@DET: DET 77% · U218.5 53%
+01:30 MEM@TOR: MEM 57% · U225.5 55%
+02:00 IND@DAL: DAL 66% · U226.5 57%
 02:30 DEN@HOU: HOU 63% · U223.5 50%
 03:00 SA@PHX: SA 73% · O226.5 50%
 04:00 NO@GS: GS 83% · U229.5 51%

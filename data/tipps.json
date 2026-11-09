@@ -521,7 +521,7 @@
 "p_over": 0.4759
 },
 "401909953": {
-"p_home": 0.2106,
+"p_home": 0.2164,
 "margin": -11.16,
 "total": 213.36,
 "matchup": "CLE @ CHA",
@@ -529,48 +529,48 @@
 "away": "CLE",
 "day": "2026-11-09",
 "home_spread": 8.5,
-"p_cover": 0.4188,
+"p_cover": 0.4189,
 "line_total": 215.5,
 "p_over": 0.454
 },
 "401909954": {
-"p_home": 0.7855,
-"margin": 10.13,
-"total": 218.08,
+"p_home": 0.7729,
+"margin": 9.91,
+"total": 216.9,
 "matchup": "WSH @ DET",
 "home": "DET",
 "away": "WSH",
 "day": "2026-11-09",
-"home_spread": -10.5,
-"p_cover": 0.4887,
-"line_total": 219.5,
-"p_over": 0.4693
+"home_spread": -9.5,
+"p_cover": 0.5125,
+"line_total": 218.5,
+"p_over": 0.4656
 },
 "401909955": {
-"p_home": 0.5639,
-"margin": 2.77,
-"total": 228.27,
+"p_home": 0.4295,
+"margin": -3.13,
+"total": 223.07,
 "matchup": "MEM @ TOR",
 "home": "TOR",
 "away": "MEM",
 "day": "2026-11-09",
-"home_spread": -2.5,
-"p_cover": 0.5084,
-"line_total": 228.5,
-"p_over": 0.495
+"home_spread": 1.5,
+"p_cover": 0.4501,
+"line_total": 225.5,
+"p_over": 0.4477
 },
 "401909956": {
-"p_home": 0.6499,
-"margin": 6.16,
-"total": 223.9,
+"p_home": 0.6566,
+"margin": 5.65,
+"total": 223.4,
 "matchup": "IND @ DAL",
 "home": "DAL",
 "away": "IND",
 "day": "2026-11-09",
 "home_spread": -4.5,
-"p_cover": 0.5507,
+"p_cover": 0.5353,
 "line_total": 226.5,
-"p_over": 0.4441
+"p_over": 0.4334
 },
 "401909957": {
 "p_home": 0.6318,
@@ -774,24 +774,24 @@
 ],
 "2026-11-09": [
 {
-"game_id": "401909956",
-"matchup": "IND @ DAL",
-"market": "ml",
-"side": "DAL",
-"line": null,
-"p": 0.6499,
-"dk": 1.5882352941176472,
-"label": "Sieg DAL"
-},
-{
 "game_id": "401909953",
 "matchup": "CLE @ CHA",
 "market": "spread",
 "side": "CLE",
 "line": -8.5,
-"p": 0.5812,
-"dk": 1.8620689655172413,
+"p": 0.5811,
+"dk": 1.925925925925926,
 "label": "CLE -8.5"
+},
+{
+"game_id": "401909955",
+"matchup": "MEM @ TOR",
+"market": "ml",
+"side": "MEM",
+"line": null,
+"p": 0.5705,
+"dk": 1.8403361344537816,
+"label": "Sieg MEM"
 },
 {
 "game_id": "401909956",
@@ -799,19 +799,19 @@
 "market": "total",
 "side": "under",
 "line": 226.5,
-"p": 0.5559,
-"dk": 1.900900900900901,
+"p": 0.5666,
+"dk": 1.9433962264150944,
 "label": "Under 226.5"
 },
 {
-"game_id": "401909956",
-"matchup": "IND @ DAL",
-"market": "spread",
-"side": "DAL",
-"line": -4.5,
-"p": 0.5507,
-"dk": 1.9523809523809523,
-"label": "DAL -4.5"
+"game_id": "401909955",
+"matchup": "MEM @ TOR",
+"market": "total",
+"side": "under",
+"line": 225.5,
+"p": 0.5523,
+"dk": 1.9090909090909092,
+"label": "Under 225.5"
 }
 ]
 },
@@ -884,69 +884,6 @@
 ],
 "2026-11-07": [],
 "2026-11-08": [],
-"2026-11-09": [
-{
-"legs": [
-{
-"game_id": "401909956",
-"matchup": "IND @ DAL",
-"market": "ml",
-"side": "DAL",
-"line": null,
-"p": 0.6499,
-"dk": 1.5882352941176472,
-"label": "Sieg DAL"
-},
-{
-"game_id": "401909953",
-"matchup": "CLE @ CHA",
-"market": "ml",
-"side": "CLE",
-"line": null,
-"p": 0.7894,
-"dk": 1.28328611898017,
-"label": "Sieg CLE"
-}
-],
-"p": 0.513,
-"dk": 2.038
-},
-{
-"legs": [
-{
-"game_id": "401909956",
-"matchup": "IND @ DAL",
-"market": "ml",
-"side": "DAL",
-"line": null,
-"p": 0.6499,
-"dk": 1.5882352941176472,
-"label": "Sieg DAL"
-},
-{
-"game_id": "401909953",
-"matchup": "CLE @ CHA",
-"market": "ml",
-"side": "CLE",
-"line": null,
-"p": 0.7894,
-"dk": 1.28328611898017,
-"label": "Sieg CLE"
-},
-{
-"game_id": "401909957",
-"matchup": "DEN @ HOU",
-"market": "ml",
-"side": "HOU",
-"line": null,
-"p": 0.6318,
-"dk": 1.5780346820809248,
-"label": "Sieg HOU"
-}
-],
-"p": 0.3241,
-"dk": 3.216
-}
-]
+"2026-11-09": []
 }
 }

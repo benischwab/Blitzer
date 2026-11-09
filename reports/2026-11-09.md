@@ -1,21 +1,18 @@
 # NBA-Tipps für die Nacht 09.11.–10.11.2026
 
-Stand: Mo 09.11. 23:49 Uhr · 8 Spiele · Datenbasis: 146 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.3 Pkt/Team
+Stand: Di 10.11. 00:59 Uhr · 8 Spiele · Datenbasis: 146 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.3 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- LAL @ ATL: Austin Reaves fällt NEU aus
-- LAL @ ATL: Jock Landale wieder dabei / nicht mehr out
-- LAL @ ATL: Total 236.5 → 233.5
-- LAL @ ATL: Sieg ATL 52% → 59%
-- CLE @ CHA: Moussa Diabate fällt NEU aus
-- NO @ GS: Trendon Watford fällt NEU aus
-- NO @ GS: Trey Murphy III fällt NEU aus
-- NO @ GS: Zion Williamson fällt NEU aus
-- NO @ GS: Handicap GS -9.5 → -11.5
-- NO @ GS: Total 232.5 → 229.5
-- NO @ GS: Sieg GS 74% → 83%
-- Neue Tipps: DAL -4.5 (IND @ DAL)
-- Gestrichen: DAL -3.5 (IND @ DAL)
+- WSH @ DET: Bilal Coulibaly fällt NEU aus
+- MEM @ TOR: Collin Murray-Boyles fällt NEU aus
+- MEM @ TOR: Immanuel Quickley fällt NEU aus
+- MEM @ TOR: Scottie Barnes fällt NEU aus
+- MEM @ TOR: Handicap TOR -2.5 → +1.5
+- MEM @ TOR: Total 228.5 → 225.5
+- MEM @ TOR: Sieg TOR 56% → 43%
+- IND @ DAL: Morez Johnson Jr. fällt NEU aus
+- Neue Tipps: Sieg MEM (MEM @ TOR); Under 225.5 (MEM @ TOR)
+- Gestrichen: Sieg DAL (IND @ DAL); DAL -4.5 (IND @ DAL)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -25,21 +22,21 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Sieg DAL | IND @ DAL | 65% | 1.59 | +3.2% | **1.58** |
-| CLE -8.5 | CLE @ CHA | 58% | 1.86 | +8.2% | **1.77** |
-| Under 226.5 | IND @ DAL | 56% | 1.90 | +5.7% | **1.85** |
-| DAL -4.5 | IND @ DAL | 55% | 1.95 | +7.5% | **1.87** |
+| CLE -8.5 | CLE @ CHA | 58% | 1.93 | +11.9% | **1.77** |
+| Sieg MEM | MEM @ TOR | 57% | 1.84 | +5.0% | **1.81** |
+| Under 226.5 | IND @ DAL | 57% | 1.94 | +10.1% | **1.82** |
+| Under 225.5 | MEM @ TOR | 55% | 1.91 | +5.4% | **1.86** |
 
 **Sichere 2er-Kombi**
-- Sieg DAL (IND @ DAL) — 65%, DK 1.59
-- Sieg CLE (CLE @ CHA) — 79%, DK 1.28
-- **Trefferchance 51%** · DK-Quote 2.04 (+4.6%) · **lohnt ab Sporttip-Gesamtquote 2.01** · _profitabel zur DK-Quote_
+- Sieg CLE (CLE @ CHA) — 78%, DK 1.30
+- Sieg DET (WSH @ DET) — 77%, DK 1.24
+- **Trefferchance 61%** · DK-Quote 1.61 (-2.3%) · **lohnt ab Sporttip-Gesamtquote 1.70** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg DAL (IND @ DAL) — 65%, DK 1.59
-- Sieg CLE (CLE @ CHA) — 79%, DK 1.28
+- Sieg GS (NO @ GS) — 83%, DK 1.18
+- Sieg CLE (CLE @ CHA) — 78%, DK 1.30
 - Sieg HOU (DEN @ HOU) — 63%, DK 1.58
-- **Trefferchance 32%** · DK-Quote 3.22 (+4.2%) · **lohnt ab Sporttip-Gesamtquote 3.18** · _profitabel zur DK-Quote_
+- **Trefferchance 41%** · DK-Quote 2.41 (-0.8%) · **lohnt ab Sporttip-Gesamtquote 2.50** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Luka Doncic (LAL, LAL @ ATL): über 48.5 P+R+A — 77% · lohnt ab Quote **1.34**
@@ -53,11 +50,11 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - CLE @ CHA: Handicap CLE -8.5 — Modell 73%
-- IND @ DAL: Under 226.5 — Modell-Total 217.8 (66%)
-- IND @ DAL: Sieg DAL — Modell 76% vs. Markt 60%
-- IND @ DAL: Handicap DAL -4.5 — Modell 65%
-- CLE @ CHA: Sieg CLE — Modell 88% vs. Markt 75%
-- CLE @ CHA: Under 215.5 — Modell-Total 208.4 (63%)
+- IND @ DAL: Under 226.5 — Modell-Total 216.2 (69%)
+- MEM @ TOR: Sieg MEM — Modell 68% vs. Markt 52%
+- MEM @ TOR: Under 225.5 — Modell-Total 217.4 (65%)
+- MEM @ TOR: Handicap MEM -1.5 — Modell 65%
+- CLE @ CHA: Sieg CLE — Modell 88% vs. Markt 74%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 30/39 richtig (77%), Brier 0.173
@@ -95,8 +92,8 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 **Total-Faustregel:** Over lohnt bis 228.5 · Under lohnt ab 236.5 (≥57%)
 **Form (letzte 5):** ATL NSSSS (+1.4) · LAL SSSSS (+10.2)
 _ATL out: Asa Newell, Keshon Gilbert, Mouhamed Gueye, Henri Veesaar · LAL spielt Back-to-Back · LAL out: Austin Reaves*, Quentin Grimes*_ (* = Meldung der letzten 24 h)
-> 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
-> 📰 Los Angeles visits Atlanta following Reaves' 43-point game
+> 📰 Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks
+> 📰 Bronny James gets into verbal exchange with Pistons fans during Lakers' win
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -110,13 +107,13 @@ _ATL out: Asa Newell, Keshon Gilbert, Mouhamed Gueye, Henri Veesaar · LAL spiel
 | Sandro Mamukelashvili (LAL) | 22 | 8.6 (6.5 / 9.5) | 4.2 | 1.4 | 1.0 | 14.2 |
 
 ### CLE @ CHA — Di 01:00 Uhr
-**Sieg:** CHA 21% (faire Quote 4.75) · CLE 79% (1.27) — Markt CHA 25%
+**Sieg:** CHA 22% (faire Quote 4.62) · CLE 78% (1.28) — Markt CHA 26%
 **Prognose:** CHA 101.1 – CLE 112.3 (Diff. CLE +11.2, Total 213.4)
 **Handicap** CHA +8.5: CHA deckt 42% · CLE -8.5 deckt 58%
 **Over/Under 215.5:** Over 45% (2.20) · Under 55% (1.83)
 **Total-Faustregel:** Over lohnt bis 209.5 · Under lohnt ab 217.5 (≥57%)
 **Form (letzte 5):** CHA NNNNN (-20.6) · CLE SNNSN (+4.8)
-_CHA out: Moussa Diabate*, Grant Williams, Kon Knueppel, Dennis Schroder, Brandon Miller · CLE out: Sam Merrill, Jaylon Tyson · CLE fraglich: Jarrett Allen_ (* = Meldung der letzten 24 h)
+_CHA out: Moussa Diabate*, Grant Williams, Kon Knueppel, Dennis Schroder, Brandon Miller · CLE out: Sam Merrill, Jaylon Tyson_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 > 📰 Hornets' Kon Knueppel out at least 4 weeks with latest hamstring strain
 
@@ -131,13 +128,13 @@ _CHA out: Moussa Diabate*, Grant Williams, Kon Knueppel, Dennis Schroder, Brando
 | Jarrett Allen (CLE) | 24 | 12.7 (9.5 / 12.5) | 7.4 | 1.3 | 0.2 | 21.4 |
 
 ### WSH @ DET — Di 01:00 Uhr
-**Sieg:** DET 79% (faire Quote 1.27) · WSH 21% (4.66) — Markt DET 81%
-**Prognose:** DET 114.1 – WSH 104.0 (Diff. DET +10.1, Total 218.1)
-**Handicap** DET -10.5: DET deckt 49% · WSH +10.5 deckt 51%
-**Over/Under 219.5:** Over 47% (2.13) · Under 53% (1.88)
-**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 221.5 (≥57%)
+**Sieg:** DET 77% (faire Quote 1.29) · WSH 23% (4.40) — Markt DET 77%
+**Prognose:** DET 113.4 – WSH 103.5 (Diff. DET +9.9, Total 216.9)
+**Handicap** DET -9.5: DET deckt 51% · WSH +9.5 deckt 49%
+**Over/Under 218.5:** Over 47% (2.15) · Under 53% (1.87)
+**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** DET SSSNN (+9.2) · WSH SSNNN (-7.2)
-_DET spielt Back-to-Back · DET out: Isaiah Joe*, Jalen Duren · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Bilal Coulibaly*, Anthony Davis_ (* = Meldung der letzten 24 h)
+_DET spielt Back-to-Back · DET out: Isaiah Joe*, Jalen Duren · WSH out: Bilal Coulibaly*, Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 > 📰 Washington faces Detroit on 3-game skid
 
@@ -153,34 +150,33 @@ _DET spielt Back-to-Back · DET out: Isaiah Joe*, Jalen Duren · WSH out: Trista
 | AJ Dybantsa (WSH) | 32 | 15.2 (12.5 / 16.5) | 6.0 | 2.4 | 0.8 | 23.7 |
 
 ### MEM @ TOR — Di 01:30 Uhr
-**Sieg:** TOR 56% (faire Quote 1.77) · MEM 44% (2.29) — Markt TOR 55%
-**Prognose:** TOR 115.5 – MEM 112.7 (Diff. TOR +2.8, Total 228.3)
-**Handicap** TOR -2.5: TOR deckt 51% · MEM +2.5 deckt 49%
-**Over/Under 228.5:** Over 50% (2.02) · Under 50% (1.98)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
+**Sieg:** TOR 43% (faire Quote 2.33) · MEM 57% (1.75) — Markt TOR 48%
+**Prognose:** TOR 110.0 – MEM 113.1 (Diff. MEM +3.1, Total 223.1)
+**Handicap** TOR +1.5: TOR deckt 45% · MEM -1.5 deckt 55%
+**Over/Under 225.5:** Over 45% (2.23) · Under 55% (1.81)
+**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** TOR NNSNS (-2.2) · MEM SSNNN (+3.2)
-_TOR out: Nate Bittle, Kawhi Leonard · TOR fraglich: Collin Murray-Boyles*, Immanuel Quickley, Scottie Barnes · MEM out: Scotty Pippen Jr.*, Isaiah Stewart*, Richie Saunders_ (* = Meldung der letzten 24 h)
+_TOR out: Immanuel Quickley*, Collin Murray-Boyles*, Scottie Barnes*, Nate Bittle, Kawhi Leonard · MEM out: Scotty Pippen Jr., Isaiah Stewart, Richie Saunders_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
-| Scottie Barnes (TOR) | 34 | 23.6 (19.5 / 24.5) | 7.7 | 5.3 | 0.5 | 36.6 |
 | RJ Barrett (TOR) | 33 | 21.9 (19.5 / 22.5) | 6.2 | 4.1 | 1.6 | 32.2 |
-| Immanuel Quickley (TOR) | 32 | 17.3 (14.5 / 18.5) | 3.5 | 5.7 | 2.6 | 26.6 |
-| Collin Murray-Boyles (TOR) | 23 | 11.6 (8.5 / 11.5) | 5.0 | 1.3 | 0.6 | 17.9 |
+| Ja'Kobe Walter (TOR) | 29 | 10.5 (8.5 / 11.5) | 4.1 | 2.4 | 2.0 | 17.0 |
+| Jamal Shead (TOR) | 23 | 6.2 (4.5 / 6.5) | 2.2 | 7.1 | 0.6 | 15.5 |
 | Ty Jerome (MEM) | 30 | 25.8 (21.5 / 26.5) | 3.3 | 5.1 | 2.4 | 34.2 |
 | Cameron Boozer (MEM) | 32 | 15.3 (12.5 / 15.5) | 9.8 | 5.1 | 1.9 | 30.3 |
 | Cedric Coward (MEM) | 28 | 13.9 (11.5 / 14.5) | 8.7 | 2.4 | 2.7 | 25.0 |
 | Jaylen Wells (MEM) | 27 | 9.9 (7.5 / 10.5) | 2.5 | 1.3 | 1.6 | 13.8 |
 
 ### IND @ DAL — Di 02:00 Uhr
-**Sieg:** DAL 65% (faire Quote 1.54) · IND 35% (2.86) — Markt DAL 60%
-**Prognose:** DAL 115.0 – IND 108.9 (Diff. DAL +6.2, Total 223.9)
-**Handicap** DAL -4.5: DAL deckt 55% · IND +4.5 deckt 45%
-**Over/Under 226.5:** Over 44% (2.25) · Under 56% (1.80)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
+**Sieg:** DAL 66% (faire Quote 1.52) · IND 34% (2.91) — Markt DAL 63%
+**Prognose:** DAL 114.5 – IND 108.9 (Diff. DAL +5.7, Total 223.4)
+**Handicap** DAL -4.5: DAL deckt 54% · IND +4.5 deckt 46%
+**Over/Under 226.5:** Over 43% (2.31) · Under 57% (1.76)
+**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** DAL SNNSS (+7.6) · IND NNNSN (-8.0)
-_DAL spielt Back-to-Back · DAL out: Sergio de Larrea, Tarik Biberovic, Dereck Lively II · DAL fraglich: Morez Johnson Jr.* · IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell*_ (* = Meldung der letzten 24 h)
+_DAL spielt Back-to-Back · DAL out: Morez Johnson Jr.*, Sergio de Larrea, Tarik Biberovic, Dereck Lively II · IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 > 📰 Dallas takes on Indiana in non-conference action
 
@@ -202,7 +198,7 @@ _DAL spielt Back-to-Back · DAL out: Sergio de Larrea, Tarik Biberovic, Dereck L
 **Over/Under 223.5:** Over 50% (2.01) · Under 50% (1.99)
 **Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** HOU NSSNN (+3.8) · DEN SSNSS (+8.6)
-_HOU out: Oscar Tshiebwe*, Clint Capela*, Steven Adams · DEN out: Julian Strawther · DEN fraglich: Cameron Johnson*, Christian Braun*, Aaron Gordon*, Nikola Jokic*, DeMar DeRozan*, Jamal Murray*_ (* = Meldung der letzten 24 h)
+_HOU out: Oscar Tshiebwe*, Clint Capela, Steven Adams · DEN out: Julian Strawther · DEN fraglich: Cameron Johnson*, Christian Braun*, Aaron Gordon*, Nikola Jokic*, DeMar DeRozan*, Jamal Murray*_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 > 📰 Nuggets upgrade starters to probable vs. Rockets after delayed arrival
 

@@ -5,18 +5,16 @@
 "away": "LAL",
 "out": [
 "Asa Newell",
+"Austin Reaves",
 "Henri Veesaar",
-"Jock Landale",
 "Keshon Gilbert",
 "Mouhamed Gueye",
 "Quentin Grimes"
 ],
-"dtd": [
-"Austin Reaves"
-],
-"spread": -1.5,
-"total": 236.5,
-"p_home": 0.5181
+"dtd": [],
+"spread": -2.5,
+"total": 233.5,
+"p_home": 0.5925
 },
 "401909953": {
 "matchup": "CLE @ CHA",
@@ -28,15 +26,15 @@
 "Grant Williams",
 "Jaylon Tyson",
 "Kon Knueppel",
+"Moussa Diabate",
 "Sam Merrill"
 ],
 "dtd": [
-"Jarrett Allen",
-"Moussa Diabate"
+"Jarrett Allen"
 ],
 "spread": 8.5,
-"total": 214.5,
-"p_home": 0.2238
+"total": 215.5,
+"p_home": 0.2106
 },
 "401909954": {
 "matchup": "WSH @ DET",
@@ -76,7 +74,7 @@
 ],
 "spread": -2.5,
 "total": 228.5,
-"p_home": 0.5723
+"p_home": 0.5639
 },
 "401909956": {
 "matchup": "IND @ DAL",
@@ -94,7 +92,7 @@
 "Morez Johnson Jr.",
 "T.J. McConnell"
 ],
-"spread": -3.5,
+"spread": -4.5,
 "total": 226.5,
 "p_home": 0.6499
 },
@@ -117,8 +115,8 @@
 "Nikola Jokic"
 ],
 "spread": -4.5,
-"total": 222.5,
-"p_home": 0.6389
+"total": 223.5,
+"p_home": 0.6318
 },
 "401909958": {
 "matchup": "SA @ PHX",
@@ -134,7 +132,7 @@
 "dtd": [],
 "spread": 8.5,
 "total": 226.5,
-"p_home": 0.2715
+"p_home": 0.2716
 },
 "401909959": {
 "matchup": "NO @ GS",
@@ -144,22 +142,25 @@
 "Jimmy Butler III",
 "Kristaps Porzingis",
 "Moses Moody",
+"Trendon Watford",
+"Trey Murphy III",
 "Will Richard",
-"Yves Missi"
+"Yves Missi",
+"Zion Williamson"
 ],
 "dtd": [
 "Gary Payton II",
 "Gui Santos"
 ],
-"spread": -9.5,
-"total": 232.5,
-"p_home": 0.7429
+"spread": -11.5,
+"total": 229.5,
+"p_home": 0.8326
 },
 "_tips": [
 "Sieg DAL (IND @ DAL)",
 "CLE -8.5 (CLE @ CHA)",
-"DAL -3.5 (IND @ DAL)",
-"Under 226.5 (IND @ DAL)"
+"Under 226.5 (IND @ DAL)",
+"DAL -4.5 (IND @ DAL)"
 ],
 "_game_day": "2026-11-09"
 }

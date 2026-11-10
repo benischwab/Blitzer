@@ -6,6 +6,7 @@
 "out": [],
 "dtd": [
 "Josh Hart",
+"Kel'el Ware",
 "Tyler Herro"
 ],
 "spread": -15.5,
@@ -52,15 +53,15 @@
 "out": [
 "Jaren Jackson Jr.",
 "Jusuf Nurkic",
-"Keyonte George"
-],
-"dtd": [
-"Giannis Antetokounmpo",
+"Keyonte George",
 "Lauri Markkanen"
 ],
-"spread": 8.5,
+"dtd": [
+"Giannis Antetokounmpo"
+],
+"spread": 9.5,
 "total": 227.5,
-"p_home": 0.2684
+"p_home": 0.2249
 },
 "401909964": {
 "matchup": "ORL @ SAC",
@@ -77,11 +78,12 @@
 ],
 "dtd": [
 "Domantas Sabonis",
-"Keegan Murray"
+"Keegan Murray",
+"Tristan da Silva"
 ],
 "spread": 6.5,
-"total": 223.5,
-"p_home": 0.396
+"total": 222.5,
+"p_home": 0.3913
 },
 "401909965": {
 "matchup": "OKC @ POR",
@@ -99,8 +101,8 @@
 ],
 "dtd": [],
 "spread": 1.5,
-"total": 224.5,
-"p_home": 0.4709
+"total": 226.5,
+"p_home": 0.4773
 },
 "_tips": [
 "SAC +6.5 (ORL @ SAC)",

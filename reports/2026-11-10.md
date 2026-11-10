@@ -1,6 +1,10 @@
 # NBA-Tipps für die Nacht 10.11.–11.11.2026
 
-Stand: Di 10.11. 17:18 Uhr · 6 Spiele · Datenbasis: 154 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.3 Pkt/Team
+Stand: Di 10.11. 21:13 Uhr · 6 Spiele · Datenbasis: 154 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.3 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- MIA @ UTAH: Lauri Markkanen fällt NEU aus
+- OKC @ POR: Total 224.5 → 226.5
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,14 +14,14 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| SAC +6.5 | ORL @ SAC | 58% | 1.86 | +7.1% | **1.79** |
-| LAC +3.5 | LAC @ PHX | 55% | 1.89 | +4.2% | **1.87** |
+| SAC +6.5 | ORL @ SAC | 58% | 1.90 | +9.3% | **1.79** |
+| LAC +3.5 | LAC @ PHX | 55% | 1.93 | +6.0% | **1.87** |
 | Sieg PHX | LAC @ PHX | 55% | 1.60 | -11.4% | **1.86** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg MIA (MIA @ UTAH) — 73%, DK 1.28
-- Sieg ORL (ORL @ SAC) — 60%, DK 1.44
-- **Trefferchance 44%** · DK-Quote 1.84 (-18.8%) · **lohnt ab Sporttip-Gesamtquote 2.33** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg MIA (MIA @ UTAH) — 78%, DK 1.23
+- Sieg ORL (ORL @ SAC) — 61%, DK 1.42
+- **Trefferchance 47%** · DK-Quote 1.75 (-17.6%) · **lohnt ab Sporttip-Gesamtquote 2.18** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -33,12 +37,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- ORL @ SAC: Sieg SAC — Modell 55% vs. Markt 33%
+- ORL @ SAC: Sieg SAC — Modell 55% vs. Markt 32%
 - ORL @ SAC: Handicap SAC +6.5 — Modell 71%
 - LAC @ PHX: Sieg LAC — Modell 55% vs. Markt 40%
 - LAC @ PHX: Handicap LAC +3.5 — Modell 65%
-- OKC @ POR: Under 224.5 — Modell-Total 218.8 (61%)
-- MIA @ UTAH: Under 227.5 — Modell-Total 223.4 (58%)
+- OKC @ POR: Under 226.5 — Modell-Total 218.8 (64%)
+- MIA @ UTAH: Under 227.5 — Modell-Total 220.3 (64%)
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 36/47 richtig (77%), Brier 0.177
@@ -74,10 +78,10 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 **Sieg:** NY 86% (faire Quote 1.17) · MIL 14% (6.96) — Markt NY 88%
 **Prognose:** NY 117.8 – MIL 103.1 (Diff. NY +14.7, Total 221.0)
 **Handicap** NY -15.5: NY deckt 48% · MIL +15.5 deckt 52%
-**Over/Under 221.5:** Over 49% (2.05) · Under 51% (1.95)
+**Over/Under 221.5:** Over 49% (2.05) · Under 51% (1.96)
 **Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** NY SNSSS (+11.2) · MIL NNNNN (-15.6)
-_NY fraglich: Josh Hart* · MIL fraglich: Tyler Herro*_ (* = Meldung der letzten 24 h)
+_NY fraglich: Josh Hart* · MIL fraglich: Kel'el Ware*, Tyler Herro*_ (* = Meldung der letzten 24 h)
 > 📰 Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critique
 > 📰 Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'
 
@@ -100,15 +104,15 @@ _NY fraglich: Josh Hart* · MIL fraglich: Tyler Herro*_ (* = Meldung der letzten
 **Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** PHI SSSNS (+2.4) · BOS SNSSS (+12.2)
 _PHI out: Adem Bona*, Dominick Barlow, Ariel Hukporti_ (* = Meldung der letzten 24 h)
+> 📰 Why Stephen A. 'can't wait' for the Tatum-Brown matchup
 > 📰 As Jaylen Brown faces the Celtics for the first time, familiar questions linger
-> 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Tyrese Maxey (PHI) | 36 | 25.1 (22.5 / 26.5) | 3.6 | 5.7 | 2.5 | 34.6 |
 | Jaylen Brown (PHI) | 36 | 21.8 (19.5 / 22.5) | 6.7 | 3.9 | 2.0 | 32.6 |
 | Joel Embiid (PHI) | 31 | 16.7 (13.5 / 17.5) | 9.7 | 3.9 | 0.2 | 30.2 |
-| LeBron James (PHI) | 33 | 14.8 (12.5 / 15.5) | 7.0 | 6.6 | 0.9 | 28.4 |
+| LeBron James (PHI) | 33 | 14.9 (12.5 / 15.5) | 7.0 | 6.6 | 0.9 | 28.4 |
 | Jayson Tatum (BOS) | 33 | 26.4 (23.5 / 27.5) | 5.9 | 7.7 | 2.5 | 40.1 |
 | Paul George (BOS) | 30 | 19.6 (16.5 / 20.5) | 5.0 | 4.0 | 3.3 | 28.7 |
 | Derrick White (BOS) | 30 | 12.8 (10.5 / 13.5) | 3.3 | 5.3 | 1.7 | 21.3 |
@@ -137,19 +141,18 @@ _PHX spielt Back-to-Back · PHX out: Jordan Goodwin*, Mark Williams · LAC out: 
 | Keaton Wagler (LAC) | 22 | 12.3 (10.5 / 12.5) | 3.7 | 3.3 | 1.8 | 19.3 |
 
 ### MIA @ UTAH — Mi 03:00 Uhr
-**Sieg:** UTAH 27% (faire Quote 3.73) · MIA 73% (1.37) — Markt UTAH 25%
-**Prognose:** UTAH 109.1 – MIA 117.2 (Diff. MIA +8.1, Total 226.3)
-**Handicap** UTAH +8.5: UTAH deckt 51% · MIA -8.5 deckt 49%
-**Over/Under 227.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 230.5 (≥57%)
+**Sieg:** UTAH 22% (faire Quote 4.45) · MIA 78% (1.29) — Markt UTAH 22%
+**Prognose:** UTAH 107.8 – MIA 117.5 (Diff. MIA +9.7, Total 225.3)
+**Handicap** UTAH +9.5: UTAH deckt 49% · MIA -9.5 deckt 51%
+**Over/Under 227.5:** Over 45% (2.21) · Under 55% (1.83)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** UTAH NNNNN (-15.6) · MIA SNSNS (-2.8)
-_UTAH out: Keyonte George*, Jusuf Nurkic, Jaren Jackson Jr. · UTAH fraglich: Lauri Markkanen* · MIA fraglich: Giannis Antetokounmpo*_ (* = Meldung der letzten 24 h)
+_UTAH out: Lauri Markkanen*, Keyonte George*, Jusuf Nurkic, Jaren Jackson Jr. · MIA fraglich: Giannis Antetokounmpo*_ (* = Meldung der letzten 24 h)
 > 📰 Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critique
 > 📰 Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
-| Lauri Markkanen (UTAH) | 31 | 19.1 (16.5 / 19.5) | 6.9 | 2.0 | 4.1 | 27.9 |
 | Darryn Peterson (UTAH) | 31 | 16.3 (13.5 / 17.5) | 4.0 | 4.2 | 2.2 | 24.4 |
 | Ace Bailey (UTAH) | 31 | 12.1 (9.5 / 12.5) | 6.2 | 1.8 | 1.2 | 20.1 |
 | Jaxson Hayes (UTAH) | 25 | 9.2 (6.5 / 9.5) | 6.4 | 1.8 | 0.0 | 17.4 |
@@ -159,15 +162,14 @@ _UTAH out: Keyonte George*, Jusuf Nurkic, Jaren Jackson Jr. · UTAH fraglich: La
 | Klay Thompson (MIA) | 25 | 16.0 (12.5 / 16.5) | 1.6 | 2.2 | 4.3 | 19.8 |
 
 ### ORL @ SAC — Mi 04:00 Uhr
-**Sieg:** SAC 40% (faire Quote 2.53) · ORL 60% (1.66) — Markt SAC 33%
-**Prognose:** SAC 109.8 – ORL 113.9 (Diff. ORL +4.0, Total 223.7)
+**Sieg:** SAC 39% (faire Quote 2.56) · ORL 61% (1.64) — Markt SAC 32%
+**Prognose:** SAC 109.5 – ORL 113.5 (Diff. ORL +4.0, Total 223.0)
 **Handicap** SAC +6.5: SAC deckt 58% · ORL -6.5 deckt 42%
-**Over/Under 223.5:** Over 50% (1.98) · Under 50% (2.02)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 227.5 (≥57%)
+**Over/Under 222.5:** Over 51% (1.96) · Under 49% (2.04)
+**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** SAC NSNNN (-10.0) · ORL SNNNN (-6.6)
-_SAC out: Maxime Raynaud*, Ben Simmons · SAC fraglich: Keegan Murray*, Domantas Sabonis* · ORL out: Jalen Suggs*, Jonathan Isaac*, Paolo Banchero, Noah Penda, Izaiyah Nelson_ (* = Meldung der letzten 24 h)
+_SAC out: Maxime Raynaud*, Ben Simmons · SAC fraglich: Keegan Murray*, Domantas Sabonis* · ORL out: Jalen Suggs*, Jonathan Isaac*, Paolo Banchero, Noah Penda, Izaiyah Nelson · ORL fraglich: Tristan da Silva*_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
-> 📰 Kings face the Magic on 3-game skid
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -181,15 +183,14 @@ _SAC out: Maxime Raynaud*, Ben Simmons · SAC fraglich: Keegan Murray*, Domantas
 | Tristan da Silva (ORL) | 31 | 16.1 (13.5 / 16.5) | 3.9 | 1.7 | 3.8 | 21.6 |
 
 ### OKC @ POR — Mi 05:00 Uhr
-**Sieg:** POR 47% (faire Quote 2.12) · OKC 53% (1.89) — Markt POR 46%
-**Prognose:** POR 110.9 – OKC 111.9 (Diff. OKC +1.0, Total 222.8)
+**Sieg:** POR 48% (faire Quote 2.10) · OKC 52% (1.91) — Markt POR 47%
+**Prognose:** POR 111.6 – OKC 112.6 (Diff. OKC +1.0, Total 224.2)
 **Handicap** POR +1.5: POR deckt 51% · OKC -1.5 deckt 49%
-**Over/Under 224.5:** Over 46% (2.16) · Under 54% (1.86)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
+**Over/Under 226.5:** Over 45% (2.22) · Under 55% (1.82)
+**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** POR SSSNN (+3.0) · OKC NSSSS (+12.4)
 _POR out: Ja Morant, Vit Krejci, Shaedon Sharpe · OKC out: Jaylin Williams*, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
-> 📰 Thunder face the Trail Blazers, seek 5th straight victory
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|

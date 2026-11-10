@@ -610,6 +610,84 @@
 "p_cover": 0.5434,
 "line_total": 229.5,
 "p_over": 0.4868
+},
+"401909960": {
+"p_home": 0.8564,
+"margin": 14.7,
+"total": 220.96,
+"matchup": "MIL @ NY",
+"home": "NY",
+"away": "MIL",
+"day": "2026-11-10",
+"home_spread": -15.5,
+"p_cover": 0.4755,
+"line_total": 221.5,
+"p_over": 0.4884
+},
+"401909961": {
+"p_home": 0.4675,
+"margin": -1.79,
+"total": 216.94,
+"matchup": "BOS @ PHI",
+"home": "PHI",
+"away": "BOS",
+"day": "2026-11-10",
+"home_spread": 1.5,
+"p_cover": 0.4912,
+"line_total": 217.5,
+"p_over": 0.4879
+},
+"401909962": {
+"p_home": 0.5539,
+"margin": 1.86,
+"total": 225.1,
+"matchup": "LAC @ PHX",
+"home": "PHX",
+"away": "LAC",
+"day": "2026-11-10",
+"home_spread": -3.5,
+"p_cover": 0.4497,
+"line_total": 224.5,
+"p_over": 0.5129
+},
+"401909963": {
+"p_home": 0.2684,
+"margin": -8.06,
+"total": 226.28,
+"matchup": "MIA @ UTAH",
+"home": "UTAH",
+"away": "MIA",
+"day": "2026-11-10",
+"home_spread": 8.5,
+"p_cover": 0.5136,
+"line_total": 227.5,
+"p_over": 0.4736
+},
+"401909964": {
+"p_home": 0.396,
+"margin": -4.04,
+"total": 223.68,
+"matchup": "ORL @ SAC",
+"home": "SAC",
+"away": "ORL",
+"day": "2026-11-10",
+"home_spread": 6.5,
+"p_cover": 0.5752,
+"line_total": 223.5,
+"p_over": 0.504
+},
+"401909965": {
+"p_home": 0.4709,
+"margin": -1.02,
+"total": 222.79,
+"matchup": "OKC @ POR",
+"home": "POR",
+"away": "OKC",
+"day": "2026-11-10",
+"home_spread": 1.5,
+"p_cover": 0.5147,
+"line_total": 224.5,
+"p_over": 0.4631
 }
 },
 "singles": {
@@ -813,6 +891,28 @@
 "dk": 1.9090909090909092,
 "label": "Under 225.5"
 }
+],
+"2026-11-10": [
+{
+"game_id": "401909964",
+"matchup": "ORL @ SAC",
+"market": "spread",
+"side": "SAC",
+"line": 6.5,
+"p": 0.5752,
+"dk": 1.8620689655172413,
+"label": "SAC +6.5"
+},
+{
+"game_id": "401909962",
+"matchup": "LAC @ PHX",
+"market": "spread",
+"side": "LAC",
+"line": 3.5,
+"p": 0.5503,
+"dk": 1.8928571428571428,
+"label": "LAC +3.5"
+}
 ]
 },
 "combos": {
@@ -884,6 +984,7 @@
 ],
 "2026-11-07": [],
 "2026-11-08": [],
-"2026-11-09": []
+"2026-11-09": [],
+"2026-11-10": []
 }
 }

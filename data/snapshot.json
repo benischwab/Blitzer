@@ -11,7 +11,7 @@
 ],
 "spread": -15.5,
 "total": 221.5,
-"p_home": 0.8564
+"p_home": 0.8563
 },
 "401909961": {
 "matchup": "BOS @ PHI",
@@ -25,7 +25,7 @@
 "dtd": [],
 "spread": 1.5,
 "total": 217.5,
-"p_home": 0.4675
+"p_home": 0.4676
 },
 "401909962": {
 "matchup": "LAC @ PHX",
@@ -34,7 +34,6 @@
 "out": [
 "Bradley Beal",
 "Brandon Ingram",
-"Jordan Goodwin",
 "Jordan Miller",
 "Mark Williams",
 "Yanic Konan Niederhauser"
@@ -44,7 +43,7 @@
 ],
 "spread": -3.5,
 "total": 224.5,
-"p_home": 0.5539
+"p_home": 0.5673
 },
 "401909963": {
 "matchup": "MIA @ UTAH",
@@ -61,7 +60,7 @@
 ],
 "spread": 9.5,
 "total": 227.5,
-"p_home": 0.2249
+"p_home": 0.2328
 },
 "401909964": {
 "matchup": "ORL @ SAC",
@@ -77,13 +76,11 @@
 "Paolo Banchero"
 ],
 "dtd": [
-"Domantas Sabonis",
-"Keegan Murray",
 "Tristan da Silva"
 ],
-"spread": 6.5,
+"spread": 5.5,
 "total": 222.5,
-"p_home": 0.3913
+"p_home": 0.396
 },
 "401909965": {
 "matchup": "OKC @ POR",
@@ -105,8 +102,7 @@
 "p_home": 0.4773
 },
 "_tips": [
-"SAC +6.5 (ORL @ SAC)",
-"LAC +3.5 (LAC @ PHX)"
+"SAC +5.5 (ORL @ SAC)"
 ],
 "_game_day": "2026-11-10"
 }

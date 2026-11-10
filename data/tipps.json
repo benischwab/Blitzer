@@ -612,7 +612,7 @@
 "p_over": 0.4868
 },
 "401909960": {
-"p_home": 0.8564,
+"p_home": 0.8563,
 "margin": 14.7,
 "total": 220.97,
 "matchup": "MIL @ NY",
@@ -620,38 +620,38 @@
 "away": "MIL",
 "day": "2026-11-10",
 "home_spread": -15.5,
-"p_cover": 0.4755,
+"p_cover": 0.4754,
 "line_total": 221.5,
 "p_over": 0.4885
 },
 "401909961": {
-"p_home": 0.4675,
-"margin": -1.79,
-"total": 216.94,
+"p_home": 0.4676,
+"margin": -1.78,
+"total": 216.95,
 "matchup": "BOS @ PHI",
 "home": "PHI",
 "away": "BOS",
 "day": "2026-11-10",
 "home_spread": 1.5,
-"p_cover": 0.4912,
+"p_cover": 0.4913,
 "line_total": 217.5,
-"p_over": 0.488
+"p_over": 0.4881
 },
 "401909962": {
-"p_home": 0.5539,
-"margin": 1.86,
-"total": 225.1,
+"p_home": 0.5673,
+"margin": 2.14,
+"total": 225.39,
 "matchup": "LAC @ PHX",
 "home": "PHX",
 "away": "LAC",
 "day": "2026-11-10",
 "home_spread": -3.5,
-"p_cover": 0.4497,
+"p_cover": 0.4584,
 "line_total": 224.5,
-"p_over": 0.5129
+"p_over": 0.5191
 },
 "401909963": {
-"p_home": 0.2249,
+"p_home": 0.2328,
 "margin": -9.71,
 "total": 225.33,
 "matchup": "MIA @ UTAH",
@@ -664,15 +664,15 @@
 "p_over": 0.4532
 },
 "401909964": {
-"p_home": 0.3913,
-"margin": -4.04,
+"p_home": 0.396,
+"margin": -3.34,
 "total": 222.98,
 "matchup": "ORL @ SAC",
 "home": "SAC",
 "away": "ORL",
 "day": "2026-11-10",
-"home_spread": 6.5,
-"p_cover": 0.5752,
+"home_spread": 5.5,
+"p_cover": 0.5661,
 "line_total": 222.5,
 "p_over": 0.5104
 },
@@ -898,20 +898,10 @@
 "matchup": "ORL @ SAC",
 "market": "spread",
 "side": "SAC",
-"line": 6.5,
-"p": 0.5752,
-"dk": 1.900900900900901,
-"label": "SAC +6.5"
-},
-{
-"game_id": "401909962",
-"matchup": "LAC @ PHX",
-"market": "spread",
-"side": "LAC",
-"line": 3.5,
-"p": 0.5503,
+"line": 5.5,
+"p": 0.5661,
 "dk": 1.925925925925926,
-"label": "LAC +3.5"
+"label": "SAC +5.5"
 }
 ]
 },

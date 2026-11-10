@@ -3,15 +3,14 @@
 "matchup": "MIL @ NY",
 "home": "NY",
 "away": "MIL",
-"out": [],
-"dtd": [
+"out": [
 "Josh Hart",
-"Kel'el Ware",
 "Tyler Herro"
 ],
+"dtd": [],
 "spread": -15.5,
 "total": 221.5,
-"p_home": 0.8563
+"p_home": 0.8798
 },
 "401909961": {
 "matchup": "BOS @ PHI",
@@ -23,9 +22,9 @@
 "Dominick Barlow"
 ],
 "dtd": [],
-"spread": 1.5,
+"spread": 2.5,
 "total": 217.5,
-"p_home": 0.4676
+"p_home": 0.4578
 },
 "401909962": {
 "matchup": "LAC @ PHX",
@@ -79,8 +78,8 @@
 "Tristan da Silva"
 ],
 "spread": 5.5,
-"total": 222.5,
-"p_home": 0.396
+"total": 221.5,
+"p_home": 0.4041
 },
 "401909965": {
 "matchup": "OKC @ POR",
@@ -102,7 +101,8 @@
 "p_home": 0.4773
 },
 "_tips": [
-"SAC +5.5 (ORL @ SAC)"
+"SAC +5.5 (ORL @ SAC)",
+"Under 221.5 (MIL @ NY)"
 ],
 "_game_day": "2026-11-10"
 }

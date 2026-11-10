@@ -1,15 +1,15 @@
 ÄNDERUNGEN:
-• LAC @ PHX: Jordan Goodwin wieder dabei / nicht mehr out
-• Neue Tipps: SAC +5.5 (ORL @ SAC)
-• Gestrichen: SAC +6.5 (ORL @ SAC); LAC +3.5 (LAC @ PHX)
+• MIL @ NY: Josh Hart fällt NEU aus
+• MIL @ NY: Tyler Herro fällt NEU aus
+• Neue Tipps: Under 221.5 (MIL @ NY)
 
 TIPPS (ab Mindestquote):
 • SAC +5.5 (ORL @ SAC) 57% – ab 1.82
-• 2er-Kombi: Sieg MIA + Sieg ORL – 46%, ab 2.22
+• Under 221.5 (MIL @ NY) 55% – ab 1.87
 
-01:30 MIL@NY: NY 86% · U221.5 51%
-02:00 BOS@PHI: BOS 53% · U217.5 51%
+01:30 MIL@NY: NY 88% · U221.5 55%
+02:00 BOS@PHI: BOS 54% · U217.5 51%
 03:00 LAC@PHX: PHX 57% · O224.5 52%
 03:00 MIA@UTAH: MIA 77% · U227.5 55%
-04:00 ORL@SAC: ORL 60% · O222.5 51%
+04:00 ORL@SAC: ORL 60% · O221.5 52%
 05:00 OKC@POR: OKC 52% · U226.5 55%

@@ -1,11 +1,11 @@
 # NBA-Tipps für die Nacht 10.11.–11.11.2026
 
-Stand: Di 10.11. 23:47 Uhr · 6 Spiele · Datenbasis: 154 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.3 Pkt/Team
+Stand: Mi 11.11. 00:56 Uhr · 6 Spiele · Datenbasis: 154 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.3 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- LAC @ PHX: Jordan Goodwin wieder dabei / nicht mehr out
-- Neue Tipps: SAC +5.5 (ORL @ SAC)
-- Gestrichen: SAC +6.5 (ORL @ SAC); LAC +3.5 (LAC @ PHX)
+- MIL @ NY: Josh Hart fällt NEU aus
+- MIL @ NY: Tyler Herro fällt NEU aus
+- Neue Tipps: Under 221.5 (MIL @ NY)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -16,13 +16,11 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
 | SAC +5.5 | ORL @ SAC | 57% | 1.93 | +9.0% | **1.82** |
+| Under 221.5 | MIL @ NY | 55% | 1.91 | +5.2% | **1.87** |
 | Sieg PHX | LAC @ PHX | 57% | 1.58 | -10.5% | **1.82** | _(nur mit besserer Quote)_
-| Sieg ORL | ORL @ SAC | 60% | 1.44 | -13.2% | **1.71** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg MIA (MIA @ UTAH) — 77%, DK 1.25
-- Sieg ORL (ORL @ SAC) — 60%, DK 1.44
-- **Trefferchance 46%** · DK-Quote 1.79 (-17.0%) · **lohnt ab Sporttip-Gesamtquote 2.22** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Keine passende Kombi heute.
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -38,12 +36,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- ORL @ SAC: Sieg SAC — Modell 55% vs. Markt 33%
+- ORL @ SAC: Sieg SAC — Modell 55% vs. Markt 34%
 - ORL @ SAC: Handicap SAC +5.5 — Modell 69%
+- MIL @ NY: Under 221.5 — Modell-Total 213.6 (65%)
 - OKC @ POR: Under 226.5 — Modell-Total 218.8 (64%)
 - LAC @ PHX: Sieg LAC — Modell 53% vs. Markt 39%
 - MIA @ UTAH: Under 227.5 — Modell-Total 220.3 (64%)
-- LAC @ PHX: Handicap LAC +3.5 — Modell 62%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 36/47 richtig (77%), Brier 0.177
@@ -76,13 +74,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### MIL @ NY — Mi 01:30 Uhr
-**Sieg:** NY 86% (faire Quote 1.17) · MIL 14% (6.96) — Markt NY 88%
-**Prognose:** NY 117.8 – MIL 103.1 (Diff. NY +14.7, Total 221.0)
-**Handicap** NY -15.5: NY deckt 48% · MIL +15.5 deckt 52%
-**Over/Under 221.5:** Over 49% (2.05) · Under 51% (1.96)
-**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
+**Sieg:** NY 88% (faire Quote 1.14) · MIL 12% (8.32) — Markt NY 89%
+**Prognose:** NY 117.4 – MIL 101.7 (Diff. NY +15.7, Total 219.1)
+**Handicap** NY -15.5: NY deckt 51% · MIL +15.5 deckt 49%
+**Over/Under 221.5:** Over 45% (2.23) · Under 55% (1.81)
+**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 222.5 (≥57%)
 **Form (letzte 5):** NY SNSSS (+11.2) · MIL NNNNN (-15.6)
-_NY fraglich: Josh Hart* · MIL fraglich: Kel'el Ware*, Tyler Herro_ (* = Meldung der letzten 24 h)
+_NY out: Josh Hart* · MIL out: Tyler Herro*_ (* = Meldung der letzten 24 h)
 > 📰 Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critique
 > 📰 Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'
 
@@ -92,15 +90,15 @@ _NY fraglich: Josh Hart* · MIL fraglich: Kel'el Ware*, Tyler Herro_ (* = Meldun
 | Karl-Anthony Towns (NY) | 32 | 21.9 (19.5 / 22.5) | 13.6 | 3.1 | 2.0 | 38.7 |
 | OG Anunoby (NY) | 33 | 17.2 (15.5 / 18.5) | 5.4 | 2.4 | 2.0 | 24.9 |
 | Landry Shamet (NY) | 26 | 10.1 (7.5 / 10.5) | 1.4 | 1.8 | 2.4 | 13.1 |
-| Tyler Herro (MIL) | 31 | 19.8 (17.5 / 20.5) | 4.5 | 4.2 | 2.8 | 28.6 |
 | Jaime Jaquez Jr. (MIL) | 27 | 13.7 (10.5 / 14.5) | 5.3 | 2.6 | 1.6 | 21.6 |
 | Kyle Kuzma (MIL) | 27 | 11.6 (7.5 / 11.5) | 5.4 | 2.6 | 1.8 | 19.5 |
 | Brayden Burries (MIL) | 23 | 10.6 (8.5 / 11.5) | 6.0 | 2.5 | 0.7 | 19.1 |
+| Ryan Rollins (MIL) | 22 | 9.9 (7.5 / 10.5) | 4.3 | 4.3 | 1.4 | 18.4 |
 
 ### BOS @ PHI — Mi 02:00 Uhr
-**Sieg:** PHI 47% (faire Quote 2.14) · BOS 53% (1.88) — Markt PHI 48%
-**Prognose:** PHI 107.6 – BOS 109.4 (Diff. BOS +1.8, Total 216.9)
-**Handicap** PHI +1.5: PHI deckt 49% · BOS -1.5 deckt 51%
+**Sieg:** PHI 46% (faire Quote 2.18) · BOS 54% (1.84) — Markt PHI 47%
+**Prognose:** PHI 107.2 – BOS 109.7 (Diff. BOS +2.5, Total 216.9)
+**Handicap** PHI +2.5: PHI deckt 50% · BOS -2.5 deckt 50%
 **Over/Under 217.5:** Over 49% (2.05) · Under 51% (1.95)
 **Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** PHI SSSNS (+2.4) · BOS SNSSS (+12.2)
@@ -148,7 +146,7 @@ _PHX spielt Back-to-Back · PHX out: Mark Williams · LAC out: Yanic Konan Niede
 **Over/Under 227.5:** Over 45% (2.21) · Under 55% (1.83)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** UTAH NNNNN (-15.6) · MIA SNSNS (-2.8)
-_UTAH out: Lauri Markkanen*, Keyonte George*, Jusuf Nurkic, Jaren Jackson Jr. · MIA fraglich: Giannis Antetokounmpo*_ (* = Meldung der letzten 24 h)
+_UTAH out: Lauri Markkanen*, Keyonte George*, Jusuf Nurkic, Jaren Jackson Jr. · MIA fraglich: Giannis Antetokounmpo_ (* = Meldung der letzten 24 h)
 > 📰 Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critique
 > 📰 Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'
 
@@ -163,13 +161,13 @@ _UTAH out: Lauri Markkanen*, Keyonte George*, Jusuf Nurkic, Jaren Jackson Jr. ·
 | Klay Thompson (MIA) | 25 | 16.0 (12.5 / 16.5) | 1.6 | 2.2 | 4.3 | 19.8 |
 
 ### ORL @ SAC — Mi 04:00 Uhr
-**Sieg:** SAC 40% (faire Quote 2.53) · ORL 60% (1.66) — Markt SAC 33%
-**Prognose:** SAC 109.8 – ORL 113.2 (Diff. ORL +3.3, Total 223.0)
+**Sieg:** SAC 40% (faire Quote 2.47) · ORL 60% (1.68) — Markt SAC 34%
+**Prognose:** SAC 109.5 – ORL 112.8 (Diff. ORL +3.3, Total 222.3)
 **Handicap** SAC +5.5: SAC deckt 57% · ORL -5.5 deckt 43%
-**Over/Under 222.5:** Over 51% (1.96) · Under 49% (2.04)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
+**Over/Under 221.5:** Over 52% (1.93) · Under 48% (2.07)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** SAC NSNNN (-10.0) · ORL SNNNN (-6.6)
-_SAC out: Maxime Raynaud*, Ben Simmons · ORL out: Jalen Suggs*, Jonathan Isaac*, Paolo Banchero, Noah Penda, Izaiyah Nelson · ORL fraglich: Tristan da Silva*_ (* = Meldung der letzten 24 h)
+_SAC out: Maxime Raynaud*, Ben Simmons · ORL out: Jalen Suggs, Jonathan Isaac, Paolo Banchero, Noah Penda, Izaiyah Nelson · ORL fraglich: Tristan da Silva*_ (* = Meldung der letzten 24 h)
 > 📰 Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |

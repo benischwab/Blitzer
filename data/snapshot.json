@@ -15,9 +15,9 @@
 "dtd": [
 "T.J. McConnell"
 ],
-"spread": -2.5,
+"spread": -3.5,
 "total": 227.5,
-"p_home": 0.5754
+"p_home": 0.5826
 },
 "401909967": {
 "matchup": "CLE @ NY",
@@ -25,13 +25,12 @@
 "away": "CLE",
 "out": [
 "Jaylon Tyson",
-"Josh Hart",
 "Sam Merrill"
 ],
 "dtd": [],
 "spread": -4.5,
-"total": 222.5,
-"p_home": 0.6223
+"total": 221.5,
+"p_home": 0.6521
 },
 "401909968": {
 "matchup": "BOS @ TOR",
@@ -40,16 +39,14 @@
 "out": [
 "Kawhi Leonard",
 "Nate Bittle",
-"Scottie Barnes"
-],
-"dtd": [
-"Collin Murray-Boyles",
-"Immanuel Quickley",
+"Paul George",
+"Scottie Barnes",
 "Trayce Jackson-Davis"
 ],
-"spread": 6.5,
+"dtd": [],
+"spread": 5.5,
 "total": 216.5,
-"p_home": 0.3207
+"p_home": 0.377
 },
 "401909969": {
 "matchup": "SA @ CHI",
@@ -57,17 +54,18 @@
 "away": "SA",
 "out": [
 "Jayden Quaintance",
+"Tobe Awaka",
 "Tobias Harris"
 ],
 "dtd": [
+"Caleb Wilson",
 "Devin Vassell",
 "Norman Powell",
-"Tobe Awaka",
 "Zach Collins"
 ],
 "spread": 15.5,
-"total": 238.5,
-"p_home": 0.1151
+"total": 237.5,
+"p_home": 0.1153
 },
 "401909970": {
 "matchup": "DEN @ MEM",
@@ -82,40 +80,42 @@
 "dtd": [
 "Isaiah Stewart"
 ],
-"spread": 3.5,
+"spread": 4.5,
 "total": 230.5,
-"p_home": 0.4544
+"p_home": 0.4484
 },
 "401909971": {
 "matchup": "LAL @ MIL",
 "home": "MIL",
 "away": "LAL",
-"out": [],
+"out": [
+"Myles Turner",
+"Quentin Grimes"
+],
 "dtd": [
-"Quentin Grimes",
 "Tyler Herro"
 ],
 "spread": 14.5,
 "total": 229.5,
-"p_home": 0.1494
+"p_home": 0.1419
 },
 "401909972": {
 "matchup": "BKN @ NO",
 "home": "NO",
 "away": "BKN",
 "out": [
-"Egor Demin",
+"Bennedict Mathurin",
+"Mikel Brown Jr.",
+"Nolan Traore",
 "Trendon Watford",
 "Yves Missi"
 ],
 "dtd": [
-"Mikel Brown Jr.",
-"Nolan Traore",
 "Trey Murphy III"
 ],
-"spread": -4.5,
-"total": 229.5,
-"p_home": 0.6184
+"spread": -3.5,
+"total": 228.5,
+"p_home": 0.6124
 },
 "401909973": {
 "matchup": "ORL @ UTAH",
@@ -127,17 +127,18 @@
 "Jaren Jackson Jr.",
 "Jonathan Isaac",
 "Jusuf Nurkic",
+"Lauri Markkanen",
 "Noah Penda",
 "Paolo Banchero"
 ],
 "dtd": [
+"Jamal Cain",
 "Keyonte George",
-"Lauri Markkanen",
 "Tristan da Silva"
 ],
-"spread": 3.5,
+"spread": 4.5,
 "total": 214.5,
-"p_home": 0.4412
+"p_home": 0.4021
 },
 "401909974": {
 "matchup": "GS @ HOU",
@@ -150,21 +151,24 @@
 "Jimmy Butler III",
 "Kristaps Porzingis",
 "Moses Moody",
-"Steven Adams",
+"Steven Adams"
+],
+"dtd": [
 "Will Richard"
 ],
-"dtd": [],
 "spread": -6.5,
-"total": 220.5,
-"p_home": 0.6675
+"total": 219.5,
+"p_home": 0.6683
 },
 "401909975": {
 "matchup": "OKC @ POR",
 "home": "POR",
 "away": "OKC",
 "out": [
+"Ajay Mitchell",
 "Cason Wallace",
 "Chet Holmgren",
+"Chris Youngblood",
 "Ja Morant",
 "Jalen Williams",
 "Jaylin Williams",
@@ -173,13 +177,13 @@
 "Vit Krejci"
 ],
 "dtd": [],
-"spread": 1.5,
-"total": 225.5,
-"p_home": 0.5109
+"spread": -2.5,
+"total": 224.5,
+"p_home": 0.6071
 },
 "_tips": [
-"MEM +3.5 (DEN @ MEM)",
-"Under 225.5 (OKC @ POR)"
+"Under 224.5 (OKC @ POR)",
+"MEM +4.5 (DEN @ MEM)"
 ],
 "_game_day": "2026-11-11"
 }

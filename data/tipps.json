@@ -820,54 +820,54 @@
 "p_over": 0.4238
 },
 "401909976": {
-"p_home": 0.7197,
-"margin": 7.77,
-"total": 221.2,
+"p_home": 0.6684,
+"margin": 5.57,
+"total": 221.11,
 "matchup": "TOR @ PHI",
 "home": "PHI",
 "away": "TOR",
 "day": "2026-11-12",
-"home_spread": -8.5,
-"p_cover": 0.4775,
-"line_total": 223.5,
-"p_over": 0.4506
+"home_spread": -6.5,
+"p_cover": 0.4716,
+"line_total": 224.5,
+"p_over": 0.4274
 },
 "401909977": {
-"p_home": 0.2236,
-"margin": -10.17,
-"total": 219.46,
+"p_home": 0.23,
+"margin": -9.47,
+"total": 220.17,
 "matchup": "DET @ WSH",
 "home": "WSH",
 "away": "DET",
 "day": "2026-11-12",
-"home_spread": 10.5,
-"p_cover": 0.51,
-"line_total": 220.5,
-"p_over": 0.4777
+"home_spread": 9.5,
+"p_cover": 0.5009,
+"line_total": 221.5,
+"p_over": 0.4713
 },
 "401909978": {
 "p_home": 0.6395,
 "margin": 4.78,
-"total": 225.26,
+"total": 224.56,
 "matchup": "DAL @ MIN",
 "home": "MIN",
 "away": "DAL",
 "day": "2026-11-12",
 "home_spread": -5.5,
 "p_cover": 0.4779,
-"line_total": 226.5,
-"p_over": 0.4733
+"line_total": 225.5,
+"p_over": 0.4798
 },
 "401909979": {
-"p_home": 0.7333,
-"margin": 9.16,
-"total": 213.85,
+"p_home": 0.7246,
+"margin": 9.15,
+"total": 213.86,
 "matchup": "CHA @ PHX",
 "home": "PHX",
 "away": "CHA",
 "day": "2026-11-12",
 "home_spread": -6.5,
-"p_cover": 0.5809,
+"p_cover": 0.5808,
 "line_total": 214.5,
 "p_over": 0.4861
 }
@@ -1125,8 +1125,8 @@
 "market": "ml",
 "side": "PHX",
 "line": null,
-"p": 0.7333,
-"dk": 1.4098360655737705,
+"p": 0.7246,
+"dk": 1.4366812227074237,
 "label": "Sieg PHX"
 },
 {
@@ -1135,9 +1135,19 @@
 "market": "spread",
 "side": "PHX",
 "line": -6.5,
-"p": 0.5809,
+"p": 0.5808,
 "dk": 1.925925925925926,
 "label": "PHX -6.5"
+},
+{
+"game_id": "401909976",
+"matchup": "TOR @ PHI",
+"market": "total",
+"side": "under",
+"line": 224.5,
+"p": 0.5726,
+"dk": 1.9090909090909092,
+"label": "Under 224.5"
 }
 ]
 },

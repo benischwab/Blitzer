@@ -1,6 +1,14 @@
 # NBA-Tipps für die Nacht 12.11.–13.11.2026
 
-Stand: Do 12.11. 17:27 Uhr · 4 Spiele · Datenbasis: 170 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.3 Pkt/Team
+Stand: Do 12.11. 21:15 Uhr · 4 Spiele · Datenbasis: 170 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.3 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- TOR @ PHI: LeBron James fällt NEU aus
+- TOR @ PHI: Trayce Jackson-Davis fällt NEU aus
+- TOR @ PHI: Handicap PHI -8.5 → -6.5
+- TOR @ PHI: Sieg PHI 72% → 67%
+- CHA @ PHX: Grant Williams wieder dabei / nicht mehr out
+- Neue Tipps: Under 224.5 (TOR @ PHI)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,38 +18,38 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Sieg PHX | CHA @ PHX | 73% | 1.41 | +3.4% | **1.40** |
+| Sieg PHX | CHA @ PHX | 72% | 1.44 | +4.1% | **1.42** |
 | PHX -6.5 | CHA @ PHX | 58% | 1.93 | +11.9% | **1.77** |
-| Sieg MIN | DAL @ MIN | 64% | 1.45 | -7.4% | **1.61** | _(nur mit besserer Quote)_
+| Under 224.5 | TOR @ PHI | 57% | 1.91 | +9.3% | **1.80** |
 
 **Sichere 2er-Kombi**
-- Sieg DET (DET @ WSH) — 78%, DK 1.21
-- Sieg PHX (CHA @ PHX) — 73%, DK 1.41
-- **Trefferchance 57%** · DK-Quote 1.71 (-2.6%) · **lohnt ab Sporttip-Gesamtquote 1.81** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg DET (DET @ WSH) — 77%, DK 1.23
+- Sieg PHX (CHA @ PHX) — 72%, DK 1.44
+- **Trefferchance 56%** · DK-Quote 1.76 (-1.5%) · **lohnt ab Sporttip-Gesamtquote 1.85** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg DET (DET @ WSH) — 78%, DK 1.21
-- Sieg PHX (CHA @ PHX) — 73%, DK 1.41
-- Sieg MIN (DAL @ MIN) — 64%, DK 1.45
-- **Trefferchance 36%** · DK-Quote 2.48 (-9.7%) · **lohnt ab Sporttip-Gesamtquote 2.83** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg DET (DET @ WSH) — 77%, DK 1.23
+- Sieg PHX (CHA @ PHX) — 72%, DK 1.44
+- Sieg PHI (TOR @ PHI) — 67%, DK 1.37
+- **Trefferchance 37%** · DK-Quote 2.42 (-9.7%) · **lohnt ab Sporttip-Gesamtquote 2.76** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Tyrese Maxey (PHI, TOR @ PHI): über 28.5 P+R+A — 75% · lohnt ab Quote **1.37**
 - Jaden McDaniels (MIN, DAL @ MIN): über 21.5 P+R+A — 78% · lohnt ab Quote **1.32**
-- LeBron James (PHI, TOR @ PHI): über 22.5 P+R+A — 78% · lohnt ab Quote **1.32**
 - Cade Cunningham (DET, DET @ WSH): über 27.5 P+R+A — 78% · lohnt ab Quote **1.32**
 - AJ Dybantsa (WSH, DET @ WSH): über 18.5 P+R+A — 78% · lohnt ab Quote **1.32**
+- Jaylen Brown (PHI, TOR @ PHI): über 24.5 P+R+A — 78% · lohnt ab Quote **1.32**
 
 _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. Lieber 2er als 4er+, und nur, wenn die Sporttip-Gesamtquote über der Mindestquote liegt._
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - CHA @ PHX: Handicap PHX -6.5 — Modell 73%
-- CHA @ PHX: Sieg PHX — Modell 86% vs. Markt 68%
-- TOR @ PHI: Under 223.5 — Modell-Total 215.8 (64%)
-- TOR @ PHI: Sieg TOR — Modell 34% vs. Markt 26%
-- DAL @ MIN: Sieg DAL — Modell 42% vs. Markt 34%
-- DAL @ MIN: Under 226.5 — Modell-Total 222.4 (58%)
+- TOR @ PHI: Under 224.5 — Modell-Total 213.2 (70%)
+- CHA @ PHX: Sieg PHX — Modell 85% vs. Markt 67%
+- TOR @ PHI: Sieg TOR — Modell 41% vs. Markt 30%
+- TOR @ PHI: Handicap TOR +6.5 — Modell 58%
+- DET @ WSH: Under 221.5 — Modell-Total 217.1 (58%)
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 49/63 richtig (78%), Brier 0.174
@@ -74,33 +82,33 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### TOR @ PHI — Fr 01:00 Uhr
-**Sieg:** PHI 72% (faire Quote 1.39) · TOR 28% (3.57) — Markt PHI 74%
-**Prognose:** PHI 114.5 – TOR 106.7 (Diff. PHI +7.8, Total 221.2)
-**Handicap** PHI -8.5: PHI deckt 48% · TOR +8.5 deckt 52%
-**Over/Under 223.5:** Over 45% (2.22) · Under 55% (1.82)
+**Sieg:** PHI 67% (faire Quote 1.50) · TOR 33% (3.02) — Markt PHI 70%
+**Prognose:** PHI 113.3 – TOR 107.8 (Diff. PHI +5.6, Total 221.1)
+**Handicap** PHI -6.5: PHI deckt 47% · TOR +6.5 deckt 53%
+**Over/Under 224.5:** Over 43% (2.34) · Under 57% (1.75)
 **Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** PHI SSNSN (-3.0) · TOR SNSNN (-3.8)
-_PHI out: Adem Bona*, Dominick Barlow, Ariel Hukporti · PHI fraglich: Joel Embiid*, LeBron James* · TOR spielt Back-to-Back · TOR out: Kawhi Leonard*, Scottie Barnes, Nate Bittle · TOR fraglich: Trayce Jackson-Davis*_ (* = Meldung der letzten 24 h)
+_PHI out: LeBron James*, Dominick Barlow*, Adem Bona*, Ariel Hukporti · PHI fraglich: Joel Embiid* · TOR spielt Back-to-Back · TOR out: Trayce Jackson-Davis*, Scottie Barnes*, Kawhi Leonard*, Nate Bittle_ (* = Meldung der letzten 24 h)
+> 📰 76ers Joel Embiid (foot) questionable, LeBron James (back) out vs. Raptors
 > 📰 NBA trade deadline: Big questions for Knicks, Thunder and other top teams
-> 📰 Philadelphia plays conference foe Toronto
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Tyrese Maxey (PHI) | 36 | 25.8 (23.5 / 26.5) | 3.3 | 5.4 | 2.6 | 34.6 |
 | Jaylen Brown (PHI) | 34 | 21.4 (18.5 / 22.5) | 6.5 | 3.6 | 1.9 | 31.5 |
 | Joel Embiid (PHI) | 31 | 17.1 (14.5 / 17.5) | 9.2 | 3.5 | 0.3 | 29.8 |
-| LeBron James (PHI) | 32 | 14.8 (12.5 / 15.5) | 7.2 | 6.3 | 0.9 | 28.3 |
+| VJ Edgecombe (PHI) | 33 | 12.8 (10.5 / 13.5) | 5.9 | 3.2 | 1.7 | 21.9 |
 | RJ Barrett (TOR) | 33 | 19.9 (17.5 / 20.5) | 6.0 | 4.2 | 1.3 | 30.1 |
 | Immanuel Quickley (TOR) | 32 | 16.1 (13.5 / 16.5) | 3.6 | 5.5 | 2.3 | 25.1 |
 | Ja'Kobe Walter (TOR) | 31 | 11.4 (9.5 / 11.5) | 4.2 | 1.9 | 2.3 | 17.5 |
 | Collin Murray-Boyles (TOR) | 23 | 10.4 (7.5 / 10.5) | 4.9 | 1.6 | 0.6 | 16.9 |
 
 ### DET @ WSH — Fr 01:00 Uhr
-**Sieg:** WSH 22% (faire Quote 4.47) · DET 78% (1.29) — Markt WSH 21%
-**Prognose:** WSH 104.6 – DET 114.8 (Diff. DET +10.2, Total 219.5)
-**Handicap** WSH +10.5: WSH deckt 51% · DET -10.5 deckt 49%
-**Over/Under 220.5:** Over 48% (2.09) · Under 52% (1.91)
-**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
+**Sieg:** WSH 23% (faire Quote 4.35) · DET 77% (1.30) — Markt WSH 22%
+**Prognose:** WSH 105.3 – DET 114.8 (Diff. DET +9.5, Total 220.2)
+**Handicap** WSH +9.5: WSH deckt 50% · DET -9.5 deckt 50%
+**Over/Under 221.5:** Over 47% (2.12) · Under 53% (1.89)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** WSH NNNNN (-17.0) · DET SSNNS (+9.8)
 _WSH spielt Back-to-Back · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · DET out: Isaiah Joe, Jalen Duren · DET fraglich: Ugonna Onyenso_
 > 📰 NBA trade deadline: Big questions for Knicks, Thunder and other top teams
@@ -119,10 +127,10 @@ _WSH spielt Back-to-Back · WSH out: Tristan Vukcevic, Reece Beekman, Justin Cha
 
 ### DAL @ MIN — Fr 02:00 Uhr
 **Sieg:** MIN 64% (faire Quote 1.56) · DAL 36% (2.77) — Markt MIN 66%
-**Prognose:** MIN 115.0 – DAL 110.2 (Diff. MIN +4.8, Total 225.3)
+**Prognose:** MIN 114.7 – DAL 109.9 (Diff. MIN +4.8, Total 224.6)
 **Handicap** MIN -5.5: MIN deckt 48% · DAL +5.5 deckt 52%
-**Over/Under 226.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
+**Over/Under 225.5:** Over 48% (2.08) · Under 52% (1.92)
+**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** MIN NSSSS (+6.6) · DAL NNSSS (+7.2)
 _MIN out: Anthony Edwards, Donte DiVincenzo · DAL out: Dereck Lively II*, Tarik Biberovic*, Sergio de Larrea* · DAL fraglich: Morez Johnson Jr.*_ (* = Meldung der letzten 24 h)
 > 📰 NBA trade deadline: Big questions for Knicks, Thunder and other top teams
@@ -139,13 +147,13 @@ _MIN out: Anthony Edwards, Donte DiVincenzo · DAL out: Dereck Lively II*, Tarik
 | Naji Marshall (DAL) | 24 | 10.2 (7.5 / 10.5) | 3.0 | 4.2 | 0.8 | 17.4 |
 
 ### CHA @ PHX — Fr 03:00 Uhr
-**Sieg:** PHX 73% (faire Quote 1.36) · CHA 27% (3.75) — Markt PHX 68%
-**Prognose:** PHX 111.5 – CHA 102.3 (Diff. PHX +9.2, Total 213.9)
+**Sieg:** PHX 72% (faire Quote 1.38) · CHA 28% (3.63) — Markt PHX 67%
+**Prognose:** PHX 111.5 – CHA 102.4 (Diff. PHX +9.2, Total 213.9)
 **Handicap** PHX -6.5: PHX deckt 58% · CHA +6.5 deckt 42%
 **Over/Under 214.5:** Over 49% (2.06) · Under 51% (1.95)
 **Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 217.5 (≥57%)
 **Form (letzte 5):** PHX NSSNS (+0.0) · CHA NNNNS (-15.0)
-_PHX out: Mark Williams · CHA out: Grant Williams*, Brandon Miller*, Kon Knueppel, Dennis Schroder · CHA fraglich: Moussa Diabate*_ (* = Meldung der letzten 24 h)
+_PHX out: Mark Williams · CHA out: Brandon Miller*, Kon Knueppel, Dennis Schroder_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|

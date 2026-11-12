@@ -8,17 +8,17 @@
 "Ariel Hukporti",
 "Dominick Barlow",
 "Kawhi Leonard",
-"Nate Bittle",
-"Scottie Barnes"
-],
-"dtd": [
-"Joel Embiid",
 "LeBron James",
+"Nate Bittle",
+"Scottie Barnes",
 "Trayce Jackson-Davis"
 ],
-"spread": -8.5,
-"total": 223.5,
-"p_home": 0.7197
+"dtd": [
+"Joel Embiid"
+],
+"spread": -6.5,
+"total": 224.5,
+"p_home": 0.6684
 },
 "401909977": {
 "matchup": "DET @ WSH",
@@ -35,9 +35,9 @@
 "dtd": [
 "Ugonna Onyenso"
 ],
-"spread": 10.5,
-"total": 220.5,
-"p_home": 0.2236
+"spread": 9.5,
+"total": 221.5,
+"p_home": 0.23
 },
 "401909978": {
 "matchup": "DAL @ MIN",
@@ -54,7 +54,7 @@
 "Morez Johnson Jr."
 ],
 "spread": -5.5,
-"total": 226.5,
+"total": 225.5,
 "p_home": 0.6395
 },
 "401909979": {
@@ -64,20 +64,18 @@
 "out": [
 "Brandon Miller",
 "Dennis Schroder",
-"Grant Williams",
 "Kon Knueppel",
 "Mark Williams"
 ],
-"dtd": [
-"Moussa Diabate"
-],
+"dtd": [],
 "spread": -6.5,
 "total": 214.5,
-"p_home": 0.7333
+"p_home": 0.7246
 },
 "_tips": [
 "Sieg PHX (CHA @ PHX)",
-"PHX -6.5 (CHA @ PHX)"
+"PHX -6.5 (CHA @ PHX)",
+"Under 224.5 (TOR @ PHI)"
 ],
 "_game_day": "2026-11-12"
 }

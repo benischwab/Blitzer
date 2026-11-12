@@ -818,6 +818,58 @@
 "p_cover": 0.5433,
 "line_total": 224.5,
 "p_over": 0.4238
+},
+"401909976": {
+"p_home": 0.7197,
+"margin": 7.77,
+"total": 221.2,
+"matchup": "TOR @ PHI",
+"home": "PHI",
+"away": "TOR",
+"day": "2026-11-12",
+"home_spread": -8.5,
+"p_cover": 0.4775,
+"line_total": 223.5,
+"p_over": 0.4506
+},
+"401909977": {
+"p_home": 0.2236,
+"margin": -10.17,
+"total": 219.46,
+"matchup": "DET @ WSH",
+"home": "WSH",
+"away": "DET",
+"day": "2026-11-12",
+"home_spread": 10.5,
+"p_cover": 0.51,
+"line_total": 220.5,
+"p_over": 0.4777
+},
+"401909978": {
+"p_home": 0.6395,
+"margin": 4.78,
+"total": 225.26,
+"matchup": "DAL @ MIN",
+"home": "MIN",
+"away": "DAL",
+"day": "2026-11-12",
+"home_spread": -5.5,
+"p_cover": 0.4779,
+"line_total": 226.5,
+"p_over": 0.4733
+},
+"401909979": {
+"p_home": 0.7333,
+"margin": 9.16,
+"total": 213.85,
+"matchup": "CHA @ PHX",
+"home": "PHX",
+"away": "CHA",
+"day": "2026-11-12",
+"home_spread": -6.5,
+"p_cover": 0.5809,
+"line_total": 214.5,
+"p_over": 0.4861
 }
 },
 "singles": {
@@ -1065,6 +1117,28 @@
 "dk": 1.9433962264150944,
 "label": "MEM +3.5"
 }
+],
+"2026-11-12": [
+{
+"game_id": "401909979",
+"matchup": "CHA @ PHX",
+"market": "ml",
+"side": "PHX",
+"line": null,
+"p": 0.7333,
+"dk": 1.4098360655737705,
+"label": "Sieg PHX"
+},
+{
+"game_id": "401909979",
+"matchup": "CHA @ PHX",
+"market": "spread",
+"side": "PHX",
+"line": -6.5,
+"p": 0.5809,
+"dk": 1.925925925925926,
+"label": "PHX -6.5"
+}
 ]
 },
 "combos": {
@@ -1138,6 +1212,7 @@
 "2026-11-08": [],
 "2026-11-09": [],
 "2026-11-10": [],
-"2026-11-11": []
+"2026-11-11": [],
+"2026-11-12": []
 }
 }

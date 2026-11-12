@@ -690,7 +690,7 @@
 "p_over": 0.4503
 },
 "401909966": {
-"p_home": 0.5826,
+"p_home": 0.5825,
 "margin": 3.36,
 "total": 225.28,
 "matchup": "WSH @ IND",
@@ -703,82 +703,82 @@
 "p_over": 0.4523
 },
 "401909967": {
-"p_home": 0.6521,
-"margin": 5.03,
-"total": 220.67,
+"p_home": 0.6542,
+"margin": 4.8,
+"total": 220.21,
 "matchup": "CLE @ NY",
 "home": "NY",
 "away": "CLE",
 "day": "2026-11-11",
 "home_spread": -4.5,
-"p_cover": 0.5164,
-"line_total": 221.5,
-"p_over": 0.4821
+"p_cover": 0.5091,
+"line_total": 220.5,
+"p_over": 0.4937
 },
 "401909968": {
-"p_home": 0.377,
-"margin": -4.65,
-"total": 215.59,
+"p_home": 0.3819,
+"margin": -3.95,
+"total": 214.89,
 "matchup": "BOS @ TOR",
 "home": "TOR",
 "away": "BOS",
 "day": "2026-11-11",
-"home_spread": 5.5,
-"p_cover": 0.526,
-"line_total": 216.5,
-"p_over": 0.4804
+"home_spread": 4.5,
+"p_cover": 0.5168,
+"line_total": 215.5,
+"p_over": 0.4869
 },
 "401909969": {
-"p_home": 0.1153,
-"margin": -15.95,
-"total": 238.15,
+"p_home": 0.1111,
+"margin": -16.34,
+"total": 235.58,
 "matchup": "SA @ CHI",
 "home": "CHI",
 "away": "SA",
 "day": "2026-11-11",
 "home_spread": 15.5,
-"p_cover": 0.4862,
-"line_total": 237.5,
-"p_over": 0.5141
+"p_cover": 0.4743,
+"line_total": 236.5,
+"p_over": 0.4803
 },
 "401909970": {
-"p_home": 0.4484,
-"margin": -2.27,
+"p_home": 0.4592,
+"margin": -1.57,
 "total": 229.12,
 "matchup": "DEN @ MEM",
 "home": "MEM",
 "away": "DEN",
 "day": "2026-11-11",
-"home_spread": 4.5,
-"p_cover": 0.5682,
+"home_spread": 3.5,
+"p_cover": 0.5591,
 "line_total": 230.5,
 "p_over": 0.4703
 },
 "401909971": {
-"p_home": 0.1419,
-"margin": -14.79,
+"p_home": 0.1363,
+"margin": -15.49,
 "total": 229.28,
 "matchup": "LAL @ MIL",
 "home": "MIL",
 "away": "LAL",
 "day": "2026-11-11",
-"home_spread": 14.5,
-"p_cover": 0.4912,
+"home_spread": 15.5,
+"p_cover": 0.5005,
 "line_total": 229.5,
 "p_over": 0.4953
 },
 "401909972": {
-"p_home": 0.6124,
-"margin": 4.47,
-"total": 228.3,
+"p_home": 0.5829,
+"margin": 2.92,
+"total": 227.44,
 "matchup": "BKN @ NO",
 "home": "NO",
 "away": "BKN",
 "day": "2026-11-11",
-"home_spread": -3.5,
-"p_cover": 0.5297,
+"home_spread": -2.5,
+"p_cover": 0.5128,
 "line_total": 228.5,
-"p_over": 0.4956
+"p_over": 0.4772
 },
 "401909973": {
 "p_home": 0.4021,
@@ -791,7 +791,7 @@
 "home_spread": 4.5,
 "p_cover": 0.5227,
 "line_total": 214.5,
-"p_over": 0.4736
+"p_over": 0.4737
 },
 "401909974": {
 "p_home": 0.6683,
@@ -1060,10 +1060,10 @@
 "matchup": "DEN @ MEM",
 "market": "spread",
 "side": "MEM",
-"line": 4.5,
-"p": 0.5682,
-"dk": 1.8547008547008548,
-"label": "MEM +4.5"
+"line": 3.5,
+"p": 0.5591,
+"dk": 1.9433962264150944,
+"label": "MEM +3.5"
 }
 ]
 },

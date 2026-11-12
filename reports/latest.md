@@ -1,27 +1,14 @@
 # NBA-Tipps für die Nacht 11.11.–12.11.2026
 
-Stand: Mi 11.11. 23:55 Uhr · 10 Spiele · Datenbasis: 160 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.2 Pkt/Team
+Stand: Do 12.11. 01:09 Uhr · 10 Spiele · Datenbasis: 160 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.2 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- CLE @ NY: Josh Hart wieder dabei / nicht mehr out
-- BOS @ TOR: Paul George fällt NEU aus
-- BOS @ TOR: Trayce Jackson-Davis fällt NEU aus
-- BOS @ TOR: Sieg TOR 32% → 38%
-- SA @ CHI: Tobe Awaka fällt NEU aus
-- LAL @ MIL: Myles Turner fällt NEU aus
-- LAL @ MIL: Quentin Grimes fällt NEU aus
-- BKN @ NO: Bennedict Mathurin fällt NEU aus
-- BKN @ NO: Mikel Brown Jr. fällt NEU aus
-- BKN @ NO: Nolan Traore fällt NEU aus
-- BKN @ NO: Egor Demin wieder dabei / nicht mehr out
-- ORL @ UTAH: Lauri Markkanen fällt NEU aus
-- GS @ HOU: Will Richard wieder dabei / nicht mehr out
-- OKC @ POR: Ajay Mitchell fällt NEU aus
-- OKC @ POR: Chris Youngblood fällt NEU aus
-- OKC @ POR: Handicap POR +1.5 → -2.5
-- OKC @ POR: Sieg POR 51% → 61%
-- Neue Tipps: Under 224.5 (OKC @ POR); MEM +4.5 (DEN @ MEM)
-- Gestrichen: MEM +3.5 (DEN @ MEM); Under 225.5 (OKC @ POR)
+- CLE @ NY: Jaylon Tyson wieder dabei / nicht mehr out
+- SA @ CHI: Devin Vassell fällt NEU aus
+- SA @ CHI: Norman Powell fällt NEU aus
+- BKN @ NO: Trey Murphy III fällt NEU aus
+- Neue Tipps: MEM +3.5 (DEN @ MEM)
+- Gestrichen: MEM +4.5 (DEN @ MEM)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -32,19 +19,19 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
 | Under 224.5 | OKC @ POR | 58% | 1.89 | +9.1% | **1.79** |
-| MEM +4.5 | DEN @ MEM | 57% | 1.85 | +5.4% | **1.81** |
+| MEM +3.5 | DEN @ MEM | 56% | 1.94 | +8.7% | **1.84** |
 | Sieg POR | OKC @ POR | 61% | 1.68 | +2.0% | **1.70** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg SA (SA @ CHI) — 88%, DK 1.08
-- Sieg NY (CLE @ NY) — 65%, DK 1.49
-- **Trefferchance 58%** · DK-Quote 1.61 (-7.0%) · **lohnt ab Sporttip-Gesamtquote 1.79** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg LAL (LAL @ MIL) — 86%, DK 1.11
+- Sieg NY (CLE @ NY) — 65%, DK 1.46
+- **Trefferchance 57%** · DK-Quote 1.62 (-8.6%) · **lohnt ab Sporttip-Gesamtquote 1.82** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg SA (SA @ CHI) — 88%, DK 1.08
+- Sieg SA (SA @ CHI) — 89%, DK 1.08
 - Sieg HOU (GS @ HOU) — 67%, DK 1.38
-- Sieg NO (BKN @ NO) — 61%, DK 1.65
-- **Trefferchance 36%** · DK-Quote 2.46 (-11.0%) · **lohnt ab Sporttip-Gesamtquote 2.84** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg POR (OKC @ POR) — 61%, DK 1.68
+- **Trefferchance 36%** · DK-Quote 2.51 (-9.4%) · **lohnt ab Sporttip-Gesamtquote 2.86** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Luka Doncic (LAL, LAL @ MIL): über 48.5 P+R+A — 77% · lohnt ab Quote **1.34**
@@ -58,8 +45,8 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - OKC @ POR: Under 224.5 — Modell-Total 212.6 (71%)
-- DEN @ MEM: Handicap MEM +4.5 — Modell 70%
-- DEN @ MEM: Sieg MEM — Modell 58% vs. Markt 39%
+- DEN @ MEM: Sieg MEM — Modell 58% vs. Markt 41%
+- DEN @ MEM: Handicap MEM +3.5 — Modell 67%
 - WSH @ IND: Under 227.5 — Modell-Total 220.1 (64%)
 - OKC @ POR: Handicap POR -2.5 — Modell 63%
 - OKC @ POR: Sieg POR — Modell 69% vs. Markt 57%
@@ -97,7 +84,7 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 **Over/Under 227.5:** Over 45% (2.21) · Under 55% (1.83)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** IND NNSNN (-4.6) · WSH SNNNN (-12.6)
-_IND out: Tyrese Haliburton*, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins_ (* = Meldung der letzten 24 h)
+_IND out: Tyrese Haliburton*, Johnny Furphy, Ben Sheppard · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: 1-30 poll, plus the best newcomer on all 30 teams
 > 📰 The group chat that bonds Black NBA coaches off the court
 
@@ -113,15 +100,15 @@ _IND out: Tyrese Haliburton*, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. 
 | AJ Dybantsa (WSH) | 33 | 16.9 (14.5 / 17.5) | 6.4 | 2.2 | 0.9 | 25.4 |
 
 ### CLE @ NY — Do 01:00 Uhr
-**Sieg:** NY 65% (faire Quote 1.53) · CLE 35% (2.87) — Markt NY 65%
-**Prognose:** NY 112.9 – CLE 107.8 (Diff. NY +5.0, Total 220.7)
-**Handicap** NY -4.5: NY deckt 52% · CLE +4.5 deckt 48%
-**Over/Under 221.5:** Over 48% (2.07) · Under 52% (1.93)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
+**Sieg:** NY 65% (faire Quote 1.53) · CLE 35% (2.89) — Markt NY 66%
+**Prognose:** NY 112.5 – CLE 107.7 (Diff. NY +4.8, Total 220.2)
+**Handicap** NY -4.5: NY deckt 51% · CLE +4.5 deckt 49%
+**Over/Under 220.5:** Over 49% (2.03) · Under 51% (1.98)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** NY NSSSS (+16.4) · CLE NNSNN (-2.6)
-_NY spielt Back-to-Back · CLE out: Sam Merrill, Jaylon Tyson_
+_NY spielt Back-to-Back · CLE out: Sam Merrill_
+> 📰 Chuck: 'The Cavs suck'
 > 📰 Donovan Mitchell details Coco Jones wedding, music passion on 'The Tonight Show'
-> 📰 NBA Wednesday Night Doubleheader Teaser
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -135,11 +122,11 @@ _NY spielt Back-to-Back · CLE out: Sam Merrill, Jaylon Tyson_
 | Meleek Thomas (CLE) | 23 | 12.2 (10.5 / 12.5) | 2.6 | 1.3 | 2.6 | 16.4 |
 
 ### BOS @ TOR — Do 01:00 Uhr
-**Sieg:** TOR 38% (faire Quote 2.65) · BOS 62% (1.61) — Markt TOR 36%
-**Prognose:** TOR 105.5 – BOS 110.1 (Diff. BOS +4.7, Total 215.6)
-**Handicap** TOR +5.5: TOR deckt 53% · BOS -5.5 deckt 47%
-**Over/Under 216.5:** Over 48% (2.08) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 211.5 · Under lohnt ab 219.5 (≥57%)
+**Sieg:** TOR 38% (faire Quote 2.62) · BOS 62% (1.62) — Markt TOR 36%
+**Prognose:** TOR 105.5 – BOS 109.4 (Diff. BOS +4.0, Total 214.9)
+**Handicap** TOR +4.5: TOR deckt 52% · BOS -4.5 deckt 48%
+**Over/Under 215.5:** Over 49% (2.05) · Under 51% (1.95)
+**Total-Faustregel:** Over lohnt bis 211.5 · Under lohnt ab 218.5 (≥57%)
 **Form (letzte 5):** TOR NSNSN (-4.0) · BOS NSSSS (+14.4)
 _TOR out: Kawhi Leonard*, Trayce Jackson-Davis*, Scottie Barnes, Nate Bittle · BOS spielt Back-to-Back · BOS out: Paul George*_ (* = Meldung der letzten 24 h)
 > 📰 Updated NBA championship, MVP odds: Celtics rise, Lakers surge, Doncic leads
@@ -156,34 +143,34 @@ _TOR out: Kawhi Leonard*, Trayce Jackson-Davis*, Scottie Barnes, Nate Bittle · 
 | Derrick White (BOS) | 29 | 12.1 (9.5 / 12.5) | 3.0 | 5.0 | 1.6 | 20.0 |
 
 ### SA @ CHI — Do 02:00 Uhr
-**Sieg:** CHI 12% (faire Quote 8.67) · SA 88% (1.13) — Markt CHI 11%
-**Prognose:** CHI 111.1 – SA 127.1 (Diff. SA +16.0, Total 238.2)
-**Handicap** CHI +15.5: CHI deckt 49% · SA -15.5 deckt 51%
-**Over/Under 237.5:** Over 51% (1.95) · Under 49% (2.06)
-**Total-Faustregel:** Over lohnt bis 234.5 · Under lohnt ab 241.5 (≥57%)
+**Sieg:** CHI 11% (faire Quote 9.00) · SA 89% (1.13) — Markt CHI 11%
+**Prognose:** CHI 109.6 – SA 126.0 (Diff. SA +16.3, Total 235.6)
+**Handicap** CHI +15.5: CHI deckt 47% · SA -15.5 deckt 53%
+**Over/Under 236.5:** Over 48% (2.08) · Under 52% (1.92)
+**Total-Faustregel:** Over lohnt bis 231.5 · Under lohnt ab 239.5 (≥57%)
 **Form (letzte 5):** CHI NNNNN (-15.0) · SA SSSSS (+17.2)
-_CHI out: Tobe Awaka* · CHI fraglich: Caleb Wilson*, Norman Powell, Zach Collins · SA out: Tobias Harris, Jayden Quaintance · SA fraglich: Devin Vassell_ (* = Meldung der letzten 24 h)
+_CHI out: Norman Powell*, Tobe Awaka* · CHI fraglich: Dailyn Swain*, Caleb Wilson*, Zach Collins · SA out: Devin Vassell*, Tobias Harris, Jayden Quaintance_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: 1-30 poll, plus the best newcomer on all 30 teams
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
-| Norman Powell (CHI) | 29 | 18.2 (15.5 / 19.5) | 2.3 | 1.6 | 1.9 | 22.3 |
 | Caleb Wilson (CHI) | 32 | 18.1 (15.5 / 18.5) | 6.2 | 2.1 | 2.3 | 26.5 |
 | Matas Buzelis (CHI) | 26 | 13.0 (10.5 / 13.5) | 4.4 | 2.1 | 1.5 | 19.5 |
 | Jalen Smith (CHI) | 23 | 11.0 (8.5 / 11.5) | 7.6 | 1.8 | 1.4 | 20.4 |
-| Victor Wembanyama (SA) | 29 | 34.7 (30.5 / 35.5) | 12.0 | 3.0 | 2.3 | 49.4 |
+| Josh Giddey (CHI) | 28 | 10.8 (8.5 / 11.5) | 4.8 | 8.7 | 1.0 | 24.1 |
+| Victor Wembanyama (SA) | 29 | 34.7 (30.5 / 35.5) | 12.0 | 3.0 | 2.2 | 49.4 |
 | Dylan Harper (SA) | 31 | 19.6 (17.5 / 20.5) | 5.3 | 4.2 | 1.1 | 29.0 |
 | Stephon Castle (SA) | 29 | 14.9 (11.5 / 15.5) | 6.2 | 5.3 | 1.9 | 26.6 |
 | De'Aaron Fox (SA) | 29 | 14.7 (12.5 / 15.5) | 4.4 | 5.7 | 1.1 | 24.8 |
 
 ### DEN @ MEM — Do 02:00 Uhr
-**Sieg:** MEM 45% (faire Quote 2.23) · DEN 55% (1.81) — Markt MEM 39%
-**Prognose:** MEM 113.4 – DEN 115.7 (Diff. DEN +2.3, Total 229.1)
-**Handicap** MEM +4.5: MEM deckt 57% · DEN -4.5 deckt 43%
+**Sieg:** MEM 46% (faire Quote 2.18) · DEN 54% (1.85) — Markt MEM 41%
+**Prognose:** MEM 113.8 – DEN 115.3 (Diff. DEN +1.6, Total 229.1)
+**Handicap** MEM +3.5: MEM deckt 56% · DEN -3.5 deckt 44%
 **Over/Under 230.5:** Over 47% (2.13) · Under 53% (1.89)
 **Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 232.5 (≥57%)
 **Form (letzte 5):** MEM SNNNS (+2.2) · DEN SNSSN (+4.0)
-_MEM out: Scotty Pippen Jr.*, Quinten Post*, Richie Saunders · MEM fraglich: Isaiah Stewart* · DEN out: Julian Strawther_ (* = Meldung der letzten 24 h)
+_MEM out: Scotty Pippen Jr., Quinten Post, Richie Saunders · MEM fraglich: Isaiah Stewart · DEN out: Julian Strawther_
 > 📰 NBA Power Rankings: 1-30 poll, plus the best newcomer on all 30 teams
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -198,9 +185,9 @@ _MEM out: Scotty Pippen Jr.*, Quinten Post*, Richie Saunders · MEM fraglich: Is
 | Aaron Gordon (DEN) | 29 | 10.7 (8.5 / 11.5) | 5.1 | 2.0 | 1.0 | 17.8 |
 
 ### LAL @ MIL — Do 02:00 Uhr
-**Sieg:** MIL 14% (faire Quote 7.05) · LAL 86% (1.17) — Markt MIL 14%
-**Prognose:** MIL 107.2 – LAL 122.0 (Diff. LAL +14.8, Total 229.3)
-**Handicap** MIL +14.5: MIL deckt 49% · LAL -14.5 deckt 51%
+**Sieg:** MIL 14% (faire Quote 7.34) · LAL 86% (1.16) — Markt MIL 13%
+**Prognose:** MIL 106.9 – LAL 122.4 (Diff. LAL +15.5, Total 229.3)
+**Handicap** MIL +15.5: MIL deckt 50% · LAL -15.5 deckt 50%
 **Over/Under 229.5:** Over 50% (2.02) · Under 50% (1.98)
 **Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
 **Form (letzte 5):** MIL NNNNN (-17.0) · LAL SSSSS (+11.0)
@@ -220,13 +207,13 @@ _MIL spielt Back-to-Back · MIL out: Myles Turner* · MIL fraglich: Tyler Herro*
 | Ziaire Williams (LAL) | 24 | 11.9 (10.5 / 12.5) | 2.7 | 1.6 | 2.3 | 16.1 |
 
 ### BKN @ NO — Do 02:00 Uhr
-**Sieg:** NO 61% (faire Quote 1.63) · BKN 39% (2.58) — Markt NO 58%
-**Prognose:** NO 116.4 – BKN 111.9 (Diff. NO +4.5, Total 228.3)
-**Handicap** NO -3.5: NO deckt 53% · BKN +3.5 deckt 47%
-**Over/Under 228.5:** Over 50% (2.02) · Under 50% (1.98)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
+**Sieg:** NO 58% (faire Quote 1.72) · BKN 42% (2.40) — Markt NO 57%
+**Prognose:** NO 115.2 – BKN 112.3 (Diff. NO +2.9, Total 227.4)
+**Handicap** NO -2.5: NO deckt 51% · BKN +2.5 deckt 49%
+**Over/Under 228.5:** Over 48% (2.10) · Under 52% (1.91)
+**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** NO SSNNN (-13.0) · BKN SNSNN (-7.0)
-_NO out: Bennedict Mathurin*, Trendon Watford, Yves Missi · NO fraglich: Trey Murphy III* · BKN out: Nolan Traore*, Mikel Brown Jr.*_ (* = Meldung der letzten 24 h)
+_NO out: Trey Murphy III*, Bennedict Mathurin*, Trendon Watford, Yves Missi · BKN out: Nolan Traore*, Mikel Brown Jr.*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: 1-30 poll, plus the best newcomer on all 30 teams
 > 📰 The group chat that bonds Black NBA coaches off the court
 
@@ -234,8 +221,8 @@ _NO out: Bennedict Mathurin*, Trendon Watford, Yves Missi · NO fraglich: Trey M
 |---|---|---|---|---|---|---|
 | Zion Williamson (NO) | 33 | 21.4 (19.5 / 22.5) | 5.5 | 2.8 | 0.2 | 29.6 |
 | Jeremiah Fears (NO) | 30 | 16.7 (13.5 / 17.5) | 4.7 | 5.3 | 1.2 | 26.6 |
-| Trey Murphy III (NO) | 33 | 16.5 (13.5 / 17.5) | 4.9 | 3.7 | 2.3 | 25.0 |
 | Saddiq Bey (NO) | 27 | 15.7 (13.5 / 16.5) | 3.5 | 2.6 | 1.7 | 21.8 |
+| Dejounte Murray (NO) | 31 | 14.0 (11.5 / 14.5) | 4.7 | 4.2 | 0.9 | 22.8 |
 | Michael Porter Jr. (BKN) | 33 | 22.7 (20.5 / 23.5) | 7.9 | 1.1 | 3.7 | 31.5 |
 | Julius Randle (BKN) | 33 | 20.5 (18.5 / 21.5) | 6.6 | 4.9 | 1.5 | 32.0 |
 | Danny Wolf (BKN) | 24 | 10.3 (8.5 / 11.5) | 5.1 | 1.8 | 2.1 | 17.2 |

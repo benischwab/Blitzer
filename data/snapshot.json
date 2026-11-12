@@ -12,25 +12,22 @@
 "Tristan Vukcevic",
 "Tyrese Haliburton"
 ],
-"dtd": [
-"T.J. McConnell"
-],
+"dtd": [],
 "spread": -3.5,
 "total": 227.5,
-"p_home": 0.5826
+"p_home": 0.5825
 },
 "401909967": {
 "matchup": "CLE @ NY",
 "home": "NY",
 "away": "CLE",
 "out": [
-"Jaylon Tyson",
 "Sam Merrill"
 ],
 "dtd": [],
 "spread": -4.5,
-"total": 221.5,
-"p_home": 0.6521
+"total": 220.5,
+"p_home": 0.6542
 },
 "401909968": {
 "matchup": "BOS @ TOR",
@@ -44,28 +41,29 @@
 "Trayce Jackson-Davis"
 ],
 "dtd": [],
-"spread": 5.5,
-"total": 216.5,
-"p_home": 0.377
+"spread": 4.5,
+"total": 215.5,
+"p_home": 0.3819
 },
 "401909969": {
 "matchup": "SA @ CHI",
 "home": "CHI",
 "away": "SA",
 "out": [
+"Devin Vassell",
 "Jayden Quaintance",
+"Norman Powell",
 "Tobe Awaka",
 "Tobias Harris"
 ],
 "dtd": [
 "Caleb Wilson",
-"Devin Vassell",
-"Norman Powell",
+"Dailyn Swain",
 "Zach Collins"
 ],
 "spread": 15.5,
-"total": 237.5,
-"p_home": 0.1153
+"total": 236.5,
+"p_home": 0.1111
 },
 "401909970": {
 "matchup": "DEN @ MEM",
@@ -80,9 +78,9 @@
 "dtd": [
 "Isaiah Stewart"
 ],
-"spread": 4.5,
+"spread": 3.5,
 "total": 230.5,
-"p_home": 0.4484
+"p_home": 0.4592
 },
 "401909971": {
 "matchup": "LAL @ MIL",
@@ -95,9 +93,9 @@
 "dtd": [
 "Tyler Herro"
 ],
-"spread": 14.5,
+"spread": 15.5,
 "total": 229.5,
-"p_home": 0.1419
+"p_home": 0.1363
 },
 "401909972": {
 "matchup": "BKN @ NO",
@@ -108,14 +106,13 @@
 "Mikel Brown Jr.",
 "Nolan Traore",
 "Trendon Watford",
+"Trey Murphy III",
 "Yves Missi"
 ],
-"dtd": [
-"Trey Murphy III"
-],
-"spread": -3.5,
+"dtd": [],
+"spread": -2.5,
 "total": 228.5,
-"p_home": 0.6124
+"p_home": 0.5829
 },
 "401909973": {
 "matchup": "ORL @ UTAH",
@@ -183,7 +180,7 @@
 },
 "_tips": [
 "Under 224.5 (OKC @ POR)",
-"MEM +4.5 (DEN @ MEM)"
+"MEM +3.5 (DEN @ MEM)"
 ],
 "_game_day": "2026-11-11"
 }

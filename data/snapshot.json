@@ -16,9 +16,9 @@
 "dtd": [
 "Joel Embiid"
 ],
-"spread": -6.5,
-"total": 224.5,
-"p_home": 0.6684
+"spread": -7.5,
+"total": 223.5,
+"p_home": 0.6685
 },
 "401909977": {
 "matchup": "DET @ WSH",
@@ -35,8 +35,8 @@
 "dtd": [
 "Ugonna Onyenso"
 ],
-"spread": 9.5,
-"total": 221.5,
+"spread": 10.5,
+"total": 222.5,
 "p_home": 0.23
 },
 "401909978": {
@@ -75,7 +75,7 @@
 "_tips": [
 "Sieg PHX (CHA @ PHX)",
 "PHX -6.5 (CHA @ PHX)",
-"Under 224.5 (TOR @ PHI)"
+"Under 223.5 (TOR @ PHI)"
 ],
 "_game_day": "2026-11-12"
 }

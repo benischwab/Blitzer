@@ -1,19 +1,15 @@
 ÄNDERUNGEN:
-• TOR @ PHI: LeBron James fällt NEU aus
-• TOR @ PHI: Trayce Jackson-Davis fällt NEU aus
-• TOR @ PHI: Handicap PHI -8.5 → -6.5
-• TOR @ PHI: Sieg PHI 72% → 67%
-• CHA @ PHX: Grant Williams wieder dabei / nicht mehr out
-• Neue Tipps: Under 224.5 (TOR @ PHI)
+• Neue Tipps: Under 223.5 (TOR @ PHI)
+• Gestrichen: Under 224.5 (TOR @ PHI)
 
 TIPPS (ab Mindestquote):
 • Sieg PHX (CHA @ PHX) 72% – ab 1.42
 • PHX -6.5 (CHA @ PHX) 58% – ab 1.77
-• Under 224.5 (TOR @ PHI) 57% – ab 1.80
+• Under 223.5 (TOR @ PHI) 57% – ab 1.82
 • 2er-Kombi: Sieg DET + Sieg PHX – 56%, ab 1.85
 • 3er-Kombi: Sieg DET + Sieg PHX + Sieg PHI – 37%, ab 2.76
 
-01:00 TOR@PHI: PHI 67% · U224.5 57%
-01:00 DET@WSH: DET 77% · U221.5 53%
+01:00 TOR@PHI: PHI 67% · U223.5 57%
+01:00 DET@WSH: DET 77% · U222.5 54%
 02:00 DAL@MIN: MIN 64% · U225.5 52%
 03:00 CHA@PHX: PHX 72% · U214.5 51%

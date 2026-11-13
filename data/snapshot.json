@@ -8,13 +8,10 @@
 "Johnny Furphy",
 "Tyrese Haliburton"
 ],
-"dtd": [
-"Aaron Nesmith",
-"T.J. McConnell"
-],
-"spread": 8.5,
+"dtd": [],
+"spread": 7.5,
 "total": 219.5,
-"p_home": 0.2885
+"p_home": 0.2945
 },
 "401909297": {
 "matchup": "MIL @ ORL",
@@ -29,7 +26,7 @@
 "dtd": [],
 "spread": -9.5,
 "total": 224.5,
-"p_home": 0.7546
+"p_home": 0.7579
 },
 "401909298": {
 "matchup": "CLE @ MIA",
@@ -37,15 +34,15 @@
 "away": "CLE",
 "out": [
 "Evan Mobley",
+"Klay Thompson",
+"Nae'Qwan Tomlin",
+"Pelle Larsson",
 "Sam Merrill"
 ],
-"dtd": [
-"Klay Thompson",
-"Pelle Larsson"
-],
+"dtd": [],
 "spread": -2.5,
-"total": 236.5,
-"p_home": 0.5609
+"total": 235.5,
+"p_home": 0.5205
 },
 "401909299": {
 "matchup": "ATL @ CHI",
@@ -60,13 +57,11 @@
 "Tobe Awaka"
 ],
 "dtd": [
-"Dailyn Swain",
-"Kingston Flemings",
-"Norman Powell"
+"Dailyn Swain"
 ],
-"spread": 7.5,
-"total": 245.5,
-"p_home": 0.2725
+"spread": 6.5,
+"total": 246.5,
+"p_home": 0.2829
 },
 "401909300": {
 "matchup": "MEM @ NO",
@@ -128,8 +123,8 @@
 "Devin Vassell"
 ],
 "spread": -12.5,
-"total": 218.5,
-"p_home": 0.8121
+"total": 217.5,
+"p_home": 0.8094
 },
 "401909303": {
 "matchup": "POR @ SAC",

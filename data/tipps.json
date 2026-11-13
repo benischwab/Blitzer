@@ -872,20 +872,20 @@
 "p_over": 0.4862
 },
 "401909296": {
-"p_home": 0.2885,
-"margin": -7.54,
-"total": 217.42,
+"p_home": 0.2945,
+"margin": -6.84,
+"total": 217.43,
 "matchup": "NY @ IND",
 "home": "IND",
 "away": "NY",
 "day": "2026-11-13",
-"home_spread": 8.5,
-"p_cover": 0.5295,
+"home_spread": 7.5,
+"p_cover": 0.5203,
 "line_total": 219.5,
-"p_over": 0.4553
+"p_over": 0.4554
 },
 "401909297": {
-"p_home": 0.7546,
+"p_home": 0.7579,
 "margin": 9.1,
 "total": 224.78,
 "matchup": "MIL @ ORL",
@@ -898,30 +898,30 @@
 "p_over": 0.5061
 },
 "401909298": {
-"p_home": 0.5609,
-"margin": 2.66,
-"total": 235.76,
+"p_home": 0.5205,
+"margin": 0.87,
+"total": 233.27,
 "matchup": "CLE @ MIA",
 "home": "MIA",
 "away": "CLE",
 "day": "2026-11-13",
 "home_spread": -2.5,
-"p_cover": 0.505,
-"line_total": 236.5,
-"p_over": 0.4841
+"p_cover": 0.4502,
+"line_total": 235.5,
+"p_over": 0.4521
 },
 "401909299": {
-"p_home": 0.2725,
-"margin": -8.57,
-"total": 244.14,
+"p_home": 0.2829,
+"margin": -7.87,
+"total": 244.84,
 "matchup": "ATL @ CHI",
 "home": "CHI",
 "away": "ATL",
 "day": "2026-11-13",
-"home_spread": 7.5,
-"p_cover": 0.4671,
-"line_total": 245.5,
-"p_over": 0.4707
+"home_spread": 6.5,
+"p_cover": 0.458,
+"line_total": 246.5,
+"p_over": 0.4642
 },
 "401909300": {
 "p_home": 0.3559,
@@ -932,7 +932,7 @@
 "away": "MEM",
 "day": "2026-11-13",
 "home_spread": 3.5,
-"p_cover": 0.4371,
+"p_cover": 0.4372,
 "line_total": 235.5,
 "p_over": 0.4787
 },
@@ -945,22 +945,22 @@
 "away": "UTAH",
 "day": "2026-11-13",
 "home_spread": -15.5,
-"p_cover": 0.5353,
+"p_cover": 0.5352,
 "line_total": 220.5,
 "p_over": 0.4682
 },
 "401909302": {
-"p_home": 0.8121,
+"p_home": 0.8094,
 "margin": 11.76,
-"total": 219.34,
+"total": 218.64,
 "matchup": "GS @ SA",
 "home": "SA",
 "away": "GS",
 "day": "2026-11-13",
 "home_spread": -12.5,
 "p_cover": 0.4774,
-"line_total": 218.5,
-"p_over": 0.5182
+"line_total": 217.5,
+"p_over": 0.5246
 },
 "401909303": {
 "p_home": 0.2038,
@@ -977,7 +977,7 @@
 },
 "401909304": {
 "p_home": 0.3102,
-"margin": -6.85,
+"margin": -6.84,
 "total": 221.95,
 "matchup": "OKC @ LAC",
 "home": "LAC",
@@ -1284,7 +1284,7 @@
 "market": "spread",
 "side": "MEM",
 "line": -3.5,
-"p": 0.5629,
+"p": 0.5628,
 "dk": 1.925925925925926,
 "label": "MEM -3.5"
 }
@@ -1382,13 +1382,13 @@
 "market": "ml",
 "side": "ATL",
 "line": null,
-"p": 0.7275,
-"dk": 1.3610108303249098,
+"p": 0.7171,
+"dk": 1.3891050583657587,
 "label": "Sieg ATL"
 }
 ],
-"p": 0.4686,
-"dk": 2.201
+"p": 0.4619,
+"dk": 2.247
 }
 ]
 }

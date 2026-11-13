@@ -870,6 +870,123 @@
 "p_cover": 0.5807,
 "line_total": 214.5,
 "p_over": 0.4862
+},
+"401909296": {
+"p_home": 0.2934,
+"margin": -7.54,
+"total": 217.42,
+"matchup": "NY @ IND",
+"home": "IND",
+"away": "NY",
+"day": "2026-11-13",
+"home_spread": 8.5,
+"p_cover": 0.5294,
+"line_total": 219.5,
+"p_over": 0.4552
+},
+"401909297": {
+"p_home": 0.737,
+"margin": 8.28,
+"total": 224.66,
+"matchup": "MIL @ ORL",
+"home": "ORL",
+"away": "MIL",
+"day": "2026-11-13",
+"home_spread": -8.5,
+"p_cover": 0.4932,
+"line_total": 224.5,
+"p_over": 0.5035
+},
+"401909298": {
+"p_home": 0.5609,
+"margin": 2.66,
+"total": 235.07,
+"matchup": "CLE @ MIA",
+"home": "MIA",
+"away": "CLE",
+"day": "2026-11-13",
+"home_spread": -2.5,
+"p_cover": 0.5049,
+"line_total": 235.5,
+"p_over": 0.4907
+},
+"401909299": {
+"p_home": 0.2668,
+"margin": -8.58,
+"total": 244.15,
+"matchup": "ATL @ CHI",
+"home": "CHI",
+"away": "ATL",
+"day": "2026-11-13",
+"home_spread": 7.5,
+"p_cover": 0.467,
+"line_total": 245.5,
+"p_over": 0.4709
+},
+"401909300": {
+"p_home": 0.4164,
+"margin": -3.53,
+"total": 237.25,
+"matchup": "MEM @ NO",
+"home": "NO",
+"away": "MEM",
+"day": "2026-11-13",
+"home_spread": 2.5,
+"p_cover": 0.4685,
+"line_total": 237.5,
+"p_over": 0.4946
+},
+"401909301": {
+"p_home": 0.8988,
+"margin": 16.66,
+"total": 219.02,
+"matchup": "UTAH @ HOU",
+"home": "HOU",
+"away": "UTAH",
+"day": "2026-11-13",
+"home_spread": -15.5,
+"p_cover": 0.5355,
+"line_total": 220.5,
+"p_over": 0.4681
+},
+"401909302": {
+"p_home": 0.8121,
+"margin": 11.06,
+"total": 218.64,
+"matchup": "GS @ SA",
+"home": "SA",
+"away": "GS",
+"day": "2026-11-13",
+"home_spread": -11.5,
+"p_cover": 0.4866,
+"line_total": 217.5,
+"p_over": 0.5246
+},
+"401909303": {
+"p_home": 0.2168,
+"margin": -9.77,
+"total": 228.59,
+"matchup": "POR @ SAC",
+"home": "SAC",
+"away": "POR",
+"day": "2026-11-13",
+"home_spread": 9.5,
+"p_cover": 0.4917,
+"line_total": 228.5,
+"p_over": 0.5018
+},
+"401909304": {
+"p_home": 0.317,
+"margin": -6.85,
+"total": 221.24,
+"matchup": "OKC @ LAC",
+"home": "LAC",
+"away": "OKC",
+"day": "2026-11-13",
+"home_spread": 7.5,
+"p_cover": 0.5199,
+"line_total": 221.5,
+"p_over": 0.4945
 }
 },
 "singles": {
@@ -1149,7 +1266,8 @@
 "dk": 1.9523809523809523,
 "label": "Under 222.5"
 }
-]
+],
+"2026-11-13": []
 },
 "combos": {
 "2026-11-04": [],
@@ -1223,6 +1341,7 @@
 "2026-11-09": [],
 "2026-11-10": [],
 "2026-11-11": [],
-"2026-11-12": []
+"2026-11-12": [],
+"2026-11-13": []
 }
 }

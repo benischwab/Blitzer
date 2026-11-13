@@ -13,12 +13,10 @@
 "Scottie Barnes",
 "Trayce Jackson-Davis"
 ],
-"dtd": [
-"Joel Embiid"
-],
+"dtd": [],
 "spread": -7.5,
-"total": 223.5,
-"p_home": 0.6685
+"total": 222.5,
+"p_home": 0.6718
 },
 "401909977": {
 "matchup": "DET @ WSH",
@@ -36,7 +34,7 @@
 "Ugonna Onyenso"
 ],
 "spread": 10.5,
-"total": 222.5,
+"total": 223.5,
 "p_home": 0.23
 },
 "401909978": {
@@ -50,9 +48,7 @@
 "Sergio de Larrea",
 "Tarik Biberovic"
 ],
-"dtd": [
-"Morez Johnson Jr."
-],
+"dtd": [],
 "spread": -5.5,
 "total": 225.5,
 "p_home": 0.6395
@@ -70,12 +66,12 @@
 "dtd": [],
 "spread": -6.5,
 "total": 214.5,
-"p_home": 0.7246
+"p_home": 0.7245
 },
 "_tips": [
 "Sieg PHX (CHA @ PHX)",
 "PHX -6.5 (CHA @ PHX)",
-"Under 223.5 (TOR @ PHI)"
+"Under 222.5 (TOR @ PHI)"
 ],
 "_game_day": "2026-11-12"
 }

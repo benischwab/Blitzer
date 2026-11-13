@@ -14,7 +14,7 @@
 ],
 "spread": 8.5,
 "total": 219.5,
-"p_home": 0.2934
+"p_home": 0.2885
 },
 "401909297": {
 "matchup": "MIL @ ORL",
@@ -31,9 +31,9 @@
 "Jamal Cain",
 "Tristan da Silva"
 ],
-"spread": -8.5,
+"spread": -9.5,
 "total": 224.5,
-"p_home": 0.737
+"p_home": 0.7479
 },
 "401909298": {
 "matchup": "CLE @ MIA",
@@ -44,7 +44,6 @@
 "Sam Merrill"
 ],
 "dtd": [
-"Giannis Antetokounmpo",
 "Klay Thompson",
 "Pelle Larsson"
 ],
@@ -69,30 +68,31 @@
 "Kingston Flemings",
 "Norman Powell"
 ],
-"spread": 7.5,
+"spread": 6.5,
 "total": 245.5,
-"p_home": 0.2668
+"p_home": 0.2724
 },
 "401909300": {
 "matchup": "MEM @ NO",
 "home": "NO",
 "away": "MEM",
 "out": [
+"Bryce McGowens",
 "Quinten Post",
 "Richie Saunders",
 "Scotty Pippen Jr.",
 "Trendon Watford",
+"Trey Murphy III",
 "Yves Missi",
 "Zach Edey"
 ],
 "dtd": [
 "Bennedict Mathurin",
-"Bryce McGowens",
-"Trey Murphy III"
+"Dejounte Murray"
 ],
-"spread": 2.5,
-"total": 237.5,
-"p_home": 0.4164
+"spread": 3.5,
+"total": 235.5,
+"p_home": 0.3679
 },
 "401909301": {
 "matchup": "UTAH @ HOU",
@@ -110,8 +110,8 @@
 "Marcus Smart"
 ],
 "spread": -15.5,
-"total": 220.5,
-"p_home": 0.8988
+"total": 221.5,
+"p_home": 0.8926
 },
 "401909302": {
 "matchup": "GS @ SA",
@@ -131,8 +131,8 @@
 "De'Aaron Fox",
 "Devin Vassell"
 ],
-"spread": -11.5,
-"total": 217.5,
+"spread": -12.5,
+"total": 218.5,
 "p_home": 0.8121
 },
 "401909303": {
@@ -150,9 +150,9 @@
 "dtd": [
 "Precious Achiuwa"
 ],
-"spread": 9.5,
-"total": 228.5,
-"p_home": 0.2168
+"spread": 10.5,
+"total": 229.5,
+"p_home": 0.2169
 },
 "401909304": {
 "matchup": "OKC @ LAC",
@@ -173,8 +173,8 @@
 "Ajay Mitchell"
 ],
 "spread": 7.5,
-"total": 221.5,
-"p_home": 0.317
+"total": 222.5,
+"p_home": 0.3102
 },
 "_tips": [],
 "_game_day": "2026-11-13"

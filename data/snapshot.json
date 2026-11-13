@@ -22,18 +22,14 @@
 "away": "MIL",
 "out": [
 "Izaiyah Nelson",
-"Jalen Suggs",
 "Jonathan Isaac",
 "Noah Penda",
 "Paolo Banchero"
 ],
-"dtd": [
-"Jamal Cain",
-"Tristan da Silva"
-],
+"dtd": [],
 "spread": -9.5,
 "total": 224.5,
-"p_home": 0.7479
+"p_home": 0.7546
 },
 "401909298": {
 "matchup": "CLE @ MIA",
@@ -48,7 +44,7 @@
 "Pelle Larsson"
 ],
 "spread": -2.5,
-"total": 235.5,
+"total": 236.5,
 "p_home": 0.5609
 },
 "401909299": {
@@ -68,9 +64,9 @@
 "Kingston Flemings",
 "Norman Powell"
 ],
-"spread": 6.5,
+"spread": 7.5,
 "total": 245.5,
-"p_home": 0.2724
+"p_home": 0.2725
 },
 "401909300": {
 "matchup": "MEM @ NO",
@@ -78,6 +74,7 @@
 "away": "MEM",
 "out": [
 "Bryce McGowens",
+"Dejounte Murray",
 "Quinten Post",
 "Richie Saunders",
 "Scotty Pippen Jr.",
@@ -87,12 +84,11 @@
 "Zach Edey"
 ],
 "dtd": [
-"Bennedict Mathurin",
-"Dejounte Murray"
+"Bennedict Mathurin"
 ],
 "spread": 3.5,
 "total": 235.5,
-"p_home": 0.3679
+"p_home": 0.3559
 },
 "401909301": {
 "matchup": "UTAH @ HOU",
@@ -110,7 +106,7 @@
 "Marcus Smart"
 ],
 "spread": -15.5,
-"total": 221.5,
+"total": 220.5,
 "p_home": 0.8926
 },
 "401909302": {
@@ -144,15 +140,14 @@
 "Chris Youngblood",
 "Ja Morant",
 "Maxime Raynaud",
+"Precious Achiuwa",
 "Shaedon Sharpe",
 "Vit Krejci"
 ],
-"dtd": [
-"Precious Achiuwa"
-],
+"dtd": [],
 "spread": 10.5,
 "total": 229.5,
-"p_home": 0.2169
+"p_home": 0.2038
 },
 "401909304": {
 "matchup": "OKC @ LAC",
@@ -176,6 +171,9 @@
 "total": 222.5,
 "p_home": 0.3102
 },
-"_tips": [],
+"_tips": [
+"Sieg MEM (MEM @ NO)",
+"MEM -3.5 (MEM @ NO)"
+],
 "_game_day": "2026-11-13"
 }

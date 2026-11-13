@@ -1,17 +1,21 @@
 ÄNDERUNGEN:
-• MEM @ NO: Bryce McGowens fällt NEU aus
-• MEM @ NO: Trey Murphy III fällt NEU aus
-• MEM @ NO: Total 237.5 → 235.5
+• MIL @ ORL: Jalen Suggs wieder dabei / nicht mehr out
+• MEM @ NO: Dejounte Murray fällt NEU aus
+• POR @ SAC: Precious Achiuwa fällt NEU aus
+• Neue Tipps: Sieg MEM (MEM @ NO); MEM -3.5 (MEM @ NO)
 
-• 2er-Kombi: Sieg POR + Sieg ATL – 57%, ab 1.81
-• 3er-Kombi: Sieg SA + Sieg ATL + Sieg MEM – 37%, ab 2.76
+TIPPS (ab Mindestquote):
+• Sieg MEM (MEM @ NO) 64% – ab 1.60
+• MEM -3.5 (MEM @ NO) 56% – ab 1.83
+• 2er-Kombi: Sieg MEM + Sieg ATL – 47%, ab 2.20
+• 3er-Kombi: Sieg POR + Sieg ORL + Sieg MEM – 39%, ab 2.66
 
 01:00 NY@IND: NY 71% · U219.5 54%
-01:00 MIL@ORL: ORL 75% · O224.5 50%
-02:00 CLE@MIA: MIA 56% · U235.5 51%
+01:00 MIL@ORL: ORL 75% · O224.5 51%
+02:00 CLE@MIA: MIA 56% · U236.5 52%
 02:00 ATL@CHI: ATL 73% · U245.5 53%
-02:00 MEM@NO: MEM 63% · U235.5 51%
-02:30 UTAH@HOU: HOU 89% · U221.5 54%
+02:00 MEM@NO: MEM 64% · U235.5 52%
+02:30 UTAH@HOU: HOU 89% · U220.5 53%
 03:30 GS@SA: SA 81% · O218.5 52%
-04:00 POR@SAC: POR 78% · U229.5 50%
+04:00 POR@SAC: POR 80% · U229.5 52%
 04:30 OKC@LAC: OKC 69% · U222.5 51%

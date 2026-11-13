@@ -1,11 +1,12 @@
 # NBA-Tipps für die Nacht 13.11.–14.11.2026
 
-Stand: Fr 13.11. 21:17 Uhr · 9 Spiele · Datenbasis: 174 Saisonspiele · Heimvorteil 2.1 Pkt · Liga-Schnitt 113.5 Pkt/Team
+Stand: Fr 13.11. 23:48 Uhr · 9 Spiele · Datenbasis: 174 Saisonspiele · Heimvorteil 2.1 Pkt · Liga-Schnitt 113.5 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- MEM @ NO: Bryce McGowens fällt NEU aus
-- MEM @ NO: Trey Murphy III fällt NEU aus
-- MEM @ NO: Total 237.5 → 235.5
+- MIL @ ORL: Jalen Suggs wieder dabei / nicht mehr out
+- MEM @ NO: Dejounte Murray fällt NEU aus
+- POR @ SAC: Precious Achiuwa fällt NEU aus
+- Neue Tipps: Sieg MEM (MEM @ NO); MEM -3.5 (MEM @ NO)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -15,20 +16,20 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Sieg MEM | MEM @ NO | 63% | 1.62 | +2.2% | **1.63** | _(nur mit besserer Quote)_
+| Sieg MEM | MEM @ NO | 64% | 1.62 | +4.2% | **1.60** |
+| MEM -3.5 | MEM @ NO | 56% | 1.93 | +8.4% | **1.83** |
 | Sieg ATL | ATL @ CHI | 73% | 1.36 | -1.0% | **1.42** | _(nur mit besserer Quote)_
-| Sieg MIA | CLE @ MIA | 56% | 1.74 | -2.4% | **1.84** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg POR (POR @ SAC) — 78%, DK 1.21
+- Sieg MEM (MEM @ NO) — 64%, DK 1.62
 - Sieg ATL (ATL @ CHI) — 73%, DK 1.36
-- **Trefferchance 57%** · DK-Quote 1.65 (-5.9%) · **lohnt ab Sporttip-Gesamtquote 1.81** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 47%** · DK-Quote 2.20 (+3.1%) · **lohnt ab Sporttip-Gesamtquote 2.20** · _profitabel zur DK-Quote_
 
 **3er-Kombi (höhere Quote)**
-- Sieg SA (GS @ SA) — 81%, DK 1.15
-- Sieg ATL (ATL @ CHI) — 73%, DK 1.36
-- Sieg MEM (MEM @ NO) — 63%, DK 1.62
-- **Trefferchance 37%** · DK-Quote 2.53 (-5.5%) · **lohnt ab Sporttip-Gesamtquote 2.76** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg POR (POR @ SAC) — 80%, DK 1.21
+- Sieg ORL (MIL @ ORL) — 75%, DK 1.24
+- Sieg MEM (MEM @ NO) — 64%, DK 1.62
+- **Trefferchance 39%** · DK-Quote 2.44 (-5.5%) · **lohnt ab Sporttip-Gesamtquote 2.66** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Karl-Anthony Towns (NY, NY @ IND): über 32.5 P+R+A — 75% · lohnt ab Quote **1.36**
@@ -41,12 +42,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- MEM @ NO: Handicap MEM -3.5 — Modell 64%
+- MEM @ NO: Handicap MEM -3.5 — Modell 68%
+- MEM @ NO: Sieg MEM — Modell 76% vs. Markt 59%
 - NY @ IND: Under 219.5 — Modell-Total 212.6 (63%)
-- MEM @ NO: Sieg MEM — Modell 72% vs. Markt 59%
-- ATL @ CHI: Handicap ATL -6.5 — Modell 62%
-- UTAH @ HOU: Under 221.5 — Modell-Total 215.6 (61%)
 - UTAH @ HOU: Handicap HOU -15.5 — Modell 60%
+- NY @ IND: Sieg IND — Modell 36% vs. Markt 26%
+- ATL @ CHI: Handicap ATL -7.5 — Modell 60%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 53/67 richtig (79%), Brier 0.169
@@ -96,13 +97,13 @@ _IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. M
 | Landry Shamet (NY) | 26 | 10.0 (7.5 / 10.5) | 1.7 | 2.1 | 2.2 | 13.8 |
 
 ### MIL @ ORL — Sa 01:00 Uhr
-**Sieg:** ORL 75% (faire Quote 1.34) · MIL 25% (3.97) — Markt ORL 77%
-**Prognose:** ORL 116.8 – MIL 107.8 (Diff. ORL +9.0, Total 224.7)
-**Handicap** ORL -9.5: ORL deckt 48% · MIL +9.5 deckt 52%
-**Over/Under 224.5:** Over 50% (1.99) · Under 50% (2.01)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
+**Sieg:** ORL 75% (faire Quote 1.33) · MIL 25% (4.07) — Markt ORL 77%
+**Prognose:** ORL 116.9 – MIL 107.8 (Diff. ORL +9.1, Total 224.8)
+**Handicap** ORL -9.5: ORL deckt 49% · MIL +9.5 deckt 51%
+**Over/Under 224.5:** Over 51% (1.98) · Under 49% (2.02)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** ORL NNNSS (-1.4) · MIL NNNNN (-16.8)
-_ORL out: Jalen Suggs*, Jonathan Isaac, Paolo Banchero, Noah Penda, Izaiyah Nelson · ORL fraglich: Jamal Cain*, Tristan da Silva*_ (* = Meldung der letzten 24 h)
+_ORL out: Jonathan Isaac, Paolo Banchero, Noah Penda, Izaiyah Nelson_
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -117,12 +118,12 @@ _ORL out: Jalen Suggs*, Jonathan Isaac, Paolo Banchero, Noah Penda, Izaiyah Nels
 
 ### CLE @ MIA — Sa 02:00 Uhr
 **Sieg:** MIA 56% (faire Quote 1.78) · CLE 44% (2.28) — Markt MIA 55%
-**Prognose:** MIA 118.9 – CLE 116.2 (Diff. MIA +2.7, Total 235.1)
+**Prognose:** MIA 119.2 – CLE 116.6 (Diff. MIA +2.7, Total 235.8)
 **Handicap** MIA -2.5: MIA deckt 50% · CLE +2.5 deckt 50%
-**Over/Under 235.5:** Over 49% (2.04) · Under 51% (1.96)
-**Total-Faustregel:** Over lohnt bis 231.5 · Under lohnt ab 238.5 (≥57%)
+**Over/Under 236.5:** Over 48% (2.07) · Under 52% (1.94)
+**Total-Faustregel:** Over lohnt bis 232.5 · Under lohnt ab 239.5 (≥57%)
 **Form (letzte 5):** MIA NSNSS (-5.6) · CLE NSNNS (+0.0)
-_MIA fraglich: Klay Thompson*, Pelle Larsson* · CLE out: Evan Mobley*, Sam Merrill_ (* = Meldung der letzten 24 h)
+_MIA fraglich: Klay Thompson*, Pelle Larsson* · CLE out: Evan Mobley, Sam Merrill_ (* = Meldung der letzten 24 h)
 > 📰 Donovan Mitchell's renewed faith in Cleveland fuels the Cavs' future
 > 📰 NBA trade deadline: Big questions for Knicks, Thunder and other top teams
 
@@ -139,12 +140,12 @@ _MIA fraglich: Klay Thompson*, Pelle Larsson* · CLE out: Evan Mobley*, Sam Merr
 
 ### ATL @ CHI — Sa 02:00 Uhr
 **Sieg:** CHI 27% (faire Quote 3.67) · ATL 73% (1.37) — Markt CHI 29%
-**Prognose:** CHI 118.1 – ATL 126.0 (Diff. ATL +7.9, Total 244.1)
-**Handicap** CHI +6.5: CHI deckt 46% · ATL -6.5 deckt 54%
+**Prognose:** CHI 117.8 – ATL 126.4 (Diff. ATL +8.6, Total 244.1)
+**Handicap** CHI +7.5: CHI deckt 47% · ATL -7.5 deckt 53%
 **Over/Under 245.5:** Over 47% (2.12) · Under 53% (1.89)
 **Total-Faustregel:** Over lohnt bis 240.5 · Under lohnt ab 247.5 (≥57%)
 **Form (letzte 5):** CHI NNNNN (-14.8) · ATL SSSSN (+3.8)
-_CHI out: Tobe Awaka*, Caleb Wilson* · CHI fraglich: Dailyn Swain*, Norman Powell* · ATL out: Mouhamed Gueye*, Keshon Gilbert*, Asa Newell*, Henri Veesaar · ATL fraglich: Kingston Flemings*_ (* = Meldung der letzten 24 h)
+_CHI out: Tobe Awaka, Caleb Wilson · CHI fraglich: Dailyn Swain, Norman Powell · ATL out: Mouhamed Gueye*, Keshon Gilbert*, Asa Newell*, Henri Veesaar · ATL fraglich: Kingston Flemings*_ (* = Meldung der letzten 24 h)
 > 📰 Ex-lottery pick Doug McDermott retires after 12 NBA seasons
 > 📰 Michael Jordan, Bugs Bunny and the lasting legacy of 'Space Jam' at 30
 
@@ -160,21 +161,22 @@ _CHI out: Tobe Awaka*, Caleb Wilson* · CHI fraglich: Dailyn Swain*, Norman Powe
 | Onyeka Okongwu (ATL) | 30 | 15.9 (13.5 / 16.5) | 8.4 | 2.8 | 1.8 | 27.2 |
 
 ### MEM @ NO — Sa 02:00 Uhr
-**Sieg:** NO 37% (faire Quote 2.72) · MEM 63% (1.58) — Markt NO 41%
-**Prognose:** NO 115.0 – MEM 120.0 (Diff. MEM +5.0, Total 235.1)
-**Handicap** NO +3.5: NO deckt 45% · MEM -3.5 deckt 55%
-**Over/Under 235.5:** Over 49% (2.04) · Under 51% (1.96)
-**Total-Faustregel:** Over lohnt bis 231.5 · Under lohnt ab 238.5 (≥57%)
+**Sieg:** NO 36% (faire Quote 2.81) · MEM 64% (1.55) — Markt NO 41%
+**Prognose:** NO 114.5 – MEM 120.0 (Diff. MEM +5.6, Total 234.5)
+**Handicap** NO +3.5: NO deckt 44% · MEM -3.5 deckt 56%
+**Over/Under 235.5:** Over 48% (2.09) · Under 52% (1.92)
+**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 238.5 (≥57%)
 **Form (letzte 5):** NO SNNNN (-20.0) · MEM NNNSN (-5.0)
-_NO out: Bryce McGowens*, Yves Missi*, Trey Murphy III*, Trendon Watford* · NO fraglich: Dejounte Murray*, Bennedict Mathurin* · MEM out: Quinten Post*, Zach Edey*, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
-> 📰 Sources: Murray wants trade from Pelicans; both sides working on resolution
+_NO out: Dejounte Murray*, Bryce McGowens*, Yves Missi*, Trey Murphy III*, Trendon Watford · NO fraglich: Bennedict Mathurin* · MEM out: Quinten Post*, Zach Edey*, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
+> 📰 Shams: Dejounte Murray has requested a trade from the Pelicans
+> 📰 Dejounte Murray wants trade from Pelicans; both sides working on resolution
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Zion Williamson (NO) | 33 | 22.0 (19.5 / 23.5) | 5.3 | 2.7 | 0.3 | 30.0 |
 | Jeremiah Fears (NO) | 30 | 16.0 (13.5 / 16.5) | 4.6 | 5.2 | 1.2 | 25.9 |
 | Saddiq Bey (NO) | 27 | 15.3 (13.5 / 16.5) | 3.2 | 2.5 | 1.8 | 21.0 |
-| Dejounte Murray (NO) | 31 | 12.3 (9.5 / 12.5) | 4.3 | 4.1 | 0.9 | 20.7 |
+| Herbert Jones (NO) | 23 | 5.5 (2.5 / 5.5) | 3.1 | 1.2 | 0.7 | 9.9 |
 | Ty Jerome (MEM) | 31 | 27.3 (23.5 / 28.5) | 3.4 | 4.7 | 2.8 | 35.0 |
 | Cameron Boozer (MEM) | 32 | 17.0 (14.5 / 17.5) | 9.6 | 5.5 | 1.8 | 32.3 |
 | Cedric Coward (MEM) | 28 | 13.5 (10.5 / 14.5) | 8.7 | 2.8 | 2.4 | 25.2 |
@@ -182,12 +184,12 @@ _NO out: Bryce McGowens*, Yves Missi*, Trey Murphy III*, Trendon Watford* · NO 
 
 ### UTAH @ HOU — Sa 02:30 Uhr
 **Sieg:** HOU 89% (faire Quote 1.12) · UTAH 11% (9.31) — Markt HOU 89%
-**Prognose:** HOU 118.2 – UTAH 101.5 (Diff. HOU +16.7, Total 219.7)
+**Prognose:** HOU 117.8 – UTAH 101.2 (Diff. HOU +16.7, Total 219.0)
 **Handicap** HOU -15.5: HOU deckt 54% · UTAH +15.5 deckt 46%
-**Over/Under 221.5:** Over 46% (2.17) · Under 54% (1.86)
-**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
+**Over/Under 220.5:** Over 47% (2.14) · Under 53% (1.88)
+**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 222.5 (≥57%)
 **Form (letzte 5):** HOU SNNSS (+4.0) · UTAH NNNNN (-11.0)
-_HOU out: Clint Capela, Steven Adams · HOU fraglich: Marcus Smart* · UTAH out: Trey Alexander, Lauri Markkanen, Jusuf Nurkic, Jaren Jackson Jr._ (* = Meldung der letzten 24 h)
+_HOU out: Clint Capela, Steven Adams · HOU fraglich: Marcus Smart · UTAH out: Trey Alexander, Lauri Markkanen, Jusuf Nurkic, Jaren Jackson Jr._
 > 📰 Rockets' Marcus Smart suspended three games for punch
 > 📰 NBA trade deadline: Big questions for Knicks, Thunder and other top teams
 
@@ -209,7 +211,7 @@ _HOU out: Clint Capela, Steven Adams · HOU fraglich: Marcus Smart* · UTAH out:
 **Over/Under 218.5:** Over 52% (1.93) · Under 48% (2.08)
 **Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** SA SSSSS (+13.8) · GS SSSSN (+14.8)
-_SA out: Tobias Harris, Jayden Quaintance · SA fraglich: Devin Vassell*, De'Aaron Fox* · GS out: Stephen Curry, Brandon Williams, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Charles Bassey*_ (* = Meldung der letzten 24 h)
+_SA out: Tobias Harris, Jayden Quaintance · SA fraglich: Devin Vassell*, De'Aaron Fox* · GS out: Stephen Curry, Brandon Williams, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Charles Bassey_ (* = Meldung der letzten 24 h)
 > 📰 Ex-lottery pick Doug McDermott retires after 12 NBA seasons
 > 📰 Stephen A., Perk debate what Draymond needs to do in Steph's absence
 
@@ -225,13 +227,13 @@ _SA out: Tobias Harris, Jayden Quaintance · SA fraglich: Devin Vassell*, De'Aar
 | Draymond Green (GS) | 27 | 3.2 (1.5 / 3.5) | 4.9 | 7.6 | 0.3 | 15.5 |
 
 ### POR @ SAC — Sa 04:00 Uhr
-**Sieg:** SAC 22% (faire Quote 4.61) · POR 78% (1.28) — Markt SAC 21%
-**Prognose:** SAC 109.4 – POR 119.9 (Diff. POR +10.5, Total 229.3)
-**Handicap** SAC +10.5: SAC deckt 50% · POR -10.5 deckt 50%
-**Over/Under 229.5:** Over 50% (2.02) · Under 50% (1.98)
-**Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
+**Sieg:** SAC 20% (faire Quote 4.91) · POR 80% (1.26) — Markt SAC 21%
+**Prognose:** SAC 108.8 – POR 119.9 (Diff. POR +11.1, Total 228.6)
+**Handicap** SAC +10.5: SAC deckt 48% · POR -10.5 deckt 52%
+**Over/Under 229.5:** Over 48% (2.08) · Under 52% (1.93)
+**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
 **Form (letzte 5):** SAC SNNNN (-5.2) · POR SNNSS (+3.0)
-_SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich: Precious Achiuwa* · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
+_SAC out: Precious Achiuwa*, Maxime Raynaud, Ben Simmons · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
 > 📰 Ex-lottery pick Doug McDermott retires after 12 NBA seasons
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -247,12 +249,12 @@ _SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich: Precious Achiuwa* · POR 
 
 ### OKC @ LAC — Sa 04:30 Uhr
 **Sieg:** LAC 31% (faire Quote 3.22) · OKC 69% (1.45) — Markt LAC 29%
-**Prognose:** LAC 107.5 – OKC 114.4 (Diff. OKC +6.8, Total 221.9)
+**Prognose:** LAC 107.6 – OKC 114.4 (Diff. OKC +6.8, Total 221.9)
 **Handicap** LAC +7.5: LAC deckt 52% · OKC -7.5 deckt 48%
 **Over/Under 222.5:** Over 49% (2.05) · Under 51% (1.95)
 **Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** LAC NNNSN (-5.4) · OKC SSSNN (+9.6)
-_LAC out: Brandon Ingram*, Yanic Konan Niederhauser, Bradley Beal, Jordan Miller · OKC out: Thomas Sorber*, Jaylin Williams, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Ajay Mitchell*_ (* = Meldung der letzten 24 h)
+_LAC out: Brandon Ingram, Yanic Konan Niederhauser, Bradley Beal, Jordan Miller · OKC out: Thomas Sorber*, Jaylin Williams, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Ajay Mitchell*_ (* = Meldung der letzten 24 h)
 > 📰 Ex-lottery pick Doug McDermott retires after 12 NBA seasons
 > 📰 NBA trade deadline: Big questions for Knicks, Thunder and other top teams
 

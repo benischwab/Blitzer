@@ -987,6 +987,71 @@
 "p_cover": 0.5201,
 "line_total": 222.5,
 "p_over": 0.4881
+},
+"401909980": {
+"p_home": 0.1762,
+"margin": -12.82,
+"total": 233.62,
+"matchup": "DEN @ NO",
+"home": "NO",
+"away": "DEN",
+"day": "2026-11-14",
+"home_spread": 12.5,
+"p_cover": 0.4901,
+"line_total": 234.5,
+"p_over": 0.481
+},
+"401909981": {
+"p_home": 0.4764,
+"margin": -1.35,
+"total": 231.23,
+"matchup": "DAL @ CLE",
+"home": "CLE",
+"away": "DAL",
+"day": "2026-11-14",
+"home_spread": 1.5,
+"p_cover": 0.5047,
+"line_total": 231.5,
+"p_over": 0.4943
+},
+"401909982": {
+"p_home": 0.3697,
+"margin": -4.59,
+"total": 230.06,
+"matchup": "DET @ MIA",
+"home": "MIA",
+"away": "DET",
+"day": "2026-11-14",
+"home_spread": 4.5,
+"p_cover": 0.4973,
+"line_total": 228.5,
+"p_over": 0.5337
+},
+"401909983": {
+"p_home": 0.6344,
+"margin": 4.91,
+"total": 228.76,
+"matchup": "BKN @ MEM",
+"home": "MEM",
+"away": "BKN",
+"day": "2026-11-14",
+"home_spread": -3.5,
+"p_cover": 0.5433,
+"line_total": 228.5,
+"p_over": 0.5057
+},
+"401909984": {
+"p_home": 0.8912,
+"margin": 17.61,
+"total": 234.05,
+"matchup": "CHI @ MIN",
+"home": "MIN",
+"away": "CHI",
+"day": "2026-11-14",
+"home_spread": -15.5,
+"p_cover": 0.5645,
+"line_total": 235.5,
+"p_over": 0.4688
 }
 },
 "singles": {
@@ -1288,6 +1353,18 @@
 "dk": 1.925925925925926,
 "label": "MEM -3.5"
 }
+],
+"2026-11-14": [
+{
+"game_id": "401909984",
+"matchup": "CHI @ MIN",
+"market": "spread",
+"side": "MIN",
+"line": -15.5,
+"p": 0.5645,
+"dk": 1.925925925925926,
+"label": "MIN -15.5"
+}
 ]
 },
 "combos": {
@@ -1390,6 +1467,7 @@
 "p": 0.4619,
 "dk": 2.247
 }
-]
+],
+"2026-11-14": []
 }
 }

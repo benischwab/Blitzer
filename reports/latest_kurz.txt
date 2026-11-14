@@ -1,13 +1,22 @@
 ÄNDERUNGEN:
-• DEN @ NO: Yves Missi wieder dabei / nicht mehr out
+• DEN @ NO: Bennedict Mathurin fällt NEU aus
+• DAL @ CLE: Donovan Mitchell fällt NEU aus
+• DAL @ CLE: James Harden fällt NEU aus
+• DAL @ CLE: Jarrett Allen fällt NEU aus
+• DAL @ CLE: Max Christie fällt NEU aus
+• DAL @ CLE: Peyton Watson fällt NEU aus
+• DAL @ CLE: Handicap CLE +5.5 → +8.5
+• DAL @ CLE: Sieg CLE 35% → 22%
 
 TIPPS (ab Mindestquote):
-• MIN -15.5 (CHI @ MIN) 56% – ab 1.83
-• 2er-Kombi: Sieg MIN + Sieg DET – 55%, ab 1.87
-• 3er-Kombi: Sieg MIN + Sieg DAL + Sieg DET – 36%, ab 2.86
+• MIN -15.5 (CHI @ MIN) 59% – ab 1.73
+• Under 228.5 (DAL @ CLE) 59% – ab 1.74
+• DAL -8.5 (DAL @ CLE) 57% – ab 1.82
+• 2er-Kombi: Sieg MIN + Sieg DET – 57%, ab 1.80
+• 3er-Kombi: Sieg MIN + Sieg DET + Sieg MEM – 35%, ab 2.94
 
 01:00 DEN@NO: DEN 83% · U235.5 53%
-01:30 DAL@CLE: DAL 65% · U228.5 51%
-02:00 DET@MIA: DET 62% · O229.5 53%
-02:00 BKN@MEM: MEM 56% · U227.5 52%
-02:00 CHI@MIN: MIN 90% · U235.5 53%
+01:30 DAL@CLE: DAL 78% · U228.5 59%
+02:00 DET@MIA: DET 63% · O228.5 52%
+02:00 BKN@MEM: MEM 61% · O224.5 50%
+02:00 CHI@MIN: MIN 90% · U236.5 56%

@@ -4,6 +4,7 @@
 "home": "NO",
 "away": "DEN",
 "out": [
+"Bennedict Mathurin",
 "Bryce McGowens",
 "Dejounte Murray",
 "Julian Strawther",
@@ -21,23 +22,21 @@
 "away": "DAL",
 "out": [
 "Dereck Lively II",
+"Donovan Mitchell",
 "Evan Mobley",
+"James Harden",
+"Jarrett Allen",
+"Max Christie",
 "Nae'Qwan Tomlin",
+"Peyton Watson",
 "Sam Merrill",
 "Sergio de Larrea",
 "Tarik Biberovic"
 ],
-"dtd": [
-"Donovan Mitchell",
-"James Harden",
-"Jarrett Allen",
-"Max Christie",
-"Morez Johnson Jr.",
-"Peyton Watson"
-],
-"spread": 5.5,
+"dtd": [],
+"spread": 8.5,
 "total": 228.5,
-"p_home": 0.3476
+"p_home": 0.2201
 },
 "401909982": {
 "matchup": "DET @ MIA",
@@ -45,17 +44,15 @@
 "away": "DET",
 "out": [
 "Isaiah Joe",
-"Jalen Duren"
+"Jalen Duren",
+"Pelle Larsson"
 ],
 "dtd": [
-"Giannis Antetokounmpo",
-"Klay Thompson",
-"Pelle Larsson",
 "Ugonna Onyenso"
 ],
 "spread": 4.5,
-"total": 229.5,
-"p_home": 0.3847
+"total": 228.5,
+"p_home": 0.3654
 },
 "401909983": {
 "matchup": "BKN @ MEM",
@@ -69,13 +66,12 @@
 ],
 "dtd": [
 "Jerami Grant",
-"Mikel Brown Jr.",
-"Nolan Traore",
+"Michael Porter Jr.",
 "Zach Edey"
 ],
-"spread": -1.5,
-"total": 227.5,
-"p_home": 0.5599
+"spread": -3.5,
+"total": 224.5,
+"p_home": 0.6111
 },
 "401909984": {
 "matchup": "CHI @ MIN",
@@ -85,19 +81,20 @@
 "Anthony Edwards",
 "Caleb Wilson",
 "Donte DiVincenzo",
-"Tobe Awaka"
-],
-"dtd": [
 "Jalen Smith",
 "Nic Claxton",
-"Norman Powell"
+"Tobe Awaka"
 ],
+"dtd": [],
 "spread": -15.5,
-"total": 235.5,
-"p_home": 0.8969
+"total": 236.5,
+"p_home": 0.9037
 },
 "_tips": [
-"MIN -15.5 (CHI @ MIN)"
+"MIN -15.5 (CHI @ MIN)",
+"Under 228.5 (DAL @ CLE)",
+"DAL -8.5 (DAL @ CLE)",
+"Under 236.5 (CHI @ MIN)"
 ],
 "_game_day": "2026-11-14"
 }

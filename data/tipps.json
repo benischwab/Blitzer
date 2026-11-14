@@ -989,7 +989,7 @@
 "p_over": 0.4881
 },
 "401909980": {
-"p_home": 0.1677,
+"p_home": 0.1703,
 "margin": -12.82,
 "total": 234.32,
 "matchup": "DEN @ NO",
@@ -1002,33 +1002,33 @@
 "p_over": 0.4745
 },
 "401909981": {
-"p_home": 0.3646,
-"margin": -4.42,
-"total": 227.46,
+"p_home": 0.3476,
+"margin": -5.12,
+"total": 228.16,
 "matchup": "DAL @ CLE",
 "home": "CLE",
 "away": "DAL",
 "day": "2026-11-14",
-"home_spread": 4.5,
-"p_cover": 0.5026,
-"line_total": 227.5,
-"p_over": 0.4992
+"home_spread": 5.5,
+"p_cover": 0.5118,
+"line_total": 228.5,
+"p_over": 0.4927
 },
 "401909982": {
 "p_home": 0.3847,
-"margin": -3.89,
+"margin": -4.59,
 "total": 230.76,
 "matchup": "DET @ MIA",
 "home": "MIA",
 "away": "DET",
 "day": "2026-11-14",
-"home_spread": 3.5,
-"p_cover": 0.4881,
+"home_spread": 4.5,
+"p_cover": 0.4973,
 "line_total": 229.5,
-"p_over": 0.5272
+"p_over": 0.5271
 },
 "401909983": {
-"p_home": 0.5491,
+"p_home": 0.5599,
 "margin": 2.15,
 "total": 226.7,
 "matchup": "BKN @ MEM",
@@ -1036,22 +1036,22 @@
 "away": "BKN",
 "day": "2026-11-14",
 "home_spread": -1.5,
-"p_cover": 0.52,
+"p_cover": 0.5199,
 "line_total": 227.5,
 "p_over": 0.4828
 },
 "401909984": {
 "p_home": 0.8969,
-"margin": 17.61,
-"total": 233.35,
+"margin": 17.6,
+"total": 234.05,
 "matchup": "CHI @ MIN",
 "home": "MIN",
 "away": "CHI",
 "day": "2026-11-14",
 "home_spread": -15.5,
-"p_cover": 0.5644,
-"line_total": 234.5,
-"p_over": 0.4752
+"p_cover": 0.5643,
+"line_total": 235.5,
+"p_over": 0.4687
 }
 },
 "singles": {
@@ -1361,7 +1361,7 @@
 "market": "spread",
 "side": "MIN",
 "line": -15.5,
-"p": 0.5644,
+"p": 0.5643,
 "dk": 1.8928571428571428,
 "label": "MIN -15.5"
 }

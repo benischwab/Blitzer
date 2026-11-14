@@ -1,20 +1,13 @@
 ÄNDERUNGEN:
-• DEN @ NO: Bryce McGowens fällt NEU aus
-• DAL @ CLE: Evan Mobley fällt NEU aus
-• DAL @ CLE: Handicap CLE +1.5 → +4.5
-• DAL @ CLE: Total 231.5 → 227.5
-• DAL @ CLE: Sieg CLE 48% → 36%
-• BKN @ MEM: Quinten Post fällt NEU aus
-• BKN @ MEM: Ty Jerome fällt NEU aus
-• BKN @ MEM: Handicap MEM -3.5 → -1.5
+• DEN @ NO: Yves Missi wieder dabei / nicht mehr out
 
 TIPPS (ab Mindestquote):
-• MIN -15.5 (CHI @ MIN) 56% – ab 1.82
-• 2er-Kombi: Sieg MIN + Sieg DAL – 57%, ab 1.81
-• 3er-Kombi: Sieg MIN + Sieg DAL + Sieg DET – 35%, ab 2.94
+• MIN -15.5 (CHI @ MIN) 56% – ab 1.83
+• 2er-Kombi: Sieg MIN + Sieg DET – 55%, ab 1.87
+• 3er-Kombi: Sieg MIN + Sieg DAL + Sieg DET – 36%, ab 2.86
 
 01:00 DEN@NO: DEN 83% · U235.5 53%
-01:30 DAL@CLE: DAL 64% · U227.5 50%
+01:30 DAL@CLE: DAL 65% · U228.5 51%
 02:00 DET@MIA: DET 62% · O229.5 53%
-02:00 BKN@MEM: MEM 55% · U227.5 52%
-02:00 CHI@MIN: MIN 90% · U234.5 52%
+02:00 BKN@MEM: MEM 56% · U227.5 52%
+02:00 CHI@MIN: MIN 90% · U235.5 53%

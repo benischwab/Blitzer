@@ -1,20 +1,11 @@
-ÄNDERUNGEN:
-• CLE @ MIA: Klay Thompson fällt NEU aus
-• CLE @ MIA: Nae'Qwan Tomlin fällt NEU aus
-• CLE @ MIA: Pelle Larsson fällt NEU aus
-
-TIPPS (ab Mindestquote):
-• Sieg MEM (MEM @ NO) 64% – ab 1.60
-• MEM -3.5 (MEM @ NO) 56% – ab 1.83
-• 2er-Kombi: Sieg MEM + Sieg ATL – 46%, ab 2.23
-• 3er-Kombi: Sieg HOU + Sieg ATL + Sieg MEM – 41%, ab 2.50
-
-01:00 NY@IND: NY 71% · U219.5 54%
-01:00 MIL@ORL: ORL 76% · O224.5 51%
-02:00 CLE@MIA: MIA 52% · U235.5 55%
-02:00 ATL@CHI: ATL 72% · U246.5 54%
-02:00 MEM@NO: MEM 64% · U235.5 52%
-02:30 UTAH@HOU: HOU 89% · U220.5 53%
-03:30 GS@SA: SA 81% · O217.5 52%
-04:00 POR@SAC: POR 80% · U229.5 52%
-04:30 OKC@LAC: OKC 69% · U222.5 51%
+Sieger 6/9 richtig · Ø-Fehler Total 12 Pkt · O/U 3/9
+❌ NY 104–106 IND (Prog. NY 71%)
+✅ MIL 99–107 ORL (Prog. ORL 76%)
+✅ CLE 121–133 MIA (Prog. MIA 52%)
+❌ ATL 117–125 CHI (Prog. ATL 72%)
+✅ MEM 142–111 NO (Prog. MEM 64%)
+✅ UTAH 118–125 HOU (Prog. HOU 89%)
+✅ GS 85–123 SA (Prog. SA 81%)
+✅ POR 120–107 SAC (Prog. POR 80%)
+❌ OKC 112–113 LAC (Prog. OKC 69%)
+Tipps: 2/3 · +0.54 Fr.

@@ -1,26 +1,4 @@
 {
-"401909985": {
-"matchup": "IND @ PHI",
-"home": "PHI",
-"away": "IND",
-"out": [
-"Adem Bona",
-"Ariel Hukporti",
-"Ben Sheppard",
-"Dominick Barlow",
-"Joel Embiid",
-"Johnny Furphy",
-"Tyrese Haliburton"
-],
-"dtd": [
-"Aaron Nesmith",
-"Andrew Nembhard",
-"T.J. McConnell"
-],
-"spread": -7.5,
-"total": 225.5,
-"p_home": 0.6629
-},
 "401909986": {
 "matchup": "LAL @ PHX",
 "home": "PHX",
@@ -30,13 +8,11 @@
 "Mark Williams"
 ],
 "dtd": [
-"Adou Thiero",
-"Collin Sexton",
 "Drew Timme"
 ],
-"spread": 2.5,
-"total": 228.5,
-"p_home": 0.4424
+"spread": 3.5,
+"total": 226.5,
+"p_home": 0.4351
 },
 "401909987": {
 "matchup": "CHA @ LAC",
@@ -52,8 +28,8 @@
 ],
 "dtd": [],
 "spread": 1.5,
-"total": 214.5,
-"p_home": 0.5648
+"total": 213.5,
+"p_home": 0.567
 },
 "401909988": {
 "matchup": "SA @ UTAH",
@@ -68,10 +44,12 @@
 "Tobias Harris",
 "Trey Alexander"
 ],
-"dtd": [],
-"spread": 16.5,
-"total": 226.5,
-"p_home": 0.1056
+"dtd": [
+"De'Aaron Fox"
+],
+"spread": 15.5,
+"total": 224.5,
+"p_home": 0.1149
 },
 "401909989": {
 "matchup": "DAL @ BOS",
@@ -84,11 +62,13 @@
 ],
 "dtd": [
 "Daniel Gafford",
-"Max Christie"
+"Kyrie Irving",
+"Max Christie",
+"Santi Aldama"
 ],
-"spread": -13.5,
-"total": 219.5,
-"p_home": 0.8171
+"spread": -14.5,
+"total": 218.5,
+"p_home": 0.8276
 },
 "401909990": {
 "matchup": "NY @ TOR",
@@ -102,9 +82,9 @@
 "dtd": [
 "Kevin McCullar Jr."
 ],
-"spread": 4.5,
+"spread": 5.5,
 "total": 217.5,
-"p_home": 0.3801
+"p_home": 0.3622
 },
 "401909991": {
 "matchup": "HOU @ WSH",
@@ -116,18 +96,15 @@
 "Jamir Watkins",
 "Justin Champagnie",
 "Reece Beekman",
-"Steven Adams",
 "Tristan Vukcevic"
 ],
 "dtd": [
-"Alex Sarr",
-"Bub Carrington",
 "Marcus Smart",
 "Tre Johnson"
 ],
 "spread": 8.5,
 "total": 223.5,
-"p_home": 0.2729
+"p_home": 0.2844
 },
 "401909992": {
 "matchup": "ATL @ MIL",
@@ -141,10 +118,13 @@
 "Mouhamed Gueye",
 "Ousmane Dieng"
 ],
-"dtd": [],
-"spread": 7.5,
-"total": 234.5,
-"p_home": 0.3072
+"dtd": [
+"Jock Landale",
+"Ryan Rollins"
+],
+"spread": 8.5,
+"total": 233.5,
+"p_home": 0.3019
 },
 "401909993": {
 "matchup": "OKC @ SAC",
@@ -161,17 +141,15 @@
 ],
 "dtd": [
 "Ajay Mitchell",
-"Keegan Murray",
 "Precious Achiuwa"
 ],
 "spread": 10.5,
-"total": 222.5,
-"p_home": 0.2269
+"total": 223.5,
+"p_home": 0.227
 },
 "_tips": [
 "LAC +1.5 (CHA @ LAC)",
-"Sieg LAC (CHA @ LAC)",
-"Under 225.5 (IND @ PHI)"
+"Sieg LAC (CHA @ LAC)"
 ],
 "_game_day": "2026-11-15"
 }

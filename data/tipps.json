@@ -1106,56 +1106,56 @@
 "p_over": 0.4703
 },
 "401909989": {
-"p_home": 0.8276,
-"margin": 13.03,
-"total": 218.67,
+"p_home": 0.8602,
+"margin": 15.12,
+"total": 216.58,
 "matchup": "DAL @ BOS",
 "home": "BOS",
 "away": "DAL",
 "day": "2026-11-15",
-"home_spread": -14.5,
-"p_cover": 0.4549,
-"line_total": 218.5,
-"p_over": 0.5038
+"home_spread": -15.5,
+"p_cover": 0.4883,
+"line_total": 217.5,
+"p_over": 0.4802
 },
 "401909990": {
-"p_home": 0.3622,
-"margin": -4.9,
+"p_home": 0.411,
+"margin": -3.5,
 "total": 216.19,
 "matchup": "NY @ TOR",
 "home": "TOR",
 "away": "NY",
 "day": "2026-11-15",
-"home_spread": 5.5,
-"p_cover": 0.5185,
+"home_spread": 3.5,
+"p_cover": 0.5001,
 "line_total": 217.5,
-"p_over": 0.4718
+"p_over": 0.4719
 },
 "401909991": {
-"p_home": 0.2844,
-"margin": -7.87,
-"total": 222.98,
+"p_home": 0.2656,
+"margin": -8.37,
+"total": 222.48,
 "matchup": "HOU @ WSH",
 "home": "WSH",
 "away": "HOU",
 "day": "2026-11-15",
 "home_spread": 8.5,
-"p_cover": 0.5192,
+"p_cover": 0.5041,
 "line_total": 223.5,
-"p_over": 0.4888
+"p_over": 0.4781
 },
 "401909992": {
 "p_home": 0.3019,
-"margin": -7.22,
+"margin": -7.21,
 "total": 232.26,
 "matchup": "ATL @ MIL",
 "home": "MIL",
 "away": "ATL",
 "day": "2026-11-15",
 "home_spread": 8.5,
-"p_cover": 0.5393,
+"p_cover": 0.5394,
 "line_total": 233.5,
-"p_over": 0.4734
+"p_over": 0.4733
 },
 "401909993": {
 "p_home": 0.227,
@@ -1166,7 +1166,7 @@
 "away": "OKC",
 "day": "2026-11-15",
 "home_spread": 10.5,
-"p_cover": 0.515,
+"p_cover": 0.5151,
 "line_total": 223.5,
 "p_over": 0.4669
 }

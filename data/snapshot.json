@@ -1,74 +1,20 @@
 {
-"401909986": {
-"matchup": "LAL @ PHX",
-"home": "PHX",
-"away": "LAL",
-"out": [
-"Austin Reaves",
-"Mark Williams"
-],
-"dtd": [
-"Drew Timme"
-],
-"spread": 3.5,
-"total": 226.5,
-"p_home": 0.4351
-},
-"401909987": {
-"matchup": "CHA @ LAC",
-"home": "LAC",
-"away": "CHA",
-"out": [
-"Bradley Beal",
-"Brandon Ingram",
-"Dennis Schroder",
-"Jordan Miller",
-"Kon Knueppel",
-"Yanic Konan Niederhauser"
-],
-"dtd": [],
-"spread": 1.5,
-"total": 213.5,
-"p_home": 0.567
-},
-"401909988": {
-"matchup": "SA @ UTAH",
-"home": "UTAH",
-"away": "SA",
-"out": [
-"Jaren Jackson Jr.",
-"Jaxson Hayes",
-"Jayden Quaintance",
-"Jusuf Nurkic",
-"Lauri Markkanen",
-"Tobias Harris",
-"Trey Alexander"
-],
-"dtd": [
-"De'Aaron Fox"
-],
-"spread": 15.5,
-"total": 224.5,
-"p_home": 0.1149
-},
 "401909989": {
 "matchup": "DAL @ BOS",
 "home": "BOS",
 "away": "DAL",
 "out": [
 "Dereck Lively II",
+"Kyrie Irving",
+"Max Christie",
+"Santi Aldama",
 "Sergio de Larrea",
 "Tarik Biberovic"
 ],
-"dtd": [
-"Daniel Gafford",
-"Kyrie Irving",
-"Max Christie",
-"Santi Aldama"
-],
-"spread": -14.5,
-"total": 218.5,
-"p_home": 0.8276
+"dtd": [],
+"spread": -15.5,
+"total": 217.5,
+"p_home": 0.8602
 },
 "401909990": {
 "matchup": "NY @ TOR",
@@ -82,9 +28,9 @@
 "dtd": [
 "Kevin McCullar Jr."
 ],
-"spread": 5.5,
+"spread": 3.5,
 "total": 217.5,
-"p_home": 0.3622
+"p_home": 0.411
 },
 "401909991": {
 "matchup": "HOU @ WSH",
@@ -96,15 +42,15 @@
 "Jamir Watkins",
 "Justin Champagnie",
 "Reece Beekman",
+"Tre Johnson",
 "Tristan Vukcevic"
 ],
 "dtd": [
-"Marcus Smart",
-"Tre Johnson"
+"Marcus Smart"
 ],
 "spread": 8.5,
 "total": 223.5,
-"p_home": 0.2844
+"p_home": 0.2656
 },
 "401909992": {
 "matchup": "ATL @ MIL",
@@ -147,9 +93,6 @@
 "total": 223.5,
 "p_home": 0.227
 },
-"_tips": [
-"LAC +1.5 (CHA @ LAC)",
-"Sieg LAC (CHA @ LAC)"
-],
+"_tips": [],
 "_game_day": "2026-11-15"
 }

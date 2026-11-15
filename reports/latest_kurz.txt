@@ -1,20 +1,15 @@
 ÄNDERUNGEN:
-• LAL @ PHX: Total 228.5 → 226.5
-• SA @ UTAH: Total 226.5 → 224.5
-• HOU @ WSH: Steven Adams wieder dabei / nicht mehr out
-• Gestrichen: Under 225.5 (IND @ PHI)
+• DAL @ BOS: Kyrie Irving fällt NEU aus
+• DAL @ BOS: Max Christie fällt NEU aus
+• DAL @ BOS: Santi Aldama fällt NEU aus
+• NY @ TOR: Handicap TOR +5.5 → +3.5
+• HOU @ WSH: Tre Johnson fällt NEU aus
+• Gestrichen: LAC +1.5 (CHA @ LAC); Sieg LAC (CHA @ LAC)
 
-TIPPS (ab Mindestquote):
-• LAC +1.5 (CHA @ LAC) 60% – ab 1.72
-• Sieg LAC (CHA @ LAC) 57% – ab 1.82
-• 2er-Kombi: Sieg BOS + Sieg NY – 53%, ab 1.95
-• 3er-Kombi: Sieg HOU + Sieg ATL + Sieg NY – 32%, ab 3.23
+• 2er-Kombi: Sieg HOU + Sieg ATL – 51%, ab 2.01
 
-22:00 LAL@PHX: LAL 56% · O226.5 52%
-22:30 CHA@LAC: LAC 57% · U213.5 50%
-23:00 SA@UTAH: SA 89% · U224.5 53%
-00:00 DAL@BOS: BOS 83% · O218.5 50%
-00:00 NY@TOR: NY 64% · U217.5 53%
-01:00 HOU@WSH: HOU 72% · U223.5 51%
+00:00 DAL@BOS: BOS 86% · U217.5 52%
+00:00 NY@TOR: NY 59% · U217.5 53%
+01:00 HOU@WSH: HOU 73% · U223.5 52%
 02:00 ATL@MIL: ATL 70% · U233.5 53%
 03:00 OKC@SAC: OKC 77% · U223.5 53%

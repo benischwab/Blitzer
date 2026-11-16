@@ -1,15 +1,9 @@
 ÄNDERUNGEN:
-• DAL @ BOS: Kyrie Irving fällt NEU aus
-• DAL @ BOS: Max Christie fällt NEU aus
-• DAL @ BOS: Santi Aldama fällt NEU aus
-• NY @ TOR: Handicap TOR +5.5 → +3.5
-• HOU @ WSH: Tre Johnson fällt NEU aus
-• Gestrichen: LAC +1.5 (CHA @ LAC); Sieg LAC (CHA @ LAC)
+• ATL @ MIL: Jock Landale fällt NEU aus
+• ATL @ MIL: Ryan Rollins fällt NEU aus
 
-• 2er-Kombi: Sieg HOU + Sieg ATL – 51%, ab 2.01
+• 2er-Kombi: Sieg HOU + Sieg ATL – 53%, ab 1.94
 
-00:00 DAL@BOS: BOS 86% · U217.5 52%
-00:00 NY@TOR: NY 59% · U217.5 53%
-01:00 HOU@WSH: HOU 73% · U223.5 52%
-02:00 ATL@MIL: ATL 70% · U233.5 53%
+01:00 HOU@WSH: HOU 74% · U224.5 53%
+02:00 ATL@MIL: ATL 72% · U233.5 54%
 03:00 OKC@SAC: OKC 77% · U223.5 53%

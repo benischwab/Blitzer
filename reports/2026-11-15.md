@@ -1,14 +1,10 @@
 # NBA-Tipps für die Nacht 15.11.–16.11.2026
 
-Stand: So 15.11. 23:44 Uhr · 5 Spiele · Datenbasis: 188 Saisonspiele · Heimvorteil 2.3 Pkt · Liga-Schnitt 113.5 Pkt/Team
+Stand: Mo 16.11. 01:04 Uhr · 3 Spiele · Datenbasis: 188 Saisonspiele · Heimvorteil 2.3 Pkt · Liga-Schnitt 113.5 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- DAL @ BOS: Kyrie Irving fällt NEU aus
-- DAL @ BOS: Max Christie fällt NEU aus
-- DAL @ BOS: Santi Aldama fällt NEU aus
-- NY @ TOR: Handicap TOR +5.5 → +3.5
-- HOU @ WSH: Tre Johnson fällt NEU aus
-- Gestrichen: LAC +1.5 (CHA @ LAC); Sieg LAC (CHA @ LAC)
+- ATL @ MIL: Jock Landale fällt NEU aus
+- ATL @ MIL: Ryan Rollins fällt NEU aus
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -18,34 +14,33 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Sieg NY | NY @ TOR | 59% | 1.64 | -3.6% | **1.75** | _(nur mit besserer Quote)_
-| Sieg ATL | ATL @ MIL | 70% | 1.31 | -8.6% | **1.48** | _(nur mit besserer Quote)_
+| – | Noch keine Buchmacher-Linien verfügbar | | | | |
 
 **Sichere 2er-Kombi**
-- Sieg HOU (HOU @ WSH) — 73%, DK 1.29
-- Sieg ATL (ATL @ MIL) — 70%, DK 1.31
-- **Trefferchance 51%** · DK-Quote 1.69 (-13.5%) · **lohnt ab Sporttip-Gesamtquote 2.01** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg HOU (HOU @ WSH) — 74%, DK 1.28
+- Sieg ATL (ATL @ MIL) — 72%, DK 1.30
+- **Trefferchance 53%** · DK-Quote 1.66 (-11.7%) · **lohnt ab Sporttip-Gesamtquote 1.94** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
-- Karl-Anthony Towns (NY, NY @ TOR): über 32.5 P+R+A — 78% · lohnt ab Quote **1.31**
-- Jalen Brunson (NY, NY @ TOR): über 29.5 P+R+A — 76% · lohnt ab Quote **1.36**
-- Jayson Tatum (BOS, DAL @ BOS): über 31.5 P+R+A — 77% · lohnt ab Quote **1.33**
 - Shai Gilgeous-Alexander (OKC, OKC @ SAC): über 32.5 P+R+A — 78% · lohnt ab Quote **1.32**
 - Alperen Sengun (HOU, HOU @ WSH): über 33.5 P+R+A — 77% · lohnt ab Quote **1.34**
+- Kevin Durant (HOU, HOU @ WSH): über 24.5 P+R+A — 78% · lohnt ab Quote **1.32**
+- Jalen Johnson (ATL, ATL @ MIL): über 28.5 P+R+A — 78% · lohnt ab Quote **1.31**
+- AJ Dybantsa (WSH, HOU @ WSH): über 17.5 P+R+A — 77% · lohnt ab Quote **1.34**
 
 _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. Lieber 2er als 4er+, und nur, wenn die Sporttip-Gesamtquote über der Mindestquote liegt._
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- ATL @ MIL: Sieg MIL — Modell 39% vs. Markt 27%
-- ATL @ MIL: Handicap MIL +8.5 — Modell 62%
+- ATL @ MIL: Under 233.5 — Modell-Total 227.1 (62%)
 - OKC @ SAC: Under 223.5 — Modell-Total 218.4 (60%)
-- NY @ TOR: Under 217.5 — Modell-Total 213.1 (58%)
-- ATL @ MIL: Under 233.5 — Modell-Total 229.4 (58%)
+- HOU @ WSH: Under 224.5 — Modell-Total 220.1 (58%)
+- ATL @ MIL: Sieg MIL — Modell 33% vs. Markt 26%
 - OKC @ SAC: Sieg SAC — Modell 27% vs. Markt 21%
+- HOU @ WSH: Sieg WSH — Modell 29% vs. Markt 25%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 61/81 richtig (75%), Brier 0.189
@@ -74,54 +69,12 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 
 ## Spiele
 
-### DAL @ BOS — Mo 00:00 Uhr
-**Sieg:** BOS 86% (faire Quote 1.16) · DAL 14% (7.16) — Markt BOS 87%
-**Prognose:** BOS 115.9 – DAL 100.7 (Diff. BOS +15.1, Total 216.6)
-**Handicap** BOS -15.5: BOS deckt 49% · DAL +15.5 deckt 51%
-**Over/Under 217.5:** Over 48% (2.08) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 220.5 (≥57%)
-**Form (letzte 5):** BOS SSSSS (+18.6) · DAL SSSNN (+0.6)
-_DAL spielt Back-to-Back · DAL out: Santi Aldama*, Max Christie*, Kyrie Irving*, Dereck Lively II, Tarik Biberovic, Sergio de Larrea_ (* = Meldung der letzten 24 h)
-> 📰 Celtics face the Mavericks on 5-game win streak
-> 📰 Tyrese Proctor has a triple-double as short-handed Cavaliers top Mavericks 127-117
-
-| Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
-|---|---|---|---|---|---|---|
-| Jayson Tatum (BOS) | 34 | 25.9 (23.5 / 26.5) | 6.1 | 7.3 | 2.5 | 39.3 |
-| Paul George (BOS) | 30 | 22.3 (18.5 / 23.5) | 5.0 | 3.6 | 3.8 | 30.9 |
-| Payton Pritchard (BOS) | 27 | 13.2 (9.5 / 13.5) | 3.5 | 3.7 | 2.3 | 20.4 |
-| Derrick White (BOS) | 30 | 12.9 (10.5 / 13.5) | 2.7 | 5.2 | 1.8 | 20.8 |
-| Cooper Flagg (DAL) | 34 | 22.2 (18.5 / 22.5) | 7.3 | 6.3 | 1.2 | 35.9 |
-| P.J. Washington (DAL) | 31 | 12.7 (9.5 / 13.5) | 6.6 | 1.0 | 2.1 | 20.4 |
-| Naji Marshall (DAL) | 25 | 10.4 (8.5 / 10.5) | 2.7 | 4.3 | 0.7 | 17.5 |
-
-### NY @ TOR — Mo 00:00 Uhr
-**Sieg:** TOR 41% (faire Quote 2.43) · NY 59% (1.70) — Markt TOR 41%
-**Prognose:** TOR 106.3 – NY 109.8 (Diff. NY +3.5, Total 216.2)
-**Handicap** TOR +3.5: TOR deckt 50% · NY -3.5 deckt 50%
-**Over/Under 217.5:** Over 47% (2.12) · Under 53% (1.89)
-**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
-**Form (letzte 5):** TOR NSNNN (-7.4) · NY SSSNN (+12.8)
-_TOR out: Scottie Barnes*, Nate Bittle, Kawhi Leonard · TOR fraglich: Kevin McCullar Jr._ (* = Meldung der letzten 24 h)
-> 📰 Josh Hart searching for answers after zero-point outing in Knicks loss
-
-| Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
-|---|---|---|---|---|---|---|
-| RJ Barrett (TOR) | 34 | 20.2 (17.5 / 21.5) | 7.1 | 4.3 | 1.6 | 31.7 |
-| Immanuel Quickley (TOR) | 31 | 16.6 (13.5 / 17.5) | 3.6 | 5.5 | 2.3 | 25.9 |
-| Collin Murray-Boyles (TOR) | 24 | 10.4 (7.5 / 10.5) | 4.2 | 1.9 | 0.6 | 16.5 |
-| Ja'Kobe Walter (TOR) | 31 | 10.2 (7.5 / 10.5) | 4.3 | 1.7 | 2.1 | 16.2 |
-| Jalen Brunson (NY) | 34 | 27.2 (24.5 / 28.5) | 2.9 | 6.0 | 2.9 | 36.1 |
-| Karl-Anthony Towns (NY) | 32 | 21.2 (19.5 / 22.5) | 13.7 | 3.9 | 2.1 | 38.8 |
-| OG Anunoby (NY) | 33 | 15.7 (13.5 / 16.5) | 4.8 | 2.1 | 2.3 | 22.6 |
-| Landry Shamet (NY) | 26 | 9.3 (6.5 / 9.5) | 1.8 | 2.0 | 2.0 | 13.1 |
-
 ### HOU @ WSH — Mo 01:00 Uhr
-**Sieg:** WSH 27% (faire Quote 3.76) · HOU 73% (1.36) — Markt WSH 26%
-**Prognose:** WSH 107.1 – HOU 115.4 (Diff. HOU +8.4, Total 222.5)
+**Sieg:** WSH 26% (faire Quote 3.83) · HOU 74% (1.35) — Markt WSH 25%
+**Prognose:** WSH 107.4 – HOU 115.8 (Diff. HOU +8.4, Total 223.2)
 **Handicap** WSH +8.5: WSH deckt 50% · HOU -8.5 deckt 50%
-**Over/Under 223.5:** Over 48% (2.09) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
+**Over/Under 224.5:** Over 47% (2.12) · Under 53% (1.89)
+**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** WSH NNNNN (-14.8) · HOU NNSSS (+2.2)
 _WSH out: Tre Johnson*, Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · HOU out: Clint Capela, Fred VanVleet · HOU fraglich: Marcus Smart_ (* = Meldung der letzten 24 h)
 
@@ -137,20 +90,20 @@ _WSH out: Tre Johnson*, Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jami
 | Amen Thompson (HOU) | 34 | 14.8 (12.5 / 15.5) | 7.0 | 2.9 | 0.1 | 24.7 |
 
 ### ATL @ MIL — Mo 02:00 Uhr
-**Sieg:** MIL 30% (faire Quote 3.31) · ATL 70% (1.43) — Markt MIL 27%
-**Prognose:** MIL 112.5 – ATL 119.7 (Diff. ATL +7.2, Total 232.3)
-**Handicap** MIL +8.5: MIL deckt 54% · ATL -8.5 deckt 46%
-**Over/Under 233.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 228.5 · Under lohnt ab 236.5 (≥57%)
+**Sieg:** MIL 28% (faire Quote 3.57) · ATL 72% (1.39) — Markt MIL 26%
+**Prognose:** MIL 111.9 – ATL 119.7 (Diff. ATL +7.9, Total 231.6)
+**Handicap** MIL +8.5: MIL deckt 52% · ATL -8.5 deckt 48%
+**Over/Under 233.5:** Over 46% (2.18) · Under 54% (1.85)
+**Total-Faustregel:** Over lohnt bis 227.5 · Under lohnt ab 235.5 (≥57%)
 **Form (letzte 5):** MIL NNNNN (-17.0) · ATL SSSNN (+1.4)
-_MIL out: Ousmane Dieng* · MIL fraglich: Ryan Rollins* · ATL out: Kingston Flemings*, Mouhamed Gueye, Keshon Gilbert, Asa Newell, Henri Veesaar · ATL fraglich: Jock Landale*_ (* = Meldung der letzten 24 h)
+_MIL out: Ousmane Dieng*, Ryan Rollins* · ATL out: Jock Landale*, Kingston Flemings, Mouhamed Gueye, Keshon Gilbert, Asa Newell, Henri Veesaar_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Tyler Herro (MIL) | 32 | 21.7 (19.5 / 22.5) | 3.7 | 4.2 | 2.8 | 29.6 |
 | Jaime Jaquez Jr. (MIL) | 28 | 17.1 (14.5 / 17.5) | 5.3 | 2.9 | 2.2 | 25.2 |
 | Kyle Kuzma (MIL) | 27 | 11.6 (8.5 / 11.5) | 4.7 | 2.4 | 1.6 | 18.6 |
-| Ryan Rollins (MIL) | 24 | 10.5 (8.5 / 11.5) | 5.4 | 3.7 | 1.7 | 19.6 |
+| Brayden Burries (MIL) | 23 | 9.2 (6.5 / 9.5) | 5.3 | 2.4 | 0.9 | 17.0 |
 | Nickeil Alexander-Walker (ATL) | 32 | 22.3 (19.5 / 23.5) | 3.6 | 2.5 | 3.7 | 28.2 |
 | Jalen Johnson (ATL) | 35 | 21.0 (18.5 / 21.5) | 8.6 | 7.3 | 0.8 | 37.0 |
 | Onyeka Okongwu (ATL) | 31 | 15.4 (12.5 / 16.5) | 8.1 | 2.6 | 1.7 | 26.1 |
@@ -158,8 +111,8 @@ _MIL out: Ousmane Dieng* · MIL fraglich: Ryan Rollins* · ATL out: Kingston Fle
 
 ### OKC @ SAC — Mo 03:00 Uhr
 **Sieg:** SAC 23% (faire Quote 4.40) · OKC 77% (1.29) — Markt SAC 21%
-**Prognose:** SAC 106.0 – OKC 116.0 (Diff. OKC +10.0, Total 222.0)
-**Handicap** SAC +10.5: SAC deckt 52% · OKC -10.5 deckt 48%
+**Prognose:** SAC 105.6 – OKC 116.3 (Diff. OKC +10.7, Total 222.0)
+**Handicap** SAC +11.5: SAC deckt 52% · OKC -11.5 deckt 48%
 **Over/Under 223.5:** Over 47% (2.14) · Under 53% (1.88)
 **Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** SAC NNNNN (-10.8) · OKC SSNNN (+7.8)

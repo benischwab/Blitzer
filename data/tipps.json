@@ -1132,43 +1132,43 @@
 "p_over": 0.4719
 },
 "401909991": {
-"p_home": 0.2656,
-"margin": -8.37,
-"total": 222.48,
+"p_home": 0.261,
+"margin": -8.36,
+"total": 223.18,
 "matchup": "HOU @ WSH",
 "home": "WSH",
 "away": "HOU",
 "day": "2026-11-15",
 "home_spread": 8.5,
-"p_cover": 0.5041,
-"line_total": 223.5,
-"p_over": 0.4781
+"p_cover": 0.5042,
+"line_total": 224.5,
+"p_over": 0.4717
 },
 "401909992": {
-"p_home": 0.3019,
-"margin": -7.21,
-"total": 232.26,
+"p_home": 0.2802,
+"margin": -7.89,
+"total": 231.59,
 "matchup": "ATL @ MIL",
 "home": "MIL",
 "away": "ATL",
 "day": "2026-11-15",
 "home_spread": 8.5,
-"p_cover": 0.5394,
+"p_cover": 0.5188,
 "line_total": 233.5,
-"p_over": 0.4733
+"p_over": 0.4589
 },
 "401909993": {
-"p_home": 0.227,
-"margin": -10.01,
-"total": 221.96,
+"p_home": 0.2271,
+"margin": -10.71,
+"total": 221.97,
 "matchup": "OKC @ SAC",
 "home": "SAC",
 "away": "OKC",
 "day": "2026-11-15",
-"home_spread": 10.5,
-"p_cover": 0.5151,
+"home_spread": 11.5,
+"p_cover": 0.5243,
 "line_total": 223.5,
-"p_over": 0.4669
+"p_over": 0.467
 }
 },
 "singles": {

@@ -1,37 +1,4 @@
 {
-"401909989": {
-"matchup": "DAL @ BOS",
-"home": "BOS",
-"away": "DAL",
-"out": [
-"Dereck Lively II",
-"Kyrie Irving",
-"Max Christie",
-"Santi Aldama",
-"Sergio de Larrea",
-"Tarik Biberovic"
-],
-"dtd": [],
-"spread": -15.5,
-"total": 217.5,
-"p_home": 0.8602
-},
-"401909990": {
-"matchup": "NY @ TOR",
-"home": "TOR",
-"away": "NY",
-"out": [
-"Kawhi Leonard",
-"Nate Bittle",
-"Scottie Barnes"
-],
-"dtd": [
-"Kevin McCullar Jr."
-],
-"spread": 3.5,
-"total": 217.5,
-"p_home": 0.411
-},
 "401909991": {
 "matchup": "HOU @ WSH",
 "home": "WSH",
@@ -49,8 +16,8 @@
 "Marcus Smart"
 ],
 "spread": 8.5,
-"total": 223.5,
-"p_home": 0.2656
+"total": 224.5,
+"p_home": 0.261
 },
 "401909992": {
 "matchup": "ATL @ MIL",
@@ -59,18 +26,17 @@
 "out": [
 "Asa Newell",
 "Henri Veesaar",
+"Jock Landale",
 "Keshon Gilbert",
 "Kingston Flemings",
 "Mouhamed Gueye",
-"Ousmane Dieng"
-],
-"dtd": [
-"Jock Landale",
+"Ousmane Dieng",
 "Ryan Rollins"
 ],
+"dtd": [],
 "spread": 8.5,
 "total": 233.5,
-"p_home": 0.3019
+"p_home": 0.2802
 },
 "401909993": {
 "matchup": "OKC @ SAC",
@@ -89,9 +55,9 @@
 "Ajay Mitchell",
 "Precious Achiuwa"
 ],
-"spread": 10.5,
+"spread": 11.5,
 "total": 223.5,
-"p_home": 0.227
+"p_home": 0.2271
 },
 "_tips": [],
 "_game_day": "2026-11-15"

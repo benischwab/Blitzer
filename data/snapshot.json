@@ -1,64 +1,152 @@
 {
-"401909991": {
-"matchup": "HOU @ WSH",
-"home": "WSH",
-"away": "HOU",
+"401909994": {
+"matchup": "ORL @ BOS",
+"home": "BOS",
+"away": "ORL",
 "out": [
-"Clint Capela",
-"Fred VanVleet",
-"Jamir Watkins",
-"Justin Champagnie",
-"Reece Beekman",
-"Tre Johnson",
-"Tristan Vukcevic"
-],
-"dtd": [
-"Marcus Smart"
-],
-"spread": 8.5,
-"total": 224.5,
-"p_home": 0.261
-},
-"401909992": {
-"matchup": "ATL @ MIL",
-"home": "MIL",
-"away": "ATL",
-"out": [
-"Asa Newell",
-"Henri Veesaar",
-"Jock Landale",
-"Keshon Gilbert",
-"Kingston Flemings",
-"Mouhamed Gueye",
-"Ousmane Dieng",
-"Ryan Rollins"
+"Izaiyah Nelson",
+"Jonathan Isaac",
+"Noah Penda",
+"Paolo Banchero"
 ],
 "dtd": [],
-"spread": 8.5,
-"total": 233.5,
-"p_home": 0.2802
+"spread": -8.5,
+"total": 212.5,
+"p_home": 0.7676
 },
-"401909993": {
-"matchup": "OKC @ SAC",
-"home": "SAC",
-"away": "OKC",
+"401909995": {
+"matchup": "CHI @ CLE",
+"home": "CLE",
+"away": "CHI",
 "out": [
-"Ben Simmons",
-"Cason Wallace",
-"Chet Holmgren",
-"Jalen Williams",
-"Jaylin Williams",
-"Maxime Raynaud",
-"Thomas Sorber"
+"Caleb Wilson",
+"Evan Mobley",
+"Nae'Qwan Tomlin",
+"Sam Merrill",
+"Tobe Awaka"
 ],
 "dtd": [
-"Ajay Mitchell",
-"Precious Achiuwa"
+"Jalen Smith",
+"Jaylon Tyson",
+"Peyton Watson"
 ],
-"spread": 11.5,
+"spread": -8.5,
+"total": 241.5,
+"p_home": 0.74
+},
+"401909996": {
+"matchup": "MEM @ WSH",
+"home": "WSH",
+"away": "MEM",
+"out": [
+"GG Jackson",
+"Jamir Watkins",
+"Justin Champagnie",
+"Quinten Post",
+"Reece Beekman",
+"Richie Saunders",
+"Scotty Pippen Jr.",
+"Tristan Vukcevic",
+"Ty Jerome"
+],
+"dtd": [
+"Isaiah Stewart",
+"Tre Johnson",
+"Zach Edey"
+],
+"spread": 3.5,
+"total": 232.5,
+"p_home": 0.3956
+},
+"401909997": {
+"matchup": "PHI @ BKN",
+"home": "BKN",
+"away": "PHI",
+"out": [
+"Adem Bona",
+"Ariel Hukporti",
+"Dominick Barlow"
+],
+"dtd": [
+"Joel Embiid"
+],
+"spread": 5.5,
+"total": 226.5,
+"p_home": 0.3692
+},
+"401909998": {
+"matchup": "HOU @ MIA",
+"home": "MIA",
+"away": "HOU",
+"out": [
+"Clint Capela"
+],
+"dtd": [
+"Fred VanVleet",
+"Julian Phillips",
+"Marcus Smart",
+"Pelle Larsson"
+],
+"spread": 2.5,
+"total": 231.5,
+"p_home": 0.4191
+},
+"401909999": {
+"matchup": "POR @ MIN",
+"home": "MIN",
+"away": "POR",
+"out": [
+"Anthony Edwards",
+"Chris Youngblood",
+"Donte DiVincenzo",
+"Ja Morant",
+"Jaylen Clark",
+"Shaedon Sharpe",
+"Vit Krejci"
+],
+"dtd": [],
+"spread": -2.5,
+"total": 227.5,
+"p_home": 0.5512
+},
+"401910000": {
+"matchup": "GS @ NO",
+"home": "NO",
+"away": "GS",
+"out": [
+"Bennedict Mathurin",
+"Brandon Williams",
+"Bryce McGowens",
+"Dejounte Murray",
+"Jimmy Butler III",
+"Kristaps Porzingis",
+"Moses Moody",
+"Stephen Curry",
+"Trendon Watford",
+"Trey Murphy III"
+],
+"dtd": [
+"Gui Santos"
+],
+"spread": 3.5,
 "total": 223.5,
-"p_home": 0.2271
+"p_home": 0.3801
+},
+"401910001": {
+"matchup": "PHX @ DEN",
+"home": "DEN",
+"away": "PHX",
+"out": [
+"Julian Strawther",
+"Mark Williams"
+],
+"dtd": [
+"Drew Timme"
+],
+"spread": -9.5,
+"total": 228.5,
+"p_home": 0.7481
 },
 "_tips": [],
-"_game_day": "2026-11-15"
+"_game_day": "2026-11-16"
 }

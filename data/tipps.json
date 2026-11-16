@@ -1169,6 +1169,110 @@
 "p_cover": 0.5243,
 "line_total": 223.5,
 "p_over": 0.467
+},
+"401909994": {
+"p_home": 0.7676,
+"margin": 9.68,
+"total": 213.37,
+"matchup": "ORL @ BOS",
+"home": "BOS",
+"away": "ORL",
+"day": "2026-11-16",
+"home_spread": -8.5,
+"p_cover": 0.5362,
+"line_total": 212.5,
+"p_over": 0.5188
+},
+"401909995": {
+"p_home": 0.74,
+"margin": 8.41,
+"total": 240.67,
+"matchup": "CHI @ CLE",
+"home": "CLE",
+"away": "CHI",
+"day": "2026-11-16",
+"home_spread": -8.5,
+"p_cover": 0.4971,
+"line_total": 241.5,
+"p_over": 0.4821
+},
+"401909996": {
+"p_home": 0.3956,
+"margin": -3.91,
+"total": 230.84,
+"matchup": "MEM @ WSH",
+"home": "WSH",
+"away": "MEM",
+"day": "2026-11-16",
+"home_spread": 3.5,
+"p_cover": 0.4874,
+"line_total": 232.5,
+"p_over": 0.4642
+},
+"401909997": {
+"p_home": 0.3692,
+"margin": -4.61,
+"total": 226.44,
+"matchup": "PHI @ BKN",
+"home": "BKN",
+"away": "PHI",
+"day": "2026-11-16",
+"home_spread": 5.5,
+"p_cover": 0.5273,
+"line_total": 226.5,
+"p_over": 0.4987
+},
+"401909998": {
+"p_home": 0.4191,
+"margin": -2.87,
+"total": 232.33,
+"matchup": "HOU @ MIA",
+"home": "MIA",
+"away": "HOU",
+"day": "2026-11-16",
+"home_spread": 2.5,
+"p_cover": 0.4887,
+"line_total": 231.5,
+"p_over": 0.5178
+},
+"401909999": {
+"p_home": 0.5512,
+"margin": 2.3,
+"total": 226.46,
+"matchup": "POR @ MIN",
+"home": "MIN",
+"away": "POR",
+"day": "2026-11-16",
+"home_spread": -2.5,
+"p_cover": 0.494,
+"line_total": 227.5,
+"p_over": 0.4776
+},
+"401910000": {
+"p_home": 0.3801,
+"margin": -4.77,
+"total": 224.24,
+"matchup": "GS @ NO",
+"home": "NO",
+"away": "GS",
+"day": "2026-11-16",
+"home_spread": 3.5,
+"p_cover": 0.4609,
+"line_total": 223.5,
+"p_over": 0.516
+},
+"401910001": {
+"p_home": 0.7481,
+"margin": 8.86,
+"total": 227.91,
+"matchup": "PHX @ DEN",
+"home": "DEN",
+"away": "PHX",
+"day": "2026-11-16",
+"home_spread": -9.5,
+"p_cover": 0.4804,
+"line_total": 228.5,
+"p_over": 0.4873
 }
 },
 "singles": {
@@ -1544,7 +1648,8 @@
 "dk": 1.9433962264150944,
 "label": "Sieg LAC"
 }
-]
+],
+"2026-11-16": []
 },
 "combos": {
 "2026-11-04": [],
@@ -1648,6 +1753,7 @@
 }
 ],
 "2026-11-14": [],
-"2026-11-15": []
+"2026-11-15": [],
+"2026-11-16": []
 }
 }

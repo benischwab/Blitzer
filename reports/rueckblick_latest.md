@@ -1,18 +1,21 @@
-## Rückblick: Nacht 14.11.–15.11.
+## Rückblick: Nacht 15.11.–16.11.
 
 | Spiel | Prognose | Resultat | Sieger | Total (Prog./Ist) | O/U-Linie |
 |---|---|---|---|---|---|
-| DEN @ NO | DEN 83% · DEN 124–111 NO | DEN 116–108 NO | ✅ | 234 / 224 (-10) | Under 235.5 (53%) ✅ |
-| DAL @ CLE | DAL 78% · DAL 117–107 CLE | DAL 117–127 CLE | ❌ | 224 / 244 (+20) | Under 228.5 (59%) ❌ |
-| DET @ MIA | DET 63% · DET 117–112 MIA | DET 117–137 MIA | ❌ | 229 / 254 (+25) | Over 228.5 (52%) ✅ |
-| BKN @ MEM | MEM 61% · BKN 111–114 MEM | BKN 110–129 MEM | ✅ | 225 / 239 (+14) | Over 224.5 (50%) ✅ |
-| CHI @ MIN | MIN 90% · CHI 108–126 MIN | CHI 117–106 MIN | ❌ | 234 / 223 (-11) | Under 236.5 (56%) ✅ |
+| IND @ PHI | PHI 66% · IND 108–114 PHI | IND 124–131 PHI | ✅ | 223 / 255 (+32) | Under 225.5 (56%) ❌ |
+| LAL @ PHX | LAL 56% · LAL 115–112 PHX | LAL 131–123 PHX | ✅ | 227 / 254 (+27) | Over 226.5 (52%) ✅ |
+| CHA @ LAC | LAC 57% · CHA 106–108 LAC | CHA 105–113 LAC | ✅ | 213 / 218 (+5) | Under 213.5 (50%) ❌ |
+| SA @ UTAH | SA 89% · SA 120–104 UTAH | SA 110–102 UTAH | ✅ | 223 / 212 (-11) | Under 224.5 (53%) ✅ |
+| DAL @ BOS | BOS 86% · DAL 101–116 BOS | DAL 94–131 BOS | ✅ | 217 / 225 (+8) | Under 217.5 (52%) ❌ |
+| NY @ TOR | NY 59% · NY 110–106 TOR | NY 112–108 TOR | ✅ | 216 / 220 (+4) | Under 217.5 (53%) ❌ |
+| HOU @ WSH | HOU 74% · HOU 116–107 WSH | HOU 147–119 WSH | ✅ | 223 / 266 (+43) | Under 224.5 (53%) ❌ |
+| ATL @ MIL | ATL 72% · ATL 120–112 MIL | ATL 113–106 MIL | ✅ | 232 / 219 (-13) | Under 233.5 (54%) ✅ |
+| OKC @ SAC | OKC 77% · OKC 116–106 SAC | OKC 125–103 SAC | ✅ | 222 / 228 (+6) | Under 223.5 (53%) ❌ |
 
-**Sieger richtig:** 2/5 (40%) · **Mittlerer Fehler:** Differenz 19.2 Pkt, Total 16.0 Pkt · **Over/Under:** 4/5
+**Sieger richtig:** 9/9 (100%) · **Mittlerer Fehler:** Differenz 8.4 Pkt, Total 16.5 Pkt · **Over/Under:** 3/9
 
 **Tipps dieser Nacht:**
-- ❌ MIN -15.5 (CHI @ MIN) (Quote 1.86)
-- ❌ Under 228.5 (DAL @ CLE) (Quote 1.89)
-- ❌ DAL -8.5 (DAL @ CLE) (Quote 1.93)
-- ✅ Under 236.5 (CHI @ MIN) (Quote 1.93)
-- **Ergebnis:** 1/4 getroffen · -2.07 Fr. bei 1 Fr. pro Tipp (DK-Quoten)
+- ❌ Under 225.5 (IND @ PHI) (Quote 1.88)
+- ✅ LAC +1.5 (CHA @ LAC) (Quote 1.86)
+- ✅ Sieg LAC (CHA @ LAC) (Quote 1.94)
+- **Ergebnis:** 2/3 getroffen · +0.81 Fr. bei 1 Fr. pro Tipp (DK-Quoten)

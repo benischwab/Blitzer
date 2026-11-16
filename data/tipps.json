@@ -1171,7 +1171,7 @@
 "p_over": 0.467
 },
 "401909994": {
-"p_home": 0.7676,
+"p_home": 0.7675,
 "margin": 9.68,
 "total": 213.37,
 "matchup": "ORL @ BOS",
@@ -1179,7 +1179,7 @@
 "away": "ORL",
 "day": "2026-11-16",
 "home_spread": -8.5,
-"p_cover": 0.5362,
+"p_cover": 0.5361,
 "line_total": 212.5,
 "p_over": 0.5188
 },
@@ -1194,44 +1194,44 @@
 "home_spread": -8.5,
 "p_cover": 0.4971,
 "line_total": 241.5,
-"p_over": 0.4821
+"p_over": 0.482
 },
 "401909996": {
-"p_home": 0.3956,
-"margin": -3.91,
-"total": 230.84,
+"p_home": 0.4118,
+"margin": -3.3,
+"total": 230.23,
 "matchup": "MEM @ WSH",
 "home": "WSH",
 "away": "MEM",
 "day": "2026-11-16",
 "home_spread": 3.5,
-"p_cover": 0.4874,
+"p_cover": 0.5061,
 "line_total": 232.5,
-"p_over": 0.4642
+"p_over": 0.4512
 },
 "401909997": {
-"p_home": 0.3692,
-"margin": -4.61,
-"total": 226.44,
+"p_home": 0.3904,
+"margin": -3.84,
+"total": 225.67,
 "matchup": "PHI @ BKN",
 "home": "BKN",
 "away": "PHI",
 "day": "2026-11-16",
 "home_spread": 5.5,
-"p_cover": 0.5273,
+"p_cover": 0.5509,
 "line_total": 226.5,
-"p_over": 0.4987
+"p_over": 0.482
 },
 "401909998": {
-"p_home": 0.4191,
-"margin": -2.87,
-"total": 232.33,
+"p_home": 0.4397,
+"margin": -2.17,
+"total": 232.32,
 "matchup": "HOU @ MIA",
 "home": "MIA",
 "away": "HOU",
 "day": "2026-11-16",
-"home_spread": 2.5,
-"p_cover": 0.4887,
+"home_spread": 1.5,
+"p_cover": 0.4795,
 "line_total": 231.5,
 "p_over": 0.5178
 },
@@ -1249,7 +1249,7 @@
 "p_over": 0.4776
 },
 "401910000": {
-"p_home": 0.3801,
+"p_home": 0.3741,
 "margin": -4.77,
 "total": 224.24,
 "matchup": "GS @ NO",
@@ -1257,22 +1257,22 @@
 "away": "GS",
 "day": "2026-11-16",
 "home_spread": 3.5,
-"p_cover": 0.4609,
+"p_cover": 0.461,
 "line_total": 223.5,
 "p_over": 0.516
 },
 "401910001": {
-"p_home": 0.7481,
+"p_home": 0.7482,
 "margin": 8.86,
-"total": 227.91,
+"total": 228.61,
 "matchup": "PHX @ DEN",
 "home": "DEN",
 "away": "PHX",
 "day": "2026-11-16",
 "home_spread": -9.5,
 "p_cover": 0.4804,
-"line_total": 228.5,
-"p_over": 0.4873
+"line_total": 229.5,
+"p_over": 0.4809
 }
 },
 "singles": {

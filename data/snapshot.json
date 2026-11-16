@@ -9,10 +9,12 @@
 "Noah Penda",
 "Paolo Banchero"
 ],
-"dtd": [],
+"dtd": [
+"Neemias Queta"
+],
 "spread": -8.5,
 "total": 212.5,
-"p_home": 0.7676
+"p_home": 0.7675
 },
 "401909995": {
 "matchup": "CHI @ CLE",
@@ -40,6 +42,7 @@
 "away": "MEM",
 "out": [
 "GG Jackson",
+"Isaiah Stewart",
 "Jamir Watkins",
 "Justin Champagnie",
 "Quinten Post",
@@ -50,13 +53,12 @@
 "Ty Jerome"
 ],
 "dtd": [
-"Isaiah Stewart",
 "Tre Johnson",
 "Zach Edey"
 ],
 "spread": 3.5,
 "total": 232.5,
-"p_home": 0.3956
+"p_home": 0.4118
 },
 "401909997": {
 "matchup": "PHI @ BKN",
@@ -65,31 +67,34 @@
 "out": [
 "Adem Bona",
 "Ariel Hukporti",
-"Dominick Barlow"
+"Dominick Barlow",
+"LeBron James"
 ],
 "dtd": [
 "Joel Embiid"
 ],
 "spread": 5.5,
 "total": 226.5,
-"p_home": 0.3692
+"p_home": 0.3904
 },
 "401909998": {
 "matchup": "HOU @ MIA",
 "home": "MIA",
 "away": "HOU",
 "out": [
-"Clint Capela"
+"Clint Capela",
+"Steven Adams"
 ],
 "dtd": [
-"Fred VanVleet",
+"Amen Thompson",
 "Julian Phillips",
 "Marcus Smart",
+"Nikola Jovic",
 "Pelle Larsson"
 ],
-"spread": 2.5,
+"spread": 1.5,
 "total": 231.5,
-"p_home": 0.4191
+"p_home": 0.4397
 },
 "401909999": {
 "matchup": "POR @ MIN",
@@ -130,7 +135,7 @@
 ],
 "spread": 3.5,
 "total": 223.5,
-"p_home": 0.3801
+"p_home": 0.3741
 },
 "401910001": {
 "matchup": "PHX @ DEN",
@@ -140,12 +145,10 @@
 "Julian Strawther",
 "Mark Williams"
 ],
-"dtd": [
-"Drew Timme"
-],
+"dtd": [],
 "spread": -9.5,
-"total": 228.5,
-"p_home": 0.7481
+"total": 229.5,
+"p_home": 0.7482
 },
 "_tips": [],
 "_game_day": "2026-11-16"

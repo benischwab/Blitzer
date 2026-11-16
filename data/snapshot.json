@@ -6,15 +6,14 @@
 "out": [
 "Izaiyah Nelson",
 "Jonathan Isaac",
+"Neemias Queta",
 "Noah Penda",
 "Paolo Banchero"
 ],
-"dtd": [
-"Neemias Queta"
-],
-"spread": -8.5,
-"total": 212.5,
-"p_home": 0.7675
+"dtd": [],
+"spread": -9.5,
+"total": 213.5,
+"p_home": 0.7599
 },
 "401909995": {
 "matchup": "CHI @ CLE",
@@ -23,18 +22,15 @@
 "out": [
 "Caleb Wilson",
 "Evan Mobley",
+"Jaylon Tyson",
 "Nae'Qwan Tomlin",
 "Sam Merrill",
 "Tobe Awaka"
 ],
-"dtd": [
-"Jalen Smith",
-"Jaylon Tyson",
-"Peyton Watson"
-],
+"dtd": [],
 "spread": -8.5,
 "total": 241.5,
-"p_home": 0.74
+"p_home": 0.7289
 },
 "401909996": {
 "matchup": "MEM @ WSH",
@@ -53,12 +49,11 @@
 "Ty Jerome"
 ],
 "dtd": [
-"Tre Johnson",
 "Zach Edey"
 ],
 "spread": 3.5,
 "total": 232.5,
-"p_home": 0.4118
+"p_home": 0.418
 },
 "401909997": {
 "matchup": "PHI @ BKN",
@@ -73,7 +68,7 @@
 "dtd": [
 "Joel Embiid"
 ],
-"spread": 5.5,
+"spread": 4.5,
 "total": 226.5,
 "p_home": 0.3904
 },
@@ -92,8 +87,8 @@
 "Nikola Jovic",
 "Pelle Larsson"
 ],
-"spread": 1.5,
-"total": 231.5,
+"spread": 2.5,
+"total": 232.5,
 "p_home": 0.4397
 },
 "401909999": {
@@ -145,7 +140,9 @@
 "Julian Strawther",
 "Mark Williams"
 ],
-"dtd": [],
+"dtd": [
+"Ryan Dunn"
+],
 "spread": -9.5,
 "total": 229.5,
 "p_home": 0.7482

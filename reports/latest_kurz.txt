@@ -1,16 +1,15 @@
 ÄNDERUNGEN:
-• MEM @ WSH: Isaiah Stewart fällt NEU aus
-• PHI @ BKN: LeBron James fällt NEU aus
-• HOU @ MIA: Steven Adams fällt NEU aus
+• ORL @ BOS: Neemias Queta fällt NEU aus
+• CHI @ CLE: Jaylon Tyson fällt NEU aus
 
-• 2er-Kombi: Sieg BOS + Sieg CLE – 57%, ab 1.81
-• 3er-Kombi: Sieg BOS + Sieg DEN + Sieg GS – 36%, ab 2.87
+• 2er-Kombi: Sieg BOS + Sieg CLE – 55%, ab 1.86
+• 3er-Kombi: Sieg BOS + Sieg DEN + Sieg GS – 36%, ab 2.89
 
-01:00 ORL@BOS: BOS 77% · O212.5 52%
-01:00 CHI@CLE: CLE 74% · U241.5 52%
-01:00 MEM@WSH: MEM 59% · U232.5 55%
+01:00 ORL@BOS: BOS 76% · U213.5 50%
+01:00 CHI@CLE: CLE 73% · U241.5 52%
+01:00 MEM@WSH: MEM 58% · U232.5 55%
 01:30 PHI@BKN: PHI 61% · U226.5 52%
-01:30 HOU@MIA: HOU 56% · O231.5 52%
+01:30 HOU@MIA: HOU 56% · O232.5 51%
 02:00 POR@MIN: MIN 55% · U227.5 52%
 02:00 GS@NO: GS 63% · O223.5 52%
 03:00 PHX@DEN: DEN 75% · U229.5 52%

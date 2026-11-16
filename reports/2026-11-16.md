@@ -1,11 +1,10 @@
 # NBA-Tipps für die Nacht 16.11.–17.11.2026
 
-Stand: Mo 16.11. 21:14 Uhr · 8 Spiele · Datenbasis: 197 Saisonspiele · Heimvorteil 2.3 Pkt · Liga-Schnitt 113.8 Pkt/Team
+Stand: Mo 16.11. 23:51 Uhr · 8 Spiele · Datenbasis: 197 Saisonspiele · Heimvorteil 2.3 Pkt · Liga-Schnitt 113.8 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- MEM @ WSH: Isaiah Stewart fällt NEU aus
-- PHI @ BKN: LeBron James fällt NEU aus
-- HOU @ MIA: Steven Adams fällt NEU aus
+- ORL @ BOS: Neemias Queta fällt NEU aus
+- CHI @ CLE: Jaylon Tyson fällt NEU aus
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -15,20 +14,20 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| BKN +5.5 | PHI @ BKN | 55% | 1.85 | +2.2% | **1.87** | _(nur mit besserer Quote)_
 | Sieg GS | GS @ NO | 63% | 1.62 | +1.5% | **1.65** | _(nur mit besserer Quote)_
 | Sieg HOU | HOU @ MIA | 56% | 1.77 | -0.9% | **1.84** | _(nur mit besserer Quote)_
+| Sieg MIN | POR @ MIN | 55% | 1.74 | -4.0% | **1.87** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg BOS (ORL @ BOS) — 77%, DK 1.28
-- Sieg CLE (CHI @ CLE) — 74%, DK 1.28
-- **Trefferchance 57%** · DK-Quote 1.63 (-7.2%) · **lohnt ab Sporttip-Gesamtquote 1.81** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg BOS (ORL @ BOS) — 76%, DK 1.27
+- Sieg CLE (CHI @ CLE) — 73%, DK 1.29
+- **Trefferchance 55%** · DK-Quote 1.63 (-9.4%) · **lohnt ab Sporttip-Gesamtquote 1.86** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg BOS (ORL @ BOS) — 77%, DK 1.28
+- Sieg BOS (ORL @ BOS) — 76%, DK 1.27
 - Sieg DEN (PHX @ DEN) — 75%, DK 1.25
 - Sieg GS (GS @ NO) — 63%, DK 1.62
-- **Trefferchance 36%** · DK-Quote 2.58 (-7.3%) · **lohnt ab Sporttip-Gesamtquote 2.87** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 36%** · DK-Quote 2.56 (-9.0%) · **lohnt ab Sporttip-Gesamtquote 2.89** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Giannis Antetokounmpo (MIA, HOU @ MIA): über 38.5 P+R+A — 77% · lohnt ab Quote **1.33**
@@ -42,11 +41,11 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - PHI @ BKN: Sieg BKN — Modell 50% vs. Markt 34%
-- PHI @ BKN: Handicap BKN +5.5 — Modell 65%
 - MEM @ WSH: Under 232.5 — Modell-Total 224.9 (64%)
-- GS @ NO: Handicap GS -3.5 — Modell 62%
+- PHI @ BKN: Handicap BKN +4.5 — Modell 62%
+- GS @ NO: Handicap GS -3.5 — Modell 61%
 - GS @ NO: Sieg GS — Modell 70% vs. Markt 59%
-- ORL @ BOS: Handicap BOS -8.5 — Modell 61%
+- PHX @ DEN: Sieg PHX — Modell 31% vs. Markt 23%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 70/90 richtig (78%), Brier 0.180
@@ -79,13 +78,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### ORL @ BOS — Di 01:00 Uhr
-**Sieg:** BOS 77% (faire Quote 1.30) · ORL 23% (4.30) — Markt BOS 75%
-**Prognose:** BOS 111.5 – ORL 101.8 (Diff. BOS +9.7, Total 213.4)
-**Handicap** BOS -8.5: BOS deckt 54% · ORL +8.5 deckt 46%
-**Over/Under 212.5:** Over 52% (1.93) · Under 48% (2.08)
+**Sieg:** BOS 76% (faire Quote 1.32) · ORL 24% (4.16) — Markt BOS 76%
+**Prognose:** BOS 111.6 – ORL 101.8 (Diff. BOS +9.8, Total 213.5)
+**Handicap** BOS -9.5: BOS deckt 51% · ORL +9.5 deckt 49%
+**Over/Under 213.5:** Over 50% (2.00) · Under 50% (2.00)
 **Total-Faustregel:** Over lohnt bis 209.5 · Under lohnt ab 217.5 (≥57%)
 **Form (letzte 5):** BOS SSSSS (+24.6) · ORL NNSSS (+2.0)
-_BOS spielt Back-to-Back · BOS fraglich: Neemias Queta* · ORL out: Jonathan Isaac, Noah Penda, Paolo Banchero, Izaiyah Nelson_ (* = Meldung der letzten 24 h)
+_BOS spielt Back-to-Back · BOS out: Neemias Queta* · ORL out: Jonathan Isaac, Noah Penda, Paolo Banchero, Izaiyah Nelson_ (* = Meldung der letzten 24 h)
 > 📰 Boston faces Orlando, aims for 7th straight victory
 > 📰 Celtics set franchise record for largest lead at end of a first period vs. Mavs
 
@@ -101,21 +100,21 @@ _BOS spielt Back-to-Back · BOS fraglich: Neemias Queta* · ORL out: Jonathan Is
 | Tristan da Silva (ORL) | 31 | 14.0 (11.5 / 14.5) | 4.2 | 1.7 | 3.2 | 20.1 |
 
 ### CHI @ CLE — Di 01:00 Uhr
-**Sieg:** CLE 74% (faire Quote 1.35) · CHI 26% (3.85) — Markt CLE 75%
-**Prognose:** CLE 124.5 – CHI 116.1 (Diff. CLE +8.4, Total 240.7)
-**Handicap** CLE -8.5: CLE deckt 50% · CHI +8.5 deckt 50%
-**Over/Under 241.5:** Over 48% (2.07) · Under 52% (1.93)
+**Sieg:** CLE 73% (faire Quote 1.37) · CHI 27% (3.69) — Markt CLE 74%
+**Prognose:** CLE 124.3 – CHI 116.1 (Diff. CLE +8.1, Total 240.4)
+**Handicap** CLE -8.5: CLE deckt 49% · CHI +8.5 deckt 51%
+**Over/Under 241.5:** Over 48% (2.10) · Under 52% (1.91)
 **Total-Faustregel:** Over lohnt bis 236.5 · Under lohnt ab 244.5 (≥57%)
 **Form (letzte 5):** CLE NNSNS (-3.6) · CHI NNNSS (-4.4)
-_CLE out: Evan Mobley*, Sam Merrill*, Nae'Qwan Tomlin · CLE fraglich: Jaylon Tyson*, Peyton Watson* · CHI out: Tobe Awaka*, Caleb Wilson · CHI fraglich: Jalen Smith*_ (* = Meldung der letzten 24 h)
+_CLE out: Jaylon Tyson*, Evan Mobley*, Sam Merrill, Nae'Qwan Tomlin · CHI out: Tobe Awaka, Caleb Wilson_ (* = Meldung der letzten 24 h)
+> 📰 Cavaliers' Evan Mobley sidelined another 7-10 days with sprained toe
 > 📰 Bulls' Buzelis, Nets' Minott fined $25K each after making obscene gestures
-> 📰 Inside the Jordan Dome, where 'Space Jam' pickup games helped MJ get his game back
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Donovan Mitchell (CLE) | 33 | 24.5 (21.5 / 25.5) | 4.7 | 5.8 | 3.2 | 34.8 |
 | James Harden (CLE) | 32 | 18.6 (15.5 / 19.5) | 4.6 | 5.7 | 2.9 | 28.8 |
-| Meleek Thomas (CLE) | 24 | 15.0 (12.5 / 15.5) | 2.7 | 1.6 | 2.8 | 19.0 |
+| Meleek Thomas (CLE) | 24 | 14.9 (12.5 / 15.5) | 2.7 | 1.6 | 2.8 | 19.0 |
 | Jarrett Allen (CLE) | 26 | 12.8 (9.5 / 13.5) | 8.3 | 1.4 | 0.3 | 22.6 |
 | Norman Powell (CHI) | 29 | 22.0 (19.5 / 22.5) | 3.1 | 1.8 | 2.4 | 26.8 |
 | Matas Buzelis (CHI) | 27 | 14.1 (11.5 / 14.5) | 5.0 | 2.0 | 2.0 | 21.1 |
@@ -123,13 +122,13 @@ _CLE out: Evan Mobley*, Sam Merrill*, Nae'Qwan Tomlin · CLE fraglich: Jaylon Ty
 | Josh Giddey (CHI) | 29 | 11.3 (9.5 / 11.5) | 5.5 | 8.7 | 1.5 | 25.6 |
 
 ### MEM @ WSH — Di 01:00 Uhr
-**Sieg:** WSH 41% (faire Quote 2.43) · MEM 59% (1.70) — Markt WSH 41%
+**Sieg:** WSH 42% (faire Quote 2.39) · MEM 58% (1.72) — Markt WSH 42%
 **Prognose:** WSH 113.5 – MEM 116.8 (Diff. MEM +3.3, Total 230.2)
 **Handicap** WSH +3.5: WSH deckt 51% · MEM -3.5 deckt 49%
 **Over/Under 232.5:** Over 45% (2.22) · Under 55% (1.82)
 **Total-Faustregel:** Over lohnt bis 226.5 · Under lohnt ab 233.5 (≥57%)
 **Form (letzte 5):** WSH NNNNN (-19.0) · MEM NSNSS (+6.0)
-_WSH spielt Back-to-Back · WSH out: Tristan Vukcevic*, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Tre Johnson* · MEM out: Isaiah Stewart*, Scotty Pippen Jr.*, GG Jackson*, Ty Jerome*, Quinten Post*, Richie Saunders · MEM fraglich: Zach Edey*_ (* = Meldung der letzten 24 h)
+_WSH spielt Back-to-Back · WSH out: Tristan Vukcevic*, Reece Beekman, Justin Champagnie, Jamir Watkins · MEM out: Isaiah Stewart*, Scotty Pippen Jr.*, GG Jackson*, Ty Jerome, Quinten Post, Richie Saunders · MEM fraglich: Zach Edey_ (* = Meldung der letzten 24 h)
 > 📰 Grizzlies' GG Jackson to miss time with left foot fracture
 > 📰 Wizards take on the Grizzlies on 7-game skid
 
@@ -146,8 +145,8 @@ _WSH spielt Back-to-Back · WSH out: Tristan Vukcevic*, Reece Beekman, Justin Ch
 
 ### PHI @ BKN — Di 01:30 Uhr
 **Sieg:** BKN 39% (faire Quote 2.56) · PHI 61% (1.64) — Markt BKN 34%
-**Prognose:** BKN 110.9 – PHI 114.8 (Diff. PHI +3.8, Total 225.7)
-**Handicap** BKN +5.5: BKN deckt 55% · PHI -5.5 deckt 45%
+**Prognose:** BKN 111.3 – PHI 114.4 (Diff. PHI +3.1, Total 225.7)
+**Handicap** BKN +4.5: BKN deckt 54% · PHI -4.5 deckt 46%
 **Over/Under 226.5:** Over 48% (2.07) · Under 52% (1.93)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** BKN SNNSN (-3.0) · PHI NSNSS (-4.4)
@@ -168,10 +167,10 @@ _PHI out: LeBron James*, Dominick Barlow, Adem Bona, Ariel Hukporti · PHI fragl
 
 ### HOU @ MIA — Di 01:30 Uhr
 **Sieg:** MIA 44% (faire Quote 2.27) · HOU 56% (1.78) — Markt MIA 46%
-**Prognose:** MIA 115.1 – HOU 117.2 (Diff. HOU +2.2, Total 232.3)
-**Handicap** MIA +1.5: MIA deckt 48% · HOU -1.5 deckt 52%
-**Over/Under 231.5:** Over 52% (1.93) · Under 48% (2.07)
-**Total-Faustregel:** Over lohnt bis 228.5 · Under lohnt ab 236.5 (≥57%)
+**Prognose:** MIA 115.1 – HOU 117.9 (Diff. HOU +2.9, Total 233.0)
+**Handicap** MIA +2.5: MIA deckt 49% · HOU -2.5 deckt 51%
+**Over/Under 232.5:** Over 51% (1.96) · Under 49% (2.05)
+**Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 236.5 (≥57%)
 **Form (letzte 5):** MIA NSSSS (+4.8) · HOU NSSSS (+9.8)
 _MIA fraglich: Nikola Jovic*, Pelle Larsson* · HOU spielt Back-to-Back · HOU out: Clint Capela*, Steven Adams* · HOU fraglich: Amen Thompson*, Julian Phillips*, Marcus Smart_ (* = Meldung der letzten 24 h)
 > 📰 Miami faces Houston, aims for 5th straight win
@@ -195,7 +194,7 @@ _MIA fraglich: Nikola Jovic*, Pelle Larsson* · HOU spielt Back-to-Back · HOU o
 **Over/Under 227.5:** Over 48% (2.09) · Under 52% (1.91)
 **Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** MIN SSSSN (+11.8) · POR NNSSS (+3.0)
-_MIN out: Jaylen Clark*, Anthony Edwards, Donte DiVincenzo · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
+_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
 > 📰 USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -236,7 +235,7 @@ _NO out: Bryce McGowens*, Bennedict Mathurin*, Trey Murphy III*, Trendon Watford
 **Over/Under 229.5:** Over 48% (2.08) · Under 52% (1.93)
 **Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
 **Form (letzte 5):** DEN SSNSS (+6.8) · PHX SNSSN (-0.6)
-_DEN out: Julian Strawther · PHX spielt Back-to-Back · PHX out: Mark Williams_
+_DEN out: Julian Strawther · PHX spielt Back-to-Back · PHX out: Mark Williams · PHX fraglich: Ryan Dunn*_ (* = Meldung der letzten 24 h)
 > 📰 Phoenix visits Denver, aims to stop road skid
 > 📰 Matisse Thybulle stuffs the stat sheet for the Lakers
 

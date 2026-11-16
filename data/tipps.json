@@ -1171,33 +1171,33 @@
 "p_over": 0.467
 },
 "401909994": {
-"p_home": 0.7675,
-"margin": 9.68,
-"total": 213.37,
+"p_home": 0.7599,
+"margin": 9.76,
+"total": 213.46,
 "matchup": "ORL @ BOS",
 "home": "BOS",
 "away": "ORL",
 "day": "2026-11-16",
-"home_spread": -8.5,
-"p_cover": 0.5361,
-"line_total": 212.5,
-"p_over": 0.5188
+"home_spread": -9.5,
+"p_cover": 0.508,
+"line_total": 213.5,
+"p_over": 0.4991
 },
 "401909995": {
-"p_home": 0.74,
-"margin": 8.41,
-"total": 240.67,
+"p_home": 0.7289,
+"margin": 8.14,
+"total": 240.4,
 "matchup": "CHI @ CLE",
 "home": "CLE",
 "away": "CHI",
 "day": "2026-11-16",
 "home_spread": -8.5,
-"p_cover": 0.4971,
+"p_cover": 0.489,
 "line_total": 241.5,
-"p_over": 0.482
+"p_over": 0.4763
 },
 "401909996": {
-"p_home": 0.4118,
+"p_home": 0.418,
 "margin": -3.3,
 "total": 230.23,
 "matchup": "MEM @ WSH",
@@ -1205,35 +1205,35 @@
 "away": "MEM",
 "day": "2026-11-16",
 "home_spread": 3.5,
-"p_cover": 0.5061,
+"p_cover": 0.5062,
 "line_total": 232.5,
-"p_over": 0.4512
+"p_over": 0.4511
 },
 "401909997": {
 "p_home": 0.3904,
-"margin": -3.84,
+"margin": -3.14,
 "total": 225.67,
 "matchup": "PHI @ BKN",
 "home": "BKN",
 "away": "PHI",
 "day": "2026-11-16",
-"home_spread": 5.5,
-"p_cover": 0.5509,
+"home_spread": 4.5,
+"p_cover": 0.5418,
 "line_total": 226.5,
 "p_over": 0.482
 },
 "401909998": {
 "p_home": 0.4397,
-"margin": -2.17,
-"total": 232.32,
+"margin": -2.87,
+"total": 233.02,
 "matchup": "HOU @ MIA",
 "home": "MIA",
 "away": "HOU",
 "day": "2026-11-16",
-"home_spread": 1.5,
-"p_cover": 0.4795,
-"line_total": 231.5,
-"p_over": 0.5178
+"home_spread": 2.5,
+"p_cover": 0.4887,
+"line_total": 232.5,
+"p_over": 0.5113
 },
 "401909999": {
 "p_home": 0.5512,
@@ -1257,7 +1257,7 @@
 "away": "GS",
 "day": "2026-11-16",
 "home_spread": 3.5,
-"p_cover": 0.461,
+"p_cover": 0.4611,
 "line_total": 223.5,
 "p_over": 0.516
 },

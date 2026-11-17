@@ -1,21 +1,18 @@
-## Rückblick: Nacht 15.11.–16.11.
+## Rückblick: Nacht 16.11.–17.11.
 
 | Spiel | Prognose | Resultat | Sieger | Total (Prog./Ist) | O/U-Linie |
 |---|---|---|---|---|---|
-| IND @ PHI | PHI 66% · IND 108–114 PHI | IND 124–131 PHI | ✅ | 223 / 255 (+32) | Under 225.5 (56%) ❌ |
-| LAL @ PHX | LAL 56% · LAL 115–112 PHX | LAL 131–123 PHX | ✅ | 227 / 254 (+27) | Over 226.5 (52%) ✅ |
-| CHA @ LAC | LAC 57% · CHA 106–108 LAC | CHA 105–113 LAC | ✅ | 213 / 218 (+5) | Under 213.5 (50%) ❌ |
-| SA @ UTAH | SA 89% · SA 120–104 UTAH | SA 110–102 UTAH | ✅ | 223 / 212 (-11) | Under 224.5 (53%) ✅ |
-| DAL @ BOS | BOS 86% · DAL 101–116 BOS | DAL 94–131 BOS | ✅ | 217 / 225 (+8) | Under 217.5 (52%) ❌ |
-| NY @ TOR | NY 59% · NY 110–106 TOR | NY 112–108 TOR | ✅ | 216 / 220 (+4) | Under 217.5 (53%) ❌ |
-| HOU @ WSH | HOU 74% · HOU 116–107 WSH | HOU 147–119 WSH | ✅ | 223 / 266 (+43) | Under 224.5 (53%) ❌ |
-| ATL @ MIL | ATL 72% · ATL 120–112 MIL | ATL 113–106 MIL | ✅ | 232 / 219 (-13) | Under 233.5 (54%) ✅ |
-| OKC @ SAC | OKC 77% · OKC 116–106 SAC | OKC 125–103 SAC | ✅ | 222 / 228 (+6) | Under 223.5 (53%) ❌ |
+| ORL @ BOS | BOS 75% · ORL 102–111 BOS | ORL 115–105 BOS | ❌ | 213 / 220 (+7) | Over 212.5 (51%) ✅ |
+| CHI @ CLE | CLE 72% · CHI 116–124 CLE | CHI 115–126 CLE | ✅ | 240 / 241 (+1) | Under 241.5 (52%) ✅ |
+| MEM @ WSH | MEM 60% · MEM 116–113 WSH | MEM 136–120 WSH | ✅ | 230 / 256 (+26) | Under 231.5 (54%) ❌ |
+| PHI @ BKN | PHI 61% · PHI 115–111 BKN | PHI 135–123 BKN | ✅ | 226 / 258 (+32) | Under 226.5 (52%) ❌ |
+| HOU @ MIA | HOU 54% · HOU 117–115 MIA | HOU 110–128 MIA | ❌ | 232 / 238 (+6) | Under 233.5 (53%) ❌ |
+| POR @ MIN | MIN 55% · POR 112–114 MIN | POR 98–106 MIN | ✅ | 226 / 204 (-22) | Under 227.5 (52%) ✅ |
+| GS @ NO | GS 62% · GS 115–110 NO | GS 94–115 NO | ❌ | 224 / 209 (-15) | Over 223.5 (52%) ❌ |
+| PHX @ DEN | DEN 75% · PHX 110–119 DEN | PHX 117–105 DEN | ❌ | 229 / 222 (-7) | Under 229.5 (52%) ✅ |
 
-**Sieger richtig:** 9/9 (100%) · **Mittlerer Fehler:** Differenz 8.4 Pkt, Total 16.5 Pkt · **Over/Under:** 3/9
+**Sieger richtig:** 4/8 (50%) · **Mittlerer Fehler:** Differenz 14.4 Pkt, Total 14.6 Pkt · **Over/Under:** 4/8
 
 **Tipps dieser Nacht:**
-- ❌ Under 225.5 (IND @ PHI) (Quote 1.88)
-- ✅ LAC +1.5 (CHA @ LAC) (Quote 1.86)
-- ✅ Sieg LAC (CHA @ LAC) (Quote 1.94)
-- **Ergebnis:** 2/3 getroffen · +0.81 Fr. bei 1 Fr. pro Tipp (DK-Quoten)
+- ❌ BKN +5.5 (PHI @ BKN) (Quote 1.87)
+- **Ergebnis:** 0/1 getroffen · -1.00 Fr. bei 1 Fr. pro Tipp (DK-Quoten)

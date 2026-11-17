@@ -8,11 +8,12 @@
 "Nate Bittle"
 ],
 "dtd": [
-"Kevin McCullar Jr."
+"Kevin McCullar Jr.",
+"Scottie Barnes"
 ],
-"spread": 2.5,
-"total": 215.5,
-"p_home": 0.4479
+"spread": 4.5,
+"total": 214.5,
+"p_home": 0.4112
 },
 "401910003": {
 "matchup": "POR @ MIN",
@@ -24,15 +25,17 @@
 "Donte DiVincenzo",
 "Ja Morant",
 "Jaylen Clark",
+"Jonathan Kuminga",
 "Shaedon Sharpe",
-"Vit Krejci"
+"Vit Krejci",
+"Zyon Pullin"
 ],
 "dtd": [
-"Jonathan Kuminga"
+"Deni Avdija"
 ],
-"spread": -1.5,
-"total": 228.5,
-"p_home": 0.5539
+"spread": -3.5,
+"total": 225.5,
+"p_home": 0.5498
 },
 "401910004": {
 "matchup": "DET @ SA",
@@ -50,7 +53,7 @@
 "dtd": [],
 "spread": -9.5,
 "total": 222.5,
-"p_home": 0.793
+"p_home": 0.7966
 },
 "401910006": {
 "matchup": "UTAH @ LAC",
@@ -84,11 +87,11 @@
 "dtd": [],
 "spread": -7.5,
 "total": 221.5,
-"p_home": 0.733
+"p_home": 0.7259
 },
 "_tips": [
 "Under 221.5 (CHA @ LAL)",
-"Under 228.5 (POR @ MIN)"
+"Under 225.5 (POR @ MIN)"
 ],
 "_game_day": "2026-11-17"
 }

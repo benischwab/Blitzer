@@ -1275,33 +1275,33 @@
 "p_over": 0.4809
 },
 "401910002": {
-"p_home": 0.4479,
-"margin": -2.03,
-"total": 215.66,
+"p_home": 0.4112,
+"margin": -3.43,
+"total": 214.96,
 "matchup": "NY @ TOR",
 "home": "TOR",
 "away": "NY",
 "day": "2026-11-17",
-"home_spread": 2.5,
-"p_cover": 0.5145,
-"line_total": 215.5,
-"p_over": 0.5034
+"home_spread": 4.5,
+"p_cover": 0.5329,
+"line_total": 214.5,
+"p_over": 0.5099
 },
 "401910003": {
-"p_home": 0.5539,
-"margin": 1.93,
-"total": 225.87,
+"p_home": 0.5498,
+"margin": 2.49,
+"total": 222.93,
 "matchup": "POR @ MIN",
 "home": "MIN",
 "away": "POR",
 "day": "2026-11-17",
-"home_spread": -1.5,
-"p_cover": 0.5131,
-"line_total": 228.5,
-"p_over": 0.4434
+"home_spread": -3.5,
+"p_cover": 0.469,
+"line_total": 225.5,
+"p_over": 0.4448
 },
 "401910004": {
-"p_home": 0.793,
+"p_home": 0.7966,
 "margin": 10.83,
 "total": 222.19,
 "matchup": "DET @ SA",
@@ -1309,7 +1309,7 @@
 "away": "DET",
 "day": "2026-11-17",
 "home_spread": -9.5,
-"p_cover": 0.5407,
+"p_cover": 0.5406,
 "line_total": 222.5,
 "p_over": 0.4934
 },
@@ -1327,7 +1327,7 @@
 "p_over": 0.4807
 },
 "401910005": {
-"p_home": 0.733,
+"p_home": 0.7259,
 "margin": 8.24,
 "total": 218.55,
 "matchup": "CHA @ LAL",
@@ -1335,7 +1335,7 @@
 "away": "CHA",
 "day": "2026-11-17",
 "home_spread": -7.5,
-"p_cover": 0.5227,
+"p_cover": 0.5226,
 "line_total": 221.5,
 "p_over": 0.4366
 }
@@ -1734,7 +1734,7 @@
 "side": "under",
 "line": 221.5,
 "p": 0.5634,
-"dk": 1.8695652173913042,
+"dk": 1.9090909090909092,
 "label": "Under 221.5"
 },
 {
@@ -1742,10 +1742,10 @@
 "matchup": "POR @ MIN",
 "market": "total",
 "side": "under",
-"line": 228.5,
-"p": 0.5566,
-"dk": 1.9174311926605505,
-"label": "Under 228.5"
+"line": 225.5,
+"p": 0.5552,
+"dk": 1.9433962264150944,
+"label": "Under 225.5"
 }
 ]
 },

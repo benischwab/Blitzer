@@ -1,15 +1,11 @@
 # NBA-Tipps für die Nacht 17.11.–18.11.2026
 
-Stand: Di 17.11. 21:20 Uhr · 5 Spiele · Datenbasis: 205 Saisonspiele · Heimvorteil 2.3 Pkt · Liga-Schnitt 113.8 Pkt/Team
+Stand: Di 17.11. 23:58 Uhr · 5 Spiele · Datenbasis: 205 Saisonspiele · Heimvorteil 2.3 Pkt · Liga-Schnitt 113.8 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- NY @ TOR: Handicap TOR +2.5 → +4.5
-- POR @ MIN: Jonathan Kuminga fällt NEU aus
-- POR @ MIN: Zyon Pullin fällt NEU aus
-- POR @ MIN: Handicap MIN -1.5 → -3.5
-- POR @ MIN: Total 228.5 → 225.5
-- Neue Tipps: Under 225.5 (POR @ MIN)
-- Gestrichen: Under 228.5 (POR @ MIN)
+- NY @ TOR: Handicap TOR +4.5 → +2.5
+- Neue Tipps: Under 222.5 (CHA @ LAL)
+- Gestrichen: Under 221.5 (CHA @ LAL)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -19,14 +15,14 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 221.5 | CHA @ LAL | 56% | 1.91 | +7.6% | **1.83** |
-| Under 225.5 | POR @ MIN | 56% | 1.94 | +7.9% | **1.86** |
+| Under 222.5 | CHA @ LAL | 57% | 1.87 | +6.5% | **1.81** |
+| Under 225.5 | POR @ MIN | 56% | 1.88 | +4.7% | **1.86** |
 | Sieg LAC | UTAH @ LAC | 69% | 1.42 | -2.0% | **1.49** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Sieg SA (DET @ SA) — 80%, DK 1.23
 - Sieg LAL (CHA @ LAL) — 73%, DK 1.35
-- **Trefferchance 58%** · DK-Quote 1.65 (-4.3%) · **lohnt ab Sporttip-Gesamtquote 1.78** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 58%** · DK-Quote 1.65 (-4.4%) · **lohnt ab Sporttip-Gesamtquote 1.78** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -42,12 +38,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- CHA @ LAL: Under 221.5 — Modell-Total 211.7 (68%)
+- CHA @ LAL: Under 222.5 — Modell-Total 211.7 (70%)
 - POR @ MIN: Under 225.5 — Modell-Total 216.9 (66%)
 - DET @ SA: Handicap SA -9.5 — Modell 62%
-- NY @ TOR: Handicap TOR +4.5 — Modell 60%
-- POR @ MIN: Handicap POR +3.5 — Modell 59%
-- NY @ TOR: Sieg TOR — Modell 47% vs. Markt 38%
+- POR @ MIN: Sieg POR — Modell 50% vs. Markt 43%
+- DET @ SA: Sieg SA — Modell 83% vs. Markt 78%
+- UTAH @ LAC: Sieg LAC — Modell 72% vs. Markt 68%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 74/98 richtig (76%), Brier 0.190
@@ -77,13 +73,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### NY @ TOR — Mi 01:30 Uhr
-**Sieg:** TOR 41% (faire Quote 2.43) · NY 59% (1.70) — Markt TOR 38%
-**Prognose:** TOR 105.8 – NY 109.2 (Diff. NY +3.4, Total 215.0)
-**Handicap** TOR +4.5: TOR deckt 53% · NY -4.5 deckt 47%
+**Sieg:** TOR 45% (faire Quote 2.24) · NY 55% (1.81) — Markt TOR 43%
+**Prognose:** TOR 106.5 – NY 108.5 (Diff. NY +2.0, Total 215.0)
+**Handicap** TOR +2.5: TOR deckt 51% · NY -2.5 deckt 49%
 **Over/Under 214.5:** Over 51% (1.96) · Under 49% (2.04)
 **Total-Faustregel:** Over lohnt bis 211.5 · Under lohnt ab 218.5 (≥57%)
 **Form (letzte 5):** TOR SNNNN (-4.4) · NY SSNNS (+7.6)
-_TOR out: Nate Bittle, Kawhi Leonard · TOR fraglich: Scottie Barnes*, Kevin McCullar Jr._ (* = Meldung der letzten 24 h)
+_TOR out: Kawhi Leonard*, Nate Bittle · TOR fraglich: Scottie Barnes*, Kevin McCullar Jr._ (* = Meldung der letzten 24 h)
 > 📰 What the NBA's first month has revealed about all 30 teams
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -99,8 +95,8 @@ _TOR out: Nate Bittle, Kawhi Leonard · TOR fraglich: Scottie Barnes*, Kevin McC
 
 ### POR @ MIN — Mi 02:00 Uhr
 **Sieg:** MIN 55% (faire Quote 1.82) · POR 45% (2.22) — Markt MIN 57%
-**Prognose:** MIN 112.7 – POR 110.2 (Diff. MIN +2.5, Total 222.9)
-**Handicap** MIN -3.5: MIN deckt 47% · POR +3.5 deckt 53%
+**Prognose:** MIN 112.4 – POR 110.6 (Diff. MIN +1.8, Total 222.9)
+**Handicap** MIN -2.5: MIN deckt 48% · POR +2.5 deckt 52%
 **Over/Under 225.5:** Over 44% (2.25) · Under 56% (1.80)
 **Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** MIN SSSNS (+11.4) · POR NSSSN (+2.6)
@@ -121,12 +117,12 @@ _MIN spielt Back-to-Back · MIN out: Zyon Pullin*, Jonathan Kuminga*, Jaylen Cla
 
 ### DET @ SA — Mi 02:00 Uhr
 **Sieg:** SA 80% (faire Quote 1.26) · DET 20% (4.92) — Markt SA 78%
-**Prognose:** SA 116.5 – DET 105.7 (Diff. SA +10.8, Total 222.2)
+**Prognose:** SA 116.2 – DET 105.3 (Diff. SA +10.8, Total 221.5)
 **Handicap** SA -9.5: SA deckt 54% · DET +9.5 deckt 46%
-**Over/Under 222.5:** Over 49% (2.03) · Under 51% (1.97)
-**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
+**Over/Under 221.5:** Over 50% (2.00) · Under 50% (2.00)
+**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** SA SSSSS (+19.8) · DET NNSSN (-3.2)
-_SA out: Tobias Harris, Jayden Quaintance · DET out: Isaiah Joe*, Duncan Robinson*, Taurean Prince*, Ronald Holland II*, Jalen Duren_ (* = Meldung der letzten 24 h)
+_SA out: Tobias Harris, Jayden Quaintance · DET out: Isaiah Joe*, Duncan Robinson*, Taurean Prince, Ronald Holland II, Jalen Duren_ (* = Meldung der letzten 24 h)
 > 📰 Pistons' Duncan Robinson (quad), Ron Holland II (knee) out vs. Spurs
 > 📰 What the NBA's first month has revealed about all 30 teams
 
@@ -163,10 +159,10 @@ _LAC out: Yanic Konan Niederhauser*, Brandon Ingram, Bradley Beal, Jordan Miller
 
 ### CHA @ LAL — Mi 05:00 Uhr
 **Sieg:** LAL 73% (faire Quote 1.38) · CHA 27% (3.65) — Markt LAL 71%
-**Prognose:** LAL 113.4 – CHA 105.2 (Diff. LAL +8.2, Total 218.5)
+**Prognose:** LAL 113.7 – CHA 105.5 (Diff. LAL +8.2, Total 219.3)
 **Handicap** LAL -7.5: LAL deckt 52% · CHA +7.5 deckt 48%
-**Over/Under 221.5:** Over 44% (2.29) · Under 56% (1.78)
-**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 222.5 (≥57%)
+**Over/Under 222.5:** Over 43% (2.32) · Under 57% (1.76)
+**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** LAL SSSSS (+8.0) · CHA NNSNN (-10.0)
 _LAL out: Austin Reaves*, Walker Kessler* · CHA out: Kon Knueppel, Dennis Schroder_ (* = Meldung der letzten 24 h)
 > 📰 What the NBA's first month has revealed about all 30 teams

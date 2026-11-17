@@ -11,9 +11,9 @@
 "Kevin McCullar Jr.",
 "Scottie Barnes"
 ],
-"spread": 4.5,
+"spread": 2.5,
 "total": 214.5,
-"p_home": 0.4112
+"p_home": 0.4462
 },
 "401910003": {
 "matchup": "POR @ MIN",
@@ -33,7 +33,7 @@
 "dtd": [
 "Deni Avdija"
 ],
-"spread": -3.5,
+"spread": -2.5,
 "total": 225.5,
 "p_home": 0.5498
 },
@@ -52,7 +52,7 @@
 ],
 "dtd": [],
 "spread": -9.5,
-"total": 222.5,
+"total": 221.5,
 "p_home": 0.7966
 },
 "401910006": {
@@ -86,11 +86,11 @@
 ],
 "dtd": [],
 "spread": -7.5,
-"total": 221.5,
+"total": 222.5,
 "p_home": 0.7259
 },
 "_tips": [
-"Under 221.5 (CHA @ LAL)",
+"Under 222.5 (CHA @ LAL)",
 "Under 225.5 (POR @ MIN)"
 ],
 "_game_day": "2026-11-17"

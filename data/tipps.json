@@ -1273,6 +1273,71 @@
 "p_cover": 0.4804,
 "line_total": 229.5,
 "p_over": 0.4809
+},
+"401910002": {
+"p_home": 0.4479,
+"margin": -2.03,
+"total": 215.66,
+"matchup": "NY @ TOR",
+"home": "TOR",
+"away": "NY",
+"day": "2026-11-17",
+"home_spread": 2.5,
+"p_cover": 0.5145,
+"line_total": 215.5,
+"p_over": 0.5034
+},
+"401910003": {
+"p_home": 0.5539,
+"margin": 1.93,
+"total": 225.87,
+"matchup": "POR @ MIN",
+"home": "MIN",
+"away": "POR",
+"day": "2026-11-17",
+"home_spread": -1.5,
+"p_cover": 0.5131,
+"line_total": 228.5,
+"p_over": 0.4434
+},
+"401910004": {
+"p_home": 0.793,
+"margin": 10.83,
+"total": 222.19,
+"matchup": "DET @ SA",
+"home": "SA",
+"away": "DET",
+"day": "2026-11-17",
+"home_spread": -9.5,
+"p_cover": 0.5407,
+"line_total": 222.5,
+"p_over": 0.4934
+},
+"401910006": {
+"p_home": 0.6903,
+"margin": 7.12,
+"total": 224.61,
+"matchup": "UTAH @ LAC",
+"home": "LAC",
+"away": "UTAH",
+"day": "2026-11-17",
+"home_spread": -6.5,
+"p_cover": 0.519,
+"line_total": 225.5,
+"p_over": 0.4807
+},
+"401910005": {
+"p_home": 0.733,
+"margin": 8.24,
+"total": 218.55,
+"matchup": "CHA @ LAL",
+"home": "LAL",
+"away": "CHA",
+"day": "2026-11-17",
+"home_spread": -7.5,
+"p_cover": 0.5227,
+"line_total": 221.5,
+"p_over": 0.4366
 }
 },
 "singles": {
@@ -1660,6 +1725,28 @@
 "dk": 1.8695652173913042,
 "label": "BKN +5.5"
 }
+],
+"2026-11-17": [
+{
+"game_id": "401910005",
+"matchup": "CHA @ LAL",
+"market": "total",
+"side": "under",
+"line": 221.5,
+"p": 0.5634,
+"dk": 1.8695652173913042,
+"label": "Under 221.5"
+},
+{
+"game_id": "401910003",
+"matchup": "POR @ MIN",
+"market": "total",
+"side": "under",
+"line": 228.5,
+"p": 0.5566,
+"dk": 1.9174311926605505,
+"label": "Under 228.5"
+}
 ]
 },
 "combos": {
@@ -1765,6 +1852,7 @@
 ],
 "2026-11-14": [],
 "2026-11-15": [],
-"2026-11-16": []
+"2026-11-16": [],
+"2026-11-17": []
 }
 }

@@ -1171,20 +1171,20 @@
 "p_over": 0.467
 },
 "401909994": {
-"p_home": 0.7599,
-"margin": 9.76,
-"total": 213.46,
+"p_home": 0.7546,
+"margin": 9.06,
+"total": 212.76,
 "matchup": "ORL @ BOS",
 "home": "BOS",
 "away": "ORL",
 "day": "2026-11-16",
-"home_spread": -9.5,
-"p_cover": 0.508,
-"line_total": 213.5,
-"p_over": 0.4991
+"home_spread": -8.5,
+"p_cover": 0.5172,
+"line_total": 212.5,
+"p_over": 0.5056
 },
 "401909995": {
-"p_home": 0.7289,
+"p_home": 0.7226,
 "margin": 8.14,
 "total": 240.4,
 "matchup": "CHI @ CLE",
@@ -1194,49 +1194,49 @@
 "home_spread": -8.5,
 "p_cover": 0.489,
 "line_total": 241.5,
-"p_over": 0.4763
+"p_over": 0.4762
 },
 "401909996": {
-"p_home": 0.418,
+"p_home": 0.4035,
 "margin": -3.3,
-"total": 230.23,
+"total": 229.53,
 "matchup": "MEM @ WSH",
 "home": "WSH",
 "away": "MEM",
 "day": "2026-11-16",
 "home_spread": 3.5,
 "p_cover": 0.5062,
-"line_total": 232.5,
-"p_over": 0.4511
+"line_total": 231.5,
+"p_over": 0.4575
 },
 "401909997": {
 "p_home": 0.3904,
-"margin": -3.14,
+"margin": -3.84,
 "total": 225.67,
 "matchup": "PHI @ BKN",
 "home": "BKN",
 "away": "PHI",
 "day": "2026-11-16",
-"home_spread": 4.5,
-"p_cover": 0.5418,
+"home_spread": 5.5,
+"p_cover": 0.5509,
 "line_total": 226.5,
 "p_over": 0.482
 },
 "401909998": {
-"p_home": 0.4397,
-"margin": -2.87,
-"total": 233.02,
+"p_home": 0.4619,
+"margin": -1.82,
+"total": 232.05,
 "matchup": "HOU @ MIA",
 "home": "MIA",
 "away": "HOU",
 "day": "2026-11-16",
-"home_spread": 2.5,
-"p_cover": 0.4887,
-"line_total": 232.5,
-"p_over": 0.5113
+"home_spread": 1.5,
+"p_cover": 0.4901,
+"line_total": 233.5,
+"p_over": 0.4687
 },
 "401909999": {
-"p_home": 0.5512,
+"p_home": 0.5451,
 "margin": 2.3,
 "total": 226.46,
 "matchup": "POR @ MIN",
@@ -1249,7 +1249,7 @@
 "p_over": 0.4776
 },
 "401910000": {
-"p_home": 0.3741,
+"p_home": 0.3803,
 "margin": -4.77,
 "total": 224.24,
 "matchup": "GS @ NO",
@@ -1259,10 +1259,10 @@
 "home_spread": 3.5,
 "p_cover": 0.4611,
 "line_total": 223.5,
-"p_over": 0.516
+"p_over": 0.5159
 },
 "401910001": {
-"p_home": 0.7482,
+"p_home": 0.753,
 "margin": 8.86,
 "total": 228.61,
 "matchup": "PHX @ DEN",
@@ -1649,7 +1649,18 @@
 "label": "Sieg LAC"
 }
 ],
-"2026-11-16": []
+"2026-11-16": [
+{
+"game_id": "401909997",
+"matchup": "PHI @ BKN",
+"market": "spread",
+"side": "BKN",
+"line": 5.5,
+"p": 0.5509,
+"dk": 1.8695652173913042,
+"label": "BKN +5.5"
+}
+]
 },
 "combos": {
 "2026-11-04": [],

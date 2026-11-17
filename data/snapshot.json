@@ -11,9 +11,9 @@
 "Paolo Banchero"
 ],
 "dtd": [],
-"spread": -9.5,
-"total": 213.5,
-"p_home": 0.7599
+"spread": -8.5,
+"total": 212.5,
+"p_home": 0.7546
 },
 "401909995": {
 "matchup": "CHI @ CLE",
@@ -30,7 +30,7 @@
 "dtd": [],
 "spread": -8.5,
 "total": 241.5,
-"p_home": 0.7289
+"p_home": 0.7226
 },
 "401909996": {
 "matchup": "MEM @ WSH",
@@ -41,19 +41,16 @@
 "Isaiah Stewart",
 "Jamir Watkins",
 "Justin Champagnie",
-"Quinten Post",
 "Reece Beekman",
 "Richie Saunders",
 "Scotty Pippen Jr.",
 "Tristan Vukcevic",
 "Ty Jerome"
 ],
-"dtd": [
-"Zach Edey"
-],
+"dtd": [],
 "spread": 3.5,
-"total": 232.5,
-"p_home": 0.418
+"total": 231.5,
+"p_home": 0.4035
 },
 "401909997": {
 "matchup": "PHI @ BKN",
@@ -68,7 +65,7 @@
 "dtd": [
 "Joel Embiid"
 ],
-"spread": 4.5,
+"spread": 5.5,
 "total": 226.5,
 "p_home": 0.3904
 },
@@ -77,19 +74,19 @@
 "home": "MIA",
 "away": "HOU",
 "out": [
+"Amen Thompson",
 "Clint Capela",
+"Nikola Jovic",
+"Pelle Larsson",
 "Steven Adams"
 ],
 "dtd": [
-"Amen Thompson",
 "Julian Phillips",
-"Marcus Smart",
-"Nikola Jovic",
-"Pelle Larsson"
+"Marcus Smart"
 ],
-"spread": 2.5,
-"total": 232.5,
-"p_home": 0.4397
+"spread": 1.5,
+"total": 233.5,
+"p_home": 0.4619
 },
 "401909999": {
 "matchup": "POR @ MIN",
@@ -107,7 +104,7 @@
 "dtd": [],
 "spread": -2.5,
 "total": 227.5,
-"p_home": 0.5512
+"p_home": 0.5451
 },
 "401910000": {
 "matchup": "GS @ NO",
@@ -130,7 +127,7 @@
 ],
 "spread": 3.5,
 "total": 223.5,
-"p_home": 0.3741
+"p_home": 0.3803
 },
 "401910001": {
 "matchup": "PHX @ DEN",
@@ -145,8 +142,10 @@
 ],
 "spread": -9.5,
 "total": 229.5,
-"p_home": 0.7482
+"p_home": 0.753
 },
-"_tips": [],
+"_tips": [
+"BKN +5.5 (PHI @ BKN)"
+],
 "_game_day": "2026-11-16"
 }

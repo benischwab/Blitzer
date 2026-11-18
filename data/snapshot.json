@@ -7,6 +7,7 @@
 "Evan Mobley",
 "GG Jackson",
 "Isaiah Stewart",
+"Jaylon Tyson",
 "Nae'Qwan Tomlin",
 "Richie Saunders",
 "Sam Merrill",
@@ -14,12 +15,11 @@
 "Ty Jerome"
 ],
 "dtd": [
-"Jaylon Tyson",
 "Peyton Watson"
 ],
 "spread": -4.5,
-"total": 235.5,
-"p_home": 0.6136
+"total": 238.5,
+"p_home": 0.6067
 },
 "401910008": {
 "matchup": "HOU @ IND",
@@ -45,16 +45,14 @@
 "home": "MIA",
 "away": "MIL",
 "out": [
-"Ousmane Dieng"
-],
-"dtd": [
-"Bam Adebayo",
 "Myron Gardner",
-"Nikola Jovic"
+"Ousmane Dieng",
+"Ryan Rollins"
 ],
+"dtd": [],
 "spread": -11.5,
-"total": 236.5,
-"p_home": 0.8287
+"total": 237.5,
+"p_home": 0.8346
 },
 "401910010": {
 "matchup": "PHI @ ORL",
@@ -70,10 +68,12 @@
 "Noah Penda",
 "Paolo Banchero"
 ],
-"dtd": [],
-"spread": 1.5,
+"dtd": [
+"Dean Wade"
+],
+"spread": -1.5,
 "total": 222.5,
-"p_home": 0.521
+"p_home": 0.541
 },
 "401910011": {
 "matchup": "CHI @ BKN",
@@ -88,7 +88,7 @@
 ],
 "spread": -2.5,
 "total": 239.5,
-"p_home": 0.6001
+"p_home": 0.5892
 },
 "401910012": {
 "matchup": "WSH @ TOR",
@@ -100,15 +100,16 @@
 "Kawhi Leonard",
 "Nate Bittle",
 "Reece Beekman",
+"Scottie Barnes",
 "Tristan Vukcevic"
 ],
 "dtd": [
 "Felix Okpara",
-"Kevin McCullar Jr."
+"RJ Barrett"
 ],
-"spread": -6.5,
-"total": 226.5,
-"p_home": 0.6862
+"spread": -4.5,
+"total": 225.5,
+"p_home": 0.621
 },
 "401910013": {
 "matchup": "DET @ NO",
@@ -121,16 +122,17 @@
 "Duncan Robinson",
 "Isaiah Joe",
 "Jalen Duren",
+"Ronald Holland II",
+"Taurean Prince",
 "Trendon Watford",
 "Trey Murphy III"
 ],
 "dtd": [
-"Ronald Holland II",
-"Taurean Prince"
+"Cade Cunningham"
 ],
-"spread": 6.5,
-"total": 227.5,
-"p_home": 0.306
+"spread": 4.5,
+"total": 225.5,
+"p_home": 0.3605
 },
 "401910014": {
 "matchup": "ATL @ OKC",
@@ -150,9 +152,9 @@
 "Thomas Sorber"
 ],
 "dtd": [],
-"spread": -6.5,
+"spread": -5.5,
 "total": 228.5,
-"p_home": 0.7301
+"p_home": 0.7191
 },
 "401910016": {
 "matchup": "GS @ DAL",
@@ -178,7 +180,7 @@
 ],
 "spread": -4.5,
 "total": 224.5,
-"p_home": 0.6328
+"p_home": 0.6329
 },
 "401910015": {
 "matchup": "BOS @ DEN",
@@ -189,7 +191,7 @@
 ],
 "dtd": [],
 "spread": 2.5,
-"total": 220.5,
+"total": 219.5,
 "p_home": 0.4191
 },
 "401910017": {
@@ -206,9 +208,9 @@
 "Jaxson Hayes",
 "Walker Kessler"
 ],
-"spread": -9.5,
+"spread": -10.5,
 "total": 228.5,
-"p_home": 0.7901
+"p_home": 0.79
 },
 "401910018": {
 "matchup": "PHX @ SAC",
@@ -223,14 +225,14 @@
 "De'Andre Hunter",
 "Precious Achiuwa"
 ],
-"spread": 6.5,
-"total": 227.5,
-"p_home": 0.3262
+"spread": 7.5,
+"total": 226.5,
+"p_home": 0.3263
 },
 "_tips": [
 "Under 228.5 (ATL @ OKC)",
-"OKC -6.5 (ATL @ OKC)",
-"ORL +1.5 (PHI @ ORL)"
+"Under 238.5 (MEM @ CLE)",
+"OKC -5.5 (ATL @ OKC)"
 ],
 "_game_day": "2026-11-18"
 }

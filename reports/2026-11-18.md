@@ -1,23 +1,17 @@
 # NBA-Tipps für die Nacht 18.11.–19.11.2026
 
-Stand: Mi 18.11. 21:21 Uhr · 12 Spiele · Datenbasis: 210 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.7 Pkt/Team
+Stand: Mi 18.11. 23:56 Uhr · 12 Spiele · Datenbasis: 210 Saisonspiele · Heimvorteil 2.0 Pkt · Liga-Schnitt 113.7 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- MEM @ CLE: Jaylon Tyson fällt NEU aus
-- MEM @ CLE: Total 235.5 → 238.5
-- MIL @ MIA: Myron Gardner fällt NEU aus
-- MIL @ MIA: Ryan Rollins fällt NEU aus
-- PHI @ ORL: Handicap ORL +1.5 → -1.5
-- WSH @ TOR: Scottie Barnes fällt NEU aus
-- WSH @ TOR: Handicap TOR -6.5 → -4.5
-- WSH @ TOR: Sieg TOR 69% → 62%
-- DET @ NO: Ronald Holland II fällt NEU aus
-- DET @ NO: Taurean Prince fällt NEU aus
-- DET @ NO: Handicap NO +6.5 → +4.5
-- DET @ NO: Total 227.5 → 225.5
-- DET @ NO: Sieg NO 31% → 36%
-- Neue Tipps: Under 238.5 (MEM @ CLE); OKC -5.5 (ATL @ OKC)
-- Gestrichen: OKC -6.5 (ATL @ OKC); ORL +1.5 (PHI @ ORL)
+- HOU @ IND: Andrew Nembhard fällt NEU aus
+- HOU @ IND: Handicap IND +7.5 → +9.5
+- MIL @ MIA: Total 237.5 → 235.5
+- WSH @ TOR: RJ Barrett fällt NEU aus
+- UTAH @ LAL: Austin Reaves fällt NEU aus
+- UTAH @ LAL: Handicap LAL -10.5 → -12.5
+- UTAH @ LAL: Total 228.5 → 230.5
+- Neue Tipps: OKC -6.5 (ATL @ OKC)
+- Gestrichen: OKC -5.5 (ATL @ OKC)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -29,18 +23,18 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 |---|---|---|---|---|---|
 | Under 228.5 | ATL @ OKC | 57% | 1.94 | +10.1% | **1.82** |
 | Under 238.5 | MEM @ CLE | 57% | 1.91 | +8.2% | **1.82** |
-| OKC -5.5 | ATL @ OKC | 56% | 1.84 | +3.2% | **1.84** |
+| OKC -6.5 | ATL @ OKC | 55% | 1.94 | +7.2% | **1.87** |
 
 **Sichere 2er-Kombi**
-- Sieg MIA (MIL @ MIA) — 83%, DK 1.15
+- Sieg MIA (MIL @ MIA) — 84%, DK 1.14
 - Sieg OKC (ATL @ OKC) — 72%, DK 1.40
-- **Trefferchance 60%** · DK-Quote 1.61 (-3.3%) · **lohnt ab Sporttip-Gesamtquote 1.72** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 60%** · DK-Quote 1.60 (-3.4%) · **lohnt ab Sporttip-Gesamtquote 1.71** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg MIA (MIL @ MIA) — 83%, DK 1.15
+- Sieg MIA (MIL @ MIA) — 84%, DK 1.14
 - Sieg OKC (ATL @ OKC) — 72%, DK 1.40
-- Sieg DET (DET @ NO) — 64%, DK 1.52
-- **Trefferchance 38%** · DK-Quote 2.45 (-5.8%) · **lohnt ab Sporttip-Gesamtquote 2.68** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg DET (DET @ NO) — 63%, DK 1.54
+- **Trefferchance 38%** · DK-Quote 2.47 (-5.6%) · **lohnt ab Sporttip-Gesamtquote 2.69** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Luka Doncic (LAL, UTAH @ LAL): über 45.5 P+R+A — 76% · lohnt ab Quote **1.35**
@@ -55,10 +49,10 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - ATL @ OKC: Under 228.5 — Modell-Total 218.1 (69%)
 - MEM @ CLE: Under 238.5 — Modell-Total 228.2 (69%)
-- ATL @ OKC: Handicap OKC -5.5 — Modell 68%
-- ATL @ OKC: Sieg OKC — Modell 80% vs. Markt 69%
-- PHI @ ORL: Sieg ORL — Modell 61% vs. Markt 51%
-- MIL @ MIA: Under 237.5 — Modell-Total 232.3 (60%)
+- WSH @ TOR: Sieg WSH — Modell 52% vs. Markt 36%
+- ATL @ OKC: Handicap OKC -6.5 — Modell 65%
+- WSH @ TOR: Handicap WSH +4.5 — Modell 64%
+- CHI @ BKN: Sieg BKN — Modell 65% vs. Markt 53%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 77/103 richtig (75%), Brier 0.196
@@ -92,7 +86,7 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 **Over/Under 238.5:** Over 43% (2.31) · Under 57% (1.77)
 **Total-Faustregel:** Over lohnt bis 231.5 · Under lohnt ab 239.5 (≥57%)
 **Form (letzte 5):** CLE NSNSS (+1.0) · MEM SNSSS (+15.4)
-_CLE out: Jaylon Tyson*, Nae'Qwan Tomlin*, Sam Merrill*, Evan Mobley · CLE fraglich: Peyton Watson* · MEM out: GG Jackson*, Isaiah Stewart*, Ty Jerome*, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
+_CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Sam Merrill, Evan Mobley · CLE fraglich: Peyton Watson* · MEM out: GG Jackson*, Isaiah Stewart, Ty Jerome, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 > 📰 What the NBA's first month has revealed about all 30 teams
 
@@ -108,33 +102,33 @@ _CLE out: Jaylon Tyson*, Nae'Qwan Tomlin*, Sam Merrill*, Evan Mobley · CLE frag
 | Cam Spencer (MEM) | 23 | 11.3 (9.5 / 11.5) | 3.2 | 5.7 | 2.0 | 20.2 |
 
 ### HOU @ IND — Do 01:00 Uhr
-**Sieg:** IND 29% (faire Quote 3.41) · HOU 71% (1.41) — Markt IND 28%
-**Prognose:** IND 109.3 – HOU 116.5 (Diff. HOU +7.2, Total 225.8)
-**Handicap** IND +7.5: IND deckt 51% · HOU -7.5 deckt 49%
-**Over/Under 225.5:** Over 51% (1.98) · Under 49% (2.02)
-**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
+**Sieg:** IND 25% (faire Quote 4.01) · HOU 75% (1.33) — Markt IND 24%
+**Prognose:** IND 107.7 – HOU 117.2 (Diff. HOU +9.4, Total 224.9)
+**Handicap** IND +9.5: IND deckt 50% · HOU -9.5 deckt 50%
+**Over/Under 225.5:** Over 49% (2.06) · Under 51% (1.95)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** IND NNSSN (-1.4) · HOU SSSSN (+6.8)
-_IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell*, Andrew Nembhard* · HOU out: Clint Capela* · HOU fraglich: Amen Thompson*_ (* = Meldung der letzten 24 h)
+_IND out: Andrew Nembhard*, Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell · HOU out: Clint Capela_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 > 📰 What the NBA's first month has revealed about all 30 teams
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Pascal Siakam (IND) | 33 | 22.9 (20.5 / 23.5) | 5.7 | 4.0 | 1.6 | 32.7 |
-| Andrew Nembhard (IND) | 34 | 15.8 (13.5 / 16.5) | 2.4 | 7.9 | 2.2 | 26.0 |
 | Aaron Nesmith (IND) | 28 | 12.0 (9.5 / 12.5) | 3.1 | 1.9 | 1.5 | 17.0 |
 | Kelly Oubre Jr. (IND) | 25 | 11.2 (8.5 / 11.5) | 3.2 | 1.2 | 0.9 | 15.8 |
+| Ivica Zubac (IND) | 24 | 10.5 (7.5 / 10.5) | 8.4 | 1.7 | 0.0 | 20.5 |
 | Alperen Sengun (HOU) | 34 | 23.1 (19.5 / 23.5) | 9.4 | 7.0 | 1.0 | 39.5 |
 | Kevin Durant (HOU) | 33 | 21.4 (19.5 / 22.5) | 5.2 | 4.0 | 1.5 | 30.6 |
 | Amen Thompson (HOU) | 33 | 15.9 (13.5 / 16.5) | 7.0 | 3.4 | 0.4 | 26.3 |
 | Jabari Smith Jr. (HOU) | 33 | 14.1 (11.5 / 14.5) | 6.7 | 2.1 | 2.1 | 22.9 |
 
 ### MIL @ MIA — Do 01:00 Uhr
-**Sieg:** MIA 83% (faire Quote 1.20) · MIL 17% (6.05) — Markt MIA 84%
-**Prognose:** MIA 124.1 – MIL 111.8 (Diff. MIA +12.3, Total 235.9)
-**Handicap** MIA -11.5: MIA deckt 52% · MIL +11.5 deckt 48%
-**Over/Under 237.5:** Over 47% (2.15) · Under 53% (1.87)
-**Total-Faustregel:** Over lohnt bis 232.5 · Under lohnt ab 239.5 (≥57%)
+**Sieg:** MIA 84% (faire Quote 1.19) · MIL 16% (6.19) — Markt MIA 84%
+**Prognose:** MIA 123.7 – MIL 110.8 (Diff. MIA +12.9, Total 234.5)
+**Handicap** MIA -12.5: MIA deckt 51% · MIL +12.5 deckt 49%
+**Over/Under 235.5:** Over 48% (2.09) · Under 52% (1.92)
+**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 238.5 (≥57%)
 **Form (letzte 5):** MIA SSSSS (+12.4) · MIL NNNNN (-15.6)
 _MIA out: Myron Gardner* · MIL out: Ryan Rollins*, Ousmane Dieng_ (* = Meldung der letzten 24 h)
 > 📰 Updated NBA championship and MVP odds: Heat on the rise, Wemby ahead of Luka
@@ -152,13 +146,13 @@ _MIA out: Myron Gardner* · MIL out: Ryan Rollins*, Ousmane Dieng_ (* = Meldung 
 | Brayden Burries (MIL) | 23 | 9.7 (7.5 / 10.5) | 5.7 | 2.6 | 1.0 | 18.1 |
 
 ### PHI @ ORL — Do 01:00 Uhr
-**Sieg:** ORL 54% (faire Quote 1.85) · PHI 46% (2.18) — Markt ORL 51%
-**Prognose:** ORL 111.9 – PHI 109.7 (Diff. ORL +2.3, Total 221.6)
+**Sieg:** ORL 53% (faire Quote 1.87) · PHI 47% (2.15) — Markt ORL 50%
+**Prognose:** ORL 111.6 – PHI 109.3 (Diff. ORL +2.3, Total 220.9)
 **Handicap** ORL -1.5: ORL deckt 52% · PHI +1.5 deckt 48%
-**Over/Under 222.5:** Over 48% (2.08) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 225.5 (≥57%)
+**Over/Under 221.5:** Over 49% (2.05) · Under 51% (1.95)
+**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** ORL NSSSS (+6.6) · PHI SNSSS (+2.8)
-_ORL out: Izaiyah Nelson*, Jonathan Isaac, Noah Penda, Paolo Banchero · PHI out: Dominick Barlow*, Jaylen Brown*, Adem Bona, Ariel Hukporti · PHI fraglich: Dean Wade*_ (* = Meldung der letzten 24 h)
+_ORL out: Izaiyah Nelson*, Jonathan Isaac, Noah Penda, Paolo Banchero · PHI out: Jaylen Brown*, Dominick Barlow, Adem Bona, Ariel Hukporti · PHI fraglich: Dean Wade*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 > 📰 76ers' LeBron James sues makers of AI sports-betting app 'Bron'
 
@@ -174,13 +168,13 @@ _ORL out: Izaiyah Nelson*, Jonathan Isaac, Noah Penda, Paolo Banchero · PHI out
 | VJ Edgecombe (PHI) | 33 | 12.9 (10.5 / 13.5) | 6.3 | 4.1 | 1.4 | 23.2 |
 
 ### CHI @ BKN — Do 01:30 Uhr
-**Sieg:** BKN 59% (faire Quote 1.70) · CHI 41% (2.43) — Markt BKN 56%
-**Prognose:** BKN 121.3 – CHI 117.9 (Diff. BKN +3.4, Total 239.3)
-**Handicap** BKN -2.5: BKN deckt 53% · CHI +2.5 deckt 47%
+**Sieg:** BKN 57% (faire Quote 1.76) · CHI 43% (2.31) — Markt BKN 53%
+**Prognose:** BKN 121.0 – CHI 118.3 (Diff. BKN +2.7, Total 239.3)
+**Handicap** BKN -1.5: BKN deckt 54% · CHI +1.5 deckt 46%
 **Over/Under 239.5:** Over 49% (2.02) · Under 51% (1.98)
 **Total-Faustregel:** Over lohnt bis 235.5 · Under lohnt ab 243.5 (≥57%)
 **Form (letzte 5):** BKN NNSNN (-7.4) · CHI NNSSN (-0.6)
-_CHI out: Tobe Awaka*, Caleb Wilson · CHI fraglich: Patrick Williams*_ (* = Meldung der letzten 24 h)
+_CHI out: Tobe Awaka, Caleb Wilson_
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 > 📰 What the NBA's first month has revealed about all 30 teams
 
@@ -196,35 +190,35 @@ _CHI out: Tobe Awaka*, Caleb Wilson · CHI fraglich: Patrick Williams*_ (* = Mel
 | Josh Giddey (CHI) | 28 | 10.5 (8.5 / 11.5) | 5.3 | 8.6 | 1.4 | 24.5 |
 
 ### WSH @ TOR — Do 01:30 Uhr
-**Sieg:** TOR 62% (faire Quote 1.61) · WSH 38% (2.64) — Markt TOR 63%
-**Prognose:** TOR 115.0 – WSH 110.7 (Diff. TOR +4.2, Total 225.7)
-**Handicap** TOR -4.5: TOR deckt 49% · WSH +4.5 deckt 51%
-**Over/Under 225.5:** Over 50% (1.99) · Under 50% (2.01)
-**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
+**Sieg:** TOR 59% (faire Quote 1.69) · WSH 41% (2.46) — Markt TOR 64%
+**Prognose:** TOR 113.6 – WSH 110.7 (Diff. TOR +2.9, Total 224.3)
+**Handicap** TOR -4.5: TOR deckt 45% · WSH +4.5 deckt 55%
+**Over/Under 225.5:** Over 47% (2.11) · Under 53% (1.90)
+**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** TOR NNNNN (-9.0) · WSH NNNNN (-14.4)
-_TOR spielt Back-to-Back · TOR out: Scottie Barnes*, Kawhi Leonard*, Nate Bittle · TOR fraglich: RJ Barrett* · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Felix Okpara_ (* = Meldung der letzten 24 h)
+_TOR spielt Back-to-Back · TOR out: RJ Barrett*, Scottie Barnes*, Kawhi Leonard, Nate Bittle · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Felix Okpara_ (* = Meldung der letzten 24 h)
 > 📰 Washington takes on Toronto on 8-game skid
 > 📰 Jalen Brunson converts tiebreaking 4-point play, scores 31 as Knicks win 15th straight over Raptors
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
-| RJ Barrett (TOR) | 35 | 21.8 (19.5 / 22.5) | 6.6 | 4.6 | 1.6 | 32.9 |
 | Immanuel Quickley (TOR) | 32 | 18.0 (15.5 / 18.5) | 3.6 | 5.8 | 2.6 | 27.3 |
 | Ja'Kobe Walter (TOR) | 32 | 12.7 (9.5 / 13.5) | 3.6 | 1.7 | 2.8 | 17.9 |
-| Collin Murray-Boyles (TOR) | 27 | 10.6 (8.5 / 11.5) | 4.8 | 2.0 | 0.6 | 17.5 |
+| Collin Murray-Boyles (TOR) | 27 | 10.6 (8.5 / 11.5) | 4.8 | 2.0 | 0.5 | 17.5 |
+| Jakob Poeltl (TOR) | 23 | 8.9 (6.5 / 9.5) | 6.6 | 1.3 | 0.0 | 16.9 |
 | Anthony Davis (WSH) | 34 | 24.6 (21.5 / 25.5) | 9.8 | 2.1 | 0.6 | 36.4 |
 | Kyshawn George (WSH) | 34 | 17.6 (14.5 / 18.5) | 4.4 | 4.2 | 2.5 | 26.2 |
 | Trae Young (WSH) | 35 | 17.0 (12.5 / 17.5) | 2.7 | 8.8 | 2.0 | 28.5 |
 | AJ Dybantsa (WSH) | 34 | 15.5 (13.5 / 16.5) | 6.2 | 2.3 | 0.9 | 24.0 |
 
 ### DET @ NO — Do 02:00 Uhr
-**Sieg:** NO 36% (faire Quote 2.77) · DET 64% (1.56) — Markt NO 37%
-**Prognose:** NO 110.2 – DET 115.1 (Diff. DET +4.9, Total 225.3)
+**Sieg:** NO 37% (faire Quote 2.74) · DET 63% (1.58) — Markt NO 38%
+**Prognose:** NO 110.6 – DET 115.5 (Diff. DET +4.9, Total 226.0)
 **Handicap** NO +4.5: NO deckt 49% · DET -4.5 deckt 51%
-**Over/Under 225.5:** Over 50% (2.01) · Under 50% (1.99)
-**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
+**Over/Under 226.5:** Over 49% (2.04) · Under 51% (1.96)
+**Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** NO NNNNS (-20.6) · DET NSSNS (+0.4)
-_NO out: Bennedict Mathurin*, Bryce McGowens*, Trendon Watford*, Trey Murphy III*, Dejounte Murray · DET spielt Back-to-Back · DET out: Isaiah Joe*, Taurean Prince*, Ronald Holland II*, Duncan Robinson, Jalen Duren · DET fraglich: Cade Cunningham*_ (* = Meldung der letzten 24 h)
+_NO out: Bennedict Mathurin, Bryce McGowens, Trendon Watford, Trey Murphy III, Dejounte Murray · DET spielt Back-to-Back · DET out: Isaiah Joe*, Taurean Prince*, Ronald Holland II*, Duncan Robinson, Jalen Duren · DET fraglich: Cade Cunningham*_ (* = Meldung der letzten 24 h)
 > 📰 Williamson, Pelicans to host Cunningham and the Pistons
 > 📰 Cunningham, Jenkins lead surge as Pistons snap Spurs' 12-game winning streak with 105-93 victory
 
@@ -241,12 +235,12 @@ _NO out: Bennedict Mathurin*, Bryce McGowens*, Trendon Watford*, Trey Murphy III
 
 ### ATL @ OKC — Do 02:00 Uhr
 **Sieg:** OKC 72% (faire Quote 1.39) · ATL 28% (3.56) — Markt OKC 69%
-**Prognose:** OKC 116.4 – ATL 109.0 (Diff. OKC +7.5, Total 225.4)
-**Handicap** OKC -5.5: OKC deckt 56% · ATL +5.5 deckt 44%
+**Prognose:** OKC 116.8 – ATL 108.6 (Diff. OKC +8.2, Total 225.4)
+**Handicap** OKC -6.5: OKC deckt 55% · ATL +6.5 deckt 45%
 **Over/Under 228.5:** Over 43% (2.31) · Under 57% (1.76)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** OKC SNNNS (+6.0) · ATL SSNNS (-0.2)
-_OKC out: Thomas Sorber*, Jaylin Williams*, Cason Wallace, Chet Holmgren, Jalen Williams · ATL out: Jock Landale*, Kingston Flemings*, Asa Newell*, CJ McCollum*, Mouhamed Gueye, Henri Veesaar_ (* = Meldung der letzten 24 h)
+_OKC out: Thomas Sorber*, Jaylin Williams*, Cason Wallace, Chet Holmgren, Jalen Williams · ATL out: Jock Landale*, Kingston Flemings*, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar_ (* = Meldung der letzten 24 h)
 > 📰 Updated NBA championship and MVP odds: Heat on the rise, Wemby ahead of Luka
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 
@@ -263,12 +257,12 @@ _OKC out: Thomas Sorber*, Jaylin Williams*, Cason Wallace, Chet Holmgren, Jalen 
 
 ### GS @ DAL — Do 02:00 Uhr
 **Sieg:** DAL 63% (faire Quote 1.58) · GS 37% (2.72) — Markt DAL 64%
-**Prognose:** DAL 113.7 – GS 109.2 (Diff. DAL +4.5, Total 222.9)
+**Prognose:** DAL 114.1 – GS 109.6 (Diff. DAL +4.5, Total 223.6)
 **Handicap** DAL -4.5: DAL deckt 50% · GS +4.5 deckt 50%
-**Over/Under 224.5:** Over 47% (2.14) · Under 53% (1.87)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
+**Over/Under 225.5:** Over 46% (2.17) · Under 54% (1.85)
+**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** DAL SSNNN (-9.2) · GS SSNNN (-1.6)
-_DAL out: Sergio de Larrea*, Dereck Lively II*, Tarik Biberovic* · DAL fraglich: Walter Clayton Jr.*, Tobi Lawal*, Max Christie*, Santi Aldama* · GS out: Brandon Williams*, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Draymond Green*, Al Horford*_ (* = Meldung der letzten 24 h)
+_DAL out: Sergio de Larrea, Dereck Lively II, Tarik Biberovic · DAL fraglich: Walter Clayton Jr., Tobi Lawal, Max Christie, Santi Aldama · GS out: Brandon Williams*, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Draymond Green*, Al Horford_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 > 📰 What the NBA's first month has revealed about all 30 teams
 
@@ -284,10 +278,10 @@ _DAL out: Sergio de Larrea*, Dereck Lively II*, Tarik Biberovic* · DAL fraglich
 
 ### BOS @ DEN — Do 03:30 Uhr
 **Sieg:** DEN 42% (faire Quote 2.39) · BOS 58% (1.72) — Markt DEN 44%
-**Prognose:** DEN 108.1 – BOS 111.2 (Diff. BOS +3.1, Total 219.3)
+**Prognose:** DEN 107.7 – BOS 110.8 (Diff. BOS +3.1, Total 218.6)
 **Handicap** DEN +2.5: DEN deckt 48% · BOS -2.5 deckt 52%
-**Over/Under 219.5:** Over 50% (2.02) · Under 50% (1.98)
-**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
+**Over/Under 218.5:** Over 50% (1.99) · Under 50% (2.01)
+**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 222.5 (≥57%)
 **Form (letzte 5):** DEN SNSSN (+0.6) · BOS SSSSN (+14.8)
 _DEN out: Julian Strawther_
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
@@ -305,35 +299,35 @@ _DEN out: Julian Strawther_
 | Derrick White (BOS) | 29 | 12.6 (10.5 / 13.5) | 2.9 | 4.5 | 1.9 | 20.0 |
 
 ### UTAH @ LAL — Do 04:00 Uhr
-**Sieg:** LAL 79% (faire Quote 1.27) · UTAH 21% (4.76) — Markt LAL 78%
-**Prognose:** LAL 119.8 – UTAH 108.6 (Diff. LAL +11.1, Total 228.4)
-**Handicap** LAL -10.5: LAL deckt 52% · UTAH +10.5 deckt 48%
-**Over/Under 228.5:** Over 50% (2.01) · Under 50% (1.99)
+**Sieg:** LAL 79% (faire Quote 1.27) · UTAH 21% (4.69) — Markt LAL 81%
+**Prognose:** LAL 120.0 – UTAH 108.6 (Diff. LAL +11.4, Total 228.7)
+**Handicap** LAL -12.5: LAL deckt 47% · UTAH +12.5 deckt 53%
+**Over/Under 230.5:** Over 46% (2.17) · Under 54% (1.85)
 **Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
 **Form (letzte 5):** LAL SSSSS (+7.6) · UTAH NNNNS (-2.2)
-_LAL spielt Back-to-Back · LAL fraglich: Austin Reaves*, Walker Kessler* · UTAH spielt Back-to-Back · UTAH out: Lauri Markkanen, Jusuf Nurkic, Jaren Jackson Jr. · UTAH fraglich: Jaxson Hayes*_ (* = Meldung der letzten 24 h)
+_LAL spielt Back-to-Back · LAL out: Austin Reaves* · UTAH spielt Back-to-Back · UTAH out: Lauri Markkanen, Jusuf Nurkic, Jaren Jackson Jr. · UTAH fraglich: Jaxson Hayes*_ (* = Meldung der letzten 24 h)
 > 📰 Los Angeles faces Utah after Grimes' 47-point game
 > 📰 Quentin Grimes scores 47, forces OT with 10th 3-pointer as Lakers rally past Hornets 118-114
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Luka Doncic (LAL) | 37 | 39.3 (36.5 / 40.5) | 6.8 | 7.6 | 5.3 | 53.7 |
-| Austin Reaves (LAL) | 35 | 25.1 (22.5 / 26.5) | 3.4 | 4.4 | 2.2 | 32.9 |
 | Walker Kessler (LAL) | 31 | 14.4 (12.5 / 15.5) | 11.3 | 2.1 | 0.0 | 27.9 |
 | Quentin Grimes (LAL) | 29 | 14.3 (7.5 / 12.5) | 3.1 | 2.4 | 2.4 | 19.8 |
+| Sandro Mamukelashvili (LAL) | 23 | 10.1 (6.5 / 9.5) | 4.0 | 1.8 | 1.5 | 15.9 |
 | Keyonte George (UTAH) | 33 | 21.3 (17.5 / 21.5) | 4.3 | 7.2 | 2.1 | 32.8 |
 | Darryn Peterson (UTAH) | 32 | 18.2 (15.5 / 19.5) | 4.5 | 3.8 | 2.5 | 26.5 |
 | Ace Bailey (UTAH) | 31 | 12.9 (10.5 / 13.5) | 5.6 | 2.2 | 1.6 | 20.8 |
 | Jaxson Hayes (UTAH) | 23 | 9.3 (6.5 / 9.5) | 5.9 | 1.4 | 0.0 | 16.6 |
 
 ### PHX @ SAC — Do 04:00 Uhr
-**Sieg:** SAC 33% (faire Quote 3.07) · PHX 67% (1.48) — Markt SAC 31%
-**Prognose:** SAC 110.3 – PHX 117.1 (Diff. PHX +6.7, Total 227.4)
-**Handicap** SAC +7.5: SAC deckt 52% · PHX -7.5 deckt 48%
+**Sieg:** SAC 32% (faire Quote 3.13) · PHX 68% (1.47) — Markt SAC 30%
+**Prognose:** SAC 110.7 – PHX 116.7 (Diff. PHX +6.0, Total 227.4)
+**Handicap** SAC +6.5: SAC deckt 51% · PHX -6.5 deckt 49%
 **Over/Under 226.5:** Over 52% (1.92) · Under 48% (2.08)
 **Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** SAC NNNNN (-12.6) · PHX NSSNS (+1.2)
-_SAC out: Maxime Raynaud*, Ben Simmons · SAC fraglich: De'Andre Hunter*, Precious Achiuwa* · PHX out: Mark Williams_ (* = Meldung der letzten 24 h)
+_SAC out: Maxime Raynaud*, Ben Simmons · PHX out: Mark Williams_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: One wild stat for all 30 teams
 > 📰 What the NBA's first month has revealed about all 30 teams
 

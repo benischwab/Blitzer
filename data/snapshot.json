@@ -26,19 +26,18 @@
 "home": "IND",
 "away": "HOU",
 "out": [
+"Andrew Nembhard",
 "Ben Sheppard",
 "Clint Capela",
 "Johnny Furphy",
 "Tyrese Haliburton"
 ],
 "dtd": [
-"Amen Thompson",
-"Andrew Nembhard",
 "T.J. McConnell"
 ],
-"spread": 7.5,
+"spread": 9.5,
 "total": 225.5,
-"p_home": 0.293
+"p_home": 0.2492
 },
 "401910009": {
 "matchup": "MIL @ MIA",
@@ -50,9 +49,9 @@
 "Ryan Rollins"
 ],
 "dtd": [],
-"spread": -11.5,
-"total": 237.5,
-"p_home": 0.8346
+"spread": -12.5,
+"total": 235.5,
+"p_home": 0.8385
 },
 "401910010": {
 "matchup": "PHI @ ORL",
@@ -72,8 +71,8 @@
 "Dean Wade"
 ],
 "spread": -1.5,
-"total": 222.5,
-"p_home": 0.541
+"total": 221.5,
+"p_home": 0.5341
 },
 "401910011": {
 "matchup": "CHI @ BKN",
@@ -83,12 +82,10 @@
 "Caleb Wilson",
 "Tobe Awaka"
 ],
-"dtd": [
-"Patrick Williams"
-],
-"spread": -2.5,
+"dtd": [],
+"spread": -1.5,
 "total": 239.5,
-"p_home": 0.5892
+"p_home": 0.5669
 },
 "401910012": {
 "matchup": "WSH @ TOR",
@@ -99,17 +96,17 @@
 "Justin Champagnie",
 "Kawhi Leonard",
 "Nate Bittle",
+"RJ Barrett",
 "Reece Beekman",
 "Scottie Barnes",
 "Tristan Vukcevic"
 ],
 "dtd": [
-"Felix Okpara",
-"RJ Barrett"
+"Felix Okpara"
 ],
 "spread": -4.5,
 "total": 225.5,
-"p_home": 0.621
+"p_home": 0.5931
 },
 "401910013": {
 "matchup": "DET @ NO",
@@ -131,8 +128,8 @@
 "Cade Cunningham"
 ],
 "spread": 4.5,
-"total": 225.5,
-"p_home": 0.3605
+"total": 226.5,
+"p_home": 0.3656
 },
 "401910014": {
 "matchup": "ATL @ OKC",
@@ -152,7 +149,7 @@
 "Thomas Sorber"
 ],
 "dtd": [],
-"spread": -5.5,
+"spread": -6.5,
 "total": 228.5,
 "p_home": 0.7191
 },
@@ -179,7 +176,7 @@
 "Walter Clayton Jr."
 ],
 "spread": -4.5,
-"total": 224.5,
+"total": 225.5,
 "p_home": 0.6329
 },
 "401910015": {
@@ -191,26 +188,25 @@
 ],
 "dtd": [],
 "spread": 2.5,
-"total": 219.5,
-"p_home": 0.4191
+"total": 218.5,
+"p_home": 0.4192
 },
 "401910017": {
 "matchup": "UTAH @ LAL",
 "home": "LAL",
 "away": "UTAH",
 "out": [
+"Austin Reaves",
 "Jaren Jackson Jr.",
 "Jusuf Nurkic",
 "Lauri Markkanen"
 ],
 "dtd": [
-"Austin Reaves",
-"Jaxson Hayes",
-"Walker Kessler"
+"Jaxson Hayes"
 ],
-"spread": -10.5,
-"total": 228.5,
-"p_home": 0.79
+"spread": -12.5,
+"total": 230.5,
+"p_home": 0.7869
 },
 "401910018": {
 "matchup": "PHX @ SAC",
@@ -221,18 +217,15 @@
 "Mark Williams",
 "Maxime Raynaud"
 ],
-"dtd": [
-"De'Andre Hunter",
-"Precious Achiuwa"
-],
-"spread": 7.5,
+"dtd": [],
+"spread": 6.5,
 "total": 226.5,
-"p_home": 0.3263
+"p_home": 0.3197
 },
 "_tips": [
 "Under 228.5 (ATL @ OKC)",
 "Under 238.5 (MEM @ CLE)",
-"OKC -5.5 (ATL @ OKC)"
+"OKC -6.5 (ATL @ OKC)"
 ],
 "_game_day": "2026-11-18"
 }

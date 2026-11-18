@@ -8,12 +8,11 @@
 "Nate Bittle"
 ],
 "dtd": [
-"Kevin McCullar Jr.",
-"Scottie Barnes"
+"Kevin McCullar Jr."
 ],
 "spread": 2.5,
-"total": 214.5,
-"p_home": 0.4462
+"total": 215.5,
+"p_home": 0.4479
 },
 "401910003": {
 "matchup": "POR @ MIN",
@@ -34,8 +33,8 @@
 "Deni Avdija"
 ],
 "spread": -2.5,
-"total": 225.5,
-"p_home": 0.5498
+"total": 227.5,
+"p_home": 0.5371
 },
 "401910004": {
 "matchup": "DET @ SA",
@@ -71,8 +70,8 @@
 ],
 "dtd": [],
 "spread": -6.5,
-"total": 225.5,
-"p_home": 0.6903
+"total": 226.5,
+"p_home": 0.6849
 },
 "401910005": {
 "matchup": "CHA @ LAL",
@@ -85,13 +84,13 @@
 "Walker Kessler"
 ],
 "dtd": [],
-"spread": -7.5,
-"total": 222.5,
-"p_home": 0.7259
+"spread": -6.5,
+"total": 223.5,
+"p_home": 0.73
 },
 "_tips": [
-"Under 222.5 (CHA @ LAL)",
-"Under 225.5 (POR @ MIN)"
+"Under 223.5 (CHA @ LAL)",
+"Under 227.5 (POR @ MIN)"
 ],
 "_game_day": "2026-11-17"
 }

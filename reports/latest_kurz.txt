@@ -1,15 +1,15 @@
 ÄNDERUNGEN:
-• NY @ TOR: Handicap TOR +4.5 → +2.5
-• Neue Tipps: Under 222.5 (CHA @ LAL)
-• Gestrichen: Under 221.5 (CHA @ LAL)
+• POR @ MIN: Total 225.5 → 227.5
+• Neue Tipps: Under 223.5 (CHA @ LAL); Under 227.5 (POR @ MIN)
+• Gestrichen: Under 222.5 (CHA @ LAL); Under 225.5 (POR @ MIN)
 
 TIPPS (ab Mindestquote):
-• Under 222.5 (CHA @ LAL) 57% – ab 1.81
-• Under 225.5 (POR @ MIN) 56% – ab 1.86
-• 2er-Kombi: Sieg SA + Sieg LAL – 58%, ab 1.78
+• Under 223.5 (CHA @ LAL) 58% – ab 1.79
+• Under 227.5 (POR @ MIN) 57% – ab 1.81
+• 2er-Kombi: Sieg SA + Sieg LAL – 58%, ab 1.77
 
-01:30 NY@TOR: NY 55% · O214.5 51%
-02:00 POR@MIN: MIN 55% · U225.5 56%
+01:30 NY@TOR: NY 55% · O215.5 50%
+02:00 POR@MIN: MIN 54% · U227.5 57%
 02:00 DET@SA: SA 80% · U221.5 50%
-04:30 UTAH@LAC: LAC 69% · U225.5 52%
-05:00 CHA@LAL: LAL 73% · U222.5 57%
+04:30 UTAH@LAC: LAC 68% · U226.5 53%
+05:00 CHA@LAL: LAL 73% · U223.5 58%

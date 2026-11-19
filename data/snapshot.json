@@ -9,17 +9,15 @@
 "Isaiah Stewart",
 "Jaylon Tyson",
 "Nae'Qwan Tomlin",
+"Peyton Watson",
 "Richie Saunders",
-"Sam Merrill",
 "Scotty Pippen Jr.",
 "Ty Jerome"
 ],
-"dtd": [
-"Peyton Watson"
-],
-"spread": -4.5,
-"total": 238.5,
-"p_home": 0.6067
+"dtd": [],
+"spread": null,
+"total": null,
+"p_home": 0.5116
 },
 "401910008": {
 "matchup": "HOU @ IND",
@@ -32,12 +30,10 @@
 "Johnny Furphy",
 "Tyrese Haliburton"
 ],
-"dtd": [
-"T.J. McConnell"
-],
-"spread": 9.5,
-"total": 225.5,
-"p_home": 0.2492
+"dtd": [],
+"spread": null,
+"total": null,
+"p_home": 0.2603
 },
 "401910009": {
 "matchup": "MIL @ MIA",
@@ -49,7 +45,7 @@
 "Ryan Rollins"
 ],
 "dtd": [],
-"spread": -12.5,
+"spread": -11.5,
 "total": 235.5,
 "p_home": 0.8385
 },
@@ -60,19 +56,19 @@
 "out": [
 "Adem Bona",
 "Ariel Hukporti",
+"Dean Wade",
 "Dominick Barlow",
 "Izaiyah Nelson",
 "Jaylen Brown",
 "Jonathan Isaac",
 "Noah Penda",
-"Paolo Banchero"
+"Paolo Banchero",
+"Tyrese Maxey"
 ],
-"dtd": [
-"Dean Wade"
-],
-"spread": -1.5,
-"total": 221.5,
-"p_home": 0.5341
+"dtd": [],
+"spread": null,
+"total": null,
+"p_home": 0.7718
 },
 "401910011": {
 "matchup": "CHI @ BKN",
@@ -105,8 +101,8 @@
 "Felix Okpara"
 ],
 "spread": -4.5,
-"total": 225.5,
-"p_home": 0.5931
+"total": 224.5,
+"p_home": 0.571
 },
 "401910013": {
 "matchup": "DET @ NO",
@@ -129,7 +125,7 @@
 ],
 "spread": 4.5,
 "total": 226.5,
-"p_home": 0.3656
+"p_home": 0.3606
 },
 "401910014": {
 "matchup": "ATL @ OKC",
@@ -142,7 +138,6 @@
 "Chet Holmgren",
 "Henri Veesaar",
 "Jalen Williams",
-"Jaylin Williams",
 "Jock Landale",
 "Kingston Flemings",
 "Mouhamed Gueye",
@@ -151,13 +146,14 @@
 "dtd": [],
 "spread": -6.5,
 "total": 228.5,
-"p_home": 0.7191
+"p_home": 0.728
 },
 "401910016": {
 "matchup": "GS @ DAL",
 "home": "DAL",
 "away": "GS",
 "out": [
+"Al Horford",
 "Brandon Williams",
 "Dereck Lively II",
 "Jimmy Butler III",
@@ -165,19 +161,13 @@
 "Moses Moody",
 "Sergio de Larrea",
 "Stephen Curry",
-"Tarik Biberovic"
+"Tarik Biberovic",
+"Tobi Lawal"
 ],
-"dtd": [
-"Al Horford",
-"Draymond Green",
-"Max Christie",
-"Santi Aldama",
-"Tobi Lawal",
-"Walter Clayton Jr."
-],
+"dtd": [],
 "spread": -4.5,
-"total": 225.5,
-"p_home": 0.6329
+"total": 223.5,
+"p_home": 0.6385
 },
 "401910015": {
 "matchup": "BOS @ DEN",
@@ -188,7 +178,7 @@
 ],
 "dtd": [],
 "spread": 2.5,
-"total": 218.5,
+"total": 219.5,
 "p_home": 0.4192
 },
 "401910017": {
@@ -204,7 +194,7 @@
 "dtd": [
 "Jaxson Hayes"
 ],
-"spread": -12.5,
+"spread": -11.5,
 "total": 230.5,
 "p_home": 0.7869
 },
@@ -224,7 +214,6 @@
 },
 "_tips": [
 "Under 228.5 (ATL @ OKC)",
-"Under 238.5 (MEM @ CLE)",
 "OKC -6.5 (ATL @ OKC)"
 ],
 "_game_day": "2026-11-18"

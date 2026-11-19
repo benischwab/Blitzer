@@ -1,29 +1,28 @@
 ÄNDERUNGEN:
-• HOU @ IND: Andrew Nembhard fällt NEU aus
-• HOU @ IND: Handicap IND +7.5 → +9.5
-• MIL @ MIA: Total 237.5 → 235.5
-• WSH @ TOR: RJ Barrett fällt NEU aus
-• UTAH @ LAL: Austin Reaves fällt NEU aus
-• UTAH @ LAL: Handicap LAL -10.5 → -12.5
-• UTAH @ LAL: Total 228.5 → 230.5
-• Neue Tipps: OKC -6.5 (ATL @ OKC)
+• MEM @ CLE: Peyton Watson fällt NEU aus
+• MEM @ CLE: Sam Merrill wieder dabei / nicht mehr out
+• MEM @ CLE: Sieg CLE 61% → 51%
+• PHI @ ORL: Dean Wade fällt NEU aus
+• PHI @ ORL: Tyrese Maxey fällt NEU aus
+• PHI @ ORL: Sieg ORL 53% → 77%
+• ATL @ OKC: Jaylin Williams wieder dabei / nicht mehr out
+• GS @ DAL: Al Horford fällt NEU aus
 
 TIPPS (ab Mindestquote):
 • Under 228.5 (ATL @ OKC) 57% – ab 1.82
-• Under 238.5 (MEM @ CLE) 57% – ab 1.82
-• OKC -6.5 (ATL @ OKC) 55% – ab 1.87
-• 2er-Kombi: Sieg MIA + Sieg OKC – 60%, ab 1.71
-• 3er-Kombi: Sieg MIA + Sieg OKC + Sieg DET – 38%, ab 2.69
+• OKC -6.5 (ATL @ OKC) 55% – ab 1.86
+• 2er-Kombi: Sieg LAL + Sieg OKC – 57%, ab 1.80
+• 3er-Kombi: Sieg MIA + Sieg OKC + Sieg DET – 39%, ab 2.64
 
-01:00 MEM@CLE: CLE 61% · U238.5 57%
-01:00 HOU@IND: HOU 75% · U225.5 51%
+01:00 MEM@CLE: CLE 51%
+01:00 HOU@IND: HOU 74%
 01:00 MIL@MIA: MIA 84% · U235.5 52%
-01:00 PHI@ORL: ORL 53% · U221.5 51%
+01:00 PHI@ORL: ORL 77%
 01:30 CHI@BKN: BKN 57% · U239.5 51%
-01:30 WSH@TOR: TOR 59% · U225.5 53%
-02:00 DET@NO: DET 63% · U226.5 51%
-02:00 ATL@OKC: OKC 72% · U228.5 57%
-02:00 GS@DAL: DAL 63% · U225.5 54%
-03:30 BOS@DEN: BOS 58% · O218.5 50%
+01:30 WSH@TOR: TOR 57% · U224.5 52%
+02:00 DET@NO: DET 64% · U226.5 51%
+02:00 ATL@OKC: OKC 73% · U228.5 57%
+02:00 GS@DAL: DAL 64% · U223.5 53%
+03:30 BOS@DEN: BOS 58% · U219.5 50%
 04:00 UTAH@LAL: LAL 79% · U230.5 54%
 04:00 PHX@SAC: PHX 68% · O226.5 52%

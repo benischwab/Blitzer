@@ -1484,56 +1484,56 @@
 "p_over": 0.5196
 },
 "401910019": {
-"p_home": 0.6817,
-"margin": 6.65,
-"total": 224.17,
+"p_home": 0.6573,
+"margin": 5.62,
+"total": 222.06,
 "matchup": "GS @ MEM",
 "home": "MEM",
 "away": "GS",
 "day": "2026-11-19",
-"home_spread": -6.5,
-"p_cover": 0.5047,
-"line_total": 226.5,
-"p_over": 0.4498
+"home_spread": -5.5,
+"p_cover": 0.5036,
+"line_total": 224.5,
+"p_over": 0.4475
 },
 "401910020": {
-"p_home": 0.2021,
-"margin": -11.23,
-"total": 228.38,
+"p_home": 0.1759,
+"margin": -12.52,
+"total": 227.78,
 "matchup": "POR @ MIL",
 "home": "MIL",
 "away": "POR",
 "day": "2026-11-19",
 "home_spread": 10.5,
-"p_cover": 0.4777,
-"line_total": 229.5,
-"p_over": 0.476
+"p_cover": 0.4382,
+"line_total": 230.5,
+"p_over": 0.4416
 },
 "401910021": {
 "p_home": 0.5245,
 "margin": 0.11,
-"total": 214.55,
+"total": 214.56,
 "matchup": "NY @ MIN",
 "home": "MIN",
 "away": "NY",
 "day": "2026-11-19",
 "home_spread": 1.5,
-"p_cover": 0.5492,
+"p_cover": 0.5491,
 "line_total": 216.5,
-"p_over": 0.458
+"p_over": 0.4581
 },
 "401910022": {
-"p_home": 0.8456,
+"p_home": 0.8455,
 "margin": 14.15,
-"total": 224.69,
+"total": 223.98,
 "matchup": "LAC @ SA",
 "home": "SA",
 "away": "LAC",
 "day": "2026-11-19",
 "home_spread": -15.5,
-"p_cover": 0.4587,
-"line_total": 225.5,
-"p_over": 0.4824
+"p_cover": 0.4586,
+"line_total": 224.5,
+"p_over": 0.4889
 }
 },
 "singles": {
@@ -1966,7 +1966,38 @@
 "label": "OKC -6.5"
 }
 ],
-"2026-11-19": []
+"2026-11-19": [
+{
+"game_id": "401910020",
+"matchup": "POR @ MIL",
+"market": "spread",
+"side": "POR",
+"line": -10.5,
+"p": 0.5618,
+"dk": 1.8547008547008548,
+"label": "POR -10.5"
+},
+{
+"game_id": "401910020",
+"matchup": "POR @ MIL",
+"market": "total",
+"side": "under",
+"line": 230.5,
+"p": 0.5584,
+"dk": 1.925925925925926,
+"label": "Under 230.5"
+},
+{
+"game_id": "401910019",
+"matchup": "GS @ MEM",
+"market": "total",
+"side": "under",
+"line": 224.5,
+"p": 0.5525,
+"dk": 1.9090909090909092,
+"label": "Under 224.5"
+}
+]
 },
 "combos": {
 "2026-11-04": [],

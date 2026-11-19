@@ -5,6 +5,7 @@
 "away": "GS",
 "out": [
 "Brandon Williams",
+"Draymond Green",
 "GG Jackson",
 "Jimmy Butler III",
 "Kristaps Porzingis",
@@ -12,16 +13,16 @@
 "Richie Saunders",
 "Scotty Pippen Jr.",
 "Stephen Curry",
-"Ty Jerome"
+"Ty Jerome",
+"Zach Edey"
 ],
 "dtd": [
-"Al Horford",
-"Draymond Green",
-"Isaiah Stewart"
+"Isaiah Stewart",
+"LJ Cryer"
 ],
-"spread": -6.5,
-"total": 226.5,
-"p_home": 0.6817
+"spread": -5.5,
+"total": 224.5,
+"p_home": 0.6573
 },
 "401910020": {
 "matchup": "POR @ MIL",
@@ -30,6 +31,8 @@
 "out": [
 "Chris Youngblood",
 "Ja Morant",
+"Kyle Kuzma",
+"Myles Turner",
 "Ousmane Dieng",
 "Robert Williams III",
 "Shaedon Sharpe",
@@ -37,12 +40,11 @@
 ],
 "dtd": [
 "Deni Avdija",
-"Ryan Rollins",
 "Toumani Camara"
 ],
 "spread": 10.5,
-"total": 229.5,
-"p_home": 0.2021
+"total": 230.5,
+"p_home": 0.1759
 },
 "401910021": {
 "matchup": "NY @ MIN",
@@ -54,8 +56,7 @@
 "Jaylen Clark"
 ],
 "dtd": [
-"Jonathan Kuminga",
-"Zyon Pullin"
+"Jonathan Kuminga"
 ],
 "spread": 1.5,
 "total": 216.5,
@@ -75,9 +76,13 @@
 ],
 "dtd": [],
 "spread": -15.5,
-"total": 225.5,
-"p_home": 0.8456
+"total": 224.5,
+"p_home": 0.8455
 },
-"_tips": [],
+"_tips": [
+"POR -10.5 (POR @ MIL)",
+"Under 230.5 (POR @ MIL)",
+"Under 224.5 (GS @ MEM)"
+],
 "_game_day": "2026-11-19"
 }

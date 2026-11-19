@@ -1,6 +1,14 @@
 # NBA-Tipps für die Nacht 19.11.–20.11.2026
 
-Stand: Do 19.11. 17:28 Uhr · 4 Spiele · Datenbasis: 222 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.7 Pkt/Team
+Stand: Do 19.11. 21:22 Uhr · 4 Spiele · Datenbasis: 222 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.7 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- GS @ MEM: Draymond Green fällt NEU aus
+- GS @ MEM: Zach Edey fällt NEU aus
+- GS @ MEM: Total 226.5 → 224.5
+- POR @ MIL: Kyle Kuzma fällt NEU aus
+- POR @ MIL: Myles Turner fällt NEU aus
+- Neue Tipps: POR -10.5 (POR @ MIL); Under 230.5 (POR @ MIL); Under 224.5 (GS @ MEM)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,19 +18,20 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 226.5 | GS @ MEM | 55% | 1.87 | +2.9% | **1.87** | _(nur mit besserer Quote)_
-| Sieg MEM | GS @ MEM | 68% | 1.41 | -3.8% | **1.51** | _(nur mit besserer Quote)_
+| POR -10.5 | POR @ MIL | 56% | 1.85 | +4.2% | **1.83** |
+| Under 230.5 | POR @ MIL | 56% | 1.93 | +7.5% | **1.84** |
+| Under 224.5 | GS @ MEM | 55% | 1.91 | +5.5% | **1.86** |
 
 **Sichere 2er-Kombi**
-- Sieg POR (POR @ MIL) — 80%, DK 1.21
-- Sieg MEM (GS @ MEM) — 68%, DK 1.41
-- **Trefferchance 54%** · DK-Quote 1.71 (-6.8%) · **lohnt ab Sporttip-Gesamtquote 1.89** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg SA (LAC @ SA) — 85%, DK 1.10
+- Sieg MEM (GS @ MEM) — 66%, DK 1.46
+- **Trefferchance 56%** · DK-Quote 1.60 (-11.0%) · **lohnt ab Sporttip-Gesamtquote 1.85** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
-- Karl-Anthony Towns (NY, NY @ MIN): über 32.5 P+R+A — 77% · lohnt ab Quote **1.33**
+- Karl-Anthony Towns (NY, NY @ MIN): über 32.5 P+R+A — 78% · lohnt ab Quote **1.33**
 - Deni Avdija (POR, POR @ MIL): über 31.5 P+R+A — 76% · lohnt ab Quote **1.35**
 - Jaden McDaniels (MIN, NY @ MIN): über 21.5 P+R+A — 77% · lohnt ab Quote **1.34**
 - Jalen Brunson (NY, NY @ MIN): über 29.5 P+R+A — 76% · lohnt ab Quote **1.36**
@@ -32,12 +41,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- GS @ MEM: Under 226.5 — Modell-Total 218.7 (64%)
+- POR @ MIL: Handicap POR -10.5 — Modell 68%
+- POR @ MIL: Under 230.5 — Modell-Total 221.4 (67%)
+- GS @ MEM: Under 224.5 — Modell-Total 216.4 (65%)
 - NY @ MIN: Handicap MIN +1.5 — Modell 64%
 - LAC @ SA: Handicap LAC +15.5 — Modell 62%
 - NY @ MIN: Under 216.5 — Modell-Total 210.0 (62%)
-- NY @ MIN: Sieg MIN — Modell 60% vs. Markt 49%
-- LAC @ SA: Sieg LAC — Modell 22% vs. Markt 12%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 82/115 richtig (71%), Brier 0.206
@@ -72,13 +81,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### GS @ MEM — Fr 02:00 Uhr
-**Sieg:** MEM 68% (faire Quote 1.47) · GS 32% (3.14) — Markt MEM 68%
-**Prognose:** MEM 115.4 – GS 108.8 (Diff. MEM +6.7, Total 224.2)
-**Handicap** MEM -6.5: MEM deckt 50% · GS +6.5 deckt 50%
-**Over/Under 226.5:** Over 45% (2.22) · Under 55% (1.82)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
+**Sieg:** MEM 66% (faire Quote 1.52) · GS 34% (2.92) — Markt MEM 66%
+**Prognose:** MEM 113.8 – GS 108.2 (Diff. MEM +5.6, Total 222.1)
+**Handicap** MEM -5.5: MEM deckt 50% · GS +5.5 deckt 50%
+**Over/Under 224.5:** Over 45% (2.23) · Under 55% (1.81)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** MEM NSSSS (+12.8) · GS SNNNN (-7.4)
-_MEM spielt Back-to-Back · MEM out: GG Jackson, Ty Jerome, Scotty Pippen Jr., Richie Saunders · MEM fraglich: Isaiah Stewart* · GS spielt Back-to-Back · GS out: Brandon Williams*, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Draymond Green*, Al Horford*_ (* = Meldung der letzten 24 h)
+_MEM spielt Back-to-Back · MEM out: Zach Edey*, Ty Jerome*, GG Jackson, Scotty Pippen Jr., Richie Saunders · MEM fraglich: Isaiah Stewart* · GS spielt Back-to-Back · GS out: Draymond Green*, Brandon Williams, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: LJ Cryer*_ (* = Meldung der letzten 24 h)
 > 📰 Memphis takes on Golden State, looks for 5th straight victory
 > 📰 Cooper Flagg scores 33 as Mavericks keep Warriors winless since Stephen Curry's injury
 
@@ -90,16 +99,15 @@ _MEM spielt Back-to-Back · MEM out: GG Jackson, Ty Jerome, Scotty Pippen Jr., R
 | Jerami Grant (MEM) | 23 | 11.3 (8.5 / 11.5) | 1.6 | 1.8 | 1.8 | 14.8 |
 | Yaxel Lendeborg (GS) | 31 | 19.9 (16.5 / 20.5) | 7.2 | 3.3 | 1.9 | 30.3 |
 | Brandin Podziemski (GS) | 31 | 15.5 (13.5 / 16.5) | 4.7 | 3.5 | 2.6 | 23.8 |
-| Draymond Green (GS) | 25 | 3.2 (1.5 / 3.5) | 4.5 | 6.2 | 0.3 | 13.9 |
 
 ### POR @ MIL — Fr 02:00 Uhr
-**Sieg:** MIL 20% (faire Quote 4.95) · POR 80% (1.25) — Markt MIL 21%
-**Prognose:** MIL 108.6 – POR 119.8 (Diff. POR +11.2, Total 228.4)
-**Handicap** MIL +10.5: MIL deckt 48% · POR -10.5 deckt 52%
-**Over/Under 229.5:** Over 48% (2.10) · Under 52% (1.91)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
+**Sieg:** MIL 18% (faire Quote 5.69) · POR 82% (1.21) — Markt MIL 20%
+**Prognose:** MIL 107.6 – POR 120.2 (Diff. POR +12.5, Total 227.8)
+**Handicap** MIL +10.5: MIL deckt 44% · POR -10.5 deckt 56%
+**Over/Under 230.5:** Over 44% (2.26) · Under 56% (1.79)
+**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** MIL NNNNN (-13.0) · POR SSSNN (+6.8)
-_MIL spielt Back-to-Back · MIL out: Ousmane Dieng · MIL fraglich: Ryan Rollins* · POR out: Chris Youngblood*, Robert Williams III*, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija*, Toumani Camara*_ (* = Meldung der letzten 24 h)
+_MIL spielt Back-to-Back · MIL out: Kyle Kuzma*, Myles Turner*, Ousmane Dieng · POR out: Chris Youngblood*, Robert Williams III*, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija*, Toumani Camara*_ (* = Meldung der letzten 24 h)
 > 📰 Milwaukee hosts Portland, looks to break home slide
 > 📰 Giannis Antetokounmpo, Bam Adebayo put Bucks drama aside as Heat hold on
 
@@ -107,8 +115,8 @@ _MIL spielt Back-to-Back · MIL out: Ousmane Dieng · MIL fraglich: Ryan Rollins
 |---|---|---|---|---|---|---|
 | Tyler Herro (MIL) | 29 | 17.5 (14.5 / 18.5) | 3.7 | 4.1 | 2.0 | 25.3 |
 | Jaime Jaquez Jr. (MIL) | 27 | 14.5 (11.5 / 14.5) | 4.9 | 3.2 | 2.0 | 22.6 |
-| Kyle Kuzma (MIL) | 27 | 13.0 (9.5 / 13.5) | 4.8 | 2.2 | 1.7 | 20.0 |
 | Brayden Burries (MIL) | 24 | 10.4 (7.5 / 10.5) | 5.8 | 2.4 | 1.2 | 18.6 |
+| Ryan Rollins (MIL) | 24 | 10.0 (8.5 / 10.5) | 5.4 | 3.7 | 1.6 | 19.1 |
 | Deni Avdija (POR) | 33 | 25.8 (23.5 / 26.5) | 6.1 | 5.9 | 2.3 | 37.7 |
 | Damian Lillard (POR) | 29 | 20.9 (18.5 / 21.5) | 2.8 | 4.4 | 3.4 | 28.0 |
 | Jrue Holiday (POR) | 27 | 14.1 (11.5 / 14.5) | 3.6 | 4.1 | 2.7 | 21.7 |
@@ -121,7 +129,8 @@ _MIL spielt Back-to-Back · MIL out: Ousmane Dieng · MIL fraglich: Ryan Rollins
 **Over/Under 216.5:** Over 46% (2.18) · Under 54% (1.85)
 **Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 218.5 (≥57%)
 **Form (letzte 5):** MIN SSNSS (+10.4) · NY SNNSS (+7.0)
-_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MIN fraglich: Zyon Pullin*, Jonathan Kuminga*_ (* = Meldung der letzten 24 h)
+_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MIN fraglich: Jonathan Kuminga*_ (* = Meldung der letzten 24 h)
+> 📰 Timberwolves' Edwards has 'no clue' on when he will return
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -135,19 +144,18 @@ _MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MIN fraglich: Zyon 
 | Landry Shamet (NY) | 26 | 10.5 (7.5 / 10.5) | 1.8 | 1.6 | 2.1 | 14.0 |
 
 ### LAC @ SA — Fr 02:00 Uhr
-**Sieg:** SA 85% (faire Quote 1.18) · LAC 15% (6.48) — Markt SA 88%
-**Prognose:** SA 119.4 – LAC 105.3 (Diff. SA +14.2, Total 224.7)
+**Sieg:** SA 85% (faire Quote 1.18) · LAC 15% (6.47) — Markt SA 88%
+**Prognose:** SA 119.1 – LAC 104.9 (Diff. SA +14.1, Total 224.0)
 **Handicap** SA -15.5: SA deckt 46% · LAC +15.5 deckt 54%
-**Over/Under 225.5:** Over 48% (2.07) · Under 52% (1.93)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
+**Over/Under 224.5:** Over 49% (2.05) · Under 51% (1.96)
+**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** SA SSSSN (+13.0) · LAC SNSSN (-4.6)
 _SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · LAC out: Brandon Ingram*, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
-> 📰 Spurs rule Dylan Harper out with hip soreness after slip on court
-> 📰 Updated NBA championship and MVP odds: Heat on the rise, Wemby ahead of Luka
+> 📰 Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
-| Victor Wembanyama (SA) | 30 | 29.4 (25.5 / 30.5) | 12.2 | 3.6 | 2.0 | 45.1 |
+| Victor Wembanyama (SA) | 30 | 29.4 (25.5 / 30.5) | 12.2 | 3.6 | 2.0 | 45.0 |
 | Stephon Castle (SA) | 29 | 15.9 (12.5 / 16.5) | 4.9 | 5.8 | 1.9 | 26.6 |
 | De'Aaron Fox (SA) | 28 | 12.6 (10.5 / 13.5) | 4.1 | 5.0 | 0.9 | 21.8 |
 | Devin Vassell (SA) | 30 | 11.3 (8.5 / 11.5) | 4.0 | 2.8 | 1.4 | 18.1 |

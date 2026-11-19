@@ -1,14 +1,6 @@
-Sieger 5/12 richtig · Ø-Fehler Total 14 Pkt · O/U 5/9
-❌ MEM 124–121 CLE (Prog. CLE 51%)
-✅ HOU 119–104 IND (Prog. HOU 74%)
-✅ MIL 130–137 MIA (Prog. MIA 84%)
-❌ PHI 121–116 ORL (Prog. ORL 77%)
-❌ CHI 137–107 BKN (Prog. BKN 57%)
-❌ WSH 103–99 TOR (Prog. TOR 57%)
-✅ DET 122–109 NO (Prog. DET 64%)
-❌ ATL 117–112 OKC (Prog. OKC 73%)
-✅ GS 94–116 DAL (Prog. DAL 64%)
-❌ BOS 101–105 DEN (Prog. BOS 58%)
-❌ UTAH 109–97 LAL (Prog. LAL 79%)
-✅ PHX 128–107 SAC (Prog. PHX 68%)
-Tipps: 0/2 · -2.00 Fr.
+• 2er-Kombi: Sieg POR + Sieg MEM – 54%, ab 1.89
+
+02:00 GS@MEM: MEM 68% · U226.5 55%
+02:00 POR@MIL: POR 80% · U229.5 52%
+02:00 NY@MIN: MIN 52% · U216.5 54%
+02:00 LAC@SA: SA 85% · U225.5 52%

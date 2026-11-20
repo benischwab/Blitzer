@@ -1,6 +1,12 @@
 # NBA-Tipps für die Nacht 20.11.–21.11.2026
 
-Stand: Fr 20.11. 17:21 Uhr · 9 Spiele · Datenbasis: 226 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.7 Pkt/Team
+Stand: Fr 20.11. 21:17 Uhr · 9 Spiele · Datenbasis: 226 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.7 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- TOR @ DET: Ronald Holland II wieder dabei / nicht mehr out
+- NO @ OKC: Nikola Topic fällt NEU aus
+- Neue Tipps: Under 219.5 (CHA @ ATL)
+- Gestrichen: Under 218.5 (CHA @ ATL)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,20 +16,20 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 218.5 | CHA @ ATL | 56% | 1.92 | +6.8% | **1.85** |
-| Sieg ATL | CHA @ ATL | 70% | 1.42 | +0.1% | **1.46** | _(nur mit besserer Quote)_
-| Sieg DET | TOR @ DET | 71% | 1.38 | -2.6% | **1.46** | _(nur mit besserer Quote)_
+| Under 219.5 | CHA @ ATL | 56% | 1.87 | +5.3% | **1.83** |
+| Sieg ATL | CHA @ ATL | 71% | 1.40 | -0.4% | **1.45** | _(nur mit besserer Quote)_
+| Sieg DET | TOR @ DET | 71% | 1.38 | -1.7% | **1.44** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Sieg OKC (NO @ OKC) — 83%, DK 1.17
 - Sieg DET (TOR @ DET) — 71%, DK 1.38
-- **Trefferchance 59%** · DK-Quote 1.61 (-5.4%) · **lohnt ab Sporttip-Gesamtquote 1.75** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 59%** · DK-Quote 1.61 (-4.5%) · **lohnt ab Sporttip-Gesamtquote 1.74** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg LAL (SAC @ LAL) — 84%, DK 1.11
-- Sieg ATL (CHA @ ATL) — 70%, DK 1.42
+- Sieg OKC (NO @ OKC) — 83%, DK 1.17
+- Sieg DET (TOR @ DET) — 71%, DK 1.38
 - Sieg PHX (PHX @ UTAH) — 60%, DK 1.54
-- **Trefferchance 36%** · DK-Quote 2.43 (-13.5%) · **lohnt ab Sporttip-Gesamtquote 2.89** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 36%** · DK-Quote 2.48 (-11.0%) · **lohnt ab Sporttip-Gesamtquote 2.87** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Luka Doncic (LAL, SAC @ LAL): über 44.5 P+R+A — 77% · lohnt ab Quote **1.34**
@@ -36,10 +42,10 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- CHA @ ATL: Under 218.5 — Modell-Total 209.7 (66%)
+- CHA @ ATL: Under 219.5 — Modell-Total 209.7 (68%)
 - HOU @ DEN: Handicap HOU +1.5 — Modell 64%
-- HOU @ DEN: Sieg HOU — Modell 60% vs. Markt 48%
-- CHA @ ATL: Handicap ATL -6.5 — Modell 62%
+- HOU @ DEN: Sieg HOU — Modell 60% vs. Markt 47%
+- ORL @ BKN: Sieg BKN — Modell 42% vs. Markt 30%
 - SAC @ LAL: Handicap SAC +14.5 — Modell 61%
 - NO @ OKC: Handicap OKC -11.5 — Modell 60%
 
@@ -69,15 +75,14 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### CHA @ ATL — Sa 01:00 Uhr
-**Sieg:** ATL 70% (faire Quote 1.42) · CHA 30% (3.38) — Markt ATL 68%
-**Prognose:** ATL 111.8 – CHA 104.0 (Diff. ATL +7.8, Total 215.8)
-**Handicap** ATL -6.5: ATL deckt 54% · CHA +6.5 deckt 46%
-**Over/Under 218.5:** Over 44% (2.26) · Under 56% (1.80)
-**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
+**Sieg:** ATL 71% (faire Quote 1.41) · CHA 29% (3.46) — Markt ATL 69%
+**Prognose:** ATL 112.5 – CHA 104.0 (Diff. ATL +8.5, Total 216.6)
+**Handicap** ATL -7.5: ATL deckt 53% · CHA +7.5 deckt 47%
+**Over/Under 219.5:** Over 44% (2.29) · Under 56% (1.78)
+**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** ATL SNNSS (-0.6) · CHA NSNNN (-8.8)
 _ATL out: Jock Landale*, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar · ATL fraglich: Kingston Flemings* · CHA out: Grant Williams*, Grayson Allen*, Kon Knueppel, Dennis Schroder_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
-> 📰 Hawks host Hornets Friday for NBA Cup group stage game
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -91,15 +96,15 @@ _ATL out: Jock Landale*, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar 
 | Sion James (CHA) | 28 | 5.9 (3.5 / 6.5) | 4.5 | 3.2 | 1.1 | 13.6 |
 
 ### ORL @ BKN — Sa 01:30 Uhr
-**Sieg:** BKN 36% (faire Quote 2.79) · ORL 64% (1.56) — Markt BKN 33%
-**Prognose:** BKN 110.2 – ORL 114.8 (Diff. ORL +4.7, Total 225.0)
-**Handicap** BKN +5.5: BKN deckt 52% · ORL -5.5 deckt 48%
-**Over/Under 223.5:** Over 53% (1.88) · Under 47% (2.14)
-**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 228.5 (≥57%)
+**Sieg:** BKN 34% (faire Quote 2.95) · ORL 66% (1.51) — Markt BKN 30%
+**Prognose:** BKN 110.2 – ORL 115.5 (Diff. ORL +5.4, Total 225.7)
+**Handicap** BKN +6.5: BKN deckt 53% · ORL -6.5 deckt 47%
+**Over/Under 224.5:** Over 53% (1.90) · Under 47% (2.11)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** BKN NSNNN (-12.8) · ORL SSSSN (+7.0)
 _BKN out: Grant Nelson* · ORL out: Izaiyah Nelson, Jonathan Isaac, Noah Penda, Paolo Banchero_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
-> 📰 Nets and Magic meet Friday in NBA Cup group stage
+> 📰 Randle sounds off after Bulls rout Nets: 'That was embarrassing'
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -114,13 +119,12 @@ _BKN out: Grant Nelson* · ORL out: Izaiyah Nelson, Jonathan Isaac, Noah Penda, 
 
 ### IND @ CLE — Sa 01:30 Uhr
 **Sieg:** CLE 65% (faire Quote 1.55) · IND 35% (2.83) — Markt CLE 67%
-**Prognose:** CLE 118.5 – IND 113.7 (Diff. CLE +4.9, Total 232.2)
+**Prognose:** CLE 118.9 – IND 114.0 (Diff. CLE +4.9, Total 232.9)
 **Handicap** CLE -5.5: CLE deckt 48% · IND +5.5 deckt 52%
-**Over/Under 233.5:** Over 47% (2.12) · Under 53% (1.89)
-**Total-Faustregel:** Over lohnt bis 228.5 · Under lohnt ab 235.5 (≥57%)
+**Over/Under 234.5:** Over 47% (2.15) · Under 53% (1.87)
+**Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 236.5 (≥57%)
 **Form (letzte 5):** CLE SNSSN (+2.8) · IND NSSNN (-2.0)
 _CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Evan Mobley · CLE fraglich: Peyton Watson* · IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell*, Andrew Nembhard*, Braden Smith*_ (* = Meldung der letzten 24 h)
-> 📰 Pacers visit Cavaliers Friday in NBA Cup group stage
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -134,14 +138,13 @@ _CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Evan Mobley · CLE fraglich: Peyton Wa
 | Aaron Nesmith (IND) | 28 | 11.2 (8.5 / 11.5) | 3.1 | 2.1 | 1.4 | 16.3 |
 
 ### TOR @ DET — Sa 01:30 Uhr
-**Sieg:** DET 71% (faire Quote 1.42) · TOR 29% (3.40) — Markt DET 70%
-**Prognose:** DET 111.4 – TOR 104.2 (Diff. DET +7.2, Total 215.6)
-**Handicap** DET -6.5: DET deckt 52% · TOR +6.5 deckt 48%
-**Over/Under 216.5:** Over 48% (2.09) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 211.5 · Under lohnt ab 219.5 (≥57%)
+**Sieg:** DET 71% (faire Quote 1.40) · TOR 29% (3.48) — Markt DET 70%
+**Prognose:** DET 111.7 – TOR 104.2 (Diff. DET +7.5, Total 215.9)
+**Handicap** DET -6.5: DET deckt 53% · TOR +6.5 deckt 47%
+**Over/Under 216.5:** Over 49% (2.06) · Under 51% (1.95)
+**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
 **Form (letzte 5):** DET SSNSS (+4.0) · TOR NNNNN (-6.6)
-_DET out: Taurean Prince*, Ebuka Okorie*, Ronald Holland II*, Duncan Robinson, Jalen Duren · DET fraglich: Cade Cunningham*, Ugonna Onyenso · TOR out: Collin Murray-Boyles*, RJ Barrett*, Kawhi Leonard, Nate Bittle_ (* = Meldung der letzten 24 h)
-> 📰 Pistons host Raptors Friday for NBA Cup group stage matchup
+_DET out: Taurean Prince*, Ebuka Okorie*, Duncan Robinson, Jalen Duren · DET fraglich: Ronald Holland II*, Cade Cunningham*, Ugonna Onyenso · TOR out: Collin Murray-Boyles*, RJ Barrett*, Kawhi Leonard, Nate Bittle_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -156,35 +159,33 @@ _DET out: Taurean Prince*, Ebuka Okorie*, Ronald Holland II*, Duncan Robinson, J
 
 ### WSH @ CHI — Sa 02:00 Uhr
 **Sieg:** CHI 55% (faire Quote 1.81) · WSH 45% (2.24) — Markt CHI 55%
-**Prognose:** CHI 120.4 – WSH 118.1 (Diff. CHI +2.4, Total 238.5)
+**Prognose:** CHI 120.1 – WSH 117.7 (Diff. CHI +2.4, Total 237.8)
 **Handicap** CHI -2.5: CHI deckt 50% · WSH +2.5 deckt 50%
-**Over/Under 238.5:** Over 50% (2.00) · Under 50% (2.00)
-**Total-Faustregel:** Over lohnt bis 234.5 · Under lohnt ab 242.5 (≥57%)
+**Over/Under 237.5:** Over 51% (1.97) · Under 49% (2.03)
+**Total-Faustregel:** Over lohnt bis 234.5 · Under lohnt ab 241.5 (≥57%)
 **Form (letzte 5):** CHI NSSNS (+6.6) · WSH NNNNS (-11.4)
-_CHI out: Tobe Awaka, Caleb Wilson · CHI fraglich: Noa Essengue* · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Felix Okpara_ (* = Meldung der letzten 24 h)
+_CHI out: Tobe Awaka, Caleb Wilson · CHI fraglich: Jalen Smith*, Noa Essengue* · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Felix Okpara_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
-> 📰 Wizards visit Bulls Friday in NBA Cup group stage
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
-| Norman Powell (CHI) | 29 | 22.4 (19.5 / 23.5) | 2.8 | 2.7 | 2.5 | 27.7 |
+| Norman Powell (CHI) | 29 | 22.3 (19.5 / 23.5) | 2.8 | 2.7 | 2.5 | 27.7 |
 | Matas Buzelis (CHI) | 28 | 16.7 (14.5 / 17.5) | 4.8 | 2.1 | 2.5 | 23.4 |
 | Jalen Smith (CHI) | 25 | 14.3 (11.5 / 15.5) | 7.9 | 2.3 | 2.1 | 24.6 |
 | Josh Giddey (CHI) | 28 | 11.5 (9.5 / 12.5) | 6.3 | 8.7 | 1.4 | 26.6 |
 | Anthony Davis (WSH) | 34 | 26.2 (23.5 / 27.5) | 10.3 | 2.1 | 0.8 | 38.4 |
-| Kyshawn George (WSH) | 34 | 19.0 (16.5 / 19.5) | 4.1 | 4.2 | 2.8 | 27.2 |
+| Kyshawn George (WSH) | 34 | 19.0 (16.5 / 19.5) | 4.1 | 4.2 | 2.8 | 27.1 |
 | AJ Dybantsa (WSH) | 34 | 17.5 (14.5 / 18.5) | 7.0 | 2.3 | 0.9 | 26.7 |
 | Trae Young (WSH) | 35 | 17.4 (13.5 / 17.5) | 2.5 | 8.7 | 2.0 | 28.6 |
 
 ### NO @ OKC — Sa 02:00 Uhr
 **Sieg:** OKC 83% (faire Quote 1.20) · NO 17% (5.98) — Markt OKC 82%
-**Prognose:** OKC 120.2 – NO 107.6 (Diff. OKC +12.7, Total 227.8)
+**Prognose:** OKC 119.9 – NO 107.2 (Diff. OKC +12.7, Total 227.1)
 **Handicap** OKC -11.5: OKC deckt 54% · NO +11.5 deckt 46%
-**Over/Under 228.5:** Over 48% (2.06) · Under 52% (1.94)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
+**Over/Under 227.5:** Over 49% (2.04) · Under 51% (1.97)
+**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** OKC NNNSN (-2.8) · NO NNNSN (-13.0)
-_OKC out: Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Alex Caruso* · NO out: Bryce McGowens*, Trendon Watford*, Bennedict Mathurin*, Trey Murphy III*, Dejounte Murray_ (* = Meldung der letzten 24 h)
-> 📰 Pelicans visit Thunder Friday in NBA Cup group stage
+_OKC out: Nikola Topic*, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Alex Caruso* · NO out: Bryce McGowens*, Trendon Watford*, Bennedict Mathurin*, Trey Murphy III*, Dejounte Murray_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -199,10 +200,10 @@ _OKC out: Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fra
 
 ### PHX @ UTAH — Sa 03:30 Uhr
 **Sieg:** UTAH 40% (faire Quote 2.52) · PHX 60% (1.66) — Markt UTAH 38%
-**Prognose:** UTAH 110.4 – PHX 114.2 (Diff. PHX +3.8, Total 224.6)
+**Prognose:** UTAH 110.7 – PHX 114.5 (Diff. PHX +3.8, Total 225.3)
 **Handicap** UTAH +4.5: UTAH deckt 52% · PHX -4.5 deckt 48%
-**Over/Under 224.5:** Over 50% (1.99) · Under 50% (2.01)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
+**Over/Under 225.5:** Over 50% (2.02) · Under 50% (1.98)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** UTAH NNNSS (+1.4) · PHX SSNSS (+10.6)
 _UTAH out: Jusuf Nurkic*, Lauri Markkanen, Jaren Jackson Jr. · PHX out: Mark Williams_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
@@ -220,7 +221,7 @@ _UTAH out: Jusuf Nurkic*, Lauri Markkanen, Jaren Jackson Jr. · PHX out: Mark Wi
 | Jalen Green (PHX) | 27 | 12.6 (10.5 / 13.5) | 3.9 | 3.2 | 1.4 | 19.8 |
 
 ### HOU @ DEN — Sa 04:00 Uhr
-**Sieg:** DEN 49% (faire Quote 2.06) · HOU 51% (1.95) — Markt DEN 52%
+**Sieg:** DEN 49% (faire Quote 2.03) · HOU 51% (1.97) — Markt DEN 53%
 **Prognose:** DEN 113.1 – HOU 113.1 (Diff. HOU +0.0, Total 226.1)
 **Handicap** DEN -1.5: DEN deckt 45% · HOU +1.5 deckt 55%
 **Over/Under 226.5:** Over 49% (2.03) · Under 51% (1.97)
@@ -242,7 +243,7 @@ _DEN out: Julian Strawther · HOU out: Clint Capela* · HOU fraglich: Steven Ada
 | Jabari Smith Jr. (HOU) | 32 | 14.1 (11.5 / 14.5) | 6.4 | 2.1 | 2.2 | 22.6 |
 
 ### SAC @ LAL — Sa 04:00 Uhr
-**Sieg:** LAL 84% (faire Quote 1.19) · SAC 16% (6.16) — Markt LAL 87%
+**Sieg:** LAL 83% (faire Quote 1.20) · SAC 17% (6.02) — Markt LAL 86%
 **Prognose:** LAL 121.5 – SAC 108.1 (Diff. LAL +13.3, Total 229.6)
 **Handicap** LAL -14.5: LAL deckt 46% · SAC +14.5 deckt 54%
 **Over/Under 229.5:** Over 50% (1.99) · Under 50% (2.01)

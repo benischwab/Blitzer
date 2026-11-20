@@ -1,14 +1,20 @@
-TIPPS (ab Mindestquote):
-• Under 218.5 (CHA @ ATL) 56% – ab 1.85
-• 2er-Kombi: Sieg OKC + Sieg DET – 59%, ab 1.75
-• 3er-Kombi: Sieg LAL + Sieg ATL + Sieg PHX – 36%, ab 2.89
+ÄNDERUNGEN:
+• TOR @ DET: Ronald Holland II wieder dabei / nicht mehr out
+• NO @ OKC: Nikola Topic fällt NEU aus
+• Neue Tipps: Under 219.5 (CHA @ ATL)
+• Gestrichen: Under 218.5 (CHA @ ATL)
 
-01:00 CHA@ATL: ATL 70% · U218.5 56%
-01:30 ORL@BKN: ORL 64% · O223.5 53%
-01:30 IND@CLE: CLE 65% · U233.5 53%
-01:30 TOR@DET: DET 71% · U216.5 52%
-02:00 WSH@CHI: CHI 55% · O238.5 50%
-02:00 NO@OKC: OKC 83% · U228.5 52%
-03:30 PHX@UTAH: PHX 60% · O224.5 50%
+TIPPS (ab Mindestquote):
+• Under 219.5 (CHA @ ATL) 56% – ab 1.83
+• 2er-Kombi: Sieg OKC + Sieg DET – 59%, ab 1.74
+• 3er-Kombi: Sieg OKC + Sieg DET + Sieg PHX – 36%, ab 2.87
+
+01:00 CHA@ATL: ATL 71% · U219.5 56%
+01:30 ORL@BKN: ORL 66% · O224.5 53%
+01:30 IND@CLE: CLE 65% · U234.5 53%
+01:30 TOR@DET: DET 71% · U216.5 51%
+02:00 WSH@CHI: CHI 55% · O237.5 51%
+02:00 NO@OKC: OKC 83% · U227.5 51%
+03:30 PHX@UTAH: PHX 60% · U225.5 50%
 04:00 HOU@DEN: HOU 51% · U226.5 51%
-04:00 SAC@LAL: LAL 84% · O229.5 50%
+04:00 SAC@LAL: LAL 83% · O229.5 50%

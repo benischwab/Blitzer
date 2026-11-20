@@ -1,10 +1,10 @@
 # NBA-Tipps für die Nacht 19.11.–20.11.2026
 
-Stand: Do 19.11. 23:53 Uhr · 4 Spiele · Datenbasis: 222 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.7 Pkt/Team
+Stand: Fr 20.11. 01:06 Uhr · 4 Spiele · Datenbasis: 222 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.7 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- Neue Tipps: Under 225.5 (GS @ MEM); POR -11.5 (POR @ MIL)
-- Gestrichen: POR -10.5 (POR @ MIL); Under 224.5 (GS @ MEM)
+- Neue Tipps: Under 224.5 (GS @ MEM)
+- Gestrichen: Under 225.5 (GS @ MEM)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -14,14 +14,14 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 225.5 | GS @ MEM | 56% | 1.91 | +6.7% | **1.84** |
 | Under 230.5 | POR @ MIL | 56% | 1.93 | +7.5% | **1.84** |
 | POR -11.5 | POR @ MIL | 55% | 1.93 | +6.4% | **1.86** |
+| Under 224.5 | GS @ MEM | 55% | 1.95 | +7.9% | **1.86** |
 
 **Sichere 2er-Kombi**
 - Sieg SA (LAC @ SA) — 84%, DK 1.10
 - Sieg MEM (GS @ MEM) — 66%, DK 1.46
-- **Trefferchance 55%** · DK-Quote 1.61 (-11.0%) · **lohnt ab Sporttip-Gesamtquote 1.86** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 55%** · DK-Quote 1.60 (-11.0%) · **lohnt ab Sporttip-Gesamtquote 1.86** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -37,9 +37,9 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- GS @ MEM: Under 225.5 — Modell-Total 216.4 (67%)
 - POR @ MIL: Under 230.5 — Modell-Total 221.4 (67%)
 - POR @ MIL: Handicap POR -11.5 — Modell 65%
+- GS @ MEM: Under 224.5 — Modell-Total 216.4 (65%)
 - NY @ MIN: Handicap MIN +1.5 — Modell 64%
 - LAC @ SA: Handicap LAC +15.5 — Modell 62%
 - NY @ MIN: Under 216.5 — Modell-Total 210.0 (62%)
@@ -77,13 +77,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### GS @ MEM — Fr 02:00 Uhr
-**Sieg:** MEM 66% (faire Quote 1.52) · GS 34% (2.91) — Markt MEM 66%
-**Prognose:** MEM 114.2 – GS 108.6 (Diff. MEM +5.6, Total 222.8)
+**Sieg:** MEM 66% (faire Quote 1.52) · GS 34% (2.92) — Markt MEM 66%
+**Prognose:** MEM 113.8 – GS 108.2 (Diff. MEM +5.6, Total 222.1)
 **Handicap** MEM -5.5: MEM deckt 50% · GS +5.5 deckt 50%
-**Over/Under 225.5:** Over 44% (2.27) · Under 56% (1.79)
-**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
+**Over/Under 224.5:** Over 45% (2.23) · Under 55% (1.81)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** MEM NSSSS (+12.8) · GS SNNNN (-7.4)
-_MEM spielt Back-to-Back · MEM out: Zach Edey*, Ty Jerome*, GG Jackson, Scotty Pippen Jr., Richie Saunders · MEM fraglich: Isaiah Stewart* · GS spielt Back-to-Back · GS out: Draymond Green*, Brandon Williams, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: LJ Cryer*_ (* = Meldung der letzten 24 h)
+_MEM spielt Back-to-Back · MEM out: Zach Edey*, Ty Jerome*, GG Jackson, Scotty Pippen Jr., Richie Saunders · MEM fraglich: Isaiah Stewart* · GS spielt Back-to-Back · GS out: Draymond Green*, Brandon Williams, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III_ (* = Meldung der letzten 24 h)
 > 📰 Memphis takes on Golden State, looks for 5th straight victory
 > 📰 Cooper Flagg scores 33 as Mavericks keep Warriors winless since Stephen Curry's injury
 
@@ -103,7 +103,7 @@ _MEM spielt Back-to-Back · MEM out: Zach Edey*, Ty Jerome*, GG Jackson, Scotty 
 **Over/Under 230.5:** Over 44% (2.26) · Under 56% (1.79)
 **Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** MIL NNNNN (-13.0) · POR SSSNN (+6.8)
-_MIL spielt Back-to-Back · MIL out: Kyle Kuzma*, Myles Turner*, Ousmane Dieng · POR out: Chris Youngblood*, Robert Williams III*, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija*, Toumani Camara_ (* = Meldung der letzten 24 h)
+_MIL spielt Back-to-Back · MIL out: Kyle Kuzma*, Myles Turner*, Ousmane Dieng · POR out: Chris Youngblood*, Robert Williams III, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija, Toumani Camara_ (* = Meldung der letzten 24 h)
 > 📰 Milwaukee hosts Portland, looks to break home slide
 > 📰 Giannis Antetokounmpo, Bam Adebayo put Bucks drama aside as Heat hold on
 
@@ -125,7 +125,7 @@ _MIL spielt Back-to-Back · MIL out: Kyle Kuzma*, Myles Turner*, Ousmane Dieng �
 **Over/Under 216.5:** Over 46% (2.18) · Under 54% (1.85)
 **Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 218.5 (≥57%)
 **Form (letzte 5):** MIN SSNSS (+10.4) · NY SNNSS (+7.0)
-_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MIN fraglich: Jonathan Kuminga*_ (* = Meldung der letzten 24 h)
+_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MIN fraglich: Jonathan Kuminga_
 > 📰 Timberwolves' Edwards has 'no clue' on when he will return
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -140,13 +140,13 @@ _MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MIN fraglich: Jonat
 | Landry Shamet (NY) | 26 | 10.5 (7.5 / 10.5) | 1.8 | 1.6 | 2.1 | 14.0 |
 
 ### LAC @ SA — Fr 02:00 Uhr
-**Sieg:** SA 84% (faire Quote 1.18) · LAC 16% (6.43) — Markt SA 87%
+**Sieg:** SA 84% (faire Quote 1.18) · LAC 16% (6.42) — Markt SA 87%
 **Prognose:** SA 119.1 – LAC 104.9 (Diff. SA +14.1, Total 224.0)
 **Handicap** SA -15.5: SA deckt 46% · LAC +15.5 deckt 54%
 **Over/Under 224.5:** Over 49% (2.05) · Under 51% (1.96)
 **Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** SA SSSSN (+13.0) · LAC SNSSN (-4.6)
-_SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · LAC out: Brandon Ingram*, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
+_SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · LAC out: Brandon Ingram, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
 > 📰 Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |

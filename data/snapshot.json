@@ -17,12 +17,11 @@
 "Zach Edey"
 ],
 "dtd": [
-"Isaiah Stewart",
-"LJ Cryer"
+"Isaiah Stewart"
 ],
 "spread": -5.5,
-"total": 225.5,
-"p_home": 0.6565
+"total": 224.5,
+"p_home": 0.6573
 },
 "401910020": {
 "matchup": "POR @ MIL",
@@ -80,9 +79,9 @@
 "p_home": 0.8444
 },
 "_tips": [
-"Under 225.5 (GS @ MEM)",
 "Under 230.5 (POR @ MIL)",
-"POR -11.5 (POR @ MIL)"
+"POR -11.5 (POR @ MIL)",
+"Under 224.5 (GS @ MEM)"
 ],
 "_game_day": "2026-11-19"
 }

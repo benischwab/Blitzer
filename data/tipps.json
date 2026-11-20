@@ -1484,17 +1484,17 @@
 "p_over": 0.5196
 },
 "401910019": {
-"p_home": 0.6565,
+"p_home": 0.6573,
 "margin": 5.62,
-"total": 222.76,
+"total": 222.06,
 "matchup": "GS @ MEM",
 "home": "MEM",
 "away": "GS",
 "day": "2026-11-19",
 "home_spread": -5.5,
 "p_cover": 0.5036,
-"line_total": 225.5,
-"p_over": 0.4411
+"line_total": 224.5,
+"p_over": 0.4475
 },
 "401910020": {
 "p_home": 0.1714,
@@ -1531,7 +1531,7 @@
 "away": "LAC",
 "day": "2026-11-19",
 "home_spread": -15.5,
-"p_cover": 0.4586,
+"p_cover": 0.4585,
 "line_total": 224.5,
 "p_over": 0.4889
 }
@@ -1968,16 +1968,6 @@
 ],
 "2026-11-19": [
 {
-"game_id": "401910019",
-"matchup": "GS @ MEM",
-"market": "total",
-"side": "under",
-"line": 225.5,
-"p": 0.5589,
-"dk": 1.9090909090909092,
-"label": "Under 225.5"
-},
-{
 "game_id": "401910020",
 "matchup": "POR @ MIL",
 "market": "total",
@@ -1996,6 +1986,16 @@
 "p": 0.5526,
 "dk": 1.925925925925926,
 "label": "POR -11.5"
+},
+{
+"game_id": "401910019",
+"matchup": "GS @ MEM",
+"market": "total",
+"side": "under",
+"line": 224.5,
+"p": 0.5525,
+"dk": 1.9523809523809523,
+"label": "Under 224.5"
 }
 ]
 },

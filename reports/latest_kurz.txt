@@ -1,14 +1,14 @@
 ÄNDERUNGEN:
-• Neue Tipps: Under 225.5 (GS @ MEM); POR -11.5 (POR @ MIL)
-• Gestrichen: POR -10.5 (POR @ MIL); Under 224.5 (GS @ MEM)
+• Neue Tipps: Under 224.5 (GS @ MEM)
+• Gestrichen: Under 225.5 (GS @ MEM)
 
 TIPPS (ab Mindestquote):
-• Under 225.5 (GS @ MEM) 56% – ab 1.84
 • Under 230.5 (POR @ MIL) 56% – ab 1.84
 • POR -11.5 (POR @ MIL) 55% – ab 1.86
+• Under 224.5 (GS @ MEM) 55% – ab 1.86
 • 2er-Kombi: Sieg SA + Sieg MEM – 55%, ab 1.86
 
-02:00 GS@MEM: MEM 66% · U225.5 56%
+02:00 GS@MEM: MEM 66% · U224.5 55%
 02:00 POR@MIL: POR 83% · U230.5 56%
 02:00 NY@MIN: MIN 52% · U216.5 54%
 02:00 LAC@SA: SA 84% · U224.5 51%

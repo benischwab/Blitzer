@@ -1,87 +1,179 @@
 {
-"401910019": {
-"matchup": "GS @ MEM",
-"home": "MEM",
-"away": "GS",
+"401909305": {
+"matchup": "CHA @ ATL",
+"home": "ATL",
+"away": "CHA",
 "out": [
-"Brandon Williams",
-"Draymond Green",
-"GG Jackson",
-"Jimmy Butler III",
-"Kristaps Porzingis",
-"Moses Moody",
-"Richie Saunders",
-"Scotty Pippen Jr.",
-"Stephen Curry",
-"Ty Jerome",
-"Zach Edey"
+"Asa Newell",
+"CJ McCollum",
+"Dennis Schroder",
+"Grant Williams",
+"Grayson Allen",
+"Henri Veesaar",
+"Jock Landale",
+"Kon Knueppel",
+"Mouhamed Gueye"
 ],
 "dtd": [
-"Isaiah Stewart"
+"Kingston Flemings"
 ],
-"spread": -5.5,
-"total": 224.5,
-"p_home": 0.6573
+"spread": -6.5,
+"total": 218.5,
+"p_home": 0.7042
 },
-"401910020": {
-"matchup": "POR @ MIL",
-"home": "MIL",
-"away": "POR",
+"401909306": {
+"matchup": "ORL @ BKN",
+"home": "BKN",
+"away": "ORL",
 "out": [
-"Chris Youngblood",
-"Ja Morant",
-"Kyle Kuzma",
-"Myles Turner",
-"Ousmane Dieng",
-"Robert Williams III",
-"Shaedon Sharpe",
-"Vit Krejci"
-],
-"dtd": [
-"Deni Avdija",
-"Toumani Camara"
-],
-"spread": 11.5,
-"total": 230.5,
-"p_home": 0.1714
-},
-"401910021": {
-"matchup": "NY @ MIN",
-"home": "MIN",
-"away": "NY",
-"out": [
-"Anthony Edwards",
-"Donte DiVincenzo",
-"Jaylen Clark"
-],
-"dtd": [
-"Jonathan Kuminga"
-],
-"spread": 1.5,
-"total": 216.5,
-"p_home": 0.5244
-},
-"401910022": {
-"matchup": "LAC @ SA",
-"home": "SA",
-"away": "LAC",
-"out": [
-"Bradley Beal",
-"Brandon Ingram",
-"Dylan Harper",
-"Jayden Quaintance",
-"Jordan Miller",
-"Tobias Harris"
+"Grant Nelson",
+"Izaiyah Nelson",
+"Jonathan Isaac",
+"Noah Penda",
+"Paolo Banchero"
 ],
 "dtd": [],
-"spread": -15.5,
+"spread": 5.5,
+"total": 223.5,
+"p_home": 0.3583
+},
+"401909307": {
+"matchup": "IND @ CLE",
+"home": "CLE",
+"away": "IND",
+"out": [
+"Ben Sheppard",
+"Evan Mobley",
+"Jaylon Tyson",
+"Johnny Furphy",
+"Nae'Qwan Tomlin",
+"Tyrese Haliburton"
+],
+"dtd": [
+"Andrew Nembhard",
+"Braden Smith",
+"Peyton Watson",
+"T.J. McConnell"
+],
+"spread": -5.5,
+"total": 233.5,
+"p_home": 0.6467
+},
+"401909308": {
+"matchup": "TOR @ DET",
+"home": "DET",
+"away": "TOR",
+"out": [
+"Collin Murray-Boyles",
+"Duncan Robinson",
+"Ebuka Okorie",
+"Jalen Duren",
+"Kawhi Leonard",
+"Nate Bittle",
+"RJ Barrett",
+"Ronald Holland II",
+"Taurean Prince"
+],
+"dtd": [
+"Cade Cunningham",
+"Ugonna Onyenso"
+],
+"spread": -6.5,
+"total": 216.5,
+"p_home": 0.7062
+},
+"401909309": {
+"matchup": "WSH @ CHI",
+"home": "CHI",
+"away": "WSH",
+"out": [
+"Caleb Wilson",
+"Jamir Watkins",
+"Justin Champagnie",
+"Reece Beekman",
+"Tobe Awaka",
+"Tristan Vukcevic"
+],
+"dtd": [
+"Felix Okpara",
+"Noa Essengue"
+],
+"spread": -2.5,
+"total": 238.5,
+"p_home": 0.553
+},
+"401909310": {
+"matchup": "NO @ OKC",
+"home": "OKC",
+"away": "NO",
+"out": [
+"Bennedict Mathurin",
+"Bryce McGowens",
+"Cason Wallace",
+"Chet Holmgren",
+"Dejounte Murray",
+"Jalen Williams",
+"Thomas Sorber",
+"Trendon Watford",
+"Trey Murphy III"
+],
+"dtd": [
+"Alex Caruso"
+],
+"spread": -11.5,
+"total": 228.5,
+"p_home": 0.8327
+},
+"401909311": {
+"matchup": "PHX @ UTAH",
+"home": "UTAH",
+"away": "PHX",
+"out": [
+"Jaren Jackson Jr.",
+"Jusuf Nurkic",
+"Lauri Markkanen",
+"Mark Williams"
+],
+"dtd": [],
+"spread": 4.5,
 "total": 224.5,
-"p_home": 0.8444
+"p_home": 0.3963
+},
+"401909312": {
+"matchup": "HOU @ DEN",
+"home": "DEN",
+"away": "HOU",
+"out": [
+"Clint Capela",
+"Julian Strawther"
+],
+"dtd": [
+"Alperen Sengun",
+"Steven Adams"
+],
+"spread": -1.5,
+"total": 226.5,
+"p_home": 0.4864
+},
+"401909313": {
+"matchup": "SAC @ LAL",
+"home": "LAL",
+"away": "SAC",
+"out": [
+"Austin Reaves",
+"Ben Simmons",
+"Maxime Raynaud"
+],
+"dtd": [
+"De'Andre Hunter",
+"Precious Achiuwa"
+],
+"spread": -14.5,
+"total": 229.5,
+"p_home": 0.8378
 },
 "_tips": [
-"Under 230.5 (POR @ MIL)",
-"POR -11.5 (POR @ MIL)",
-"Under 224.5 (GS @ MEM)"
+"Under 218.5 (CHA @ ATL)"
 ],
-"_game_day": "2026-11-19"
+"_game_day": "2026-11-20"
 }

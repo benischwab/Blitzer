@@ -11,15 +11,14 @@
 "Grayson Allen",
 "Henri Veesaar",
 "Jock Landale",
+"Kingston Flemings",
 "Kon Knueppel",
 "Mouhamed Gueye"
 ],
-"dtd": [
-"Kingston Flemings"
-],
+"dtd": [],
 "spread": -7.5,
 "total": 219.5,
-"p_home": 0.7109
+"p_home": 0.711
 },
 "401909306": {
 "matchup": "ORL @ BKN",
@@ -35,7 +34,7 @@
 "dtd": [],
 "spread": 6.5,
 "total": 224.5,
-"p_home": 0.3393
+"p_home": 0.3394
 },
 "401909307": {
 "matchup": "IND @ CLE",
@@ -57,7 +56,7 @@
 ],
 "spread": -5.5,
 "total": 234.5,
-"p_home": 0.6467
+"p_home": 0.6466
 },
 "401909308": {
 "matchup": "TOR @ DET",
@@ -100,8 +99,8 @@
 "Noa Essengue"
 ],
 "spread": -2.5,
-"total": 237.5,
-"p_home": 0.553
+"total": 238.5,
+"p_home": 0.5469
 },
 "401909310": {
 "matchup": "NO @ OKC",
@@ -155,7 +154,7 @@
 ],
 "spread": -1.5,
 "total": 226.5,
-"p_home": 0.493
+"p_home": 0.4931
 },
 "401909313": {
 "matchup": "SAC @ LAL",
@@ -164,15 +163,15 @@
 "out": [
 "Austin Reaves",
 "Ben Simmons",
-"Maxime Raynaud"
+"Maxime Raynaud",
+"Precious Achiuwa"
 ],
 "dtd": [
-"De'Andre Hunter",
-"Precious Achiuwa"
+"De'Andre Hunter"
 ],
 "spread": -14.5,
 "total": 229.5,
-"p_home": 0.8339
+"p_home": 0.8431
 },
 "_tips": [
 "Under 219.5 (CHA @ ATL)"

@@ -1,12 +1,10 @@
 # NBA-Tipps für die Nacht 20.11.–21.11.2026
 
-Stand: Fr 20.11. 21:17 Uhr · 9 Spiele · Datenbasis: 226 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.7 Pkt/Team
+Stand: Fr 20.11. 23:51 Uhr · 9 Spiele · Datenbasis: 226 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.7 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- TOR @ DET: Ronald Holland II wieder dabei / nicht mehr out
-- NO @ OKC: Nikola Topic fällt NEU aus
-- Neue Tipps: Under 219.5 (CHA @ ATL)
-- Gestrichen: Under 218.5 (CHA @ ATL)
+- CHA @ ATL: Kingston Flemings fällt NEU aus
+- SAC @ LAL: Precious Achiuwa fällt NEU aus
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -16,9 +14,9 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 219.5 | CHA @ ATL | 56% | 1.87 | +5.3% | **1.83** |
-| Sieg ATL | CHA @ ATL | 71% | 1.40 | -0.4% | **1.45** | _(nur mit besserer Quote)_
+| Under 219.5 | CHA @ ATL | 57% | 1.87 | +6.8% | **1.80** |
 | Sieg DET | TOR @ DET | 71% | 1.38 | -1.7% | **1.44** | _(nur mit besserer Quote)_
+| Sieg ATL | CHA @ ATL | 71% | 1.38 | -2.0% | **1.45** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Sieg OKC (NO @ OKC) — 83%, DK 1.17
@@ -42,12 +40,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- CHA @ ATL: Under 219.5 — Modell-Total 209.7 (68%)
+- CHA @ ATL: Under 219.5 — Modell-Total 208.4 (70%)
 - HOU @ DEN: Handicap HOU +1.5 — Modell 64%
 - HOU @ DEN: Sieg HOU — Modell 60% vs. Markt 47%
 - ORL @ BKN: Sieg BKN — Modell 42% vs. Markt 30%
-- SAC @ LAL: Handicap SAC +14.5 — Modell 61%
 - NO @ OKC: Handicap OKC -11.5 — Modell 60%
+- ORL @ BKN: Handicap BKN +6.5 — Modell 60%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 85/119 richtig (71%), Brier 0.203
@@ -75,13 +73,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### CHA @ ATL — Sa 01:00 Uhr
-**Sieg:** ATL 71% (faire Quote 1.41) · CHA 29% (3.46) — Markt ATL 69%
-**Prognose:** ATL 112.5 – CHA 104.0 (Diff. ATL +8.5, Total 216.6)
-**Handicap** ATL -7.5: ATL deckt 53% · CHA +7.5 deckt 47%
-**Over/Under 219.5:** Over 44% (2.29) · Under 56% (1.78)
-**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 220.5 (≥57%)
+**Sieg:** ATL 71% (faire Quote 1.41) · CHA 29% (3.46) — Markt ATL 70%
+**Prognose:** ATL 112.1 – CHA 104.0 (Diff. ATL +8.1, Total 216.2)
+**Handicap** ATL -7.5: ATL deckt 52% · CHA +7.5 deckt 48%
+**Over/Under 219.5:** Over 43% (2.33) · Under 57% (1.75)
+**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
 **Form (letzte 5):** ATL SNNSS (-0.6) · CHA NSNNN (-8.8)
-_ATL out: Jock Landale*, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar · ATL fraglich: Kingston Flemings* · CHA out: Grant Williams*, Grayson Allen*, Kon Knueppel, Dennis Schroder_ (* = Meldung der letzten 24 h)
+_ATL out: Kingston Flemings*, Jock Landale, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar · CHA out: Grant Williams, Grayson Allen, Kon Knueppel, Dennis Schroder_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -102,9 +100,8 @@ _ATL out: Jock Landale*, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar 
 **Over/Under 224.5:** Over 53% (1.90) · Under 47% (2.11)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** BKN NSNNN (-12.8) · ORL SSSSN (+7.0)
-_BKN out: Grant Nelson* · ORL out: Izaiyah Nelson, Jonathan Isaac, Noah Penda, Paolo Banchero_ (* = Meldung der letzten 24 h)
+_BKN out: Grant Nelson · ORL out: Izaiyah Nelson, Jonathan Isaac, Noah Penda, Paolo Banchero_
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
-> 📰 Randle sounds off after Bulls rout Nets: 'That was embarrassing'
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -124,7 +121,7 @@ _BKN out: Grant Nelson* · ORL out: Izaiyah Nelson, Jonathan Isaac, Noah Penda, 
 **Over/Under 234.5:** Over 47% (2.15) · Under 53% (1.87)
 **Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 236.5 (≥57%)
 **Form (letzte 5):** CLE SNSSN (+2.8) · IND NSSNN (-2.0)
-_CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Evan Mobley · CLE fraglich: Peyton Watson* · IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell*, Andrew Nembhard*, Braden Smith*_ (* = Meldung der letzten 24 h)
+_CLE out: Jaylon Tyson, Nae'Qwan Tomlin, Evan Mobley · CLE fraglich: Peyton Watson · IND out: Tyrese Haliburton*, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell, Andrew Nembhard, Braden Smith_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -144,7 +141,7 @@ _CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Evan Mobley · CLE fraglich: Peyton Wa
 **Over/Under 216.5:** Over 49% (2.06) · Under 51% (1.95)
 **Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
 **Form (letzte 5):** DET SSNSS (+4.0) · TOR NNNNN (-6.6)
-_DET out: Taurean Prince*, Ebuka Okorie*, Duncan Robinson, Jalen Duren · DET fraglich: Ronald Holland II*, Cade Cunningham*, Ugonna Onyenso · TOR out: Collin Murray-Boyles*, RJ Barrett*, Kawhi Leonard, Nate Bittle_ (* = Meldung der letzten 24 h)
+_DET out: Taurean Prince, Ebuka Okorie, Duncan Robinson, Jalen Duren · DET fraglich: Ronald Holland II*, Cade Cunningham, Ugonna Onyenso · TOR out: Kawhi Leonard*, Collin Murray-Boyles, RJ Barrett, Nate Bittle_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -158,13 +155,13 @@ _DET out: Taurean Prince*, Ebuka Okorie*, Duncan Robinson, Jalen Duren · DET fr
 | Jamal Shead (TOR) | 24 | 9.0 (5.5 / 8.5) | 1.7 | 6.6 | 1.1 | 17.3 |
 
 ### WSH @ CHI — Sa 02:00 Uhr
-**Sieg:** CHI 55% (faire Quote 1.81) · WSH 45% (2.24) — Markt CHI 55%
-**Prognose:** CHI 120.1 – WSH 117.7 (Diff. CHI +2.4, Total 237.8)
+**Sieg:** CHI 55% (faire Quote 1.83) · WSH 45% (2.21) — Markt CHI 54%
+**Prognose:** CHI 120.4 – WSH 118.1 (Diff. CHI +2.4, Total 238.5)
 **Handicap** CHI -2.5: CHI deckt 50% · WSH +2.5 deckt 50%
-**Over/Under 237.5:** Over 51% (1.97) · Under 49% (2.03)
-**Total-Faustregel:** Over lohnt bis 234.5 · Under lohnt ab 241.5 (≥57%)
+**Over/Under 238.5:** Over 50% (2.00) · Under 50% (2.00)
+**Total-Faustregel:** Over lohnt bis 234.5 · Under lohnt ab 242.5 (≥57%)
 **Form (letzte 5):** CHI NSSNS (+6.6) · WSH NNNNS (-11.4)
-_CHI out: Tobe Awaka, Caleb Wilson · CHI fraglich: Jalen Smith*, Noa Essengue* · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Felix Okpara_ (* = Meldung der letzten 24 h)
+_CHI out: Tobe Awaka, Caleb Wilson · CHI fraglich: Jalen Smith*, Noa Essengue · WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Felix Okpara_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -185,7 +182,7 @@ _CHI out: Tobe Awaka, Caleb Wilson · CHI fraglich: Jalen Smith*, Noa Essengue* 
 **Over/Under 227.5:** Over 49% (2.04) · Under 51% (1.97)
 **Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** OKC NNNSN (-2.8) · NO NNNSN (-13.0)
-_OKC out: Nikola Topic*, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Alex Caruso* · NO out: Bryce McGowens*, Trendon Watford*, Bennedict Mathurin*, Trey Murphy III*, Dejounte Murray_ (* = Meldung der letzten 24 h)
+_OKC out: Nikola Topic*, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Alex Caruso* · NO out: Bryce McGowens, Trendon Watford, Bennedict Mathurin, Trey Murphy III, Dejounte Murray_ (* = Meldung der letzten 24 h)
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -228,8 +225,8 @@ _UTAH out: Jusuf Nurkic*, Lauri Markkanen, Jaren Jackson Jr. · PHX out: Mark Wi
 **Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** DEN NSSNS (-1.0) · HOU SSSNS (+7.8)
 _DEN out: Julian Strawther · HOU out: Clint Capela* · HOU fraglich: Steven Adams*, Alperen Sengun*_ (* = Meldung der letzten 24 h)
+> 📰 Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets
 > 📰 Fred VanVleet's 'fresh slate' is driving Houston's early season success
-> 📰 Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -243,13 +240,13 @@ _DEN out: Julian Strawther · HOU out: Clint Capela* · HOU fraglich: Steven Ada
 | Jabari Smith Jr. (HOU) | 32 | 14.1 (11.5 / 14.5) | 6.4 | 2.1 | 2.2 | 22.6 |
 
 ### SAC @ LAL — Sa 04:00 Uhr
-**Sieg:** LAL 83% (faire Quote 1.20) · SAC 17% (6.02) — Markt LAL 86%
-**Prognose:** LAL 121.5 – SAC 108.1 (Diff. LAL +13.3, Total 229.6)
-**Handicap** LAL -14.5: LAL deckt 46% · SAC +14.5 deckt 54%
-**Over/Under 229.5:** Over 50% (1.99) · Under 50% (2.01)
-**Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 233.5 (≥57%)
+**Sieg:** LAL 84% (faire Quote 1.19) · SAC 16% (6.37) — Markt LAL 86%
+**Prognose:** LAL 121.5 – SAC 107.7 (Diff. LAL +13.8, Total 229.1)
+**Handicap** LAL -14.5: LAL deckt 48% · SAC +14.5 deckt 52%
+**Over/Under 229.5:** Over 49% (2.03) · Under 51% (1.97)
+**Total-Faustregel:** Over lohnt bis 225.5 · Under lohnt ab 232.5 (≥57%)
 **Form (letzte 5):** LAL SSSSN (+4.2) · SAC NNNNN (-13.8)
-_LAL out: Austin Reaves* · SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich: Precious Achiuwa*, De'Andre Hunter*_ (* = Meldung der letzten 24 h)
+_LAL out: Austin Reaves* · SAC out: Precious Achiuwa*, Maxime Raynaud, Ben Simmons · SAC fraglich: De'Andre Hunter*_ (* = Meldung der letzten 24 h)
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
 > 📰 Luka: No excuses, I have to play better
 

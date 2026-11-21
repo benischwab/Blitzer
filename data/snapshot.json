@@ -16,9 +16,9 @@
 "Mouhamed Gueye"
 ],
 "dtd": [],
-"spread": -7.5,
-"total": 219.5,
-"p_home": 0.711
+"spread": null,
+"total": null,
+"p_home": 0.744
 },
 "401909306": {
 "matchup": "ORL @ BKN",
@@ -34,7 +34,7 @@
 "dtd": [],
 "spread": 6.5,
 "total": 224.5,
-"p_home": 0.3394
+"p_home": 0.3471
 },
 "401909307": {
 "matchup": "IND @ CLE",
@@ -48,14 +48,9 @@
 "Nae'Qwan Tomlin",
 "Tyrese Haliburton"
 ],
-"dtd": [
-"Andrew Nembhard",
-"Braden Smith",
-"Peyton Watson",
-"T.J. McConnell"
-],
-"spread": -5.5,
-"total": 234.5,
+"dtd": [],
+"spread": -6.5,
+"total": 235.5,
 "p_home": 0.6466
 },
 "401909308": {
@@ -78,7 +73,7 @@
 "Ugonna Onyenso"
 ],
 "spread": -6.5,
-"total": 216.5,
+"total": 215.5,
 "p_home": 0.7128
 },
 "401909309": {
@@ -87,6 +82,7 @@
 "away": "WSH",
 "out": [
 "Caleb Wilson",
+"Jalen Smith",
 "Jamir Watkins",
 "Justin Champagnie",
 "Reece Beekman",
@@ -94,19 +90,18 @@
 "Tristan Vukcevic"
 ],
 "dtd": [
-"Felix Okpara",
-"Jalen Smith",
-"Noa Essengue"
+"Felix Okpara"
 ],
-"spread": -2.5,
-"total": 238.5,
-"p_home": 0.5469
+"spread": -1.5,
+"total": 237.5,
+"p_home": 0.5244
 },
 "401909310": {
 "matchup": "NO @ OKC",
 "home": "OKC",
 "away": "NO",
 "out": [
+"Alex Caruso",
 "Bennedict Mathurin",
 "Bryce McGowens",
 "Cason Wallace",
@@ -115,15 +110,12 @@
 "Jalen Williams",
 "Nikola Topic",
 "Thomas Sorber",
-"Trendon Watford",
-"Trey Murphy III"
+"Trendon Watford"
 ],
-"dtd": [
-"Alex Caruso"
-],
+"dtd": [],
 "spread": -11.5,
-"total": 227.5,
-"p_home": 0.8327
+"total": 229.5,
+"p_home": 0.8009
 },
 "401909311": {
 "matchup": "PHX @ UTAH",
@@ -138,7 +130,7 @@
 "dtd": [],
 "spread": 4.5,
 "total": 225.5,
-"p_home": 0.3963
+"p_home": 0.3901
 },
 "401909312": {
 "matchup": "HOU @ DEN",
@@ -153,7 +145,7 @@
 "Steven Adams"
 ],
 "spread": -1.5,
-"total": 226.5,
+"total": 228.5,
 "p_home": 0.4931
 },
 "401909313": {
@@ -173,8 +165,6 @@
 "total": 229.5,
 "p_home": 0.8431
 },
-"_tips": [
-"Under 219.5 (CHA @ ATL)"
-],
+"_tips": [],
 "_game_day": "2026-11-20"
 }

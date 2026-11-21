@@ -1,18 +1,20 @@
 ÄNDERUNGEN:
-• CHA @ ATL: Kingston Flemings fällt NEU aus
-• SAC @ LAL: Precious Achiuwa fällt NEU aus
+• WSH @ CHI: Jalen Smith fällt NEU aus
+• NO @ OKC: Alex Caruso fällt NEU aus
+• NO @ OKC: Trey Murphy III wieder dabei / nicht mehr out
+• NO @ OKC: Total 227.5 → 229.5
+• HOU @ DEN: Total 226.5 → 228.5
+• Gestrichen: Under 219.5 (CHA @ ATL)
 
-TIPPS (ab Mindestquote):
-• Under 219.5 (CHA @ ATL) 57% – ab 1.80
-• 2er-Kombi: Sieg OKC + Sieg DET – 59%, ab 1.74
-• 3er-Kombi: Sieg OKC + Sieg DET + Sieg PHX – 36%, ab 2.87
+• 2er-Kombi: Sieg OKC + Sieg DET – 57%, ab 1.80
+• 3er-Kombi: Sieg OKC + Sieg DET + Sieg PHX – 35%, ab 2.96
 
-01:00 CHA@ATL: ATL 71% · U219.5 57%
-01:30 ORL@BKN: ORL 66% · O224.5 53%
-01:30 IND@CLE: CLE 65% · U234.5 53%
-01:30 TOR@DET: DET 71% · U216.5 51%
-02:00 WSH@CHI: CHI 55% · O238.5 50%
-02:00 NO@OKC: OKC 83% · U227.5 51%
-03:30 PHX@UTAH: PHX 60% · U225.5 50%
-04:00 HOU@DEN: HOU 51% · U226.5 51%
+01:00 CHA@ATL: ATL 74%
+01:30 ORL@BKN: ORL 65% · O224.5 53%
+01:30 IND@CLE: CLE 65% · U235.5 54%
+01:30 TOR@DET: DET 71% · U215.5 51%
+02:00 WSH@CHI: CHI 52% · U237.5 51%
+02:00 NO@OKC: OKC 80% · U229.5 52%
+03:30 PHX@UTAH: PHX 61% · U225.5 50%
+04:00 HOU@DEN: HOU 51% · U228.5 52%
 04:00 SAC@LAL: LAL 84% · U229.5 51%

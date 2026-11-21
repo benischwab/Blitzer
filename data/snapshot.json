@@ -1,170 +1,123 @@
 {
-"401909305": {
-"matchup": "CHA @ ATL",
-"home": "ATL",
-"away": "CHA",
+"401910023": {
+"matchup": "MIL @ PHI",
+"home": "PHI",
+"away": "MIL",
 "out": [
-"Asa Newell",
-"CJ McCollum",
-"Dennis Schroder",
-"Grant Williams",
-"Grayson Allen",
-"Henri Veesaar",
-"Jock Landale",
-"Kingston Flemings",
-"Kon Knueppel",
-"Mouhamed Gueye"
+"Adem Bona",
+"Ariel Hukporti",
+"Dean Wade",
+"Dominick Barlow",
+"Jaylen Brown",
+"Ousmane Dieng"
 ],
-"dtd": [],
+"dtd": [
+"Tyrese Maxey"
+],
+"spread": -11.5,
+"total": 228.5,
+"p_home": 0.7635
+},
+"401910024": {
+"matchup": "POR @ NY",
+"home": "NY",
+"away": "POR",
+"out": [
+"Chris Youngblood",
+"Ja Morant",
+"Jordan Clarkson",
+"Shaedon Sharpe",
+"Vit Krejci"
+],
+"dtd": [
+"Deni Avdija",
+"Karl-Anthony Towns",
+"OG Anunoby"
+],
 "spread": null,
 "total": null,
-"p_home": 0.744
+"p_home": 0.5232
 },
-"401909306": {
-"matchup": "ORL @ BKN",
-"home": "BKN",
-"away": "ORL",
+"401910025": {
+"matchup": "LAC @ DAL",
+"home": "DAL",
+"away": "LAC",
 "out": [
-"Grant Nelson",
-"Izaiyah Nelson",
-"Jonathan Isaac",
-"Noah Penda",
-"Paolo Banchero"
+"Bradley Beal",
+"Brandon Ingram",
+"Dereck Lively II",
+"Jordan Miller",
+"Sergio de Larrea",
+"Tarik Biberovic",
+"Tobi Lawal"
 ],
-"dtd": [],
-"spread": 6.5,
-"total": 224.5,
-"p_home": 0.3471
+"dtd": [
+"P.J. Washington",
+"Walter Clayton Jr."
+],
+"spread": -5.5,
+"total": 230.5,
+"p_home": 0.6629
 },
-"401909307": {
-"matchup": "IND @ CLE",
-"home": "CLE",
-"away": "IND",
+"401910026": {
+"matchup": "MEM @ MIN",
+"home": "MIN",
+"away": "MEM",
 "out": [
-"Ben Sheppard",
-"Evan Mobley",
-"Jaylon Tyson",
-"Johnny Furphy",
-"Nae'Qwan Tomlin",
-"Tyrese Haliburton"
+"Anthony Edwards",
+"Cameron Boozer",
+"Donte DiVincenzo",
+"GG Jackson",
+"Javon Small",
+"Jaylen Clark",
+"Jerami Grant",
+"Richie Saunders",
+"Scotty Pippen Jr.",
+"Ty Jerome"
 ],
 "dtd": [],
 "spread": -6.5,
-"total": 235.5,
-"p_home": 0.6466
+"total": 228.5,
+"p_home": 0.7127
 },
-"401909308": {
-"matchup": "TOR @ DET",
-"home": "DET",
-"away": "TOR",
-"out": [
-"Collin Murray-Boyles",
-"Duncan Robinson",
-"Ebuka Okorie",
-"Jalen Duren",
-"Kawhi Leonard",
-"Nate Bittle",
-"RJ Barrett",
-"Taurean Prince"
-],
-"dtd": [
-"Cade Cunningham",
-"Ronald Holland II",
-"Ugonna Onyenso"
-],
-"spread": -6.5,
-"total": 215.5,
-"p_home": 0.7128
-},
-"401909309": {
-"matchup": "WSH @ CHI",
-"home": "CHI",
-"away": "WSH",
-"out": [
-"Caleb Wilson",
-"Jalen Smith",
-"Jamir Watkins",
-"Justin Champagnie",
-"Reece Beekman",
-"Tobe Awaka",
-"Tristan Vukcevic"
-],
-"dtd": [
-"Felix Okpara"
-],
-"spread": -1.5,
-"total": 237.5,
-"p_home": 0.5244
-},
-"401909310": {
-"matchup": "NO @ OKC",
-"home": "OKC",
+"401910027": {
+"matchup": "NO @ SA",
+"home": "SA",
 "away": "NO",
 "out": [
-"Alex Caruso",
 "Bennedict Mathurin",
 "Bryce McGowens",
-"Cason Wallace",
-"Chet Holmgren",
 "Dejounte Murray",
-"Jalen Williams",
-"Nikola Topic",
-"Thomas Sorber",
+"Dylan Harper",
+"Jayden Quaintance",
+"Tobias Harris",
 "Trendon Watford"
 ],
 "dtd": [],
-"spread": -11.5,
-"total": 229.5,
-"p_home": 0.8009
+"spread": -18.5,
+"total": 228.5,
+"p_home": 0.8897
 },
-"401909311": {
-"matchup": "PHX @ UTAH",
-"home": "UTAH",
-"away": "PHX",
+"401910028": {
+"matchup": "BOS @ SAC",
+"home": "SAC",
+"away": "BOS",
 "out": [
-"Jaren Jackson Jr.",
-"Jusuf Nurkic",
-"Lauri Markkanen",
-"Mark Williams"
-],
-"dtd": [],
-"spread": 4.5,
-"total": 225.5,
-"p_home": 0.3901
-},
-"401909312": {
-"matchup": "HOU @ DEN",
-"home": "DEN",
-"away": "HOU",
-"out": [
-"Clint Capela",
-"Julian Strawther"
+"Ben Simmons",
+"Maxime Raynaud"
 ],
 "dtd": [
-"Alperen Sengun",
-"Steven Adams"
-],
-"spread": -1.5,
-"total": 228.5,
-"p_home": 0.4931
-},
-"401909313": {
-"matchup": "SAC @ LAL",
-"home": "LAL",
-"away": "SAC",
-"out": [
-"Austin Reaves",
-"Ben Simmons",
-"Maxime Raynaud",
+"Derrick White",
+"Jayson Tatum",
 "Precious Achiuwa"
 ],
-"dtd": [
-"De'Andre Hunter"
-],
-"spread": -14.5,
-"total": 229.5,
-"p_home": 0.8431
+"spread": 13.5,
+"total": 217.5,
+"p_home": 0.1493
 },
-"_tips": [],
-"_game_day": "2026-11-20"
+"_tips": [
+"Under 228.5 (MEM @ MIN)",
+"MIN -6.5 (MEM @ MIN)"
+],
+"_game_day": "2026-11-21"
 }

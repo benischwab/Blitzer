@@ -1647,6 +1647,80 @@
 "p_cover": 0.4774,
 "line_total": 229.5,
 "p_over": 0.4923
+},
+"401910023": {
+"p_home": 0.7635,
+"margin": 9.73,
+"total": 227.06,
+"matchup": "MIL @ PHI",
+"home": "PHI",
+"away": "MIL",
+"day": "2026-11-21",
+"home_spread": -11.5,
+"p_cover": 0.446,
+"line_total": 228.5,
+"p_over": 0.4689
+},
+"401910024": {
+"p_home": 0.5232,
+"margin": 0.84,
+"total": 217.4,
+"matchup": "POR @ NY",
+"home": "NY",
+"away": "POR",
+"day": "2026-11-21"
+},
+"401910025": {
+"p_home": 0.6629,
+"margin": 5.84,
+"total": 230.4,
+"matchup": "LAC @ DAL",
+"home": "DAL",
+"away": "LAC",
+"day": "2026-11-21",
+"home_spread": -5.5,
+"p_cover": 0.5105,
+"line_total": 230.5,
+"p_over": 0.4978
+},
+"401910026": {
+"p_home": 0.7127,
+"margin": 8.2,
+"total": 224.51,
+"matchup": "MEM @ MIN",
+"home": "MIN",
+"away": "MEM",
+"day": "2026-11-21",
+"home_spread": -6.5,
+"p_cover": 0.5521,
+"line_total": 228.5,
+"p_over": 0.4145
+},
+"401910027": {
+"p_home": 0.8897,
+"margin": 17.58,
+"total": 228.17,
+"matchup": "NO @ SA",
+"home": "SA",
+"away": "NO",
+"day": "2026-11-21",
+"home_spread": -18.5,
+"p_cover": 0.4719,
+"line_total": 228.5,
+"p_over": 0.4928
+},
+"401910028": {
+"p_home": 0.1493,
+"margin": -13.87,
+"total": 217.2,
+"matchup": "BOS @ SAC",
+"home": "SAC",
+"away": "BOS",
+"day": "2026-11-21",
+"home_spread": 13.5,
+"p_cover": 0.4886,
+"line_total": 217.5,
+"p_over": 0.4935
 }
 },
 "singles": {
@@ -2111,7 +2185,29 @@
 "label": "Under 224.5"
 }
 ],
-"2026-11-20": []
+"2026-11-20": [],
+"2026-11-21": [
+{
+"game_id": "401910026",
+"matchup": "MEM @ MIN",
+"market": "total",
+"side": "under",
+"line": 228.5,
+"p": 0.5855,
+"dk": 1.9433962264150944,
+"label": "Under 228.5"
+},
+{
+"game_id": "401910026",
+"matchup": "MEM @ MIN",
+"market": "spread",
+"side": "MIN",
+"line": -6.5,
+"p": 0.5521,
+"dk": 1.925925925925926,
+"label": "MIN -6.5"
+}
+]
 },
 "combos": {
 "2026-11-04": [],
@@ -2220,6 +2316,7 @@
 "2026-11-17": [],
 "2026-11-18": [],
 "2026-11-19": [],
-"2026-11-20": []
+"2026-11-20": [],
+"2026-11-21": []
 }
 }

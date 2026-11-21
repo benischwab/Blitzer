@@ -1,23 +1,4 @@
 {
-"401910023": {
-"matchup": "MIL @ PHI",
-"home": "PHI",
-"away": "MIL",
-"out": [
-"Adem Bona",
-"Ariel Hukporti",
-"Dean Wade",
-"Dominick Barlow",
-"Jaylen Brown",
-"Ousmane Dieng"
-],
-"dtd": [
-"Tyrese Maxey"
-],
-"spread": -11.5,
-"total": 228.5,
-"p_home": 0.7635
-},
 "401910024": {
 "matchup": "POR @ NY",
 "home": "NY",
@@ -34,9 +15,9 @@
 "Karl-Anthony Towns",
 "OG Anunoby"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.5232
+"spread": -3.5,
+"total": 215.5,
+"p_home": 0.5662
 },
 "401910025": {
 "matchup": "LAC @ DAL",
@@ -55,9 +36,9 @@
 "P.J. Washington",
 "Walter Clayton Jr."
 ],
-"spread": -5.5,
+"spread": -4.5,
 "total": 230.5,
-"p_home": 0.6629
+"p_home": 0.6482
 },
 "401910026": {
 "matchup": "MEM @ MIN",
@@ -72,13 +53,12 @@
 "Jaylen Clark",
 "Jerami Grant",
 "Richie Saunders",
-"Scotty Pippen Jr.",
-"Ty Jerome"
+"Scotty Pippen Jr."
 ],
 "dtd": [],
 "spread": -6.5,
 "total": 228.5,
-"p_home": 0.7127
+"p_home": 0.6918
 },
 "401910027": {
 "matchup": "NO @ SA",
@@ -91,12 +71,13 @@
 "Dylan Harper",
 "Jayden Quaintance",
 "Tobias Harris",
-"Trendon Watford"
+"Trendon Watford",
+"Trey Murphy III"
 ],
 "dtd": [],
-"spread": -18.5,
-"total": 228.5,
-"p_home": 0.8897
+"spread": -19.5,
+"total": 227.5,
+"p_home": 0.8981
 },
 "401910028": {
 "matchup": "BOS @ SAC",
@@ -116,8 +97,7 @@
 "p_home": 0.1493
 },
 "_tips": [
-"Under 228.5 (MEM @ MIN)",
-"MIN -6.5 (MEM @ MIN)"
+"Under 228.5 (MEM @ MIN)"
 ],
 "_game_day": "2026-11-21"
 }

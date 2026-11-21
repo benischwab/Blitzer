@@ -1,6 +1,12 @@
 # NBA-Tipps für die Nacht 21.11.–22.11.2026
 
-Stand: Sa 21.11. 17:12 Uhr · 6 Spiele · Datenbasis: 235 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.5 Pkt/Team
+Stand: Sa 21.11. 21:07 Uhr · 5 Spiele · Datenbasis: 235 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.5 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- POR @ NY: Linien jetzt verfügbar (NY -3.5, Total 215.5)
+- MEM @ MIN: Ty Jerome wieder dabei / nicht mehr out
+- NO @ SA: Trey Murphy III fällt NEU aus
+- Gestrichen: MIN -6.5 (MEM @ MIN)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,38 +16,36 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 228.5 | MEM @ MIN | 59% | 1.94 | +13.8% | **1.76** |
-| MIN -6.5 | MEM @ MIN | 55% | 1.93 | +6.3% | **1.87** |
-| MIL +11.5 | MIL @ PHI | 55% | 1.85 | +2.4% | **1.86** | _(nur mit besserer Quote)_
+| Under 228.5 | MEM @ MIN | 56% | 1.95 | +10.2% | **1.82** |
+| Sieg MIN | MEM @ MIN | 69% | 1.42 | -1.6% | **1.49** | _(nur mit besserer Quote)_
+| Sieg DAL | LAC @ DAL | 65% | 1.51 | -2.1% | **1.59** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Sieg BOS (BOS @ SAC) — 85%, DK 1.13
-- Sieg MIN (MEM @ MIN) — 71%, DK 1.42
-- **Trefferchance 61%** · DK-Quote 1.60 (-2.9%) · **lohnt ab Sporttip-Gesamtquote 1.70** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg MIN (MEM @ MIN) — 69%, DK 1.42
+- **Trefferchance 59%** · DK-Quote 1.60 (-5.7%) · **lohnt ab Sporttip-Gesamtquote 1.75** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg PHI (MIL @ PHI) — 76%, DK 1.18
-- Sieg MIN (MEM @ MIN) — 71%, DK 1.42
-- Sieg DAL (LAC @ DAL) — 66%, DK 1.46
-- **Trefferchance 36%** · DK-Quote 2.46 (-11.3%) · **lohnt ab Sporttip-Gesamtquote 2.86** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg BOS (BOS @ SAC) — 85%, DK 1.13
+- Sieg MIN (MEM @ MIN) — 69%, DK 1.42
+- Sieg DAL (LAC @ DAL) — 65%, DK 1.51
+- **Trefferchance 38%** · DK-Quote 2.42 (-7.7%) · **lohnt ab Sporttip-Gesamtquote 2.70** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Karl-Anthony Towns (NY, POR @ NY): über 33.5 P+R+A — 77% · lohnt ab Quote **1.33**
-- Tyrese Maxey (PHI, MIL @ PHI): über 30.5 P+R+A — 76% · lohnt ab Quote **1.36**
 - Zion Williamson (NO, NO @ SA): über 24.5 P+R+A — 78% · lohnt ab Quote **1.32**
 - Jayson Tatum (BOS, BOS @ SAC): über 33.5 P+R+A — 76% · lohnt ab Quote **1.36**
 - Jaden McDaniels (MIN, MEM @ MIN): über 21.5 P+R+A — 79% · lohnt ab Quote **1.31**
+- Jalen Brunson (NY, POR @ NY): über 29.5 P+R+A — 76% · lohnt ab Quote **1.35**
 
 _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. Lieber 2er als 4er+, und nur, wenn die Sporttip-Gesamtquote über der Mindestquote liegt._
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- MEM @ MIN: Under 228.5 — Modell-Total 215.2 (74%)
-- MIL @ PHI: Sieg MIL — Modell 35% vs. Markt 19%
-- MIL @ PHI: Handicap MIL +11.5 — Modell 66%
-- MEM @ MIN: Handicap MIN -6.5 — Modell 65%
-- MEM @ MIN: Sieg MIN — Modell 80% vs. Markt 68%
-- MIL @ PHI: Under 228.5 — Modell-Total 223.7 (59%)
+- MEM @ MIN: Under 228.5 — Modell-Total 218.5 (68%)
+- POR @ NY: Sieg POR — Modell 48% vs. Markt 42%
+- MEM @ MIN: Sieg MIN — Modell 73% vs. Markt 68%
+- LAC @ DAL: Sieg DAL — Modell 68% vs. Markt 64%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 91/128 richtig (71%), Brier 0.201
@@ -67,34 +71,14 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 
 ## Spiele
 
-### MIL @ PHI — Sa 19:00 Uhr
-**Sieg:** PHI 76% (faire Quote 1.31) · MIL 24% (4.23) — Markt PHI 81%
-**Prognose:** PHI 118.4 – MIL 108.7 (Diff. PHI +9.7, Total 227.1)
-**Handicap** PHI -11.5: PHI deckt 45% · MIL +11.5 deckt 55%
-**Over/Under 228.5:** Over 47% (2.13) · Under 53% (1.88)
-**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
-**Form (letzte 5):** PHI NSSSS (+2.6) · MIL NNNNN (-8.6)
-_PHI out: Dominick Barlow*, Dean Wade*, Adem Bona*, Jaylen Brown*, Ariel Hukporti · PHI fraglich: Tyrese Maxey* · MIL out: Ousmane Dieng_ (* = Meldung der letzten 24 h)
-> 📰 76ers' Jaylen Brown, Dean Wade out; Tyrese Maxey questionable vs. Bucks
-> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
-
-| Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
-|---|---|---|---|---|---|---|
-| Tyrese Maxey (PHI) | 36 | 27.0 (24.5 / 28.5) | 3.0 | 6.2 | 3.0 | 36.0 |
-| Joel Embiid (PHI) | 32 | 21.7 (18.5 / 22.5) | 7.8 | 3.6 | 0.5 | 33.0 |
-| LeBron James (PHI) | 32 | 16.5 (14.5 / 17.5) | 6.6 | 6.8 | 0.9 | 30.0 |
-| VJ Edgecombe (PHI) | 34 | 14.9 (12.5 / 15.5) | 6.5 | 4.3 | 1.8 | 25.7 |
-| Tyler Herro (MIL) | 30 | 18.0 (14.5 / 18.5) | 3.7 | 4.0 | 2.3 | 25.7 |
-| Jaime Jaquez Jr. (MIL) | 27 | 14.1 (11.5 / 14.5) | 4.5 | 3.1 | 1.9 | 21.7 |
-| Kyle Kuzma (MIL) | 27 | 13.3 (9.5 / 13.5) | 4.8 | 2.2 | 1.8 | 20.3 |
-| Brayden Burries (MIL) | 24 | 11.0 (8.5 / 11.5) | 5.5 | 2.5 | 1.3 | 19.0 |
-
 ### POR @ NY — So 01:30 Uhr
-**Sieg:** NY 52% (faire Quote 1.91) · POR 48% (2.10)
-**Prognose:** NY 109.1 – POR 108.3 (Diff. NY +0.8, Total 217.4)
-**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 221.5 (≥57%)
+**Sieg:** NY 57% (faire Quote 1.77) · POR 43% (2.31) — Markt NY 58%
+**Prognose:** NY 109.4 – POR 106.7 (Diff. NY +2.7, Total 216.1)
+**Handicap** NY -3.5: NY deckt 48% · POR +3.5 deckt 52%
+**Over/Under 215.5:** Over 51% (1.95) · Under 49% (2.05)
+**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
 **Form (letzte 5):** NY NNSSS (+1.2) · POR SSNNS (+4.8)
-_NY out: Jordan Clarkson* · NY fraglich: Karl-Anthony Towns*, OG Anunoby* · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija*_ (* = Meldung der letzten 24 h)
+_NY out: Jordan Clarkson* · NY fraglich: OG Anunoby*, Karl-Anthony Towns* · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija*_ (* = Meldung der letzten 24 h)
 > 📰 Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 
@@ -110,13 +94,13 @@ _NY out: Jordan Clarkson* · NY fraglich: Karl-Anthony Towns*, OG Anunoby* · PO
 | Toumani Camara (POR) | 31 | 11.3 (8.5 / 11.5) | 3.9 | 1.6 | 2.3 | 16.9 |
 
 ### LAC @ DAL — So 02:00 Uhr
-**Sieg:** DAL 66% (faire Quote 1.51) · LAC 34% (2.97) — Markt DAL 66%
-**Prognose:** DAL 118.1 – LAC 112.3 (Diff. DAL +5.8, Total 230.4)
-**Handicap** DAL -5.5: DAL deckt 51% · LAC +5.5 deckt 49%
+**Sieg:** DAL 65% (faire Quote 1.54) · LAC 35% (2.84) — Markt DAL 64%
+**Prognose:** DAL 117.8 – LAC 112.6 (Diff. DAL +5.1, Total 230.4)
+**Handicap** DAL -4.5: DAL deckt 52% · LAC +4.5 deckt 48%
 **Over/Under 230.5:** Over 50% (2.01) · Under 50% (1.99)
 **Total-Faustregel:** Over lohnt bis 226.5 · Under lohnt ab 234.5 (≥57%)
 **Form (letzte 5):** DAL SNNNS (-12.2) · LAC NSSNN (-10.2)
-_DAL out: Tobi Lawal*, Dereck Lively II*, Sergio de Larrea, Tarik Biberovic · DAL fraglich: P.J. Washington*, Walter Clayton Jr.* · LAC out: Brandon Ingram*, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
+_DAL out: Tobi Lawal*, Dereck Lively II, Sergio de Larrea, Tarik Biberovic · DAL fraglich: P.J. Washington*, Walter Clayton Jr.* · LAC out: Brandon Ingram*, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Shams: Brandon Ingram will make Clippers debut Monday
 
@@ -132,13 +116,13 @@ _DAL out: Tobi Lawal*, Dereck Lively II*, Sergio de Larrea, Tarik Biberovic · D
 | Derrick Jones Jr. (LAC) | 28 | 10.4 (8.5 / 11.5) | 4.0 | 1.1 | 1.7 | 15.5 |
 
 ### MEM @ MIN — So 02:00 Uhr
-**Sieg:** MIN 71% (faire Quote 1.40) · MEM 29% (3.48) — Markt MIN 68%
-**Prognose:** MIN 116.4 – MEM 108.2 (Diff. MIN +8.2, Total 224.5)
-**Handicap** MIN -6.5: MIN deckt 55% · MEM +6.5 deckt 45%
-**Over/Under 228.5:** Over 41% (2.41) · Under 59% (1.71)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
+**Sieg:** MIN 69% (faire Quote 1.45) · MEM 31% (3.24) — Markt MIN 68%
+**Prognose:** MIN 116.4 – MEM 109.1 (Diff. MIN +7.2, Total 225.5)
+**Handicap** MIN -6.5: MIN deckt 52% · MEM +6.5 deckt 48%
+**Over/Under 228.5:** Over 44% (2.30) · Under 56% (1.77)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** MIN SNSSN (+6.8) · MEM SSSSS (+19.4)
-_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MEM out: Jerami Grant*, Javon Small*, Cameron Boozer*, Ty Jerome*, GG Jackson, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
+_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MEM out: Jerami Grant*, Javon Small*, Cameron Boozer*, GG Jackson, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Windhorst and MacMahon: League execs, scouts examine nine rookie starts
 
@@ -148,18 +132,19 @@ _MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MEM out: Jerami Gra
 | LaMelo Ball (MIN) | 29 | 17.6 (14.5 / 18.5) | 5.0 | 5.5 | 3.4 | 28.0 |
 | Jaden McDaniels (MIN) | 34 | 17.2 (15.5 / 18.5) | 5.8 | 3.5 | 1.6 | 26.5 |
 | Jonathan Kuminga (MIN) | 31 | 13.5 (10.5 / 14.5) | 5.5 | 2.8 | 1.5 | 21.8 |
+| Ty Jerome (MEM) | 31 | 22.9 (19.5 / 23.5) | 3.3 | 5.3 | 2.4 | 31.7 |
 | Cedric Coward (MEM) | 29 | 14.8 (12.5 / 15.5) | 7.7 | 3.8 | 2.5 | 26.2 |
 | Cam Spencer (MEM) | 24 | 11.7 (8.5 / 12.5) | 2.8 | 6.4 | 2.0 | 20.9 |
 | Jaylen Wells (MEM) | 26 | 10.7 (7.5 / 10.5) | 3.3 | 1.4 | 2.1 | 15.5 |
 
 ### NO @ SA — So 02:00 Uhr
-**Sieg:** SA 89% (faire Quote 1.12) · NO 11% (9.07) — Markt SA 90%
-**Prognose:** SA 122.9 – NO 105.3 (Diff. SA +17.6, Total 228.2)
-**Handicap** SA -18.5: SA deckt 47% · NO +18.5 deckt 53%
-**Over/Under 228.5:** Over 49% (2.03) · Under 51% (1.97)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
+**Sieg:** SA 90% (faire Quote 1.11) · NO 10% (9.82) — Markt SA 91%
+**Prognose:** SA 122.9 – NO 104.2 (Diff. SA +18.6, Total 227.1)
+**Handicap** SA -19.5: SA deckt 47% · NO +19.5 deckt 53%
+**Over/Under 227.5:** Over 49% (2.03) · Under 51% (1.97)
+**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
 **Form (letzte 5):** SA SSSNS (+10.2) · NO NNSNN (-7.4)
-_SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · NO spielt Back-to-Back · NO out: Bryce McGowens, Trendon Watford, Bennedict Mathurin, Dejounte Murray_
+_SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · NO spielt Back-to-Back · NO out: Trey Murphy III*, Trendon Watford*, Bryce McGowens, Bennedict Mathurin, Dejounte Murray_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Shai Gilgeous-Alexander scores 40 as Thunder beat Pelicans 126-120 in NBA Cup
 

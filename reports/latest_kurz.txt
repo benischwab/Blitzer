@@ -1,16 +1,22 @@
 ÄNDERUNGEN:
-• POR @ NY: Linien jetzt verfügbar (NY -3.5, Total 215.5)
-• MEM @ MIN: Ty Jerome wieder dabei / nicht mehr out
-• NO @ SA: Trey Murphy III fällt NEU aus
-• Gestrichen: MIN -6.5 (MEM @ MIN)
+• POR @ NY: OG Anunoby fällt NEU aus
+• POR @ NY: Handicap NY -3.5 → +1.5
+• POR @ NY: Total 215.5 → 213.5
+• POR @ NY: Sieg NY 57% → 47%
+• BOS @ SAC: Derrick White fällt NEU aus
+• BOS @ SAC: Jayson Tatum fällt NEU aus
+• BOS @ SAC: Mitchell Robinson fällt NEU aus
+• BOS @ SAC: Handicap SAC +13.5 → +11.5
 
 TIPPS (ab Mindestquote):
 • Under 228.5 (MEM @ MIN) 56% – ab 1.82
-• 2er-Kombi: Sieg BOS + Sieg MIN – 59%, ab 1.75
-• 3er-Kombi: Sieg BOS + Sieg MIN + Sieg DAL – 38%, ab 2.70
+• SAC +11.5 (BOS @ SAC) 55% – ab 1.87
+• Under 215.5 (BOS @ SAC) 55% – ab 1.87
+• 2er-Kombi: Sieg BOS + Sieg MIN – 53%, ab 1.95
+• 3er-Kombi: Sieg BOS + Sieg MIN + Sieg DAL – 34%, ab 3.01
 
-01:30 POR@NY: NY 57% · O215.5 51%
+01:30 POR@NY: POR 53% · O213.5 50%
 02:00 LAC@DAL: DAL 65% · U230.5 50%
-02:00 MEM@MIN: MIN 69% · U228.5 56%
-02:00 NO@SA: SA 90% · U227.5 51%
-04:00 BOS@SAC: BOS 85% · U217.5 51%
+02:00 MEM@MIN: MIN 68% · U228.5 56%
+02:00 NO@SA: SA 90% · U228.5 51%
+04:00 BOS@SAC: BOS 77% · U215.5 55%

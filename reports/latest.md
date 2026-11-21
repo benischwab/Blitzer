@@ -1,12 +1,19 @@
 # NBA-Tipps für die Nacht 21.11.–22.11.2026
 
-Stand: Sa 21.11. 21:07 Uhr · 5 Spiele · Datenbasis: 235 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.5 Pkt/Team
+Stand: Sa 21.11. 23:46 Uhr · 5 Spiele · Datenbasis: 235 Saisonspiele · Heimvorteil 1.6 Pkt · Liga-Schnitt 113.5 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- POR @ NY: Linien jetzt verfügbar (NY -3.5, Total 215.5)
-- MEM @ MIN: Ty Jerome wieder dabei / nicht mehr out
-- NO @ SA: Trey Murphy III fällt NEU aus
-- Gestrichen: MIN -6.5 (MEM @ MIN)
+- POR @ NY: OG Anunoby fällt NEU aus
+- POR @ NY: Handicap NY -3.5 → +1.5
+- POR @ NY: Total 215.5 → 213.5
+- POR @ NY: Sieg NY 57% → 47%
+- BOS @ SAC: Derrick White fällt NEU aus
+- BOS @ SAC: Jayson Tatum fällt NEU aus
+- BOS @ SAC: Mitchell Robinson fällt NEU aus
+- BOS @ SAC: Handicap SAC +13.5 → +11.5
+- BOS @ SAC: Total 217.5 → 215.5
+- BOS @ SAC: Sieg SAC 15% → 23%
+- Neue Tipps: SAC +11.5 (BOS @ SAC); Under 215.5 (BOS @ SAC)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -16,36 +23,38 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 228.5 | MEM @ MIN | 56% | 1.95 | +10.2% | **1.82** |
-| Sieg MIN | MEM @ MIN | 69% | 1.42 | -1.6% | **1.49** | _(nur mit besserer Quote)_
-| Sieg DAL | LAC @ DAL | 65% | 1.51 | -2.1% | **1.59** | _(nur mit besserer Quote)_
+| Under 228.5 | MEM @ MIN | 56% | 1.91 | +7.8% | **1.82** |
+| SAC +11.5 | BOS @ SAC | 55% | 1.96 | +8.2% | **1.87** |
+| Under 215.5 | BOS @ SAC | 55% | 1.95 | +7.5% | **1.87** |
 
 **Sichere 2er-Kombi**
-- Sieg BOS (BOS @ SAC) — 85%, DK 1.13
-- Sieg MIN (MEM @ MIN) — 69%, DK 1.42
-- **Trefferchance 59%** · DK-Quote 1.60 (-5.7%) · **lohnt ab Sporttip-Gesamtquote 1.75** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg BOS (BOS @ SAC) — 77%, DK 1.17
+- Sieg MIN (MEM @ MIN) — 68%, DK 1.45
+- **Trefferchance 53%** · DK-Quote 1.69 (-10.6%) · **lohnt ab Sporttip-Gesamtquote 1.95** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg BOS (BOS @ SAC) — 85%, DK 1.13
-- Sieg MIN (MEM @ MIN) — 69%, DK 1.42
+- Sieg BOS (BOS @ SAC) — 77%, DK 1.17
+- Sieg MIN (MEM @ MIN) — 68%, DK 1.45
 - Sieg DAL (LAC @ DAL) — 65%, DK 1.51
-- **Trefferchance 38%** · DK-Quote 2.42 (-7.7%) · **lohnt ab Sporttip-Gesamtquote 2.70** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 34%** · DK-Quote 2.56 (-12.5%) · **lohnt ab Sporttip-Gesamtquote 3.01** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Karl-Anthony Towns (NY, POR @ NY): über 33.5 P+R+A — 77% · lohnt ab Quote **1.33**
 - Zion Williamson (NO, NO @ SA): über 24.5 P+R+A — 78% · lohnt ab Quote **1.32**
-- Jayson Tatum (BOS, BOS @ SAC): über 33.5 P+R+A — 76% · lohnt ab Quote **1.36**
 - Jaden McDaniels (MIN, MEM @ MIN): über 21.5 P+R+A — 79% · lohnt ab Quote **1.31**
 - Jalen Brunson (NY, POR @ NY): über 29.5 P+R+A — 76% · lohnt ab Quote **1.35**
+- Deni Avdija (POR, POR @ NY): über 28.5 P+R+A — 79% · lohnt ab Quote **1.31**
 
 _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. Lieber 2er als 4er+, und nur, wenn die Sporttip-Gesamtquote über der Mindestquote liegt._
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - MEM @ MIN: Under 228.5 — Modell-Total 218.5 (68%)
-- POR @ NY: Sieg POR — Modell 48% vs. Markt 42%
-- MEM @ MIN: Sieg MIN — Modell 73% vs. Markt 68%
-- LAC @ DAL: Sieg DAL — Modell 68% vs. Markt 64%
+- BOS @ SAC: Sieg SAC — Modell 34% vs. Markt 18%
+- BOS @ SAC: Handicap SAC +11.5 — Modell 65%
+- BOS @ SAC: Under 215.5 — Modell-Total 207.7 (65%)
+- MEM @ MIN: Handicap MIN -5.5 — Modell 59%
+- MEM @ MIN: Sieg MIN — Modell 73% vs. Markt 66%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 91/128 richtig (71%), Brier 0.201
@@ -72,13 +81,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### POR @ NY — So 01:30 Uhr
-**Sieg:** NY 57% (faire Quote 1.77) · POR 43% (2.31) — Markt NY 58%
-**Prognose:** NY 109.4 – POR 106.7 (Diff. NY +2.7, Total 216.1)
-**Handicap** NY -3.5: NY deckt 48% · POR +3.5 deckt 52%
-**Over/Under 215.5:** Over 51% (1.95) · Under 49% (2.05)
-**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
+**Sieg:** NY 47% (faire Quote 2.11) · POR 53% (1.90) — Markt NY 49%
+**Prognose:** NY 105.9 – POR 107.7 (Diff. POR +1.8, Total 213.6)
+**Handicap** NY +1.5: NY deckt 49% · POR -1.5 deckt 51%
+**Over/Under 213.5:** Over 50% (1.99) · Under 50% (2.01)
+**Total-Faustregel:** Over lohnt bis 209.5 · Under lohnt ab 217.5 (≥57%)
 **Form (letzte 5):** NY NNSSS (+1.2) · POR SSNNS (+4.8)
-_NY out: Jordan Clarkson* · NY fraglich: OG Anunoby*, Karl-Anthony Towns* · POR out: Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe · POR fraglich: Deni Avdija*_ (* = Meldung der letzten 24 h)
+_NY out: OG Anunoby*, Jordan Clarkson · NY fraglich: Karl-Anthony Towns* · POR out: Chris Youngblood, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
 > 📰 Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 
@@ -86,8 +95,8 @@ _NY out: Jordan Clarkson* · NY fraglich: OG Anunoby*, Karl-Anthony Towns* · PO
 |---|---|---|---|---|---|---|
 | Jalen Brunson (NY) | 34 | 26.5 (24.5 / 27.5) | 2.8 | 6.3 | 3.1 | 35.7 |
 | Karl-Anthony Towns (NY) | 33 | 21.0 (18.5 / 22.5) | 14.1 | 4.3 | 2.0 | 39.3 |
-| OG Anunoby (NY) | 34 | 15.9 (13.5 / 16.5) | 5.4 | 1.8 | 1.9 | 23.1 |
 | Landry Shamet (NY) | 26 | 10.8 (7.5 / 11.5) | 1.7 | 1.7 | 2.2 | 14.2 |
+| Mikal Bridges (NY) | 26 | 8.1 (5.5 / 8.5) | 3.8 | 2.3 | 1.1 | 14.1 |
 | Deni Avdija (POR) | 33 | 23.1 (20.5 / 24.5) | 6.1 | 5.9 | 2.1 | 35.3 |
 | Damian Lillard (POR) | 30 | 20.1 (17.5 / 20.5) | 3.1 | 3.9 | 3.2 | 27.5 |
 | Jrue Holiday (POR) | 27 | 13.5 (10.5 / 14.5) | 3.4 | 4.4 | 2.4 | 21.4 |
@@ -100,7 +109,7 @@ _NY out: Jordan Clarkson* · NY fraglich: OG Anunoby*, Karl-Anthony Towns* · PO
 **Over/Under 230.5:** Over 50% (2.01) · Under 50% (1.99)
 **Total-Faustregel:** Over lohnt bis 226.5 · Under lohnt ab 234.5 (≥57%)
 **Form (letzte 5):** DAL SNNNS (-12.2) · LAC NSSNN (-10.2)
-_DAL out: Tobi Lawal*, Dereck Lively II, Sergio de Larrea, Tarik Biberovic · DAL fraglich: P.J. Washington*, Walter Clayton Jr.* · LAC out: Brandon Ingram*, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
+_DAL out: Tobi Lawal*, Dereck Lively II, Sergio de Larrea, Tarik Biberovic · DAL fraglich: P.J. Washington*, Walter Clayton Jr. · LAC out: Brandon Ingram, Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Shams: Brandon Ingram will make Clippers debut Monday
 
@@ -116,9 +125,9 @@ _DAL out: Tobi Lawal*, Dereck Lively II, Sergio de Larrea, Tarik Biberovic · DA
 | Derrick Jones Jr. (LAC) | 28 | 10.4 (8.5 / 11.5) | 4.0 | 1.1 | 1.7 | 15.5 |
 
 ### MEM @ MIN — So 02:00 Uhr
-**Sieg:** MIN 69% (faire Quote 1.45) · MEM 31% (3.24) — Markt MIN 68%
-**Prognose:** MIN 116.4 – MEM 109.1 (Diff. MIN +7.2, Total 225.5)
-**Handicap** MIN -6.5: MIN deckt 52% · MEM +6.5 deckt 48%
+**Sieg:** MIN 68% (faire Quote 1.47) · MEM 32% (3.15) — Markt MIN 66%
+**Prognose:** MIN 116.0 – MEM 109.5 (Diff. MIN +6.5, Total 225.5)
+**Handicap** MIN -5.5: MIN deckt 53% · MEM +5.5 deckt 47%
 **Over/Under 228.5:** Over 44% (2.30) · Under 56% (1.77)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** MIN SNSSN (+6.8) · MEM SSSSS (+19.4)
@@ -133,16 +142,16 @@ _MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · MEM out: Jerami Gra
 | Jaden McDaniels (MIN) | 34 | 17.2 (15.5 / 18.5) | 5.8 | 3.5 | 1.6 | 26.5 |
 | Jonathan Kuminga (MIN) | 31 | 13.5 (10.5 / 14.5) | 5.5 | 2.8 | 1.5 | 21.8 |
 | Ty Jerome (MEM) | 31 | 22.9 (19.5 / 23.5) | 3.3 | 5.3 | 2.4 | 31.7 |
-| Cedric Coward (MEM) | 29 | 14.8 (12.5 / 15.5) | 7.7 | 3.8 | 2.5 | 26.2 |
+| Cedric Coward (MEM) | 29 | 14.8 (12.5 / 15.5) | 7.7 | 3.8 | 2.5 | 26.3 |
 | Cam Spencer (MEM) | 24 | 11.7 (8.5 / 12.5) | 2.8 | 6.4 | 2.0 | 20.9 |
 | Jaylen Wells (MEM) | 26 | 10.7 (7.5 / 10.5) | 3.3 | 1.4 | 2.1 | 15.5 |
 
 ### NO @ SA — So 02:00 Uhr
-**Sieg:** SA 90% (faire Quote 1.11) · NO 10% (9.82) — Markt SA 91%
-**Prognose:** SA 122.9 – NO 104.2 (Diff. SA +18.6, Total 227.1)
-**Handicap** SA -19.5: SA deckt 47% · NO +19.5 deckt 53%
-**Over/Under 227.5:** Over 49% (2.03) · Under 51% (1.97)
-**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 230.5 (≥57%)
+**Sieg:** SA 90% (faire Quote 1.11) · NO 10% (9.75) — Markt SA 91%
+**Prognose:** SA 122.9 – NO 104.9 (Diff. SA +17.9, Total 227.8)
+**Handicap** SA -18.5: SA deckt 48% · NO +18.5 deckt 52%
+**Over/Under 228.5:** Over 49% (2.06) · Under 51% (1.94)
+**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** SA SSSNS (+10.2) · NO NNSNN (-7.4)
 _SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · NO spielt Back-to-Back · NO out: Trey Murphy III*, Trendon Watford*, Bryce McGowens, Bennedict Mathurin, Dejounte Murray_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
@@ -160,13 +169,13 @@ _SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · NO spielt Back-to-Bac
 | Jordan Poole (NO) | 22 | 10.3 (7.5 / 10.5) | 1.5 | 3.3 | 1.3 | 15.2 |
 
 ### BOS @ SAC — So 04:00 Uhr
-**Sieg:** SAC 15% (faire Quote 6.70) · BOS 85% (1.18) — Markt SAC 15%
-**Prognose:** SAC 101.7 – BOS 115.5 (Diff. BOS +13.9, Total 217.2)
-**Handicap** SAC +13.5: SAC deckt 49% · BOS -13.5 deckt 51%
-**Over/Under 217.5:** Over 49% (2.03) · Under 51% (1.97)
-**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
+**Sieg:** SAC 23% (faire Quote 4.42) · BOS 77% (1.29) — Markt SAC 18%
+**Prognose:** SAC 101.7 – BOS 111.5 (Diff. BOS +9.8, Total 213.2)
+**Handicap** SAC +11.5: SAC deckt 55% · BOS -11.5 deckt 45%
+**Over/Under 215.5:** Over 45% (2.22) · Under 55% (1.82)
+**Total-Faustregel:** Over lohnt bis 209.5 · Under lohnt ab 216.5 (≥57%)
 **Form (letzte 5):** SAC NNNNN (-13.0) · BOS SSSNN (+10.0)
-_SAC spielt Back-to-Back · SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich: Precious Achiuwa* · BOS fraglich: Jayson Tatum*, Derrick White*_ (* = Meldung der letzten 24 h)
+_SAC spielt Back-to-Back · SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich: Precious Achiuwa* · BOS out: Mitchell Robinson*, Derrick White*, Jayson Tatum*_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Luka Doncic scores 25, Lakers barely hold off Kings 106-104 on LaVine's miss at the buzzer
 
@@ -176,10 +185,9 @@ _SAC spielt Back-to-Back · SAC out: Maxime Raynaud, Ben Simmons · SAC fraglich
 | Zach LaVine (SAC) | 33 | 18.8 (15.5 / 19.5) | 3.9 | 2.9 | 2.5 | 25.8 |
 | De'Andre Hunter (SAC) | 34 | 15.0 (11.5 / 15.5) | 4.2 | 1.8 | 2.2 | 21.3 |
 | Domantas Sabonis (SAC) | 33 | 12.7 (9.5 / 13.5) | 12.9 | 5.0 | 0.3 | 30.3 |
-| Jayson Tatum (BOS) | 34 | 26.8 (24.5 / 27.5) | 6.9 | 6.3 | 3.0 | 40.0 |
 | Paul George (BOS) | 29 | 19.7 (15.5 / 20.5) | 5.4 | 3.5 | 3.4 | 28.6 |
 | Payton Pritchard (BOS) | 27 | 14.3 (11.5 / 14.5) | 3.0 | 3.8 | 2.6 | 21.2 |
-| Derrick White (BOS) | 30 | 13.0 (10.5 / 13.5) | 2.9 | 4.9 | 1.8 | 20.8 |
+| Neemias Queta (BOS) | 23 | 10.3 (8.5 / 10.5) | 7.5 | 2.2 | 0.3 | 19.9 |
 
 ---
 _Wahrscheinlichkeiten = 70% Buchmacherlinie (DraftKings via ESPN) + 30% eigenes Modell (Team-Ratings, Heimvorteil, Back-to-Back, Ausfälle). Spieler-Linien: 'Over bis X' = bis zu dieser Linie liegt P(Over) ≥ 57%. Keine Garantie – Wetten mit Verlustrisiko, nur mit Geld, das du verlieren kannst._

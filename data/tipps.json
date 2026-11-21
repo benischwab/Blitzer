@@ -1662,17 +1662,17 @@
 "p_over": 0.4689
 },
 "401910024": {
-"p_home": 0.5662,
-"margin": 2.7,
-"total": 216.07,
+"p_home": 0.4734,
+"margin": -1.83,
+"total": 213.64,
 "matchup": "POR @ NY",
 "home": "NY",
 "away": "POR",
 "day": "2026-11-21",
-"home_spread": -3.5,
-"p_cover": 0.4756,
-"line_total": 215.5,
-"p_over": 0.5123
+"home_spread": 1.5,
+"p_cover": 0.49,
+"line_total": 213.5,
+"p_over": 0.5031
 },
 "401910025": {
 "p_home": 0.6482,
@@ -1688,43 +1688,43 @@
 "p_over": 0.4978
 },
 "401910026": {
-"p_home": 0.6918,
-"margin": 7.21,
+"p_home": 0.6823,
+"margin": 6.51,
 "total": 225.5,
 "matchup": "MEM @ MIN",
 "home": "MIN",
 "away": "MEM",
 "day": "2026-11-21",
-"home_spread": -6.5,
-"p_cover": 0.5219,
+"home_spread": -5.5,
+"p_cover": 0.531,
 "line_total": 228.5,
 "p_over": 0.4355
 },
 "401910027": {
-"p_home": 0.8981,
-"margin": 18.63,
-"total": 227.12,
+"p_home": 0.8975,
+"margin": 17.93,
+"total": 227.82,
 "matchup": "NO @ SA",
 "home": "SA",
 "away": "NO",
 "day": "2026-11-21",
-"home_spread": -19.5,
-"p_cover": 0.4734,
-"line_total": 227.5,
-"p_over": 0.4917
+"home_spread": -18.5,
+"p_cover": 0.4825,
+"line_total": 228.5,
+"p_over": 0.4852
 },
 "401910028": {
-"p_home": 0.1493,
-"margin": -13.87,
-"total": 217.2,
+"p_home": 0.2265,
+"margin": -9.82,
+"total": 213.16,
 "matchup": "BOS @ SAC",
 "home": "SAC",
 "away": "BOS",
 "day": "2026-11-21",
-"home_spread": 13.5,
-"p_cover": 0.4887,
-"line_total": 217.5,
-"p_over": 0.4936
+"home_spread": 11.5,
+"p_cover": 0.5514,
+"line_total": 215.5,
+"p_over": 0.4496
 }
 },
 "singles": {
@@ -2198,8 +2198,28 @@
 "side": "under",
 "line": 228.5,
 "p": 0.5645,
-"dk": 1.9523809523809523,
+"dk": 1.9090909090909092,
 "label": "Under 228.5"
+},
+{
+"game_id": "401910028",
+"matchup": "BOS @ SAC",
+"market": "spread",
+"side": "SAC",
+"line": 11.5,
+"p": 0.5514,
+"dk": 1.9615384615384617,
+"label": "SAC +11.5"
+},
+{
+"game_id": "401910028",
+"matchup": "BOS @ SAC",
+"market": "total",
+"side": "under",
+"line": 215.5,
+"p": 0.5504,
+"dk": 1.9523809523809523,
+"label": "Under 215.5"
 }
 ]
 },

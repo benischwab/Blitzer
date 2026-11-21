@@ -7,17 +7,16 @@
 "Chris Youngblood",
 "Ja Morant",
 "Jordan Clarkson",
+"OG Anunoby",
 "Shaedon Sharpe",
 "Vit Krejci"
 ],
 "dtd": [
-"Deni Avdija",
-"Karl-Anthony Towns",
-"OG Anunoby"
+"Karl-Anthony Towns"
 ],
-"spread": -3.5,
-"total": 215.5,
-"p_home": 0.5662
+"spread": 1.5,
+"total": 213.5,
+"p_home": 0.4734
 },
 "401910025": {
 "matchup": "LAC @ DAL",
@@ -56,9 +55,9 @@
 "Scotty Pippen Jr."
 ],
 "dtd": [],
-"spread": -6.5,
+"spread": -5.5,
 "total": 228.5,
-"p_home": 0.6918
+"p_home": 0.6823
 },
 "401910027": {
 "matchup": "NO @ SA",
@@ -75,9 +74,9 @@
 "Trey Murphy III"
 ],
 "dtd": [],
-"spread": -19.5,
-"total": 227.5,
-"p_home": 0.8981
+"spread": -18.5,
+"total": 228.5,
+"p_home": 0.8975
 },
 "401910028": {
 "matchup": "BOS @ SAC",
@@ -85,19 +84,22 @@
 "away": "BOS",
 "out": [
 "Ben Simmons",
-"Maxime Raynaud"
-],
-"dtd": [
 "Derrick White",
 "Jayson Tatum",
+"Maxime Raynaud",
+"Mitchell Robinson"
+],
+"dtd": [
 "Precious Achiuwa"
 ],
-"spread": 13.5,
-"total": 217.5,
-"p_home": 0.1493
+"spread": 11.5,
+"total": 215.5,
+"p_home": 0.2265
 },
 "_tips": [
-"Under 228.5 (MEM @ MIN)"
+"Under 228.5 (MEM @ MIN)",
+"SAC +11.5 (BOS @ SAC)",
+"Under 215.5 (BOS @ SAC)"
 ],
 "_game_day": "2026-11-21"
 }

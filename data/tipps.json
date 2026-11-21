@@ -1662,33 +1662,33 @@
 "p_over": 0.4689
 },
 "401910024": {
-"p_home": 0.4734,
-"margin": -1.83,
-"total": 213.64,
+"p_home": 0.4375,
+"margin": -3.21,
+"total": 212.26,
 "matchup": "POR @ NY",
 "home": "NY",
 "away": "POR",
 "day": "2026-11-21",
 "home_spread": 1.5,
-"p_cover": 0.49,
+"p_cover": 0.4476,
 "line_total": 213.5,
-"p_over": 0.5031
+"p_over": 0.4732
 },
 "401910025": {
-"p_home": 0.6482,
-"margin": 5.14,
-"total": 230.4,
+"p_home": 0.6221,
+"margin": 4.28,
+"total": 229.54,
 "matchup": "LAC @ DAL",
 "home": "DAL",
 "away": "LAC",
 "day": "2026-11-21",
 "home_spread": -4.5,
-"p_cover": 0.5196,
+"p_cover": 0.4933,
 "line_total": 230.5,
-"p_over": 0.4978
+"p_over": 0.4793
 },
 "401910026": {
-"p_home": 0.6823,
+"p_home": 0.6797,
 "margin": 6.51,
 "total": 225.5,
 "matchup": "MEM @ MIN",
@@ -1703,26 +1703,26 @@
 "401910027": {
 "p_home": 0.8975,
 "margin": 17.93,
-"total": 227.82,
+"total": 228.51,
 "matchup": "NO @ SA",
 "home": "SA",
 "away": "NO",
 "day": "2026-11-21",
 "home_spread": -18.5,
 "p_cover": 0.4825,
-"line_total": 228.5,
-"p_over": 0.4852
+"line_total": 229.5,
+"p_over": 0.4788
 },
 "401910028": {
-"p_home": 0.2265,
-"margin": -9.82,
+"p_home": 0.2259,
+"margin": -10.52,
 "total": 213.16,
 "matchup": "BOS @ SAC",
 "home": "SAC",
 "away": "BOS",
 "day": "2026-11-21",
-"home_spread": 11.5,
-"p_cover": 0.5514,
+"home_spread": 12.5,
+"p_cover": 0.5606,
 "line_total": 215.5,
 "p_over": 0.4496
 }
@@ -2202,14 +2202,34 @@
 "label": "Under 228.5"
 },
 {
+"game_id": "401910024",
+"matchup": "POR @ NY",
+"market": "ml",
+"side": "POR",
+"line": null,
+"p": 0.5625,
+"dk": 1.8928571428571428,
+"label": "Sieg POR"
+},
+{
 "game_id": "401910028",
 "matchup": "BOS @ SAC",
 "market": "spread",
 "side": "SAC",
-"line": 11.5,
-"p": 0.5514,
-"dk": 1.9615384615384617,
-"label": "SAC +11.5"
+"line": 12.5,
+"p": 0.5606,
+"dk": 1.8620689655172413,
+"label": "SAC +12.5"
+},
+{
+"game_id": "401910024",
+"matchup": "POR @ NY",
+"market": "spread",
+"side": "POR",
+"line": -1.5,
+"p": 0.5524,
+"dk": 1.9523809523809523,
+"label": "POR -1.5"
 },
 {
 "game_id": "401910028",

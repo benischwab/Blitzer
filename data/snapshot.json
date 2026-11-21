@@ -7,16 +7,15 @@
 "Chris Youngblood",
 "Ja Morant",
 "Jordan Clarkson",
+"Karl-Anthony Towns",
 "OG Anunoby",
 "Shaedon Sharpe",
 "Vit Krejci"
 ],
-"dtd": [
-"Karl-Anthony Towns"
-],
+"dtd": [],
 "spread": 1.5,
 "total": 213.5,
-"p_home": 0.4734
+"p_home": 0.4375
 },
 "401910025": {
 "matchup": "LAC @ DAL",
@@ -27,17 +26,15 @@
 "Brandon Ingram",
 "Dereck Lively II",
 "Jordan Miller",
+"P.J. Washington",
 "Sergio de Larrea",
 "Tarik Biberovic",
 "Tobi Lawal"
 ],
-"dtd": [
-"P.J. Washington",
-"Walter Clayton Jr."
-],
+"dtd": [],
 "spread": -4.5,
 "total": 230.5,
-"p_home": 0.6482
+"p_home": 0.6221
 },
 "401910026": {
 "matchup": "MEM @ MIN",
@@ -57,7 +54,7 @@
 "dtd": [],
 "spread": -5.5,
 "total": 228.5,
-"p_home": 0.6823
+"p_home": 0.6797
 },
 "401910027": {
 "matchup": "NO @ SA",
@@ -75,7 +72,7 @@
 ],
 "dtd": [],
 "spread": -18.5,
-"total": 228.5,
+"total": 229.5,
 "p_home": 0.8975
 },
 "401910028": {
@@ -92,13 +89,15 @@
 "dtd": [
 "Precious Achiuwa"
 ],
-"spread": 11.5,
+"spread": 12.5,
 "total": 215.5,
-"p_home": 0.2265
+"p_home": 0.2259
 },
 "_tips": [
 "Under 228.5 (MEM @ MIN)",
-"SAC +11.5 (BOS @ SAC)",
+"Sieg POR (POR @ NY)",
+"SAC +12.5 (BOS @ SAC)",
+"POR -1.5 (POR @ NY)",
 "Under 215.5 (BOS @ SAC)"
 ],
 "_game_day": "2026-11-21"

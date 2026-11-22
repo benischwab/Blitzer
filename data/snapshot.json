@@ -11,18 +11,15 @@
 "Henri Veesaar",
 "Jalen Duren",
 "Jock Landale",
-"Kingston Flemings",
 "Mouhamed Gueye",
-"Ronald Holland II",
 "Taurean Prince"
 ],
 "dtd": [
-"Cade Cunningham",
-"Ugonna Onyenso"
+"Cade Cunningham"
 ],
 "spread": 1.5,
 "total": 223.5,
-"p_home": 0.4558
+"p_home": 0.4655
 },
 "401910030": {
 "matchup": "OKC @ MIA",
@@ -42,9 +39,9 @@
 "Myron Gardner",
 "Shai Gilgeous-Alexander"
 ],
-"spread": -4.5,
+"spread": -3.5,
 "total": 231.5,
-"p_home": 0.5705
+"p_home": 0.5783
 },
 "401910031": {
 "matchup": "ORL @ WSH",
@@ -60,10 +57,13 @@
 "Reece Beekman",
 "Tristan Vukcevic"
 ],
-"dtd": [],
+"dtd": [
+"Bub Carrington",
+"Deandre Ayton"
+],
 "spread": 4.5,
-"total": 219.5,
-"p_home": 0.3832
+"total": 220.5,
+"p_home": 0.3881
 },
 "401910032": {
 "matchup": "DEN @ CHI",
@@ -72,16 +72,16 @@
 "out": [
 "Caleb Wilson",
 "Julian Strawther",
-"Norman Powell",
-"Tobe Awaka"
+"Norman Powell"
 ],
 "dtd": [
 "Jalen Smith",
+"Nic Claxton",
 "Patrick Williams"
 ],
 "spread": 9.5,
 "total": 235.5,
-"p_home": 0.2334
+"p_home": 0.2302
 },
 "401910033": {
 "matchup": "DAL @ UTAH",
@@ -93,15 +93,16 @@
 "Jusuf Nurkic",
 "Lauri Markkanen",
 "Sergio de Larrea",
-"Tarik Biberovic"
+"Tarik Biberovic",
+"Tobi Lawal"
 ],
 "dtd": [
 "P.J. Washington",
-"Tobi Lawal"
+"Walter Clayton Jr."
 ],
 "spread": 1.5,
-"total": 224.5,
-"p_home": 0.487
+"total": 226.5,
+"p_home": 0.4709
 },
 "401910034": {
 "matchup": "IND @ NY",
@@ -110,18 +111,18 @@
 "out": [
 "Ben Sheppard",
 "Johnny Furphy",
+"Jordan Clarkson",
+"OG Anunoby",
 "T.J. McConnell",
 "Tyrese Haliburton"
 ],
 "dtd": [
-"Jordan Clarkson",
 "Karl-Anthony Towns",
-"OG Anunoby",
 "Pascal Siakam"
 ],
-"spread": -8.5,
-"total": 214.5,
-"p_home": 0.7325
+"spread": -7.5,
+"total": 213.5,
+"p_home": 0.6893
 },
 "401910035": {
 "matchup": "BOS @ GS",
@@ -140,8 +141,8 @@
 "Mitchell Robinson"
 ],
 "spread": 8.5,
-"total": 209.5,
-"p_home": 0.269
+"total": 210.5,
+"p_home": 0.2737
 },
 "_tips": [],
 "_game_day": "2026-11-22"

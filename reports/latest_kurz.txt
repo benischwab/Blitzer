@@ -1,10 +1,19 @@
-• 2er-Kombi: Sieg NY + Sieg BOS – 54%, ab 1.92
-• 3er-Kombi: Sieg NY + Sieg BOS + Sieg ORL – 33%, ab 3.12
+ÄNDERUNGEN:
+• DET @ ATL: Kingston Flemings wieder dabei / nicht mehr out
+• DET @ ATL: Ronald Holland II wieder dabei / nicht mehr out
+• DEN @ CHI: Tobe Awaka wieder dabei / nicht mehr out
+• DAL @ UTAH: Tobi Lawal fällt NEU aus
+• DAL @ UTAH: Total 224.5 → 226.5
+• IND @ NY: Jordan Clarkson fällt NEU aus
+• IND @ NY: OG Anunoby fällt NEU aus
 
-21:30 DET@ATL: DET 54% · U223.5 52%
-00:00 OKC@MIA: MIA 57% · U231.5 50%
-01:00 ORL@WSH: ORL 62% · O219.5 54%
+• 2er-Kombi: Sieg DEN + Sieg NY – 53%, ab 1.94
+• 3er-Kombi: Sieg DEN + Sieg NY + Sieg ORL – 32%, ab 3.17
+
+21:30 DET@ATL: DET 53% · U223.5 51%
+00:00 OKC@MIA: MIA 58% · U231.5 50%
+01:00 ORL@WSH: ORL 61% · O220.5 53%
 01:00 DEN@CHI: DEN 77% · U235.5 54%
-01:00 DAL@UTAH: DAL 51% · U224.5 54%
-02:00 IND@NY: NY 73% · U214.5 52%
-02:30 BOS@GS: BOS 73% · U209.5 50%
+01:00 DAL@UTAH: DAL 53% · U226.5 55%
+02:00 IND@NY: NY 69% · U213.5 53%
+02:30 BOS@GS: BOS 73% · U210.5 51%

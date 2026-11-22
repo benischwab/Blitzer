@@ -1,47 +1,24 @@
 {
-"401910029": {
-"matchup": "DET @ ATL",
-"home": "ATL",
-"away": "DET",
-"out": [
-"Asa Newell",
-"CJ McCollum",
-"Duncan Robinson",
-"Ebuka Okorie",
-"Henri Veesaar",
-"Jalen Duren",
-"Jock Landale",
-"Mouhamed Gueye",
-"Taurean Prince"
-],
-"dtd": [
-"Cade Cunningham"
-],
-"spread": 1.5,
-"total": 223.5,
-"p_home": 0.4655
-},
 "401910030": {
 "matchup": "OKC @ MIA",
 "home": "MIA",
 "away": "OKC",
 "out": [
+"Aday Mara",
 "Alex Caruso",
 "Cason Wallace",
 "Chet Holmgren",
+"Giannis Antetokounmpo",
 "Jalen Williams",
 "Jaylin Williams",
 "Nikola Topic",
+"Shai Gilgeous-Alexander",
 "Thomas Sorber"
 ],
-"dtd": [
-"Giannis Antetokounmpo",
-"Myron Gardner",
-"Shai Gilgeous-Alexander"
-],
-"spread": -3.5,
-"total": 231.5,
-"p_home": 0.5783
+"dtd": [],
+"spread": -4.5,
+"total": 226.5,
+"p_home": 0.6295
 },
 "401910031": {
 "matchup": "ORL @ WSH",
@@ -63,7 +40,7 @@
 ],
 "spread": 4.5,
 "total": 220.5,
-"p_home": 0.3881
+"p_home": 0.389
 },
 "401910032": {
 "matchup": "DEN @ CHI",
@@ -72,16 +49,13 @@
 "out": [
 "Caleb Wilson",
 "Julian Strawther",
+"Nic Claxton",
 "Norman Powell"
 ],
-"dtd": [
-"Jalen Smith",
-"Nic Claxton",
-"Patrick Williams"
-],
-"spread": 9.5,
-"total": 235.5,
-"p_home": 0.2302
+"dtd": [],
+"spread": 10.5,
+"total": 236.5,
+"p_home": 0.2265
 },
 "401910033": {
 "matchup": "DAL @ UTAH",
@@ -92,17 +66,15 @@
 "Jaren Jackson Jr.",
 "Jusuf Nurkic",
 "Lauri Markkanen",
+"P.J. Washington",
 "Sergio de Larrea",
 "Tarik Biberovic",
 "Tobi Lawal"
 ],
-"dtd": [
-"P.J. Washington",
-"Walter Clayton Jr."
-],
-"spread": 1.5,
-"total": 226.5,
-"p_home": 0.4709
+"dtd": [],
+"spread": 2.5,
+"total": 225.5,
+"p_home": 0.4755
 },
 "401910034": {
 "matchup": "IND @ NY",
@@ -121,7 +93,7 @@
 "Pascal Siakam"
 ],
 "spread": -7.5,
-"total": 213.5,
+"total": 212.5,
 "p_home": 0.6893
 },
 "401910035": {
@@ -132,18 +104,20 @@
 "Brandon Williams",
 "Jimmy Butler III",
 "Kristaps Porzingis",
+"Mitchell Robinson",
 "Moses Moody",
+"Paul George",
 "Stephen Curry"
 ],
-"dtd": [
-"Derrick White",
-"Jayson Tatum",
-"Mitchell Robinson"
-],
-"spread": 8.5,
+"dtd": [],
+"spread": 7.5,
 "total": 210.5,
-"p_home": 0.2737
+"p_home": 0.3142
 },
-"_tips": [],
+"_tips": [
+"Under 226.5 (OKC @ MIA)",
+"Under 225.5 (DAL @ UTAH)",
+"Under 236.5 (DEN @ CHI)"
+],
 "_game_day": "2026-11-22"
 }

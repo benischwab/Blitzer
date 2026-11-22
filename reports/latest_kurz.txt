@@ -1,8 +1,10 @@
-Sieger 4/6 richtig · Ø-Fehler Total 24 Pkt · O/U 5/6
-✅ MIL 129–132 PHI (Prog. PHI 76%)
-❌ POR 96–97 NY (Prog. POR 56%)
-✅ LAC 100–110 DAL (Prog. DAL 62%)
-✅ MEM 95–104 MIN (Prog. MIN 68%)
-✅ NO 91–114 SA (Prog. SA 90%)
-❌ BOS 96–97 SAC (Prog. BOS 77%)
-Tipps: 3/5 · +0.72 Fr.
+• 2er-Kombi: Sieg NY + Sieg BOS – 54%, ab 1.92
+• 3er-Kombi: Sieg NY + Sieg BOS + Sieg ORL – 33%, ab 3.12
+
+21:30 DET@ATL: DET 54% · U223.5 52%
+00:00 OKC@MIA: MIA 57% · U231.5 50%
+01:00 ORL@WSH: ORL 62% · O219.5 54%
+01:00 DEN@CHI: DEN 77% · U235.5 54%
+01:00 DAL@UTAH: DAL 51% · U224.5 54%
+02:00 IND@NY: NY 73% · U214.5 52%
+02:30 BOS@GS: BOS 73% · U209.5 50%

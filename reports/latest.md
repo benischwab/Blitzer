@@ -1,18 +1,10 @@
 # NBA-Tipps für die Nacht 22.11.–23.11.2026
 
-Stand: So 22.11. 23:49 Uhr · 6 Spiele · Datenbasis: 241 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.3 Pkt/Team
+Stand: Mo 23.11. 01:06 Uhr · 5 Spiele · Datenbasis: 241 Saisonspiele · Heimvorteil 1.7 Pkt · Liga-Schnitt 113.3 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- OKC @ MIA: Aday Mara fällt NEU aus
-- OKC @ MIA: Giannis Antetokounmpo fällt NEU aus
-- OKC @ MIA: Shai Gilgeous-Alexander fällt NEU aus
-- OKC @ MIA: Total 231.5 → 226.5
-- OKC @ MIA: Sieg MIA 58% → 63%
-- DEN @ CHI: Nic Claxton fällt NEU aus
-- DAL @ UTAH: P.J. Washington fällt NEU aus
-- BOS @ GS: Mitchell Robinson fällt NEU aus
-- BOS @ GS: Paul George fällt NEU aus
-- Neue Tipps: Under 226.5 (OKC @ MIA); Under 225.5 (DAL @ UTAH); Under 236.5 (DEN @ CHI)
+- Neue Tipps: Under 237.5 (DEN @ CHI)
+- Gestrichen: Under 226.5 (OKC @ MIA); Under 236.5 (DEN @ CHI)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -22,9 +14,9 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| Under 226.5 | OKC @ MIA | 58% | 1.88 | +8.1% | **1.79** |
-| Under 225.5 | DAL @ UTAH | 56% | 1.88 | +5.7% | **1.84** |
-| Under 236.5 | DEN @ CHI | 55% | 1.90 | +5.1% | **1.86** |
+| Under 225.5 | DAL @ UTAH | 56% | 1.93 | +8.0% | **1.84** |
+| Under 237.5 | DEN @ CHI | 56% | 1.93 | +7.7% | **1.84** |
+| Sieg ORL | ORL @ WSH | 61% | 1.51 | -7.7% | **1.69** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Sieg DEN (DEN @ CHI) — 77%, DK 1.24
@@ -34,8 +26,8 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 **3er-Kombi (höhere Quote)**
 - Sieg DEN (DEN @ CHI) — 77%, DK 1.24
 - Sieg NY (IND @ NY) — 69%, DK 1.34
-- Sieg MIA (OKC @ MIA) — 63%, DK 1.52
-- **Trefferchance 34%** · DK-Quote 2.51 (-15.7%) · **lohnt ab Sporttip-Gesamtquote 3.07** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg ORL (ORL @ WSH) — 61%, DK 1.51
+- **Trefferchance 33%** · DK-Quote 2.50 (-18.5%) · **lohnt ab Sporttip-Gesamtquote 3.16** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Karl-Anthony Towns (NY, IND @ NY): über 34.5 P+R+A — 76% · lohnt ab Quote **1.36**
@@ -48,12 +40,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- OKC @ MIA: Under 226.5 — Modell-Total 214.7 (71%)
 - DAL @ UTAH: Under 225.5 — Modell-Total 216.1 (67%)
+- DEN @ CHI: Under 237.5 — Modell-Total 228.3 (67%)
 - BOS @ GS: Sieg GS — Modell 43% vs. Markt 27%
-- DEN @ CHI: Under 236.5 — Modell-Total 228.3 (65%)
 - BOS @ GS: Handicap GS +7.5 — Modell 63%
 - DAL @ UTAH: Handicap UTAH +2.5 — Modell 61%
+- BOS @ GS: Under 210.5 — Modell-Total 205.0 (60%)
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 95/134 richtig (71%), Brier 0.201
@@ -84,26 +76,6 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 
 ## Spiele
 
-### OKC @ MIA — Mo 00:00 Uhr
-**Sieg:** MIA 63% (faire Quote 1.59) · OKC 37% (2.70) — Markt MIA 63%
-**Prognose:** MIA 113.7 – OKC 109.2 (Diff. MIA +4.5, Total 223.0)
-**Handicap** MIA -4.5: MIA deckt 50% · OKC +4.5 deckt 50%
-**Over/Under 226.5:** Over 42% (2.36) · Under 58% (1.74)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
-**Form (letzte 5):** MIA SSSSS (+12.6) · OKC NNSNS (+2.4)
-_MIA out: Giannis Antetokounmpo* · OKC out: Aday Mara*, Shai Gilgeous-Alexander*, Nikola Topic, Jaylin Williams, Alex Caruso, Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams_ (* = Meldung der letzten 24 h)
-
-| Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
-|---|---|---|---|---|---|---|
-| Bam Adebayo (MIA) | 32 | 18.8 (14.5 / 19.5) | 7.4 | 3.0 | 0.9 | 29.2 |
-| Davion Mitchell (MIA) | 36 | 17.1 (15.5 / 17.5) | 2.7 | 9.2 | 2.6 | 29.0 |
-| Klay Thompson (MIA) | 24 | 15.7 (12.5 / 16.5) | 1.3 | 2.2 | 4.1 | 19.3 |
-| Pelle Larsson (MIA) | 28 | 10.3 (8.5 / 10.5) | 3.3 | 3.3 | 1.4 | 17.0 |
-| Ajay Mitchell (OKC) | 29 | 17.2 (13.5 / 17.5) | 3.6 | 3.7 | 0.8 | 24.5 |
-| Jared McCain (OKC) | 28 | 15.7 (13.5 / 16.5) | 3.5 | 1.6 | 2.7 | 20.6 |
-| Isaiah Hartenstein (OKC) | 26 | 8.6 (5.5 / 8.5) | 11.3 | 4.3 | 0.0 | 24.4 |
-| Kenrich Williams (OKC) | 23 | 8.1 (6.5 / 8.5) | 3.7 | 1.9 | 1.3 | 13.6 |
-
 ### ORL @ WSH — Mo 01:00 Uhr
 **Sieg:** WSH 39% (faire Quote 2.57) · ORL 61% (1.64) — Markt WSH 36%
 **Prognose:** WSH 109.1 – ORL 112.8 (Diff. ORL +3.7, Total 221.9)
@@ -111,7 +83,7 @@ _MIA out: Giannis Antetokounmpo* · OKC out: Aday Mara*, Shai Gilgeous-Alexander
 **Over/Under 220.5:** Over 53% (1.89) · Under 47% (2.12)
 **Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** WSH NNNSS (-8.0) · ORL SSSNS (+6.0)
-_WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Bub Carrington*, Deandre Ayton* · ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero_ (* = Meldung der letzten 24 h)
+_WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero_
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -125,11 +97,11 @@ _WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · W
 | Tristan da Silva (ORL) | 30 | 13.7 (11.5 / 14.5) | 3.8 | 1.7 | 3.1 | 19.1 |
 
 ### DEN @ CHI — Mo 01:00 Uhr
-**Sieg:** CHI 23% (faire Quote 4.42) · DEN 77% (1.29) — Markt CHI 22%
-**Prognose:** CHI 111.7 – DEN 122.3 (Diff. DEN +10.5, Total 234.0)
-**Handicap** CHI +10.5: CHI deckt 50% · DEN -10.5 deckt 50%
-**Over/Under 236.5:** Over 45% (2.24) · Under 55% (1.81)
-**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 237.5 (≥57%)
+**Sieg:** CHI 23% (faire Quote 4.41) · DEN 77% (1.29) — Markt CHI 22%
+**Prognose:** CHI 112.4 – DEN 122.3 (Diff. DEN +9.8, Total 234.7)
+**Handicap** CHI +9.5: CHI deckt 49% · DEN -9.5 deckt 51%
+**Over/Under 237.5:** Over 44% (2.27) · Under 56% (1.79)
+**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 238.5 (≥57%)
 **Form (letzte 5):** CHI SSNSN (+6.8) · DEN SSNSS (+2.8)
 _CHI out: Nic Claxton*, Norman Powell*, Caleb Wilson · DEN out: Julian Strawther_ (* = Meldung der letzten 24 h)
 > 📰 Bulls G Norman Powell sidelined by mild hamstring injury
@@ -169,10 +141,10 @@ _UTAH out: Jusuf Nurkic, Lauri Markkanen, Jaren Jackson Jr. · DAL spielt Back-t
 
 ### IND @ NY — Mo 02:00 Uhr
 **Sieg:** NY 69% (faire Quote 1.45) · IND 31% (3.22) — Markt NY 72%
-**Prognose:** NY 109.0 – IND 102.4 (Diff. NY +6.6, Total 211.3)
+**Prognose:** NY 109.3 – IND 102.7 (Diff. NY +6.6, Total 212.0)
 **Handicap** NY -7.5: NY deckt 47% · IND +7.5 deckt 53%
-**Over/Under 212.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 207.5 · Under lohnt ab 215.5 (≥57%)
+**Over/Under 213.5:** Over 47% (2.14) · Under 53% (1.88)
+**Total-Faustregel:** Over lohnt bis 208.5 · Under lohnt ab 215.5 (≥57%)
 **Form (letzte 5):** NY NSSSS (+3.0) · IND SSNNN (-3.2)
 _NY spielt Back-to-Back · NY out: OG Anunoby*, Jordan Clarkson* · NY fraglich: Karl-Anthony Towns* · IND out: T.J. McConnell, Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: Pascal Siakam_ (* = Meldung der letzten 24 h)
 > 📰 Mikal Bridges shakes off slump, hits buzzer-beater to save Knicks vs. Blazers

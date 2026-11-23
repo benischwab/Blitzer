@@ -1,25 +1,4 @@
 {
-"401910030": {
-"matchup": "OKC @ MIA",
-"home": "MIA",
-"away": "OKC",
-"out": [
-"Aday Mara",
-"Alex Caruso",
-"Cason Wallace",
-"Chet Holmgren",
-"Giannis Antetokounmpo",
-"Jalen Williams",
-"Jaylin Williams",
-"Nikola Topic",
-"Shai Gilgeous-Alexander",
-"Thomas Sorber"
-],
-"dtd": [],
-"spread": -4.5,
-"total": 226.5,
-"p_home": 0.6295
-},
 "401910031": {
 "matchup": "ORL @ WSH",
 "home": "WSH",
@@ -34,10 +13,7 @@
 "Reece Beekman",
 "Tristan Vukcevic"
 ],
-"dtd": [
-"Bub Carrington",
-"Deandre Ayton"
-],
+"dtd": [],
 "spread": 4.5,
 "total": 220.5,
 "p_home": 0.389
@@ -53,8 +29,8 @@
 "Norman Powell"
 ],
 "dtd": [],
-"spread": 10.5,
-"total": 236.5,
+"spread": 9.5,
+"total": 237.5,
 "p_home": 0.2265
 },
 "401910033": {
@@ -74,7 +50,7 @@
 "dtd": [],
 "spread": 2.5,
 "total": 225.5,
-"p_home": 0.4755
+"p_home": 0.4756
 },
 "401910034": {
 "matchup": "IND @ NY",
@@ -93,7 +69,7 @@
 "Pascal Siakam"
 ],
 "spread": -7.5,
-"total": 212.5,
+"total": 213.5,
 "p_home": 0.6893
 },
 "401910035": {
@@ -115,9 +91,8 @@
 "p_home": 0.3142
 },
 "_tips": [
-"Under 226.5 (OKC @ MIA)",
 "Under 225.5 (DAL @ UTAH)",
-"Under 236.5 (DEN @ CHI)"
+"Under 237.5 (DEN @ CHI)"
 ],
 "_game_day": "2026-11-22"
 }

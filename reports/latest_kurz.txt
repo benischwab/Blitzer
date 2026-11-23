@@ -1,23 +1,15 @@
 ÄNDERUNGEN:
-• OKC @ MIA: Aday Mara fällt NEU aus
-• OKC @ MIA: Giannis Antetokounmpo fällt NEU aus
-• OKC @ MIA: Shai Gilgeous-Alexander fällt NEU aus
-• OKC @ MIA: Total 231.5 → 226.5
-• OKC @ MIA: Sieg MIA 58% → 63%
-• DEN @ CHI: Nic Claxton fällt NEU aus
-• DAL @ UTAH: P.J. Washington fällt NEU aus
-• BOS @ GS: Mitchell Robinson fällt NEU aus
+• Neue Tipps: Under 237.5 (DEN @ CHI)
+• Gestrichen: Under 226.5 (OKC @ MIA); Under 236.5 (DEN @ CHI)
 
 TIPPS (ab Mindestquote):
-• Under 226.5 (OKC @ MIA) 58% – ab 1.79
 • Under 225.5 (DAL @ UTAH) 56% – ab 1.84
-• Under 236.5 (DEN @ CHI) 55% – ab 1.86
+• Under 237.5 (DEN @ CHI) 56% – ab 1.84
 • 2er-Kombi: Sieg DEN + Sieg NY – 53%, ab 1.93
-• 3er-Kombi: Sieg DEN + Sieg NY + Sieg MIA – 34%, ab 3.07
+• 3er-Kombi: Sieg DEN + Sieg NY + Sieg ORL – 33%, ab 3.16
 
-00:00 OKC@MIA: MIA 63% · U226.5 58%
 01:00 ORL@WSH: ORL 61% · O220.5 53%
-01:00 DEN@CHI: DEN 77% · U236.5 55%
+01:00 DEN@CHI: DEN 77% · U237.5 56%
 01:00 DAL@UTAH: DAL 52% · U225.5 56%
-02:00 IND@NY: NY 69% · U212.5 53%
+02:00 IND@NY: NY 69% · U213.5 53%
 02:30 BOS@GS: BOS 69% · U210.5 54%

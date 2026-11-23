@@ -1,20 +1,19 @@
-## Rückblick: Nacht 21.11.–22.11.
+## Rückblick: Nacht 22.11.–23.11.
 
 | Spiel | Prognose | Resultat | Sieger | Total (Prog./Ist) | O/U-Linie |
 |---|---|---|---|---|---|
-| MIL @ PHI | PHI 76% · MIL 109–118 PHI | MIL 129–132 PHI | ✅ | 227 / 261 (+34) | Under 228.5 (53%) ❌ |
-| POR @ NY | POR 56% · POR 108–105 NY | POR 96–97 NY | ❌ | 212 / 193 (-19) | Under 213.5 (53%) ✅ |
-| LAC @ DAL | DAL 62% · LAC 113–117 DAL | LAC 100–110 DAL | ✅ | 230 / 210 (-20) | Under 230.5 (52%) ✅ |
-| MEM @ MIN | MIN 68% · MEM 109–116 MIN | MEM 95–104 MIN | ✅ | 226 / 199 (-26) | Under 228.5 (56%) ✅ |
-| NO @ SA | SA 90% · NO 105–123 SA | NO 91–114 SA | ✅ | 229 / 205 (-24) | Under 229.5 (52%) ✅ |
-| BOS @ SAC | BOS 77% · BOS 112–101 SAC | BOS 96–97 SAC | ❌ | 213 / 193 (-20) | Under 215.5 (55%) ✅ |
+| DET @ ATL | DET 53% · DET 112–111 ATL | DET 97–107 ATL | ❌ | 223 / 204 (-19) | Under 223.5 (51%) ✅ |
+| OKC @ MIA | MIA 63% · OKC 109–114 MIA | OKC 113–123 MIA | ✅ | 223 / 236 (+13) | Under 226.5 (58%) ❌ |
+| ORL @ WSH | ORL 61% · ORL 113–109 WSH | ORL 96–116 WSH | ❌ | 222 / 212 (-10) | Over 220.5 (53%) ❌ |
+| DEN @ CHI | DEN 77% · DEN 122–112 CHI | DEN 151–145 CHI | ✅ | 235 / 296 (+61) | Under 237.5 (56%) ❌ |
+| DAL @ UTAH | DAL 52% · DAL 112–111 UTAH | DAL 116–114 UTAH | ✅ | 223 / 230 (+7) | Under 225.5 (56%) ❌ |
+| IND @ NY | NY 69% · IND 103–109 NY | IND 106–113 NY | ✅ | 212 / 219 (+7) | Under 213.5 (53%) ❌ |
+| BOS @ GS | BOS 69% · BOS 107–101 GS | BOS 87–88 GS | ❌ | 209 / 175 (-34) | Under 210.5 (54%) ✅ |
 
-**Sieger richtig:** 4/6 (67%) · **Mittlerer Fehler:** Differenz 6.0 Pkt, Total 23.8 Pkt · **Over/Under:** 5/6
+**Sieger richtig:** 4/7 (57%) · **Mittlerer Fehler:** Differenz 7.5 Pkt, Total 21.6 Pkt · **Over/Under:** 2/7
 
 **Tipps dieser Nacht:**
-- ✅ Under 228.5 (MEM @ MIN) (Quote 1.91)
-- ❌ Sieg POR (POR @ NY) (Quote 1.89)
-- ✅ SAC +12.5 (BOS @ SAC) (Quote 1.86)
-- ❌ POR -1.5 (POR @ NY) (Quote 1.95)
-- ✅ Under 215.5 (BOS @ SAC) (Quote 1.95)
-- **Ergebnis:** 3/5 getroffen · +0.72 Fr. bei 1 Fr. pro Tipp (DK-Quoten)
+- ❌ Under 226.5 (OKC @ MIA) (Quote 1.88)
+- ❌ Under 225.5 (DAL @ UTAH) (Quote 1.93)
+- ❌ Under 237.5 (DEN @ CHI) (Quote 1.93)
+- **Ergebnis:** 0/3 getroffen · -3.00 Fr. bei 1 Fr. pro Tipp (DK-Quoten)

@@ -1,98 +1,199 @@
 {
-"401910031": {
-"matchup": "ORL @ WSH",
-"home": "WSH",
-"away": "ORL",
+"401910036": {
+"matchup": "MEM @ CHA",
+"home": "CHA",
+"away": "MEM",
 "out": [
-"Izaiyah Nelson",
-"Jamir Watkins",
-"Jonathan Isaac",
-"Justin Champagnie",
-"Noah Penda",
-"Paolo Banchero",
-"Reece Beekman",
-"Tristan Vukcevic"
+"Cameron Boozer",
+"Dennis Schroder",
+"GG Jackson",
+"Grant Williams",
+"Grayson Allen",
+"Jerami Grant",
+"Kon Knueppel",
+"Richie Saunders",
+"Scotty Pippen Jr."
 ],
-"dtd": [],
-"spread": 4.5,
-"total": 220.5,
-"p_home": 0.389
-},
-"401910032": {
-"matchup": "DEN @ CHI",
-"home": "CHI",
-"away": "DEN",
-"out": [
-"Caleb Wilson",
-"Julian Strawther",
-"Nic Claxton",
-"Norman Powell"
+"dtd": [
+"Brandon Miller"
 ],
-"dtd": [],
-"spread": 9.5,
-"total": 237.5,
-"p_home": 0.2265
-},
-"401910033": {
-"matchup": "DAL @ UTAH",
-"home": "UTAH",
-"away": "DAL",
-"out": [
-"Dereck Lively II",
-"Jaren Jackson Jr.",
-"Jusuf Nurkic",
-"Lauri Markkanen",
-"P.J. Washington",
-"Sergio de Larrea",
-"Tarik Biberovic",
-"Tobi Lawal"
-],
-"dtd": [],
 "spread": 2.5,
-"total": 225.5,
-"p_home": 0.4756
+"total": 213.5,
+"p_home": 0.3707
 },
-"401910034": {
-"matchup": "IND @ NY",
-"home": "NY",
-"away": "IND",
+"401910037": {
+"matchup": "POR @ PHI",
+"home": "PHI",
+"away": "POR",
+"out": [
+"Adem Bona",
+"Ariel Hukporti",
+"Chris Youngblood",
+"Ja Morant",
+"Shaedon Sharpe",
+"Vit Krejci"
+],
+"dtd": [
+"Dean Wade",
+"Jaylen Brown"
+],
+"spread": -3.5,
+"total": 231.5,
+"p_home": 0.5362
+},
+"401910038": {
+"matchup": "OKC @ IND",
+"home": "IND",
+"away": "OKC",
 "out": [
 "Ben Sheppard",
+"Cason Wallace",
+"Chet Holmgren",
+"Jalen Williams",
 "Johnny Furphy",
-"Jordan Clarkson",
-"OG Anunoby",
-"T.J. McConnell",
+"Thomas Sorber",
 "Tyrese Haliburton"
 ],
 "dtd": [
-"Karl-Anthony Towns",
-"Pascal Siakam"
+"Aday Mara",
+"Alex Caruso",
+"Jaylin Williams",
+"Nikola Topic",
+"Shai Gilgeous-Alexander",
+"T.J. McConnell"
 ],
-"spread": -7.5,
-"total": 213.5,
-"p_home": 0.6893
+"spread": 4.5,
+"total": 221.5,
+"p_home": 0.376
 },
-"401910035": {
-"matchup": "BOS @ GS",
-"home": "GS",
-"away": "BOS",
+"401910039": {
+"matchup": "MIL @ TOR",
+"home": "TOR",
+"away": "MIL",
 "out": [
-"Brandon Williams",
-"Jimmy Butler III",
-"Kristaps Porzingis",
-"Mitchell Robinson",
-"Moses Moody",
-"Paul George",
-"Stephen Curry"
+"Kawhi Leonard",
+"Nate Bittle",
+"Ousmane Dieng",
+"RJ Barrett"
+],
+"dtd": [
+"Collin Murray-Boyles"
+],
+"spread": -10.5,
+"total": 222.5,
+"p_home": 0.7496
+},
+"401910040": {
+"matchup": "BKN @ MIN",
+"home": "MIN",
+"away": "BKN",
+"out": [
+"Anthony Edwards",
+"Donte DiVincenzo",
+"Jaylen Clark",
+"Nolan Traore"
+],
+"dtd": [
+"Grant Nelson"
+],
+"spread": -11.5,
+"total": 224.5,
+"p_home": 0.845
+},
+"401910041": {
+"matchup": "CLE @ CHI",
+"home": "CHI",
+"away": "CLE",
+"out": [
+"Caleb Wilson",
+"Evan Mobley",
+"Jaylon Tyson",
+"Nae'Qwan Tomlin",
+"Norman Powell"
+],
+"dtd": [
+"Nic Claxton"
+],
+"spread": 8.5,
+"total": 241.5,
+"p_home": 0.2742
+},
+"401910042": {
+"matchup": "PHX @ NO",
+"home": "NO",
+"away": "PHX",
+"out": [
+"Bennedict Mathurin",
+"Bryce McGowens",
+"Dejounte Murray",
+"Mark Williams",
+"Trendon Watford"
+],
+"dtd": [
+"Ryan Dunn",
+"Trey Murphy III",
+"Zion Williamson"
+],
+"spread": 3.5,
+"total": 233.5,
+"p_home": 0.392
+},
+"401910043": {
+"matchup": "LAC @ HOU",
+"home": "HOU",
+"away": "LAC",
+"out": [
+"Bradley Beal",
+"Jordan Miller"
 ],
 "dtd": [],
-"spread": 7.5,
-"total": 210.5,
-"p_home": 0.3142
+"spread": -12.5,
+"total": 223.5,
+"p_home": 0.826
+},
+"401910044": {
+"matchup": "UTAH @ LAL",
+"home": "LAL",
+"away": "UTAH",
+"out": [
+"Austin Reaves",
+"Jaren Jackson Jr.",
+"Jusuf Nurkic",
+"Lauri Markkanen"
+],
+"dtd": [
+"Jaxson Hayes"
+],
+"spread": -13.5,
+"total": 224.5,
+"p_home": 0.8034
+},
+"401910045": {
+"matchup": "SA @ SAC",
+"home": "SAC",
+"away": "SA",
+"out": [
+"Ben Simmons",
+"Dylan Harper",
+"Jayden Quaintance",
+"Maxime Raynaud",
+"Tobias Harris"
+],
+"dtd": [
+"De'Aaron Fox",
+"Jordan McLaughlin",
+"Victor Wembanyama"
+],
+"spread": 10.5,
+"total": 223.5,
+"p_home": 0.2126
 },
 "_tips": [
-"Under 225.5 (DAL @ UTAH)",
-"Under 237.5 (DEN @ CHI)"
+"Sieg MEM (MEM @ CHA)",
+"MEM -2.5 (MEM @ CHA)",
+"UTAH +13.5 (UTAH @ LAL)",
+"POR +3.5 (POR @ PHI)",
+"MIN -11.5 (BKN @ MIN)"
 ],
-"_game_day": "2026-11-22"
+"_game_day": "2026-11-23"
 }

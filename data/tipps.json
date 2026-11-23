@@ -1816,6 +1816,136 @@
 "p_cover": 0.5442,
 "line_total": 210.5,
 "p_over": 0.4645
+},
+"401910036": {
+"p_home": 0.3707,
+"margin": -4.83,
+"total": 212.31,
+"matchup": "MEM @ CHA",
+"home": "CHA",
+"away": "MEM",
+"day": "2026-11-23",
+"home_spread": 2.5,
+"p_cover": 0.429,
+"line_total": 213.5,
+"p_over": 0.4744
+},
+"401910037": {
+"p_home": 0.5362,
+"margin": 1.62,
+"total": 231.07,
+"matchup": "POR @ PHI",
+"home": "PHI",
+"away": "POR",
+"day": "2026-11-23",
+"home_spread": -3.5,
+"p_cover": 0.4426,
+"line_total": 231.5,
+"p_over": 0.4908
+},
+"401910038": {
+"p_home": 0.376,
+"margin": -4.35,
+"total": 220.63,
+"matchup": "OKC @ IND",
+"home": "IND",
+"away": "OKC",
+"day": "2026-11-23",
+"home_spread": 4.5,
+"p_cover": 0.5046,
+"line_total": 221.5,
+"p_over": 0.4812
+},
+"401910039": {
+"p_home": 0.7496,
+"margin": 9.06,
+"total": 222.94,
+"matchup": "MIL @ TOR",
+"home": "TOR",
+"away": "MIL",
+"day": "2026-11-23",
+"home_spread": -10.5,
+"p_cover": 0.4558,
+"line_total": 222.5,
+"p_over": 0.5095
+},
+"401910040": {
+"p_home": 0.845,
+"margin": 13.32,
+"total": 223.0,
+"matchup": "BKN @ MIN",
+"home": "MIN",
+"away": "BKN",
+"day": "2026-11-23",
+"home_spread": -11.5,
+"p_cover": 0.5556,
+"line_total": 224.5,
+"p_over": 0.4676
+},
+"401910041": {
+"p_home": 0.2742,
+"margin": -8.13,
+"total": 240.43,
+"matchup": "CLE @ CHI",
+"home": "CHI",
+"away": "CLE",
+"day": "2026-11-23",
+"home_spread": 8.5,
+"p_cover": 0.5113,
+"line_total": 241.5,
+"p_over": 0.477
+},
+"401910042": {
+"p_home": 0.392,
+"margin": -4.29,
+"total": 234.05,
+"matchup": "PHX @ NO",
+"home": "NO",
+"away": "PHX",
+"day": "2026-11-23",
+"home_spread": 3.5,
+"p_cover": 0.4757,
+"line_total": 233.5,
+"p_over": 0.5118
+},
+"401910043": {
+"p_home": 0.826,
+"margin": 12.61,
+"total": 226.04,
+"matchup": "LAC @ HOU",
+"home": "HOU",
+"away": "LAC",
+"day": "2026-11-23",
+"home_spread": -12.5,
+"p_cover": 0.5035,
+"line_total": 223.5,
+"p_over": 0.5547
+},
+"401910044": {
+"p_home": 0.8034,
+"margin": 11.55,
+"total": 224.31,
+"matchup": "UTAH @ LAL",
+"home": "LAL",
+"away": "UTAH",
+"day": "2026-11-23",
+"home_spread": -13.5,
+"p_cover": 0.4404,
+"line_total": 224.5,
+"p_over": 0.496
+},
+"401910045": {
+"p_home": 0.2126,
+"margin": -10.52,
+"total": 221.76,
+"matchup": "SA @ SAC",
+"home": "SAC",
+"away": "SA",
+"day": "2026-11-23",
+"home_spread": 10.5,
+"p_cover": 0.4993,
+"line_total": 223.5,
+"p_over": 0.4625
 }
 },
 "singles": {
@@ -2364,6 +2494,58 @@
 "dk": 1.925925925925926,
 "label": "Under 237.5"
 }
+],
+"2026-11-23": [
+{
+"game_id": "401910036",
+"matchup": "MEM @ CHA",
+"market": "ml",
+"side": "MEM",
+"line": null,
+"p": 0.6293,
+"dk": 1.6756756756756757,
+"label": "Sieg MEM"
+},
+{
+"game_id": "401910036",
+"matchup": "MEM @ CHA",
+"market": "spread",
+"side": "MEM",
+"line": -2.5,
+"p": 0.571,
+"dk": 1.8928571428571428,
+"label": "MEM -2.5"
+},
+{
+"game_id": "401910044",
+"matchup": "UTAH @ LAL",
+"market": "spread",
+"side": "UTAH",
+"line": 13.5,
+"p": 0.5596,
+"dk": 1.9433962264150944,
+"label": "UTAH +13.5"
+},
+{
+"game_id": "401910037",
+"matchup": "POR @ PHI",
+"market": "spread",
+"side": "POR",
+"line": 3.5,
+"p": 0.5574,
+"dk": 1.8695652173913042,
+"label": "POR +3.5"
+},
+{
+"game_id": "401910040",
+"matchup": "BKN @ MIN",
+"market": "spread",
+"side": "MIN",
+"line": -11.5,
+"p": 0.5556,
+"dk": 1.8695652173913042,
+"label": "MIN -11.5"
+}
 ]
 },
 "combos": {
@@ -2475,6 +2657,70 @@
 "2026-11-19": [],
 "2026-11-20": [],
 "2026-11-21": [],
-"2026-11-22": []
+"2026-11-22": [],
+"2026-11-23": [
+{
+"legs": [
+{
+"game_id": "401910036",
+"matchup": "MEM @ CHA",
+"market": "ml",
+"side": "MEM",
+"line": null,
+"p": 0.6293,
+"dk": 1.6756756756756757,
+"label": "Sieg MEM"
+},
+{
+"game_id": "401910040",
+"matchup": "BKN @ MIN",
+"market": "ml",
+"side": "MIN",
+"line": null,
+"p": 0.845,
+"dk": 1.1612903225806452,
+"label": "Sieg MIN"
+}
+],
+"p": 0.5317,
+"dk": 1.946
+},
+{
+"legs": [
+{
+"game_id": "401910036",
+"matchup": "MEM @ CHA",
+"market": "ml",
+"side": "MEM",
+"line": null,
+"p": 0.6293,
+"dk": 1.6756756756756757,
+"label": "Sieg MEM"
+},
+{
+"game_id": "401910042",
+"matchup": "PHX @ NO",
+"market": "ml",
+"side": "PHX",
+"line": null,
+"p": 0.608,
+"dk": 1.6451612903225805,
+"label": "Sieg PHX"
+},
+{
+"game_id": "401910040",
+"matchup": "BKN @ MIN",
+"market": "ml",
+"side": "MIN",
+"line": null,
+"p": 0.845,
+"dk": 1.1612903225806452,
+"label": "Sieg MIN"
+}
+],
+"p": 0.3233,
+"dk": 3.201
+}
+]
 }
 }

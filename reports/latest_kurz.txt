@@ -1,9 +1,17 @@
-Sieger 4/7 richtig · Ø-Fehler Total 22 Pkt · O/U 2/7
-❌ DET 97–107 ATL (Prog. DET 53%)
-✅ OKC 113–123 MIA (Prog. MIA 63%)
-❌ ORL 96–116 WSH (Prog. ORL 61%)
-✅ DEN 151–145 CHI (Prog. DEN 77%)
-✅ DAL 116–114 UTAH (Prog. DAL 52%)
-✅ IND 106–113 NY (Prog. NY 69%)
-❌ BOS 87–88 GS (Prog. BOS 69%)
-Tipps: 0/3 · -3.00 Fr.
+TIPPS (ab Mindestquote):
+• Sieg MEM (MEM @ CHA) 63% – ab 1.64
+• MEM -2.5 (MEM @ CHA) 57% – ab 1.80
+• UTAH +13.5 (UTAH @ LAL) 56% – ab 1.84
+• 2er-Kombi: Sieg MEM + Sieg MIN – 53%, ab 1.94
+• 3er-Kombi: Sieg MEM + Sieg PHX + Sieg MIN – 32%, ab 3.19
+
+01:00 MEM@CHA: MEM 63% · U213.5 53%
+01:00 POR@PHI: PHI 54% · U231.5 51%
+01:30 OKC@IND: OKC 62% · U221.5 52%
+01:30 MIL@TOR: TOR 75% · O222.5 51%
+01:30 BKN@MIN: MIN 84% · U224.5 53%
+02:00 CLE@CHI: CLE 73% · U241.5 52%
+02:00 PHX@NO: PHX 61% · O233.5 51%
+02:30 LAC@HOU: HOU 83% · O223.5 55%
+04:00 UTAH@LAL: LAL 80% · U224.5 50%
+04:00 SA@SAC: SA 79% · U223.5 54%

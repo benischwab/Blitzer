@@ -1,6 +1,19 @@
 # NBA-Tipps für die Nacht 23.11.–24.11.2026
 
-Stand: Mo 23.11. 17:27 Uhr · 10 Spiele · Datenbasis: 248 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.3 Pkt/Team
+Stand: Mo 23.11. 21:18 Uhr · 10 Spiele · Datenbasis: 248 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.3 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- OKC @ IND: Aaron Nesmith fällt NEU aus
+- OKC @ IND: Aday Mara fällt NEU aus
+- OKC @ IND: Alex Caruso fällt NEU aus
+- OKC @ IND: Jaylin Williams fällt NEU aus
+- OKC @ IND: Nikola Topic fällt NEU aus
+- OKC @ IND: T.J. McConnell fällt NEU aus
+- OKC @ IND: Total 221.5 → 224.5
+- MIL @ TOR: Ousmane Dieng wieder dabei / nicht mehr out
+- PHX @ NO: Bryce McGowens wieder dabei / nicht mehr out
+- Neue Tipps: Under 224.5 (OKC @ IND)
+- Gestrichen: POR +3.5 (POR @ PHI)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -11,21 +24,21 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
 | Sieg MEM | MEM @ CHA | 63% | 1.68 | +5.4% | **1.64** |
+| Under 224.5 | OKC @ IND | 57% | 1.90 | +9.1% | **1.79** |
 | MEM -2.5 | MEM @ CHA | 57% | 1.89 | +8.1% | **1.80** |
-| UTAH +13.5 | UTAH @ LAL | 56% | 1.94 | +8.7% | **1.84** |
-| POR +3.5 | POR @ PHI | 56% | 1.87 | +4.2% | **1.85** |
-| MIN -11.5 | BKN @ MIN | 56% | 1.87 | +3.9% | **1.85** |
+| UTAH +13.5 | UTAH @ LAL | 56% | 1.94 | +8.8% | **1.84** |
+| MIN -11.5 | BKN @ MIN | 56% | 1.97 | +9.5% | **1.85** |
 
 **Sichere 2er-Kombi**
 - Sieg MEM (MEM @ CHA) — 63%, DK 1.68
-- Sieg MIN (BKN @ MIN) — 84%, DK 1.16
-- **Trefferchance 53%** · DK-Quote 1.95 (+3.5%) · **lohnt ab Sporttip-Gesamtquote 1.94** · _profitabel zur DK-Quote_
+- Sieg MIN (BKN @ MIN) — 83%, DK 1.18
+- **Trefferchance 53%** · DK-Quote 1.98 (+4.1%) · **lohnt ab Sporttip-Gesamtquote 1.96** · _profitabel zur DK-Quote_
 
 **3er-Kombi (höhere Quote)**
 - Sieg MEM (MEM @ CHA) — 63%, DK 1.68
 - Sieg PHX (PHX @ NO) — 61%, DK 1.65
-- Sieg MIN (BKN @ MIN) — 84%, DK 1.16
-- **Trefferchance 32%** · DK-Quote 3.20 (+3.5%) · **lohnt ab Sporttip-Gesamtquote 3.19** · _profitabel zur DK-Quote_
+- Sieg MIN (BKN @ MIN) — 83%, DK 1.18
+- **Trefferchance 32%** · DK-Quote 3.26 (+4.1%) · **lohnt ab Sporttip-Gesamtquote 3.22** · _profitabel zur DK-Quote_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Zion Williamson (NO, PHX @ NO): über 25.5 P+R+A — 78% · lohnt ab Quote **1.33**
@@ -38,11 +51,11 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
+- OKC @ IND: Under 224.5 — Modell-Total 213.0 (71%)
 - MEM @ CHA: Handicap MEM -2.5 — Modell 70%
 - MEM @ CHA: Sieg MEM — Modell 76% vs. Markt 57%
 - UTAH @ LAL: Handicap UTAH +13.5 — Modell 67%
 - UTAH @ LAL: Sieg UTAH — Modell 31% vs. Markt 15%
-- POR @ PHI: Handicap POR +3.5 — Modell 67%
 - BKN @ MIN: Handicap MIN -11.5 — Modell 66%
 
 ## Bilanz bisheriger Tipps
@@ -75,12 +88,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 
 ### MEM @ CHA — Di 01:00 Uhr
 **Sieg:** CHA 37% (faire Quote 2.70) · MEM 63% (1.59) — Markt CHA 43%
-**Prognose:** CHA 103.7 – MEM 108.6 (Diff. MEM +4.8, Total 212.3)
+**Prognose:** CHA 103.4 – MEM 108.2 (Diff. MEM +4.8, Total 211.6)
 **Handicap** CHA +2.5: CHA deckt 43% · MEM -2.5 deckt 57%
-**Over/Under 213.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 208.5 · Under lohnt ab 216.5 (≥57%)
+**Over/Under 212.5:** Over 48% (2.08) · Under 52% (1.93)
+**Total-Faustregel:** Over lohnt bis 207.5 · Under lohnt ab 215.5 (≥57%)
 **Form (letzte 5):** CHA SNNNN (-3.8) · MEM SSSSN (+11.4)
 _CHA out: Grayson Allen*, Grant Williams*, Kon Knueppel, Dennis Schroder · CHA fraglich: Brandon Miller* · MEM out: Jerami Grant*, Cameron Boozer*, GG Jackson, Scotty Pippen Jr., Richie Saunders_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -89,19 +103,20 @@ _CHA out: Grayson Allen*, Grant Williams*, Kon Knueppel, Dennis Schroder · CHA 
 | Naz Reid (CHA) | 32 | 17.3 (14.5 / 18.5) | 8.5 | 2.6 | 2.4 | 28.3 |
 | Moussa Diabate (CHA) | 30 | 9.9 (7.5 / 10.5) | 11.2 | 2.0 | 0.0 | 23.1 |
 | Sion James (CHA) | 28 | 6.1 (4.5 / 6.5) | 4.1 | 3.1 | 1.1 | 13.3 |
-| Ty Jerome (MEM) | 30 | 23.0 (19.5 / 23.5) | 3.3 | 5.4 | 2.5 | 31.7 |
+| Ty Jerome (MEM) | 30 | 23.0 (19.5 / 23.5) | 3.3 | 5.4 | 2.5 | 31.8 |
 | Cedric Coward (MEM) | 29 | 16.1 (13.5 / 16.5) | 7.6 | 3.6 | 2.8 | 27.3 |
 | Cam Spencer (MEM) | 25 | 11.7 (9.5 / 12.5) | 3.1 | 6.3 | 1.9 | 21.1 |
 | Jaylen Wells (MEM) | 26 | 10.8 (7.5 / 10.5) | 3.0 | 1.2 | 1.9 | 15.1 |
 
 ### POR @ PHI — Di 01:00 Uhr
-**Sieg:** PHI 54% (faire Quote 1.87) · POR 46% (2.16) — Markt PHI 58%
-**Prognose:** PHI 116.3 – POR 114.7 (Diff. PHI +1.6, Total 231.1)
-**Handicap** PHI -3.5: PHI deckt 44% · POR +3.5 deckt 56%
+**Sieg:** PHI 51% (faire Quote 1.95) · POR 49% (2.06) — Markt PHI 55%
+**Prognose:** PHI 116.0 – POR 115.1 (Diff. PHI +0.9, Total 231.1)
+**Handicap** PHI -2.5: PHI deckt 45% · POR +2.5 deckt 55%
 **Over/Under 231.5:** Over 49% (2.04) · Under 51% (1.96)
 **Total-Faustregel:** Over lohnt bis 227.5 · Under lohnt ab 234.5 (≥57%)
 **Form (letzte 5):** PHI SSSSS (+7.6) · POR SNNSN (+2.6)
-_PHI out: Adem Bona*, Ariel Hukporti · PHI fraglich: Jaylen Brown*, Dean Wade* · POR out: Chris Youngblood, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
+_PHI out: Adem Bona*, Ariel Hukporti · PHI fraglich: Joel Embiid*, Jaylen Brown*, Dean Wade* · POR out: Chris Youngblood, Vit Krejci, Ja Morant, Shaedon Sharpe_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -116,15 +131,15 @@ _PHI out: Adem Bona*, Ariel Hukporti · PHI fraglich: Jaylen Brown*, Dean Wade* 
 | Donovan Clingan (POR) | 27 | 11.9 (9.5 / 12.5) | 11.2 | 2.2 | 1.0 | 25.3 |
 
 ### OKC @ IND — Di 01:30 Uhr
-**Sieg:** IND 38% (faire Quote 2.66) · OKC 62% (1.60) — Markt IND 37%
-**Prognose:** IND 108.1 – OKC 112.5 (Diff. OKC +4.4, Total 220.6)
-**Handicap** IND +4.5: IND deckt 50% · OKC -4.5 deckt 50%
-**Over/Under 221.5:** Over 48% (2.08) · Under 52% (1.93)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
+**Sieg:** IND 36% (faire Quote 2.75) · OKC 64% (1.57) — Markt IND 33%
+**Prognose:** IND 108.3 – OKC 112.8 (Diff. OKC +4.5, Total 221.1)
+**Handicap** IND +5.5: IND deckt 53% · OKC -5.5 deckt 47%
+**Over/Under 224.5:** Over 43% (2.35) · Under 57% (1.74)
+**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** IND SNNNN (-7.2) · OKC NSNSN (+2.4)
-_IND spielt Back-to-Back · IND out: Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: T.J. McConnell* · OKC spielt Back-to-Back · OKC out: Thomas Sorber, Cason Wallace, Chet Holmgren, Jalen Williams · OKC fraglich: Aday Mara*, Jaylin Williams*, Nikola Topic*, Shai Gilgeous-Alexander*, Alex Caruso*_ (* = Meldung der letzten 24 h)
+_IND spielt Back-to-Back · IND out: T.J. McConnell*, Aaron Nesmith*, Tyrese Haliburton, Johnny Furphy, Ben Sheppard · IND fraglich: Pascal Siakam* · OKC spielt Back-to-Back · OKC out: Jaylin Williams*, Nikola Topic*, Aday Mara*, Jalen Williams*, Alex Caruso*, Thomas Sorber, Cason Wallace, Chet Holmgren_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
-> 📰 Karl-Anthony Towns has 30 points and 13 rebounds as Knicks beat Pacers 113-106
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -135,7 +150,7 @@ _IND spielt Back-to-Back · IND out: Tyrese Haliburton, Johnny Furphy, Ben Shepp
 | Shai Gilgeous-Alexander (OKC) | 34 | 33.4 (30.5 / 34.5) | 4.0 | 4.6 | 2.4 | 41.9 |
 | Ajay Mitchell (OKC) | 28 | 16.7 (13.5 / 17.5) | 3.6 | 3.7 | 0.9 | 23.9 |
 | Jared McCain (OKC) | 29 | 15.7 (13.5 / 16.5) | 3.3 | 1.7 | 2.6 | 20.7 |
-| Aday Mara (OKC) | 24 | 11.6 (9.5 / 12.5) | 7.9 | 2.2 | 0.1 | 21.8 |
+| Kenrich Williams (OKC) | 23 | 8.3 (6.5 / 8.5) | 3.7 | 1.9 | 1.3 | 13.9 |
 
 ### MIL @ TOR — Di 01:30 Uhr
 **Sieg:** TOR 75% (faire Quote 1.33) · MIL 25% (3.99) — Markt TOR 79%
@@ -144,7 +159,8 @@ _IND spielt Back-to-Back · IND out: Tyrese Haliburton, Johnny Furphy, Ben Shepp
 **Over/Under 222.5:** Over 51% (1.96) · Under 49% (2.04)
 **Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** TOR NNNNS (-5.0) · MIL NNNNN (-7.0)
-_TOR out: Nate Bittle*, Kawhi Leonard, RJ Barrett · TOR fraglich: Collin Murray-Boyles* · MIL out: Ousmane Dieng*_ (* = Meldung der letzten 24 h)
+_TOR out: Nate Bittle*, Kawhi Leonard, RJ Barrett · TOR fraglich: Jaden Bradley*, Collin Murray-Boyles*_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -158,15 +174,15 @@ _TOR out: Nate Bittle*, Kawhi Leonard, RJ Barrett · TOR fraglich: Collin Murray
 | Brayden Burries (MIL) | 24 | 12.5 (9.5 / 12.5) | 5.8 | 2.7 | 1.4 | 20.9 |
 
 ### BKN @ MIN — Di 01:30 Uhr
-**Sieg:** MIN 84% (faire Quote 1.18) · BKN 16% (6.45) — Markt MIN 83%
-**Prognose:** MIN 118.2 – BKN 104.8 (Diff. MIN +13.3, Total 223.0)
+**Sieg:** MIN 83% (faire Quote 1.20) · BKN 17% (6.06) — Markt MIN 81%
+**Prognose:** MIN 117.8 – BKN 104.5 (Diff. MIN +13.3, Total 222.3)
 **Handicap** MIN -11.5: MIN deckt 56% · BKN +11.5 deckt 44%
-**Over/Under 224.5:** Over 47% (2.14) · Under 53% (1.88)
-**Total-Faustregel:** Over lohnt bis 219.5 · Under lohnt ab 226.5 (≥57%)
+**Over/Under 223.5:** Over 47% (2.11) · Under 53% (1.90)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 226.5 (≥57%)
 **Form (letzte 5):** MIN NSSNS (+0.8) · BKN SNNNN (-5.8)
-_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · BKN out: Nolan Traore* · BKN fraglich: Grant Nelson*_ (* = Meldung der letzten 24 h)
+_MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · BKN out: Nolan Traore*_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Nets' Nolan Traore has hamstring strain, to be reevaluated in 8-10 weeks
-> 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -181,14 +197,14 @@ _MIN out: Jaylen Clark, Anthony Edwards, Donte DiVincenzo · BKN out: Nolan Trao
 
 ### CLE @ CHI — Di 02:00 Uhr
 **Sieg:** CHI 27% (faire Quote 3.65) · CLE 73% (1.38) — Markt CHI 26%
-**Prognose:** CHI 116.2 – CLE 124.3 (Diff. CLE +8.1, Total 240.4)
+**Prognose:** CHI 116.1 – CLE 124.3 (Diff. CLE +8.1, Total 240.4)
 **Handicap** CHI +8.5: CHI deckt 51% · CLE -8.5 deckt 49%
 **Over/Under 241.5:** Over 48% (2.10) · Under 52% (1.91)
 **Total-Faustregel:** Over lohnt bis 236.5 · Under lohnt ab 244.5 (≥57%)
 **Form (letzte 5):** CHI SNSNN (+4.0) · CLE NSSNS (+3.0)
-_CHI spielt Back-to-Back · CHI out: Norman Powell, Caleb Wilson · CHI fraglich: Nic Claxton* · CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Evan Mobley_ (* = Meldung der letzten 24 h)
+_CHI spielt Back-to-Back · CHI out: Norman Powell, Caleb Wilson · CHI fraglich: Jalen Smith*, Nic Claxton* · CLE out: Jaylon Tyson*, Nae'Qwan Tomlin, Evan Mobley_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
-> 📰 Jokic's triple-double, Murray's 45 points lead Nuggets to 151-145 overtime win over Bulls
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -203,13 +219,13 @@ _CHI spielt Back-to-Back · CHI out: Norman Powell, Caleb Wilson · CHI fraglich
 
 ### PHX @ NO — Di 02:00 Uhr
 **Sieg:** NO 39% (faire Quote 2.55) · PHX 61% (1.64) — Markt NO 42%
-**Prognose:** NO 114.9 – PHX 119.2 (Diff. PHX +4.3, Total 234.0)
+**Prognose:** NO 114.5 – PHX 118.8 (Diff. PHX +4.3, Total 233.3)
 **Handicap** NO +3.5: NO deckt 48% · PHX -3.5 deckt 52%
-**Over/Under 233.5:** Over 51% (1.95) · Under 49% (2.05)
-**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 237.5 (≥57%)
+**Over/Under 232.5:** Over 52% (1.93) · Under 48% (2.08)
+**Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 237.5 (≥57%)
 **Form (letzte 5):** NO NSNNN (-5.8) · PHX SNSSS (+8.0)
-_NO out: Bryce McGowens*, Trendon Watford, Bennedict Mathurin, Dejounte Murray · NO fraglich: Trey Murphy III*, Zion Williamson* · PHX out: Mark Williams · PHX fraglich: Ryan Dunn*_ (* = Meldung der letzten 24 h)
-> 📰 Wemby leads Spurs to victory with 50-point, 19-rebound night
+_NO out: Trendon Watford, Bennedict Mathurin, Dejounte Murray · NO fraglich: Zion Williamson* · PHX out: Mark Williams_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -230,6 +246,7 @@ _NO out: Bryce McGowens*, Trendon Watford, Bennedict Mathurin, Dejounte Murray �
 **Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** HOU SSNSN (+4.6) · LAC SSNNN (-7.6)
 _LAC out: Bradley Beal, Jordan Miller_
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -251,14 +268,14 @@ _LAC out: Bradley Beal, Jordan Miller_
 **Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** LAL SSSNS (+2.6) · UTAH NSSNN (+3.4)
 _LAL out: Austin Reaves* · UTAH spielt Back-to-Back · UTAH out: Jusuf Nurkic, Lauri Markkanen, Jaren Jackson Jr. · UTAH fraglich: Jaxson Hayes*_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
-> 📰 Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
 | Luka Doncic (LAL) | 37 | 36.4 (33.5 / 37.5) | 6.3 | 7.6 | 4.6 | 50.3 |
 | Quentin Grimes (LAL) | 31 | 14.7 (8.5 / 13.5) | 3.7 | 3.1 | 2.4 | 21.5 |
-| Walker Kessler (LAL) | 31 | 13.9 (11.5 / 14.5) | 10.8 | 2.0 | 0.1 | 26.8 |
+| Walker Kessler (LAL) | 31 | 14.0 (11.5 / 14.5) | 10.8 | 2.0 | 0.1 | 26.8 |
 | Sandro Mamukelashvili (LAL) | 23 | 9.5 (6.5 / 9.5) | 4.5 | 1.7 | 1.2 | 15.6 |
 | Keyonte George (UTAH) | 33 | 20.7 (17.5 / 21.5) | 3.9 | 7.3 | 2.2 | 32.0 |
 | Darryn Peterson (UTAH) | 30 | 16.5 (13.5 / 17.5) | 4.6 | 4.2 | 1.9 | 25.3 |
@@ -273,8 +290,8 @@ _LAL out: Austin Reaves* · UTAH spielt Back-to-Back · UTAH out: Jusuf Nurkic, 
 **Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** SAC NNNNS (-11.4) · SA SSNSS (+13.8)
 _SAC out: Maxime Raynaud, Ben Simmons · SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · SA fraglich: Victor Wembanyama*, De'Aaron Fox*, Jordan McLaughlin*_ (* = Meldung der letzten 24 h)
+> 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
-> 📰 Sources: Free agent Gabe Vincent, Kings finalizing deal
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|

@@ -18,8 +18,8 @@
 "Brandon Miller"
 ],
 "spread": 2.5,
-"total": 213.5,
-"p_home": 0.3707
+"total": 212.5,
+"p_home": 0.3708
 },
 "401910037": {
 "matchup": "POR @ PHI",
@@ -35,36 +35,38 @@
 ],
 "dtd": [
 "Dean Wade",
-"Jaylen Brown"
+"Jaylen Brown",
+"Joel Embiid"
 ],
-"spread": -3.5,
+"spread": -2.5,
 "total": 231.5,
-"p_home": 0.5362
+"p_home": 0.5134
 },
 "401910038": {
 "matchup": "OKC @ IND",
 "home": "IND",
 "away": "OKC",
 "out": [
+"Aaron Nesmith",
+"Aday Mara",
+"Alex Caruso",
 "Ben Sheppard",
 "Cason Wallace",
 "Chet Holmgren",
 "Jalen Williams",
+"Jaylin Williams",
 "Johnny Furphy",
+"Nikola Topic",
+"T.J. McConnell",
 "Thomas Sorber",
 "Tyrese Haliburton"
 ],
 "dtd": [
-"Aday Mara",
-"Alex Caruso",
-"Jaylin Williams",
-"Nikola Topic",
-"Shai Gilgeous-Alexander",
-"T.J. McConnell"
+"Pascal Siakam"
 ],
-"spread": 4.5,
-"total": 221.5,
-"p_home": 0.376
+"spread": 5.5,
+"total": 224.5,
+"p_home": 0.3643
 },
 "401910039": {
 "matchup": "MIL @ TOR",
@@ -73,11 +75,11 @@
 "out": [
 "Kawhi Leonard",
 "Nate Bittle",
-"Ousmane Dieng",
 "RJ Barrett"
 ],
 "dtd": [
-"Collin Murray-Boyles"
+"Collin Murray-Boyles",
+"Jaden Bradley"
 ],
 "spread": -10.5,
 "total": 222.5,
@@ -93,12 +95,10 @@
 "Jaylen Clark",
 "Nolan Traore"
 ],
-"dtd": [
-"Grant Nelson"
-],
+"dtd": [],
 "spread": -11.5,
-"total": 224.5,
-"p_home": 0.845
+"total": 223.5,
+"p_home": 0.835
 },
 "401910041": {
 "matchup": "CLE @ CHI",
@@ -112,6 +112,7 @@
 "Norman Powell"
 ],
 "dtd": [
+"Jalen Smith",
 "Nic Claxton"
 ],
 "spread": 8.5,
@@ -124,18 +125,15 @@
 "away": "PHX",
 "out": [
 "Bennedict Mathurin",
-"Bryce McGowens",
 "Dejounte Murray",
 "Mark Williams",
 "Trendon Watford"
 ],
 "dtd": [
-"Ryan Dunn",
-"Trey Murphy III",
 "Zion Williamson"
 ],
 "spread": 3.5,
-"total": 233.5,
+"total": 232.5,
 "p_home": 0.392
 },
 "401910043": {
@@ -186,13 +184,13 @@
 ],
 "spread": 10.5,
 "total": 223.5,
-"p_home": 0.2126
+"p_home": 0.2127
 },
 "_tips": [
 "Sieg MEM (MEM @ CHA)",
+"Under 224.5 (OKC @ IND)",
 "MEM -2.5 (MEM @ CHA)",
 "UTAH +13.5 (UTAH @ LAL)",
-"POR +3.5 (POR @ PHI)",
 "MIN -11.5 (BKN @ MIN)"
 ],
 "_game_day": "2026-11-23"

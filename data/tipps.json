@@ -1940,43 +1940,43 @@
 "p_over": 0.4561
 },
 "401909314": {
-"p_home": 0.4422,
-"margin": -2.24,
-"total": 215.12,
+"p_home": 0.4568,
+"margin": -2.23,
+"total": 214.42,
 "matchup": "DET @ ORL",
 "home": "ORL",
 "away": "DET",
 "day": "2026-11-24",
 "home_spread": 2.5,
 "p_cover": 0.5081,
-"line_total": 213.5,
-"p_over": 0.5348
+"line_total": 212.5,
+"p_over": 0.5413
 },
 "401909315": {
 "p_home": 0.2429,
-"margin": -9.48,
-"total": 216.35,
+"margin": -10.17,
+"total": 217.05,
 "matchup": "BOS @ WSH",
 "home": "WSH",
 "away": "BOS",
 "day": "2026-11-24",
-"home_spread": 10.5,
-"p_cover": 0.5314,
-"line_total": 217.5,
-"p_over": 0.4752
+"home_spread": 11.5,
+"p_cover": 0.5406,
+"line_total": 218.5,
+"p_over": 0.4688
 },
 "401909316": {
 "p_home": 0.6889,
 "margin": 7.07,
-"total": 232.36,
+"total": 233.06,
 "matchup": "DAL @ DEN",
 "home": "DEN",
 "away": "DAL",
 "day": "2026-11-24",
 "home_spread": -8.5,
 "p_cover": 0.4562,
-"line_total": 233.5,
-"p_over": 0.4755
+"line_total": 234.5,
+"p_over": 0.469
 }
 },
 "singles": {

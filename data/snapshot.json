@@ -17,8 +17,8 @@
 "Cade Cunningham"
 ],
 "spread": 2.5,
-"total": 213.5,
-"p_home": 0.4422
+"total": 212.5,
+"p_home": 0.4568
 },
 "401909315": {
 "matchup": "BOS @ WSH",
@@ -31,9 +31,11 @@
 "Reece Beekman",
 "Tristan Vukcevic"
 ],
-"dtd": [],
-"spread": 10.5,
-"total": 217.5,
+"dtd": [
+"Tre Mann"
+],
+"spread": 11.5,
+"total": 218.5,
 "p_home": 0.2429
 },
 "401909316": {
@@ -50,7 +52,7 @@
 "P.J. Washington"
 ],
 "spread": -8.5,
-"total": 233.5,
+"total": 234.5,
 "p_home": 0.6889
 },
 "_tips": [],

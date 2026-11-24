@@ -1,6 +1,6 @@
 # NBA-Tipps für die Nacht 24.11.–25.11.2026
 
-Stand: Di 24.11. 21:19 Uhr · 3 Spiele · Datenbasis: 258 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Mi 25.11. 00:01 Uhr · 3 Spiele · Datenbasis: 258 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -13,9 +13,9 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Sieg DEN | DAL @ DEN | 69% | 1.32 | -8.9% | **1.50** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg BOS (BOS @ WSH) — 76%, DK 1.22
+- Sieg BOS (BOS @ WSH) — 75%, DK 1.24
 - Sieg DEN (DAL @ DEN) — 69%, DK 1.32
-- **Trefferchance 52%** · DK-Quote 1.61 (-15.8%) · **lohnt ab Sporttip-Gesamtquote 1.97** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 52%** · DK-Quote 1.63 (-15.5%) · **lohnt ab Sporttip-Gesamtquote 1.99** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -33,10 +33,10 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - DAL @ DEN: Handicap DAL +8.5 — Modell 63%
 - DAL @ DEN: Sieg DAL — Modell 40% vs. Markt 27%
-- BOS @ WSH: Handicap WSH +11.5 — Modell 62%
 - DET @ ORL: Over 212.5 — Modell-Total 218.9 (62%)
-- BOS @ WSH: Sieg WSH — Modell 31% vs. Markt 21%
+- BOS @ WSH: Handicap WSH +10.5 — Modell 59%
 - BOS @ WSH: Under 218.5 — Modell-Total 213.7 (59%)
+- DAL @ DEN: Under 234.5 — Modell-Total 229.7 (59%)
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 106/151 richtig (70%), Brier 0.202
@@ -76,7 +76,7 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 **Over/Under 212.5:** Over 54% (1.85) · Under 46% (2.18)
 **Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 218.5 (≥57%)
 **Form (letzte 5):** ORL SSNSN (-1.0) · DET NSSNN (-1.6)
-_ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero · DET out: Ebuka Okorie*, Taurean Prince*, Duncan Robinson*, Jalen Duren* · DET fraglich: Cade Cunningham*_ (* = Meldung der letzten 24 h)
+_ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero · DET out: Ebuka Okorie*, Taurean Prince*, Duncan Robinson*, Jalen Duren* · DET fraglich: Cade Cunningham_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 
@@ -92,13 +92,13 @@ _ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero · DET out:
 | Paul Reed (DET) | 26 | 11.6 (9.5 / 12.5) | 7.4 | 2.3 | 0.2 | 21.3 |
 
 ### BOS @ WSH — Mi 02:00 Uhr
-**Sieg:** WSH 24% (faire Quote 4.12) · BOS 76% (1.32) — Markt WSH 21%
-**Prognose:** WSH 103.4 – BOS 113.6 (Diff. BOS +10.2, Total 217.1)
-**Handicap** WSH +11.5: WSH deckt 54% · BOS -11.5 deckt 46%
+**Sieg:** WSH 25% (faire Quote 4.00) · BOS 75% (1.33) — Markt WSH 22%
+**Prognose:** WSH 103.8 – BOS 113.3 (Diff. BOS +9.5, Total 217.1)
+**Handicap** WSH +10.5: WSH deckt 53% · BOS -10.5 deckt 47%
 **Over/Under 218.5:** Over 47% (2.13) · Under 53% (1.88)
 **Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** WSH NNSSS (-3.2) · BOS SNNNN (+4.2)
-_WSH out: Tristan Vukcevic*, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Tre Mann* · BOS out: Mitchell Robinson*_ (* = Meldung der letzten 24 h)
+_WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · WSH fraglich: Tre Mann* · BOS out: Mitchell Robinson_ (* = Meldung der letzten 24 h)
 > 📰 NBA Rookie Rankings: 10 standouts in a star-studded class
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 
@@ -107,7 +107,7 @@ _WSH out: Tristan Vukcevic*, Reece Beekman, Justin Champagnie, Jamir Watkins · 
 | Anthony Davis (WSH) | 34 | 23.6 (20.5 / 24.5) | 10.0 | 2.0 | 0.8 | 35.8 |
 | Kyshawn George (WSH) | 35 | 16.5 (13.5 / 17.5) | 4.3 | 4.3 | 2.6 | 25.2 |
 | AJ Dybantsa (WSH) | 34 | 15.5 (13.5 / 16.5) | 7.4 | 3.1 | 0.8 | 26.1 |
-| Trae Young (WSH) | 34 | 14.6 (10.5 / 14.5) | 2.6 | 8.6 | 2.1 | 25.7 |
+| Trae Young (WSH) | 34 | 14.6 (10.5 / 14.5) | 2.6 | 8.6 | 2.1 | 25.8 |
 | Jayson Tatum (BOS) | 34 | 26.6 (24.5 / 27.5) | 7.3 | 6.3 | 3.1 | 40.1 |
 | Paul George (BOS) | 30 | 19.5 (15.5 / 20.5) | 5.7 | 3.6 | 3.2 | 28.8 |
 | Derrick White (BOS) | 30 | 13.0 (10.5 / 13.5) | 2.9 | 4.9 | 1.8 | 20.8 |

@@ -1,24 +1,25 @@
 ÄNDERUNGEN:
-• POR @ PHI: Joel Embiid fällt NEU aus
-• POR @ PHI: Sieg PHI 51% → 45%
-• UTAH @ LAL: Jaxson Hayes fällt NEU aus
-• SA @ SAC: Handicap SAC +10.5 → +12.5
-• Neue Tipps: POR +1.5 (POR @ PHI); MIN -10.5 (BKN @ MIN)
-• Gestrichen: UTAH +13.5 (UTAH @ LAL); MIN -11.5 (BKN @ MIN)
+• MEM @ CHA: Sieg CHA 37% → 24%
+• POR @ PHI: Adem Bona wieder dabei / nicht mehr out
+• POR @ PHI: Sieg PHI 45% → 32%
+• OKC @ IND: Total 224.5 → 226.5
+• CLE @ CHI: Total 242.5 → 240.5
+• Neue Tipps: Under 226.5 (OKC @ IND); Over 223.5 (LAC @ HOU)
+• Gestrichen: Sieg MEM (MEM @ CHA); POR +1.5 (POR @ PHI); Under 224.5 (OKC @ IND); MEM -2.5 (MEM @ CHA)
 
 TIPPS (ab Mindestquote):
-• Sieg MEM (MEM @ CHA) 63% – ab 1.64
-• POR +1.5 (POR @ PHI) 58% – ab 1.78
-• Under 224.5 (OKC @ IND) 57% – ab 1.79
-• 2er-Kombi: Sieg MEM + Sieg MIN – 53%, ab 1.96
-• 3er-Kombi: Sieg MEM + Sieg PHX + Sieg MIN – 32%, ab 3.23
+• Under 226.5 (OKC @ IND) 59% – ab 1.76
+• MIN -10.5 (BKN @ MIN) 56% – ab 1.82
+• Over 223.5 (LAC @ HOU) 55% – ab 1.86
+• 2er-Kombi: Sieg LAL + Sieg POR – 56%, ab 1.84
+• 3er-Kombi: Sieg MIN + Sieg CLE + Sieg PHX – 37%, ab 2.77
 
-01:00 MEM@CHA: MEM 63% · U212.5 52%
-01:00 POR@PHI: POR 55% · U230.5 53%
-01:30 OKC@IND: OKC 64% · U224.5 57%
+01:00 MEM@CHA: MEM 76%
+01:00 POR@PHI: POR 68%
+01:30 OKC@IND: OKC 61% · U226.5 59%
 01:30 MIL@TOR: TOR 75% · O222.5 51%
 01:30 BKN@MIN: MIN 83% · U222.5 52%
-02:00 CLE@CHI: CLE 73% · U242.5 53%
+02:00 CLE@CHI: CLE 73% · U240.5 52%
 02:00 PHX@NO: PHX 61% · O232.5 52%
 02:30 LAC@HOU: HOU 83% · O223.5 55%
 04:00 UTAH@LAL: LAL 82% · U225.5 52%

@@ -15,16 +15,15 @@
 "Scotty Pippen Jr."
 ],
 "dtd": [],
-"spread": 2.5,
-"total": 212.5,
-"p_home": 0.3708
+"spread": null,
+"total": null,
+"p_home": 0.2402
 },
 "401910037": {
 "matchup": "POR @ PHI",
 "home": "PHI",
 "away": "POR",
 "out": [
-"Adem Bona",
 "Ariel Hukporti",
 "Chris Youngblood",
 "Ja Morant",
@@ -32,13 +31,10 @@
 "Shaedon Sharpe",
 "Vit Krejci"
 ],
-"dtd": [
-"Dean Wade",
-"Jaylen Brown"
-],
-"spread": -1.5,
-"total": 230.5,
-"p_home": 0.4541
+"dtd": [],
+"spread": null,
+"total": null,
+"p_home": 0.3163
 },
 "401910038": {
 "matchup": "OKC @ IND",
@@ -60,9 +56,9 @@
 "Tyrese Haliburton"
 ],
 "dtd": [],
-"spread": 5.5,
-"total": 224.5,
-"p_home": 0.3643
+"spread": 4.5,
+"total": 226.5,
+"p_home": 0.3903
 },
 "401910039": {
 "matchup": "MIL @ TOR",
@@ -73,10 +69,7 @@
 "Nate Bittle",
 "RJ Barrett"
 ],
-"dtd": [
-"Collin Murray-Boyles",
-"Jaden Bradley"
-],
+"dtd": [],
 "spread": -10.5,
 "total": 222.5,
 "p_home": 0.7457
@@ -107,12 +100,9 @@
 "Nae'Qwan Tomlin",
 "Norman Powell"
 ],
-"dtd": [
-"Jalen Smith",
-"Nic Claxton"
-],
+"dtd": [],
 "spread": 8.5,
-"total": 242.5,
+"total": 240.5,
 "p_home": 0.2686
 },
 "401910042": {
@@ -143,7 +133,7 @@
 "dtd": [],
 "spread": -12.5,
 "total": 223.5,
-"p_home": 0.8259
+"p_home": 0.8324
 },
 "401910044": {
 "matchup": "UTAH @ LAL",
@@ -179,14 +169,12 @@
 ],
 "spread": 12.5,
 "total": 224.5,
-"p_home": 0.1939
+"p_home": 0.1886
 },
 "_tips": [
-"Sieg MEM (MEM @ CHA)",
-"POR +1.5 (POR @ PHI)",
-"Under 224.5 (OKC @ IND)",
-"MEM -2.5 (MEM @ CHA)",
-"MIN -10.5 (BKN @ MIN)"
+"Under 226.5 (OKC @ IND)",
+"MIN -10.5 (BKN @ MIN)",
+"Over 223.5 (LAC @ HOU)"
 ],
 "_game_day": "2026-11-23"
 }

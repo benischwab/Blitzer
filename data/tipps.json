@@ -1977,6 +1977,123 @@
 "p_cover": 0.4562,
 "line_total": 234.5,
 "p_over": 0.469
+},
+"401909317": {
+"p_home": 0.526,
+"margin": 1.17,
+"total": 238.82,
+"matchup": "MIA @ PHI",
+"home": "PHI",
+"away": "MIA",
+"day": "2026-11-25",
+"home_spread": -1.5,
+"p_cover": 0.4899,
+"line_total": 237.5,
+"p_over": 0.5284
+},
+"401909318": {
+"p_home": 0.5515,
+"margin": 1.95,
+"total": 220.74,
+"matchup": "CHI @ CHA",
+"home": "CHA",
+"away": "CHI",
+"day": "2026-11-25",
+"home_spread": -3.5,
+"p_cover": 0.4524,
+"line_total": 221.5,
+"p_over": 0.4837
+},
+"401909319": {
+"p_home": 0.5886,
+"margin": 3.57,
+"total": 217.91,
+"matchup": "CLE @ NY",
+"home": "NY",
+"away": "CLE",
+"day": "2026-11-25",
+"home_spread": -3.5,
+"p_cover": 0.5022,
+"line_total": 218.5,
+"p_over": 0.4873
+},
+"401909320": {
+"p_home": 0.4825,
+"margin": -0.44,
+"total": 220.48,
+"matchup": "MIN @ OKC",
+"home": "OKC",
+"away": "MIN",
+"day": "2026-11-25",
+"home_spread": -1.5,
+"p_cover": 0.4406,
+"line_total": 222.5,
+"p_over": 0.4566
+},
+"401909321": {
+"p_home": 0.6974,
+"margin": 7.42,
+"total": 227.78,
+"matchup": "LAC @ MEM",
+"home": "MEM",
+"away": "LAC",
+"day": "2026-11-25",
+"home_spread": -7.5,
+"p_cover": 0.4977,
+"line_total": 227.5,
+"p_over": 0.506
+},
+"401909322": {
+"p_home": 0.5468,
+"margin": 2.32,
+"total": 233.36,
+"matchup": "BKN @ MIL",
+"home": "MIL",
+"away": "BKN",
+"day": "2026-11-25",
+"home_spread": -1.5,
+"p_cover": 0.5252,
+"line_total": 233.5,
+"p_over": 0.4969
+},
+"401909323": {
+"p_home": 0.7535,
+"margin": 8.91,
+"total": 225.73,
+"matchup": "PHX @ HOU",
+"home": "HOU",
+"away": "PHX",
+"day": "2026-11-25",
+"home_spread": -9.5,
+"p_cover": 0.4819,
+"line_total": 223.5,
+"p_over": 0.5479
+},
+"401909324": {
+"p_home": 0.6863,
+"margin": 6.36,
+"total": 216.52,
+"matchup": "SAC @ GS",
+"home": "GS",
+"away": "SAC",
+"day": "2026-11-25",
+"home_spread": -6.5,
+"p_cover": 0.4958,
+"line_total": 216.5,
+"p_over": 0.5003
+},
+"401909325": {
+"p_home": 0.4633,
+"margin": -1.25,
+"total": 224.16,
+"matchup": "SA @ POR",
+"home": "POR",
+"away": "SA",
+"day": "2026-11-25",
+"home_spread": 2.5,
+"p_cover": 0.5383,
+"line_total": 225.5,
+"p_over": 0.4711
 }
 },
 "singles": {
@@ -2558,7 +2675,19 @@
 "label": "Over 223.5"
 }
 ],
-"2026-11-24": []
+"2026-11-24": [],
+"2026-11-25": [
+{
+"game_id": "401909320",
+"matchup": "MIN @ OKC",
+"market": "spread",
+"side": "MIN",
+"line": 1.5,
+"p": 0.5594,
+"dk": 1.9090909090909092,
+"label": "MIN +1.5"
+}
+]
 },
 "combos": {
 "2026-11-04": [],
@@ -2671,6 +2800,7 @@
 "2026-11-21": [],
 "2026-11-22": [],
 "2026-11-23": [],
-"2026-11-24": []
+"2026-11-24": [],
+"2026-11-25": []
 }
 }

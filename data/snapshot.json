@@ -1,19 +1,4 @@
 {
-"401909317": {
-"matchup": "MIA @ PHI",
-"home": "PHI",
-"away": "MIA",
-"out": [
-"Ariel Hukporti",
-"Joel Embiid"
-],
-"dtd": [
-"Giannis Antetokounmpo"
-],
-"spread": -1.5,
-"total": 237.5,
-"p_home": 0.4872
-},
 "401909318": {
 "matchup": "CHI @ CHA",
 "home": "CHA",
@@ -22,17 +7,15 @@
 "Caleb Wilson",
 "Dennis Schroder",
 "Grayson Allen",
+"Jalen Smith",
 "Kon Knueppel",
 "Norman Powell",
 "Ryan Kalkbrenner"
 ],
-"dtd": [
-"Jalen Smith",
-"Sion James"
-],
+"dtd": [],
 "spread": -3.5,
-"total": 219.5,
-"p_home": 0.5479
+"total": 218.5,
+"p_home": 0.5827
 },
 "401909319": {
 "matchup": "CLE @ NY",
@@ -50,9 +33,9 @@
 "Josh Hart",
 "Karl-Anthony Towns"
 ],
-"spread": -1.5,
-"total": 216.5,
-"p_home": 0.5498
+"spread": -4.5,
+"total": 219.5,
+"p_home": 0.602
 },
 "401909320": {
 "matchup": "MIN @ OKC",
@@ -71,9 +54,9 @@
 "Thomas Sorber"
 ],
 "dtd": [],
-"spread": -1.5,
-"total": 221.5,
-"p_home": 0.4897
+"spread": -2.5,
+"total": 222.5,
+"p_home": 0.4958
 },
 "401909321": {
 "matchup": "LAC @ MEM",
@@ -128,14 +111,15 @@
 "Kristaps Porzingis",
 "Maxime Raynaud",
 "Moses Moody",
-"Stephen Curry"
+"Stephen Curry",
+"Zach LaVine"
 ],
 "dtd": [
 "Yaxel Lendeborg"
 ],
-"spread": -6.5,
-"total": 216.5,
-"p_home": 0.6862
+"spread": -7.5,
+"total": 215.5,
+"p_home": 0.7374
 },
 "401909325": {
 "matchup": "SA @ POR",
@@ -159,8 +143,7 @@
 "p_home": 0.4484
 },
 "_tips": [
-"MIN +1.5 (MIN @ OKC)",
-"CHI +3.5 (CHI @ CHA)",
+"MIN +2.5 (MIN @ OKC)",
 "Over 222.5 (PHX @ HOU)"
 ],
 "_game_day": "2026-11-25"

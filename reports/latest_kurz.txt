@@ -1,13 +1,24 @@
+ÄNDERUNGEN:
+• MIA @ PHI: Joel Embiid fällt NEU aus
+• CHI @ CHA: Ryan Kalkbrenner fällt NEU aus
+• CHI @ CHA: Total 221.5 → 219.5
+• CLE @ NY: Miles McBride fällt NEU aus
+• CLE @ NY: Handicap NY -3.5 → -1.5
+• CLE @ NY: Total 218.5 → 216.5
+• Neue Tipps: CHI +3.5 (CHI @ CHA); Over 222.5 (PHX @ HOU)
+
 TIPPS (ab Mindestquote):
 • MIN +1.5 (MIN @ OKC) 56% – ab 1.84
-• 2er-Kombi: Sieg HOU + Sieg MEM – 53%, ab 1.96
+• CHI +3.5 (CHI @ CHA) 56% – ab 1.85
+• Over 222.5 (PHX @ HOU) 55% – ab 1.86
+• 2er-Kombi: Sieg HOU + Sieg MEM – 52%, ab 1.98
 
-23:00 MIA@PHI: PHI 53% · O237.5 53%
-01:00 CHI@CHA: CHA 55% · U221.5 52%
-01:30 CLE@NY: NY 59% · U218.5 51%
-01:30 MIN@OKC: MIN 52% · U222.5 54%
+23:00 MIA@PHI: MIA 51% · O237.5 50%
+01:00 CHI@CHA: CHA 55% · U219.5 51%
+01:30 CLE@NY: NY 55% · U216.5 51%
+01:30 MIN@OKC: MIN 51% · U221.5 54%
 02:00 LAC@MEM: MEM 70% · O227.5 51%
-02:00 BKN@MIL: MIL 55% · U233.5 50%
-02:30 PHX@HOU: HOU 75% · O223.5 55%
+02:00 BKN@MIL: MIL 55% · U234.5 51%
+02:30 PHX@HOU: HOU 75% · O222.5 55%
 04:00 SAC@GS: GS 69% · O216.5 50%
-04:00 SA@POR: SA 54% · U225.5 53%
+04:00 SA@POR: SA 55% · U225.5 53%

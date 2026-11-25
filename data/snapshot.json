@@ -4,15 +4,15 @@
 "home": "PHI",
 "away": "MIA",
 "out": [
-"Ariel Hukporti"
+"Ariel Hukporti",
+"Joel Embiid"
 ],
 "dtd": [
-"Giannis Antetokounmpo",
-"Joel Embiid"
+"Giannis Antetokounmpo"
 ],
 "spread": -1.5,
 "total": 237.5,
-"p_home": 0.526
+"p_home": 0.4872
 },
 "401909318": {
 "matchup": "CHI @ CHA",
@@ -23,16 +23,16 @@
 "Dennis Schroder",
 "Grayson Allen",
 "Kon Knueppel",
-"Norman Powell"
+"Norman Powell",
+"Ryan Kalkbrenner"
 ],
 "dtd": [
 "Jalen Smith",
-"Ryan Kalkbrenner",
 "Sion James"
 ],
 "spread": -3.5,
-"total": 221.5,
-"p_home": 0.5515
+"total": 219.5,
+"p_home": 0.5479
 },
 "401909319": {
 "matchup": "CLE @ NY",
@@ -41,17 +41,18 @@
 "out": [
 "Evan Mobley",
 "Jordan Clarkson",
+"Miles McBride",
 "Nae'Qwan Tomlin",
 "OG Anunoby"
 ],
 "dtd": [
+"Jalen Brunson",
 "Josh Hart",
-"Karl-Anthony Towns",
-"Miles McBride"
+"Karl-Anthony Towns"
 ],
-"spread": -3.5,
-"total": 218.5,
-"p_home": 0.5886
+"spread": -1.5,
+"total": 216.5,
+"p_home": 0.5498
 },
 "401909320": {
 "matchup": "MIN @ OKC",
@@ -71,8 +72,8 @@
 ],
 "dtd": [],
 "spread": -1.5,
-"total": 222.5,
-"p_home": 0.4825
+"total": 221.5,
+"p_home": 0.4897
 },
 "401909321": {
 "matchup": "LAC @ MEM",
@@ -90,7 +91,7 @@
 "dtd": [],
 "spread": -7.5,
 "total": 227.5,
-"p_home": 0.6974
+"p_home": 0.6973
 },
 "401909322": {
 "matchup": "BKN @ MIL",
@@ -101,7 +102,7 @@
 ],
 "dtd": [],
 "spread": -1.5,
-"total": 233.5,
+"total": 234.5,
 "p_home": 0.5468
 },
 "401909323": {
@@ -113,8 +114,8 @@
 ],
 "dtd": [],
 "spread": -9.5,
-"total": 223.5,
-"p_home": 0.7535
+"total": 222.5,
+"p_home": 0.7462
 },
 "401909324": {
 "matchup": "SAC @ GS",
@@ -134,7 +135,7 @@
 ],
 "spread": -6.5,
 "total": 216.5,
-"p_home": 0.6863
+"p_home": 0.6862
 },
 "401909325": {
 "matchup": "SA @ POR",
@@ -153,12 +154,14 @@
 "De'Aaron Fox",
 "Victor Wembanyama"
 ],
-"spread": 2.5,
+"spread": 3.5,
 "total": 225.5,
-"p_home": 0.4633
+"p_home": 0.4484
 },
 "_tips": [
-"MIN +1.5 (MIN @ OKC)"
+"MIN +1.5 (MIN @ OKC)",
+"CHI +3.5 (CHI @ CHA)",
+"Over 222.5 (PHX @ HOU)"
 ],
 "_game_day": "2026-11-25"
 }

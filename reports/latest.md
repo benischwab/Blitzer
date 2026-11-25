@@ -1,6 +1,15 @@
 # NBA-Tipps für die Nacht 25.11.–26.11.2026
 
-Stand: Mi 25.11. 17:34 Uhr · 9 Spiele · Datenbasis: 261 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Mi 25.11. 21:19 Uhr · 9 Spiele · Datenbasis: 261 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.4 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- MIA @ PHI: Joel Embiid fällt NEU aus
+- CHI @ CHA: Ryan Kalkbrenner fällt NEU aus
+- CHI @ CHA: Total 221.5 → 219.5
+- CLE @ NY: Miles McBride fällt NEU aus
+- CLE @ NY: Handicap NY -3.5 → -1.5
+- CLE @ NY: Total 218.5 → 216.5
+- Neue Tipps: CHI +3.5 (CHI @ CHA); Over 222.5 (PHX @ HOU)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,14 +19,14 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
-| MIN +1.5 | MIN @ OKC | 56% | 1.91 | +6.8% | **1.84** |
-| Sieg NY | CLE @ NY | 59% | 1.65 | -3.2% | **1.75** | _(nur mit besserer Quote)_
-| Sieg MEM | LAC @ MEM | 70% | 1.37 | -4.3% | **1.48** | _(nur mit besserer Quote)_
+| MIN +1.5 | MIN @ OKC | 56% | 1.94 | +8.7% | **1.84** |
+| CHI +3.5 | CHI @ CHA | 56% | 1.91 | +6.3% | **1.85** |
+| Over 222.5 | PHX @ HOU | 55% | 1.88 | +4.5% | **1.86** |
 
 **Sichere 2er-Kombi**
-- Sieg HOU (PHX @ HOU) — 75%, DK 1.24
+- Sieg HOU (PHX @ HOU) — 75%, DK 1.25
 - Sieg MEM (LAC @ MEM) — 70%, DK 1.37
-- **Trefferchance 53%** · DK-Quote 1.70 (-10.9%) · **lohnt ab Sporttip-Gesamtquote 1.96** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 52%** · DK-Quote 1.72 (-10.6%) · **lohnt ab Sporttip-Gesamtquote 1.98** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -33,12 +42,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
+- MIN @ OKC: Sieg MIN — Modell 63% vs. Markt 46%
+- CHI @ CHA: Sieg CHI — Modell 57% vs. Markt 40%
 - MIN @ OKC: Handicap MIN +1.5 — Modell 67%
-- MIN @ OKC: Sieg MIN — Modell 63% vs. Markt 47%
-- CHI @ CHA: Handicap CHI +3.5 — Modell 64%
-- CHI @ CHA: Sieg CHI — Modell 55% vs. Markt 41%
-- PHX @ HOU: Over 223.5 — Modell-Total 230.9 (64%)
-- MIN @ OKC: Under 222.5 — Modell-Total 215.8 (63%)
+- CHI @ CHA: Handicap CHI +3.5 — Modell 67%
+- PHX @ HOU: Over 222.5 — Modell-Total 230.9 (66%)
+- SA @ POR: Handicap POR +3.5 — Modell 64%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 107/154 richtig (69%), Brier 0.203
@@ -59,13 +68,13 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### MIA @ PHI — Mi 23:00 Uhr
-**Sieg:** PHI 53% (faire Quote 1.90) · MIA 47% (2.11) — Markt PHI 53%
-**Prognose:** PHI 120.0 – MIA 118.8 (Diff. PHI +1.2, Total 238.8)
-**Handicap** PHI -1.5: PHI deckt 49% · MIA +1.5 deckt 51%
-**Over/Under 237.5:** Over 53% (1.89) · Under 47% (2.12)
-**Total-Faustregel:** Over lohnt bis 235.5 · Under lohnt ab 242.5 (≥57%)
+**Sieg:** PHI 49% (faire Quote 2.05) · MIA 51% (1.95) — Markt PHI 52%
+**Prognose:** PHI 118.8 – MIA 118.8 (Diff. PHI +0.0, Total 237.7)
+**Handicap** PHI -1.5: PHI deckt 45% · MIA +1.5 deckt 55%
+**Over/Under 237.5:** Over 50% (1.99) · Under 50% (2.01)
+**Total-Faustregel:** Over lohnt bis 233.5 · Under lohnt ab 241.5 (≥57%)
 **Form (letzte 5):** PHI SSSSN (+2.0) · MIA SSSSS (+13.4)
-_PHI out: Ariel Hukporti · PHI fraglich: Joel Embiid* · MIA fraglich: Giannis Antetokounmpo*_ (* = Meldung der letzten 24 h)
+_PHI out: Joel Embiid*, Ariel Hukporti · MIA fraglich: Giannis Antetokounmpo*_ (* = Meldung der letzten 24 h)
 > 📰 Inside LeBron's first game in Philly -- more than two decades ago
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
 
@@ -73,21 +82,21 @@ _PHI out: Ariel Hukporti · PHI fraglich: Joel Embiid* · MIA fraglich: Giannis 
 |---|---|---|---|---|---|---|
 | Tyrese Maxey (PHI) | 36 | 25.7 (23.5 / 26.5) | 3.0 | 5.8 | 2.6 | 34.3 |
 | Jaylen Brown (PHI) | 34 | 23.9 (21.5 / 24.5) | 6.2 | 3.4 | 1.9 | 33.4 |
-| Joel Embiid (PHI) | 32 | 22.4 (19.5 / 23.5) | 8.9 | 4.2 | 0.4 | 35.4 |
 | LeBron James (PHI) | 32 | 18.0 (15.5 / 18.5) | 6.5 | 6.3 | 1.2 | 30.8 |
+| VJ Edgecombe (PHI) | 35 | 14.8 (12.5 / 15.5) | 6.2 | 4.8 | 1.6 | 25.8 |
 | Giannis Antetokounmpo (MIA) | 32 | 28.6 (26.5 / 29.5) | 12.8 | 5.7 | 0.5 | 47.1 |
 | Bam Adebayo (MIA) | 33 | 20.3 (16.5 / 20.5) | 8.2 | 4.0 | 0.8 | 32.5 |
 | Davion Mitchell (MIA) | 36 | 17.6 (15.5 / 18.5) | 2.9 | 8.5 | 2.6 | 29.0 |
 | Klay Thompson (MIA) | 24 | 15.7 (12.5 / 16.5) | 1.8 | 2.4 | 4.2 | 19.8 |
 
 ### CHI @ CHA — Do 01:00 Uhr
-**Sieg:** CHA 55% (faire Quote 1.81) · CHI 45% (2.23) — Markt CHA 59%
-**Prognose:** CHA 111.3 – CHI 109.4 (Diff. CHA +1.9, Total 220.7)
-**Handicap** CHA -3.5: CHA deckt 45% · CHI +3.5 deckt 55%
-**Over/Under 221.5:** Over 48% (2.07) · Under 52% (1.94)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
+**Sieg:** CHA 55% (faire Quote 1.83) · CHI 45% (2.21) — Markt CHA 60%
+**Prognose:** CHA 110.3 – CHI 108.7 (Diff. CHA +1.6, Total 219.0)
+**Handicap** CHA -3.5: CHA deckt 44% · CHI +3.5 deckt 56%
+**Over/Under 219.5:** Over 49% (2.04) · Under 51% (1.96)
+**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 222.5 (≥57%)
 **Form (letzte 5):** CHA NNNNN (-7.4) · CHI NSNNS (+4.6)
-_CHA out: Dennis Schroder*, Grayson Allen*, Kon Knueppel · CHA fraglich: Ryan Kalkbrenner*, Sion James* · CHI out: Norman Powell, Caleb Wilson · CHI fraglich: Jalen Smith*_ (* = Meldung der letzten 24 h)
+_CHA out: Ryan Kalkbrenner*, Grayson Allen*, Dennis Schroder*, Kon Knueppel · CHA fraglich: Sion James* · CHI out: Norman Powell, Caleb Wilson · CHI fraglich: Jalen Smith_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
 > 📰 NBA Rookie Rankings: 10 standouts in a star-studded class
 
@@ -103,13 +112,13 @@ _CHA out: Dennis Schroder*, Grayson Allen*, Kon Knueppel · CHA fraglich: Ryan K
 | Isaac Okoro (CHI) | 27 | 8.7 (6.5 / 9.5) | 3.1 | 2.1 | 1.4 | 14.0 |
 
 ### CLE @ NY — Do 01:30 Uhr
-**Sieg:** NY 59% (faire Quote 1.70) · CLE 41% (2.43) — Markt NY 58%
-**Prognose:** NY 110.7 – CLE 107.2 (Diff. NY +3.6, Total 217.9)
-**Handicap** NY -3.5: NY deckt 50% · CLE +3.5 deckt 50%
-**Over/Under 218.5:** Over 49% (2.05) · Under 51% (1.95)
-**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 221.5 (≥57%)
+**Sieg:** NY 55% (faire Quote 1.82) · CLE 45% (2.22) — Markt NY 54%
+**Prognose:** NY 108.9 – CLE 107.2 (Diff. NY +1.8, Total 216.1)
+**Handicap** NY -1.5: NY deckt 51% · CLE +1.5 deckt 49%
+**Over/Under 216.5:** Over 49% (2.03) · Under 51% (1.97)
+**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 219.5 (≥57%)
 **Form (letzte 5):** NY SSSSS (+4.8) · CLE SSNSN (+2.6)
-_NY out: Jordan Clarkson*, OG Anunoby* · NY fraglich: Miles McBride*, Josh Hart*, Karl-Anthony Towns* · CLE out: Nae'Qwan Tomlin, Evan Mobley_ (* = Meldung der letzten 24 h)
+_NY out: Miles McBride*, Jordan Clarkson*, OG Anunoby* · NY fraglich: Josh Hart*, Karl-Anthony Towns*, Jalen Brunson* · CLE out: Nae'Qwan Tomlin, Evan Mobley_ (* = Meldung der letzten 24 h)
 > 📰 Inside LeBron's first game in Philly -- more than two decades ago
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
 
@@ -125,13 +134,13 @@ _NY out: Jordan Clarkson*, OG Anunoby* · NY fraglich: Miles McBride*, Josh Hart
 | Meleek Thomas (CLE) | 24 | 11.5 (9.5 / 12.5) | 2.8 | 2.1 | 2.0 | 16.5 |
 
 ### MIN @ OKC — Do 01:30 Uhr
-**Sieg:** OKC 48% (faire Quote 2.07) · MIN 52% (1.93) — Markt OKC 53%
-**Prognose:** OKC 110.0 – MIN 110.5 (Diff. MIN +0.4, Total 220.5)
+**Sieg:** OKC 49% (faire Quote 2.04) · MIN 51% (1.96) — Markt OKC 54%
+**Prognose:** OKC 109.7 – MIN 110.1 (Diff. MIN +0.4, Total 219.8)
 **Handicap** OKC -1.5: OKC deckt 44% · MIN +1.5 deckt 56%
-**Over/Under 222.5:** Over 46% (2.19) · Under 54% (1.84)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
+**Over/Under 221.5:** Over 46% (2.16) · Under 54% (1.86)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** OKC SNSNN (+1.6) · MIN SSNSS (+8.2)
-_OKC out: Nikola Topic*, Jaylin Williams*, Aday Mara*, Jalen Williams, Thomas Sorber, Cason Wallace, Chet Holmgren · MIN out: Donte DiVincenzo*, Jaylen Clark, Anthony Edwards_ (* = Meldung der letzten 24 h)
+_OKC out: Nikola Topic*, Jaylin Williams*, Aday Mara*, Jalen Williams, Thomas Sorber, Cason Wallace, Chet Holmgren · MIN out: Donte DiVincenzo, Jaylen Clark, Anthony Edwards_ (* = Meldung der letzten 24 h)
 > 📰 LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
 
@@ -170,10 +179,10 @@ _MEM out: Scotty Pippen Jr.*, Cameron Boozer, Jerami Grant, GG Jackson, Richie S
 
 ### BKN @ MIL — Do 02:00 Uhr
 **Sieg:** MIL 55% (faire Quote 1.83) · BKN 45% (2.21) — Markt MIL 52%
-**Prognose:** MIL 117.8 – BKN 115.5 (Diff. MIL +2.3, Total 233.4)
+**Prognose:** MIL 118.2 – BKN 115.9 (Diff. MIL +2.3, Total 234.1)
 **Handicap** MIL -1.5: MIL deckt 53% · BKN +1.5 deckt 47%
-**Over/Under 233.5:** Over 50% (2.01) · Under 50% (1.99)
-**Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 237.5 (≥57%)
+**Over/Under 234.5:** Over 49% (2.04) · Under 51% (1.96)
+**Total-Faustregel:** Over lohnt bis 230.5 · Under lohnt ab 237.5 (≥57%)
 **Form (letzte 5):** MIL NNNNS (-4.4) · BKN NNNNN (-17.8)
 _BKN out: Nolan Traore_
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
@@ -190,11 +199,11 @@ _BKN out: Nolan Traore_
 | Egor Demin (BKN) | 24 | 11.8 (8.5 / 11.5) | 2.5 | 2.9 | 2.1 | 17.0 |
 
 ### PHX @ HOU — Do 02:30 Uhr
-**Sieg:** HOU 75% (faire Quote 1.33) · PHX 25% (4.06) — Markt HOU 78%
-**Prognose:** HOU 117.3 – PHX 108.4 (Diff. HOU +8.9, Total 225.7)
+**Sieg:** HOU 75% (faire Quote 1.34) · PHX 25% (3.94) — Markt HOU 77%
+**Prognose:** HOU 117.0 – PHX 108.1 (Diff. HOU +8.9, Total 225.0)
 **Handicap** HOU -9.5: HOU deckt 48% · PHX +9.5 deckt 52%
-**Over/Under 223.5:** Over 55% (1.83) · Under 45% (2.21)
-**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
+**Over/Under 222.5:** Over 55% (1.80) · Under 45% (2.24)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** HOU SNSNS (+5.6) · PHX NSSSS (+7.8)
 _PHX out: Mark Williams_
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
@@ -233,15 +242,14 @@ _GS out: Brandon Williams*, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimm
 | Domantas Sabonis (SAC) | 32 | 14.1 (11.5 / 14.5) | 13.2 | 5.2 | 0.3 | 32.4 |
 
 ### SA @ POR — Do 04:00 Uhr
-**Sieg:** POR 46% (faire Quote 2.16) · SA 54% (1.86) — Markt POR 43%
-**Prognose:** POR 111.5 – SA 112.7 (Diff. SA +1.2, Total 224.2)
-**Handicap** POR +2.5: POR deckt 54% · SA -2.5 deckt 46%
+**Sieg:** POR 45% (faire Quote 2.23) · SA 55% (1.81) — Markt POR 41%
+**Prognose:** POR 111.1 – SA 113.1 (Diff. SA +1.9, Total 224.2)
+**Handicap** POR +3.5: POR deckt 55% · SA -3.5 deckt 45%
 **Over/Under 225.5:** Over 47% (2.12) · Under 53% (1.89)
 **Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
 **Form (letzte 5):** POR NNSNS (+3.4) · SA SNSSS (+9.4)
 _POR out: Chris Youngblood, Vit Krejci, Ja Morant, Shaedon Sharpe · SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron Fox*, Victor Wembanyama*_ (* = Meldung der letzten 24 h)
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
-> 📰 Castle helps Spurs stay unbeaten on road with 123-107 win over Kings minus Wemby, Fox and Harper
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|

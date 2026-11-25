@@ -1940,20 +1940,20 @@
 "p_over": 0.4561
 },
 "401909314": {
-"p_home": 0.4568,
-"margin": -2.23,
-"total": 214.42,
+"p_home": 0.5811,
+"margin": 3.48,
+"total": 211.5,
 "matchup": "DET @ ORL",
 "home": "ORL",
 "away": "DET",
 "day": "2026-11-24",
-"home_spread": 2.5,
-"p_cover": 0.5082,
-"line_total": 212.5,
-"p_over": 0.5413
+"home_spread": -3.5,
+"p_cover": 0.4995,
+"line_total": 210.5,
+"p_over": 0.5216
 },
 "401909315": {
-"p_home": 0.2498,
+"p_home": 0.243,
 "margin": -9.47,
 "total": 217.05,
 "matchup": "BOS @ WSH",
@@ -1963,7 +1963,7 @@
 "home_spread": 10.5,
 "p_cover": 0.5315,
 "line_total": 218.5,
-"p_over": 0.4688
+"p_over": 0.4689
 },
 "401909316": {
 "p_home": 0.6889,

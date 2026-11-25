@@ -1,6 +1,12 @@
 # NBA-Tipps für die Nacht 24.11.–25.11.2026
 
-Stand: Mi 25.11. 00:01 Uhr · 3 Spiele · Datenbasis: 258 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Mi 25.11. 01:10 Uhr · 3 Spiele · Datenbasis: 258 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.4 Pkt/Team
+
+## Änderungen seit dem letzten Bericht
+- DET @ ORL: Cade Cunningham fällt NEU aus
+- DET @ ORL: Handicap ORL +2.5 → -3.5
+- DET @ ORL: Total 212.5 → 210.5
+- DET @ ORL: Sieg ORL 46% → 58%
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -10,12 +16,13 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
+| Sieg ORL | DET @ ORL | 58% | 1.67 | -3.2% | **1.77** | _(nur mit besserer Quote)_
 | Sieg DEN | DAL @ DEN | 69% | 1.32 | -8.9% | **1.50** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg BOS (BOS @ WSH) — 75%, DK 1.24
+- Sieg BOS (BOS @ WSH) — 76%, DK 1.22
 - Sieg DEN (DAL @ DEN) — 69%, DK 1.32
-- **Trefferchance 52%** · DK-Quote 1.63 (-15.5%) · **lohnt ab Sporttip-Gesamtquote 1.99** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- **Trefferchance 52%** · DK-Quote 1.62 (-15.8%) · **lohnt ab Sporttip-Gesamtquote 1.98** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
 - Keine passende Kombi heute.
@@ -33,7 +40,7 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - DAL @ DEN: Handicap DAL +8.5 — Modell 63%
 - DAL @ DEN: Sieg DAL — Modell 40% vs. Markt 27%
-- DET @ ORL: Over 212.5 — Modell-Total 218.9 (62%)
+- BOS @ WSH: Sieg WSH — Modell 31% vs. Markt 21%
 - BOS @ WSH: Handicap WSH +10.5 — Modell 59%
 - BOS @ WSH: Under 218.5 — Modell-Total 213.7 (59%)
 - DAL @ DEN: Under 234.5 — Modell-Total 229.7 (59%)
@@ -70,15 +77,15 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### DET @ ORL — Mi 01:00 Uhr
-**Sieg:** ORL 46% (faire Quote 2.19) · DET 54% (1.84) — Markt ORL 46%
-**Prognose:** ORL 106.1 – DET 108.3 (Diff. DET +2.2, Total 214.4)
-**Handicap** ORL +2.5: ORL deckt 51% · DET -2.5 deckt 49%
-**Over/Under 212.5:** Over 54% (1.85) · Under 46% (2.18)
-**Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 218.5 (≥57%)
+**Sieg:** ORL 58% (faire Quote 1.72) · DET 42% (2.39) — Markt ORL 58%
+**Prognose:** ORL 107.5 – DET 104.0 (Diff. ORL +3.5, Total 211.5)
+**Handicap** ORL -3.5: ORL deckt 50% · DET +3.5 deckt 50%
+**Over/Under 210.5:** Over 52% (1.92) · Under 48% (2.09)
+**Total-Faustregel:** Over lohnt bis 207.5 · Under lohnt ab 215.5 (≥57%)
 **Form (letzte 5):** ORL SSNSN (-1.0) · DET NSSNN (-1.6)
-_ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero · DET out: Ebuka Okorie*, Taurean Prince*, Duncan Robinson*, Jalen Duren* · DET fraglich: Cade Cunningham_ (* = Meldung der letzten 24 h)
+_ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero · DET out: Cade Cunningham*, Ebuka Okorie*, Taurean Prince*, Duncan Robinson*, Jalen Duren*_ (* = Meldung der letzten 24 h)
+> 📰 Jalen Duren to begin rehab assignment in next step to return from injury
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
-> 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -86,13 +93,13 @@ _ORL out: Jonathan Isaac, Izaiyah Nelson, Noah Penda, Paolo Banchero · DET out:
 | Desmond Bane (ORL) | 35 | 18.4 (16.5 / 19.5) | 3.8 | 3.1 | 4.3 | 25.4 |
 | Anthony Black (ORL) | 34 | 15.4 (12.5 / 16.5) | 5.0 | 5.4 | 2.0 | 25.8 |
 | Tristan da Silva (ORL) | 29 | 13.5 (11.5 / 14.5) | 3.7 | 1.5 | 3.1 | 18.8 |
-| Cade Cunningham (DET) | 35 | 24.2 (19.5 / 24.5) | 4.9 | 8.8 | 1.9 | 37.9 |
 | Daniss Jenkins (DET) | 33 | 14.9 (11.5 / 15.5) | 3.9 | 4.3 | 2.2 | 23.2 |
 | Ausar Thompson (DET) | 30 | 11.9 (9.5 / 12.5) | 8.6 | 5.5 | 0.0 | 25.9 |
 | Paul Reed (DET) | 26 | 11.6 (9.5 / 12.5) | 7.4 | 2.3 | 0.2 | 21.3 |
+| John Collins (DET) | 25 | 11.6 (8.5 / 11.5) | 5.6 | 0.7 | 1.6 | 17.9 |
 
 ### BOS @ WSH — Mi 02:00 Uhr
-**Sieg:** WSH 25% (faire Quote 4.00) · BOS 75% (1.33) — Markt WSH 22%
+**Sieg:** WSH 24% (faire Quote 4.11) · BOS 76% (1.32) — Markt WSH 21%
 **Prognose:** WSH 103.8 – BOS 113.3 (Diff. BOS +9.5, Total 217.1)
 **Handicap** WSH +10.5: WSH deckt 53% · BOS -10.5 deckt 47%
 **Over/Under 218.5:** Over 47% (2.13) · Under 53% (1.88)
@@ -120,7 +127,7 @@ _WSH out: Tristan Vukcevic, Reece Beekman, Justin Champagnie, Jamir Watkins · W
 **Over/Under 234.5:** Over 47% (2.13) · Under 53% (1.88)
 **Total-Faustregel:** Over lohnt bis 229.5 · Under lohnt ab 236.5 (≥57%)
 **Form (letzte 5):** DEN SNSSS (+3.0) · DAL NNSSS (-2.6)
-_DAL out: Tobi Lawal*, Dereck Lively II, Sergio de Larrea, Tarik Biberovic · DAL fraglich: P.J. Washington*_ (* = Meldung der letzten 24 h)
+_DAL out: Tobi Lawal, Dereck Lively II, Sergio de Larrea, Tarik Biberovic · DAL fraglich: P.J. Washington_
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Too-early NBA All-Star picks: The 24 most deserving players right now
 

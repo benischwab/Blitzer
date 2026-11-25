@@ -4,6 +4,7 @@
 "home": "ORL",
 "away": "DET",
 "out": [
+"Cade Cunningham",
 "Duncan Robinson",
 "Ebuka Okorie",
 "Izaiyah Nelson",
@@ -13,12 +14,10 @@
 "Paolo Banchero",
 "Taurean Prince"
 ],
-"dtd": [
-"Cade Cunningham"
-],
-"spread": 2.5,
-"total": 212.5,
-"p_home": 0.4568
+"dtd": [],
+"spread": -3.5,
+"total": 210.5,
+"p_home": 0.5811
 },
 "401909315": {
 "matchup": "BOS @ WSH",
@@ -36,7 +35,7 @@
 ],
 "spread": 10.5,
 "total": 218.5,
-"p_home": 0.2498
+"p_home": 0.243
 },
 "401909316": {
 "matchup": "DAL @ DEN",

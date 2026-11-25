@@ -1,11 +1,4 @@
-ÄNDERUNGEN:
-• DET @ ORL: Cade Cunningham fällt NEU aus
-• DET @ ORL: Handicap ORL +2.5 → -3.5
-• DET @ ORL: Total 212.5 → 210.5
-• DET @ ORL: Sieg ORL 46% → 58%
-
-• 2er-Kombi: Sieg BOS + Sieg DEN – 52%, ab 1.98
-
-01:00 DET@ORL: ORL 58% · O210.5 52%
-02:00 BOS@WSH: BOS 76% · U218.5 53%
-04:00 DAL@DEN: DEN 69% · U234.5 53%
+Sieger 1/3 richtig · Ø-Fehler Total 21 Pkt · O/U 1/3
+❌ DET 104–86 ORL (Prog. ORL 58%)
+✅ BOS 131–116 WSH (Prog. BOS 76%)
+❌ DAL 120–101 DEN (Prog. DEN 69%)

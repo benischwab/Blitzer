@@ -11,8 +11,8 @@
 "Andre Drummond",
 "Miles McBride"
 ],
-"spread": -4.5,
-"total": 224.5,
+"spread": -3.5,
+"total": 223.5,
 "p_home": 0.6
 },
 "401909327": {
@@ -28,9 +28,9 @@
 "dtd": [
 "Cade Cunningham"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.78
+"spread": -11.5,
+"total": 220.5,
+"p_home": 0.7912
 },
 "401909328": {
 "matchup": "PHI @ IND",
@@ -48,9 +48,9 @@
 "Larry Nance Jr.",
 "T.J. McConnell"
 ],
-"spread": 4.5,
-"total": 234.5,
-"p_home": 0.4103
+"spread": 3.5,
+"total": 232.5,
+"p_home": 0.4157
 },
 "401909329": {
 "matchup": "BKN @ TOR",
@@ -64,9 +64,9 @@
 "RJ Barrett"
 ],
 "dtd": [],
-"spread": null,
-"total": null,
-"p_home": 0.7108
+"spread": -7.5,
+"total": 220.5,
+"p_home": 0.7304
 },
 "401909330": {
 "matchup": "ATL @ BOS",
@@ -83,7 +83,7 @@
 "dtd": [],
 "spread": -9.5,
 "total": 221.5,
-"p_home": 0.7439
+"p_home": 0.7579
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -103,9 +103,9 @@
 "LaMelo Ball",
 "Zach Edey"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.7102
+"spread": -3.5,
+"total": 221.5,
+"p_home": 0.6135
 },
 "401909332": {
 "matchup": "DAL @ PHX",
@@ -119,9 +119,9 @@
 "Tobi Lawal"
 ],
 "dtd": [],
-"spread": null,
-"total": null,
-"p_home": 0.5099
+"spread": -2.5,
+"total": 227.5,
+"p_home": 0.5474
 },
 "401909333": {
 "matchup": "LAL @ SA",
@@ -136,9 +136,9 @@
 "dtd": [
 "De'Aaron Fox"
 ],
-"spread": -6.5,
+"spread": -5.5,
 "total": 225.5,
-"p_home": 0.6575
+"p_home": 0.6574
 },
 "401909334": {
 "matchup": "DEN @ UTAH",
@@ -153,8 +153,8 @@
 "Jaxson Hayes"
 ],
 "spread": 9.5,
-"total": 228.5,
-"p_home": 0.309
+"total": 229.5,
+"p_home": 0.2885
 },
 "401909335": {
 "matchup": "NO @ LAC",
@@ -170,9 +170,9 @@
 "dtd": [
 "Julian Reese"
 ],
-"spread": null,
-"total": null,
-"p_home": 0.6081
+"spread": -3.5,
+"total": 233.5,
+"p_home": 0.5905
 },
 "401909336": {
 "matchup": "GS @ POR",
@@ -189,9 +189,9 @@
 "Vit Krejci"
 ],
 "dtd": [],
-"spread": null,
-"total": null,
-"p_home": 0.7501
+"spread": -7.5,
+"total": 220.5,
+"p_home": 0.7461
 },
 "_tips": [
 "UTAH +9.5 (DEN @ UTAH)"

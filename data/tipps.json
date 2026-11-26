@@ -2093,50 +2093,58 @@
 },
 "401909326": {
 "p_home": 0.6,
-"margin": 4.17,
-"total": 223.73,
+"margin": 3.47,
+"total": 223.03,
 "matchup": "MIA @ NY",
 "home": "NY",
 "away": "MIA",
 "day": "2026-11-27",
-"home_spread": -4.5,
-"p_cover": 0.4898,
-"line_total": 224.5,
-"p_over": 0.4834
+"home_spread": -3.5,
+"p_cover": 0.499,
+"line_total": 223.5,
+"p_over": 0.4899
 },
 "401909327": {
-"p_home": 0.78,
-"margin": 11.19,
-"total": 221.51,
+"p_home": 0.7912,
+"margin": 11.41,
+"total": 220.8,
 "matchup": "MIL @ DET",
 "home": "DET",
 "away": "MIL",
-"day": "2026-11-27"
+"day": "2026-11-27",
+"home_spread": -11.5,
+"p_cover": 0.4971,
+"line_total": 220.5,
+"p_over": 0.5065
 },
 "401909328": {
-"p_home": 0.4103,
-"margin": -3.42,
-"total": 233.19,
+"p_home": 0.4157,
+"margin": -2.72,
+"total": 231.79,
 "matchup": "PHI @ IND",
 "home": "IND",
 "away": "PHI",
 "day": "2026-11-27",
-"home_spread": 4.5,
-"p_cover": 0.533,
-"line_total": 234.5,
-"p_over": 0.4717
+"home_spread": 3.5,
+"p_cover": 0.5239,
+"line_total": 232.5,
+"p_over": 0.4846
 },
 "401909329": {
-"p_home": 0.7108,
-"margin": 8.06,
-"total": 220.86,
+"p_home": 0.7304,
+"margin": 7.67,
+"total": 220.61,
 "matchup": "BKN @ TOR",
 "home": "TOR",
 "away": "BKN",
-"day": "2026-11-27"
+"day": "2026-11-27",
+"home_spread": -7.5,
+"p_cover": 0.5051,
+"line_total": 220.5,
+"p_over": 0.5023
 },
 "401909330": {
-"p_home": 0.7439,
+"p_home": 0.7579,
 "margin": 9.24,
 "total": 219.74,
 "matchup": "ATL @ BOS",
@@ -2146,69 +2154,85 @@
 "home_spread": -9.5,
 "p_cover": 0.492,
 "line_total": 221.5,
-"p_over": 0.462
+"p_over": 0.4621
 },
 "401909331": {
-"p_home": 0.7102,
-"margin": 8.03,
-"total": 220.71,
+"p_home": 0.6135,
+"margin": 4.86,
+"total": 221.26,
 "matchup": "MEM @ MIN",
 "home": "MIN",
 "away": "MEM",
-"day": "2026-11-27"
+"day": "2026-11-27",
+"home_spread": -3.5,
+"p_cover": 0.5416,
+"line_total": 221.5,
+"p_over": 0.4949
 },
 "401909332": {
-"p_home": 0.5099,
-"margin": 0.36,
-"total": 227.11,
+"p_home": 0.5474,
+"margin": 1.86,
+"total": 227.38,
 "matchup": "DAL @ PHX",
 "home": "PHX",
 "away": "DAL",
-"day": "2026-11-27"
+"day": "2026-11-27",
+"home_spread": -2.5,
+"p_cover": 0.4803,
+"line_total": 227.5,
+"p_over": 0.4975
 },
 "401909333": {
-"p_home": 0.6575,
-"margin": 6.65,
+"p_home": 0.6574,
+"margin": 5.95,
 "total": 224.91,
 "matchup": "LAL @ SA",
 "home": "SA",
 "away": "LAL",
 "day": "2026-11-27",
-"home_spread": -6.5,
-"p_cover": 0.5045,
+"home_spread": -5.5,
+"p_cover": 0.5137,
 "line_total": 225.5,
 "p_over": 0.4872
 },
 "401909334": {
-"p_home": 0.309,
+"p_home": 0.2885,
 "margin": -7.36,
-"total": 227.59,
+"total": 228.29,
 "matchup": "DEN @ UTAH",
 "home": "UTAH",
 "away": "DEN",
 "day": "2026-11-27",
 "home_spread": 9.5,
-"p_cover": 0.5654,
-"line_total": 228.5,
-"p_over": 0.4804
+"p_cover": 0.5655,
+"line_total": 229.5,
+"p_over": 0.474
 },
 "401909335": {
-"p_home": 0.6081,
-"margin": 3.98,
-"total": 234.54,
+"p_home": 0.5905,
+"margin": 3.64,
+"total": 233.81,
 "matchup": "NO @ LAC",
 "home": "LAC",
 "away": "NO",
-"day": "2026-11-27"
+"day": "2026-11-27",
+"home_spread": -3.5,
+"p_cover": 0.5044,
+"line_total": 233.5,
+"p_over": 0.5067
 },
 "401909336": {
-"p_home": 0.7501,
-"margin": 9.78,
-"total": 220.62,
+"p_home": 0.7461,
+"margin": 8.18,
+"total": 220.54,
 "matchup": "GS @ POR",
 "home": "POR",
 "away": "GS",
-"day": "2026-11-27"
+"day": "2026-11-27",
+"home_spread": -7.5,
+"p_cover": 0.521,
+"line_total": 220.5,
+"p_over": 0.5008
 }
 },
 "singles": {
@@ -2820,8 +2844,8 @@
 "market": "spread",
 "side": "UTAH",
 "line": 9.5,
-"p": 0.5654,
-"dk": 1.9090909090909092,
+"p": 0.5655,
+"dk": 1.9345794392523366,
 "label": "UTAH +9.5"
 }
 ]

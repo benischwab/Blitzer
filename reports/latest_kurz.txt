@@ -1,26 +1,23 @@
 ÄNDERUNGEN:
-• MIL @ DET: Linien jetzt verfügbar (DET -11.5, Total 220.5)
-• PHI @ IND: Total 234.5 → 232.5
-• BKN @ TOR: Linien jetzt verfügbar (TOR -7.5, Total 220.5)
-• MEM @ MIN: Linien jetzt verfügbar (MIN -3.5, Total 221.5)
-• MEM @ MIN: Sieg MIN 71% → 61%
-• DAL @ PHX: Linien jetzt verfügbar (PHX -2.5, Total 227.5)
-• NO @ LAC: Linien jetzt verfügbar (LAC -3.5, Total 233.5)
-• GS @ POR: Linien jetzt verfügbar (POR -7.5, Total 220.5)
+• MIL @ DET: Cade Cunningham fällt NEU aus
+• MIL @ DET: Handicap DET -11.5 → -8.5
+• PHI @ IND: Jaylen Brown fällt NEU aus
+• PHI @ IND: Handicap IND +3.5 → +1.5
+• NO @ LAC: Total 233.5 → 231.5
 
 TIPPS (ab Mindestquote):
 • UTAH +9.5 (DEN @ UTAH) 57% – ab 1.82
 • 2er-Kombi: Sieg BOS + Sieg POR – 57%, ab 1.82
-• 3er-Kombi: Sieg DET + Sieg BOS + Sieg MIN – 37%, ab 2.80
+• 3er-Kombi: Sieg BOS + Sieg TOR + Sieg SA – 36%, ab 2.83
 
 01:00 MIA@NY: NY 60% · U223.5 51%
-01:30 MIL@DET: DET 79% · O220.5 51%
-01:30 PHI@IND: PHI 58% · U232.5 52%
-01:30 BKN@TOR: TOR 73% · O220.5 50%
+01:30 MIL@DET: DET 74% · U219.5 52%
+01:30 PHI@IND: PHI 54% · U232.5 54%
+01:30 BKN@TOR: TOR 73% · O219.5 51%
 02:00 ATL@BOS: BOS 76% · U221.5 54%
-02:30 MEM@MIN: MIN 61% · U221.5 51%
+02:30 MEM@MIN: MIN 62% · O220.5 50%
 03:00 DAL@PHX: PHX 55% · U227.5 50%
 03:30 LAL@SA: SA 66% · U225.5 51%
 03:30 DEN@UTAH: DEN 71% · U229.5 53%
-03:30 NO@LAC: LAC 59% · O233.5 51%
+03:30 NO@LAC: LAC 60% · O231.5 52%
 03:30 GS@POR: POR 75% · O220.5 50%

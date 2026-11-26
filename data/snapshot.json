@@ -9,6 +9,8 @@
 ],
 "dtd": [
 "Andre Drummond",
+"Andrew Wiggins",
+"Giannis Antetokounmpo",
 "Miles McBride"
 ],
 "spread": -3.5,
@@ -20,17 +22,16 @@
 "home": "DET",
 "away": "MIL",
 "out": [
+"Cade Cunningham",
 "Duncan Robinson",
 "Ebuka Okorie",
 "Jalen Duren",
 "Taurean Prince"
 ],
-"dtd": [
-"Cade Cunningham"
-],
-"spread": -11.5,
-"total": 220.5,
-"p_home": 0.7912
+"dtd": [],
+"spread": -8.5,
+"total": 219.5,
+"p_home": 0.7444
 },
 "401909328": {
 "matchup": "PHI @ IND",
@@ -39,18 +40,18 @@
 "out": [
 "Ariel Hukporti",
 "Ben Sheppard",
+"Jaylen Brown",
 "Tyrese Haliburton"
 ],
 "dtd": [
 "Aaron Nesmith",
-"Jaylen Brown",
 "Joel Embiid",
 "Larry Nance Jr.",
 "T.J. McConnell"
 ],
-"spread": 3.5,
+"spread": 1.5,
 "total": 232.5,
-"p_home": 0.4157
+"p_home": 0.4648
 },
 "401909329": {
 "matchup": "BKN @ TOR",
@@ -63,9 +64,11 @@
 "Nolan Traore",
 "RJ Barrett"
 ],
-"dtd": [],
+"dtd": [
+"Alijah Martin"
+],
 "spread": -7.5,
-"total": 220.5,
+"total": 219.5,
 "p_home": 0.7304
 },
 "401909330": {
@@ -83,7 +86,7 @@
 "dtd": [],
 "spread": -9.5,
 "total": 221.5,
-"p_home": 0.7579
+"p_home": 0.7578
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -104,8 +107,8 @@
 "Zach Edey"
 ],
 "spread": -3.5,
-"total": 221.5,
-"p_home": 0.6135
+"total": 220.5,
+"p_home": 0.6211
 },
 "401909332": {
 "matchup": "DAL @ PHX",
@@ -119,9 +122,9 @@
 "Tobi Lawal"
 ],
 "dtd": [],
-"spread": -2.5,
+"spread": -1.5,
 "total": 227.5,
-"p_home": 0.5474
+"p_home": 0.5475
 },
 "401909333": {
 "matchup": "LAL @ SA",
@@ -171,8 +174,8 @@
 "Julian Reese"
 ],
 "spread": -3.5,
-"total": 233.5,
-"p_home": 0.5905
+"total": 231.5,
+"p_home": 0.5978
 },
 "401909336": {
 "matchup": "GS @ POR",
@@ -189,7 +192,7 @@
 "Vit Krejci"
 ],
 "dtd": [],
-"spread": -7.5,
+"spread": -8.5,
 "total": 220.5,
 "p_home": 0.7461
 },

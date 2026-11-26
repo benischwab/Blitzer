@@ -1,11 +1,16 @@
-Sieger 5/9 richtig · Ø-Fehler Total 12 Pkt · O/U 2/8
-❌ MIA 104–111 PHI (Prog. MIA 51%)
-❌ CHI 107–105 CHA (Prog. CHA 50%)
-✅ CLE 102–121 NY (Prog. NY 60%)
-✅ MIN 113–106 OKC (Prog. MIN 50%)
-✅ LAC 97–115 MEM (Prog. MEM 70%)
-❌ BKN 104–97 MIL (Prog. MIL 55%)
-✅ PHX 104–116 HOU (Prog. HOU 75%)
-✅ SAC 110–129 GS (Prog. GS 74%)
-❌ SA 111–116 POR (Prog. SA 54%)
-Tipps: 1/2 · -0.10 Fr.
+TIPPS (ab Mindestquote):
+• UTAH +9.5 (DEN @ UTAH) 57% – ab 1.82
+• 2er-Kombi: Sieg POR + Sieg BOS – 56%, ab 1.85
+• 3er-Kombi: Sieg DET + Sieg POR + Sieg LAC – 36%, ab 2.90
+
+01:00 MIA@NY: NY 60% · U224.5 52%
+01:30 MIL@DET: DET 78%
+01:30 PHI@IND: PHI 59% · U234.5 53%
+01:30 BKN@TOR: TOR 71%
+02:00 ATL@BOS: BOS 74% · U221.5 54%
+02:30 MEM@MIN: MIN 71%
+03:00 DAL@PHX: PHX 51%
+03:30 LAL@SA: SA 66% · U225.5 51%
+03:30 DEN@UTAH: DEN 69% · U228.5 52%
+03:30 NO@LAC: LAC 61%
+03:30 GS@POR: POR 75%

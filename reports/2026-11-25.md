@@ -1,16 +1,10 @@
 # NBA-Tipps für die Nacht 25.11.–26.11.2026
 
-Stand: Mi 25.11. 23:59 Uhr · 8 Spiele · Datenbasis: 261 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.4 Pkt/Team
+Stand: Do 26.11. 01:13 Uhr · 8 Spiele · Datenbasis: 261 Saisonspiele · Heimvorteil 1.8 Pkt · Liga-Schnitt 113.4 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- CHI @ CHA: Jalen Smith fällt NEU aus
-- CLE @ NY: Handicap NY -1.5 → -4.5
-- CLE @ NY: Total 216.5 → 219.5
-- CLE @ NY: Sieg NY 55% → 60%
-- SAC @ GS: Zach LaVine fällt NEU aus
-- SAC @ GS: Sieg GS 69% → 74%
-- Neue Tipps: MIN +2.5 (MIN @ OKC)
-- Gestrichen: MIN +1.5 (MIN @ OKC); CHI +3.5 (CHI @ CHA)
+- CHI @ CHA: Sieg CHA 58% → 50%
+- CLE @ NY: Total 219.5 → 221.5
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -21,7 +15,7 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
 | MIN +2.5 | MIN @ OKC | 57% | 1.90 | +8.0% | **1.81** |
-| Over 222.5 | PHX @ HOU | 55% | 1.88 | +4.5% | **1.86** |
+| Over 222.5 | PHX @ HOU | 55% | 1.90 | +5.4% | **1.86** |
 | Sieg GS | SAC @ GS | 74% | 1.31 | -3.5% | **1.40** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
@@ -49,9 +43,9 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 - MIN @ OKC: Handicap MIN +2.5 — Modell 70%
 - MIN @ OKC: Sieg MIN — Modell 63% vs. Markt 45%
 - PHX @ HOU: Over 222.5 — Modell-Total 230.9 (66%)
+- MIN @ OKC: Under 223.5 — Modell-Total 215.8 (64%)
 - SA @ POR: Handicap POR +3.5 — Modell 64%
-- SA @ POR: Sieg POR — Modell 55% vs. Markt 41%
-- MIN @ OKC: Under 222.5 — Modell-Total 215.8 (63%)
+- SA @ POR: Sieg POR — Modell 55% vs. Markt 42%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 107/154 richtig (69%), Brier 0.203
@@ -72,11 +66,9 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### CHI @ CHA — Do 01:00 Uhr
-**Sieg:** CHA 58% (faire Quote 1.72) · CHI 42% (2.40) — Markt CHA 62%
-**Prognose:** CHA 110.0 – CHI 107.5 (Diff. CHA +2.5, Total 217.5)
-**Handicap** CHA -3.5: CHA deckt 47% · CHI +3.5 deckt 53%
-**Over/Under 218.5:** Over 48% (2.09) · Under 52% (1.92)
-**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 221.5 (≥57%)
+**Sieg:** CHA 50% (faire Quote 1.99) · CHI 50% (2.01)
+**Prognose:** CHA 107.6 – CHI 107.6 (Diff. CHA +0.1, Total 215.2)
+**Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 219.5 (≥57%)
 **Form (letzte 5):** CHA NNNNN (-7.4) · CHI NSNNS (+4.6)
 _CHA out: Ryan Kalkbrenner*, Grayson Allen*, Dennis Schroder, Kon Knueppel · CHI out: Jalen Smith*, Norman Powell, Caleb Wilson_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
@@ -94,12 +86,12 @@ _CHA out: Ryan Kalkbrenner*, Grayson Allen*, Dennis Schroder, Kon Knueppel · CH
 
 ### CLE @ NY — Do 01:30 Uhr
 **Sieg:** NY 60% (faire Quote 1.66) · CLE 40% (2.51) — Markt NY 62%
-**Prognose:** NY 111.0 – CLE 107.2 (Diff. NY +3.9, Total 218.2)
+**Prognose:** NY 111.7 – CLE 107.9 (Diff. NY +3.9, Total 219.6)
 **Handicap** NY -4.5: NY deckt 48% · CLE +4.5 deckt 52%
-**Over/Under 219.5:** Over 47% (2.12) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 221.5 (≥57%)
+**Over/Under 221.5:** Over 46% (2.18) · Under 54% (1.85)
+**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** NY SSSSS (+4.8) · CLE SSNSN (+2.6)
-_NY out: Miles McBride*, Jordan Clarkson, OG Anunoby · NY fraglich: Jalen Brunson*, Josh Hart*, Karl-Anthony Towns* · CLE out: Nae'Qwan Tomlin, Evan Mobley_ (* = Meldung der letzten 24 h)
+_NY out: OG Anunoby*, Miles McBride*, Jordan Clarkson · CLE out: Nae'Qwan Tomlin, Evan Mobley_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 Inside LeBron's first game in Philly -- more than two decades ago
 
@@ -116,12 +108,12 @@ _NY out: Miles McBride*, Jordan Clarkson, OG Anunoby · NY fraglich: Jalen Bruns
 
 ### MIN @ OKC — Do 01:30 Uhr
 **Sieg:** OKC 50% (faire Quote 2.02) · MIN 50% (1.98) — Markt OKC 55%
-**Prognose:** OKC 110.4 – MIN 110.1 (Diff. OKC +0.3, Total 220.5)
+**Prognose:** OKC 110.7 – MIN 110.5 (Diff. OKC +0.3, Total 221.2)
 **Handicap** OKC -2.5: OKC deckt 43% · MIN +2.5 deckt 57%
-**Over/Under 222.5:** Over 46% (2.19) · Under 54% (1.84)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
+**Over/Under 223.5:** Over 45% (2.22) · Under 55% (1.82)
+**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** OKC SNSNN (+1.6) · MIN SSNSS (+8.2)
-_OKC out: Nikola Topic*, Jaylin Williams*, Aday Mara*, Jalen Williams, Thomas Sorber, Cason Wallace, Chet Holmgren · MIN out: Donte DiVincenzo, Jaylen Clark, Anthony Edwards_ (* = Meldung der letzten 24 h)
+_OKC out: Nikola Topic, Jaylin Williams, Aday Mara, Jalen Williams, Thomas Sorber, Cason Wallace, Chet Holmgren · MIN out: Donte DiVincenzo, Jaylen Clark, Anthony Edwards_
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 The Thunder look to get back in the win column as they take on the Timberwolves
 
@@ -143,7 +135,7 @@ _OKC out: Nikola Topic*, Jaylin Williams*, Aday Mara*, Jalen Williams, Thomas So
 **Over/Under 227.5:** Over 51% (1.98) · Under 49% (2.02)
 **Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** MEM SSSNS (+8.8) · LAC SNNNN (-10.2)
-_MEM out: Scotty Pippen Jr.*, Cameron Boozer, Jerami Grant, GG Jackson, Richie Saunders · LAC out: Bradley Beal, Jordan Miller_ (* = Meldung der letzten 24 h)
+_MEM out: Scotty Pippen Jr., Cameron Boozer, Jerami Grant, GG Jackson, Richie Saunders · LAC out: Bradley Beal, Jordan Miller_
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
 
@@ -209,7 +201,7 @@ _PHX out: Mark Williams_
 **Over/Under 215.5:** Over 48% (2.07) · Under 52% (1.94)
 **Total-Faustregel:** Over lohnt bis 210.5 · Under lohnt ab 218.5 (≥57%)
 **Form (letzte 5):** GS NNNNS (-21.6) · SAC NNNSN (-12.0)
-_GS out: Brandon Williams, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Yaxel Lendeborg* · SAC out: Zach LaVine*, Maxime Raynaud*, Ben Simmons_ (* = Meldung der letzten 24 h)
+_GS out: Brandon Williams, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III · GS fraglich: Yaxel Lendeborg · SAC out: Zach LaVine*, Maxime Raynaud*, Ben Simmons_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more
 > 📰 NBA Power Rankings: Whom is each team most thankful for this year?
 
@@ -225,11 +217,11 @@ _GS out: Brandon Williams, Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy
 | Keegan Murray (SAC) | 32 | 11.4 (9.5 / 12.5) | 4.9 | 1.6 | 1.1 | 17.9 |
 
 ### SA @ POR — Do 04:00 Uhr
-**Sieg:** POR 45% (faire Quote 2.23) · SA 55% (1.81) — Markt POR 41%
-**Prognose:** POR 111.1 – SA 113.1 (Diff. SA +1.9, Total 224.2)
+**Sieg:** POR 46% (faire Quote 2.19) · SA 54% (1.84) — Markt POR 42%
+**Prognose:** POR 111.5 – SA 113.4 (Diff. SA +1.9, Total 224.9)
 **Handicap** POR +3.5: POR deckt 55% · SA -3.5 deckt 45%
-**Over/Under 225.5:** Over 47% (2.12) · Under 53% (1.89)
-**Total-Faustregel:** Over lohnt bis 220.5 · Under lohnt ab 227.5 (≥57%)
+**Over/Under 226.5:** Over 46% (2.15) · Under 54% (1.87)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** POR NNSNS (+3.4) · SA SNSSS (+9.4)
 _POR out: Chris Youngblood, Vit Krejci, Ja Morant, Shaedon Sharpe · SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron Fox*, Victor Wembanyama*_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, format, groups, updates and more

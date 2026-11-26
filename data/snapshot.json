@@ -13,9 +13,9 @@
 "Ryan Kalkbrenner"
 ],
 "dtd": [],
-"spread": -3.5,
-"total": 218.5,
-"p_home": 0.5827
+"spread": null,
+"total": null,
+"p_home": 0.5019
 },
 "401909319": {
 "matchup": "CLE @ NY",
@@ -28,13 +28,9 @@
 "Nae'Qwan Tomlin",
 "OG Anunoby"
 ],
-"dtd": [
-"Jalen Brunson",
-"Josh Hart",
-"Karl-Anthony Towns"
-],
+"dtd": [],
 "spread": -4.5,
-"total": 219.5,
+"total": 221.5,
 "p_home": 0.602
 },
 "401909320": {
@@ -55,7 +51,7 @@
 ],
 "dtd": [],
 "spread": -2.5,
-"total": 222.5,
+"total": 223.5,
 "p_home": 0.4958
 },
 "401909321": {
@@ -139,8 +135,8 @@
 "Victor Wembanyama"
 ],
 "spread": 3.5,
-"total": 225.5,
-"p_home": 0.4484
+"total": 226.5,
+"p_home": 0.4557
 },
 "_tips": [
 "MIN +2.5 (MIN @ OKC)",

@@ -1992,43 +1992,39 @@
 "p_over": 0.5034
 },
 "401909318": {
-"p_home": 0.5827,
-"margin": 2.47,
-"total": 217.5,
+"p_home": 0.5019,
+"margin": 0.07,
+"total": 215.18,
 "matchup": "CHI @ CHA",
 "home": "CHA",
 "away": "CHI",
-"day": "2026-11-25",
-"home_spread": -3.5,
-"p_cover": 0.4684,
-"line_total": 218.5,
-"p_over": 0.4785
+"day": "2026-11-25"
 },
 "401909319": {
 "p_home": 0.602,
 "margin": 3.87,
-"total": 218.22,
+"total": 219.62,
 "matchup": "CLE @ NY",
 "home": "NY",
 "away": "CLE",
 "day": "2026-11-25",
 "home_spread": -4.5,
 "p_cover": 0.4808,
-"line_total": 219.5,
-"p_over": 0.4723
+"line_total": 221.5,
+"p_over": 0.4595
 },
 "401909320": {
 "p_home": 0.4958,
 "margin": 0.26,
-"total": 220.49,
+"total": 221.19,
 "matchup": "MIN @ OKC",
 "home": "OKC",
 "away": "MIN",
 "day": "2026-11-25",
 "home_spread": -2.5,
 "p_cover": 0.4316,
-"line_total": 222.5,
-"p_over": 0.4566
+"line_total": 223.5,
+"p_over": 0.4502
 },
 "401909321": {
 "p_home": 0.6973,
@@ -2054,7 +2050,7 @@
 "home_spread": -1.5,
 "p_cover": 0.5252,
 "line_total": 234.5,
-"p_over": 0.4904
+"p_over": 0.4903
 },
 "401909323": {
 "p_home": 0.7462,
@@ -2083,17 +2079,17 @@
 "p_over": 0.484
 },
 "401909325": {
-"p_home": 0.4484,
+"p_home": 0.4557,
 "margin": -1.95,
-"total": 224.16,
+"total": 224.86,
 "matchup": "SA @ POR",
 "home": "POR",
 "away": "SA",
 "day": "2026-11-25",
 "home_spread": 3.5,
 "p_cover": 0.5475,
-"line_total": 225.5,
-"p_over": 0.4711
+"line_total": 226.5,
+"p_over": 0.4647
 }
 },
 "singles": {
@@ -2694,7 +2690,7 @@
 "side": "over",
 "line": 222.5,
 "p": 0.5543,
-"dk": 1.8849557522123894,
+"dk": 1.900900900900901,
 "label": "Over 222.5"
 }
 ]

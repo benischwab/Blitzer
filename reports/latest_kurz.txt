@@ -1,12 +1,6 @@
 ÄNDERUNGEN:
-• CHI @ CHA: Jalen Smith fällt NEU aus
-• CLE @ NY: Handicap NY -1.5 → -4.5
-• CLE @ NY: Total 216.5 → 219.5
-• CLE @ NY: Sieg NY 55% → 60%
-• SAC @ GS: Zach LaVine fällt NEU aus
-• SAC @ GS: Sieg GS 69% → 74%
-• Neue Tipps: MIN +2.5 (MIN @ OKC)
-• Gestrichen: MIN +1.5 (MIN @ OKC); CHI +3.5 (CHI @ CHA)
+• CHI @ CHA: Sieg CHA 58% → 50%
+• CLE @ NY: Total 219.5 → 221.5
 
 TIPPS (ab Mindestquote):
 • MIN +2.5 (MIN @ OKC) 57% – ab 1.81
@@ -14,11 +8,11 @@ TIPPS (ab Mindestquote):
 • 2er-Kombi: Sieg HOU + Sieg GS – 55%, ab 1.87
 • 3er-Kombi: Sieg HOU + Sieg GS + Sieg NY – 33%, ab 3.11
 
-01:00 CHI@CHA: CHA 58% · U218.5 52%
-01:30 CLE@NY: NY 60% · U219.5 53%
-01:30 MIN@OKC: MIN 50% · U222.5 54%
+01:00 CHI@CHA: CHA 50%
+01:30 CLE@NY: NY 60% · U221.5 54%
+01:30 MIN@OKC: MIN 50% · U223.5 55%
 02:00 LAC@MEM: MEM 70% · O227.5 51%
 02:00 BKN@MIL: MIL 55% · U234.5 51%
 02:30 PHX@HOU: HOU 75% · O222.5 55%
 04:00 SAC@GS: GS 74% · U215.5 52%
-04:00 SA@POR: SA 55% · U225.5 53%
+04:00 SA@POR: SA 54% · U226.5 54%

@@ -29,8 +29,8 @@
 "Taurean Prince"
 ],
 "dtd": [],
-"spread": -8.5,
-"total": 219.5,
+"spread": -9.5,
+"total": 218.5,
 "p_home": 0.7444
 },
 "401909328": {
@@ -68,7 +68,7 @@
 "Alijah Martin"
 ],
 "spread": -7.5,
-"total": 219.5,
+"total": 220.5,
 "p_home": 0.7304
 },
 "401909330": {
@@ -85,8 +85,8 @@
 ],
 "dtd": [],
 "spread": -9.5,
-"total": 221.5,
-"p_home": 0.7578
+"total": 222.5,
+"p_home": 0.7647
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -103,12 +103,13 @@
 "Scotty Pippen Jr."
 ],
 "dtd": [
+"Isaiah Stewart",
 "LaMelo Ball",
 "Zach Edey"
 ],
 "spread": -3.5,
 "total": 220.5,
-"p_home": 0.6211
+"p_home": 0.6284
 },
 "401909332": {
 "matchup": "DAL @ PHX",
@@ -124,7 +125,7 @@
 "dtd": [],
 "spread": -1.5,
 "total": 227.5,
-"p_home": 0.5475
+"p_home": 0.539
 },
 "401909333": {
 "matchup": "LAL @ SA",
@@ -141,7 +142,7 @@
 ],
 "spread": -5.5,
 "total": 225.5,
-"p_home": 0.6574
+"p_home": 0.6517
 },
 "401909334": {
 "matchup": "DEN @ UTAH",
@@ -156,8 +157,8 @@
 "Jaxson Hayes"
 ],
 "spread": 9.5,
-"total": 229.5,
-"p_home": 0.2885
+"total": 228.5,
+"p_home": 0.2831
 },
 "401909335": {
 "matchup": "NO @ LAC",

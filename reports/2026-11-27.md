@@ -1,13 +1,6 @@
 # NBA-Tipps für die Nacht 27.11.–28.11.2026
 
-Stand: Fr 27.11. 00:02 Uhr · 11 Spiele · Datenbasis: 270 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.2 Pkt/Team
-
-## Änderungen seit dem letzten Bericht
-- MIL @ DET: Cade Cunningham fällt NEU aus
-- MIL @ DET: Handicap DET -11.5 → -8.5
-- PHI @ IND: Jaylen Brown fällt NEU aus
-- PHI @ IND: Handicap IND +3.5 → +1.5
-- NO @ LAC: Total 233.5 → 231.5
+Stand: Fr 27.11. 01:20 Uhr · 11 Spiele · Datenbasis: 270 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.2 Pkt/Team
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -18,18 +11,18 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
 | UTAH +9.5 | DEN @ UTAH | 57% | 1.93 | +9.4% | **1.82** |
-| Sieg MIN | MEM @ MIN | 62% | 1.65 | +2.2% | **1.66** | _(nur mit besserer Quote)_
-| Sieg SA | LAL @ SA | 66% | 1.49 | -2.2% | **1.57** | _(nur mit besserer Quote)_
+| Sieg MIN | MEM @ MIN | 63% | 1.62 | +1.6% | **1.64** | _(nur mit besserer Quote)_
+| Sieg SA | LAL @ SA | 65% | 1.51 | -1.8% | **1.58** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
-- Sieg BOS (ATL @ BOS) — 76%, DK 1.24
 - Sieg POR (GS @ POR) — 75%, DK 1.29
-- **Trefferchance 57%** · DK-Quote 1.61 (-9.2%) · **lohnt ab Sporttip-Gesamtquote 1.82** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg DET (MIL @ DET) — 74%, DK 1.25
+- **Trefferchance 56%** · DK-Quote 1.61 (-10.7%) · **lohnt ab Sporttip-Gesamtquote 1.85** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
-- Sieg BOS (ATL @ BOS) — 76%, DK 1.24
+- Sieg BOS (ATL @ BOS) — 76%, DK 1.23
 - Sieg TOR (BKN @ TOR) — 73%, DK 1.30
-- Sieg SA (LAL @ SA) — 66%, DK 1.49
+- Sieg SA (LAL @ SA) — 65%, DK 1.51
 - **Trefferchance 36%** · DK-Quote 2.41 (-12.4%) · **lohnt ab Sporttip-Gesamtquote 2.83** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
@@ -43,12 +36,12 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 
 ## Auffälligkeiten (eigenes Modell ≠ Buchmacher)
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
-- DEN @ UTAH: Sieg UTAH — Modell 44% vs. Markt 23%
+- DEN @ UTAH: Sieg UTAH — Modell 44% vs. Markt 22%
 - DEN @ UTAH: Handicap UTAH +9.5 — Modell 69%
 - PHI @ IND: Sieg IND — Modell 58% vs. Markt 42%
-- MEM @ MIN: Sieg MIN — Modell 71% vs. Markt 58%
+- ATL @ BOS: Under 222.5 — Modell-Total 215.6 (63%)
 - MEM @ MIN: Handicap MIN -3.5 — Modell 62%
-- PHI @ IND: Handicap IND +1.5 — Modell 62%
+- MEM @ MIN: Sieg MIN — Modell 71% vs. Markt 59%
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 112/163 richtig (69%), Brier 0.203
@@ -103,10 +96,10 @@ _NY out: Jordan Clarkson*, OG Anunoby* · NY fraglich: Miles McBride*, Andre Dru
 
 ### MIL @ DET — Sa 01:30 Uhr
 **Sieg:** DET 74% (faire Quote 1.34) · MIL 26% (3.91) — Markt DET 77%
-**Prognose:** DET 113.4 – MIL 105.4 (Diff. DET +8.0, Total 218.8)
-**Handicap** DET -8.5: DET deckt 48% · MIL +8.5 deckt 52%
-**Over/Under 219.5:** Over 48% (2.06) · Under 52% (1.94)
-**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 222.5 (≥57%)
+**Prognose:** DET 113.4 – MIL 104.7 (Diff. DET +8.7, Total 218.1)
+**Handicap** DET -9.5: DET deckt 48% · MIL +9.5 deckt 52%
+**Over/Under 218.5:** Over 49% (2.03) · Under 51% (1.97)
+**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 221.5 (≥57%)
 **Form (letzte 5):** DET SSNNS (+6.0) · MIL NNNSN (-4.4)
 _DET out: Duncan Robinson*, Cade Cunningham*, Jalen Duren*, Ebuka Okorie, Taurean Prince_ (* = Meldung der letzten 24 h)
 > 📰 Bucks visit Pistons Friday in NBA Cup group stage
@@ -147,10 +140,10 @@ _IND out: Tyrese Haliburton, Ben Sheppard · IND fraglich: Larry Nance Jr.*, Aar
 
 ### BKN @ TOR — Sa 01:30 Uhr
 **Sieg:** TOR 73% (faire Quote 1.37) · BKN 27% (3.71) — Markt TOR 74%
-**Prognose:** TOR 113.8 – BKN 106.1 (Diff. TOR +7.7, Total 219.9)
+**Prognose:** TOR 114.1 – BKN 106.5 (Diff. TOR +7.7, Total 220.6)
 **Handicap** TOR -7.5: TOR deckt 51% · BKN +7.5 deckt 49%
-**Over/Under 219.5:** Over 51% (1.97) · Under 49% (2.04)
-**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 223.5 (≥57%)
+**Over/Under 220.5:** Over 50% (1.99) · Under 50% (2.01)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** TOR NNNSN (-3.8) · BKN NNNNS (-12.6)
 _TOR out: Kawhi Leonard, Nate Bittle, RJ Barrett · TOR fraglich: Alijah Martin* · BKN out: Moritz Wagner*, Nolan Traore_ (* = Meldung der letzten 24 h)
 > 📰 Raptors and Nets meet Friday in NBA Cup group stage
@@ -168,11 +161,11 @@ _TOR out: Kawhi Leonard, Nate Bittle, RJ Barrett · TOR fraglich: Alijah Martin*
 | Egor Demin (BKN) | 24 | 11.7 (8.5 / 11.5) | 2.5 | 3.0 | 1.7 | 17.3 |
 
 ### ATL @ BOS — Sa 02:00 Uhr
-**Sieg:** BOS 76% (faire Quote 1.32) · ATL 24% (4.13) — Markt BOS 77%
-**Prognose:** BOS 114.5 – ATL 105.3 (Diff. BOS +9.2, Total 219.7)
+**Sieg:** BOS 76% (faire Quote 1.31) · ATL 24% (4.25) — Markt BOS 78%
+**Prognose:** BOS 114.8 – ATL 105.6 (Diff. BOS +9.2, Total 220.4)
 **Handicap** BOS -9.5: BOS deckt 49% · ATL +9.5 deckt 51%
-**Over/Under 221.5:** Over 46% (2.16) · Under 54% (1.86)
-**Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
+**Over/Under 222.5:** Over 46% (2.19) · Under 54% (1.84)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** BOS NNNNS (-0.2) · ATL NSSSS (+5.6)
 _BOS out: Mitchell Robinson* · ATL out: Jock Landale*, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar_ (* = Meldung der letzten 24 h)
 > 📰 Celtics host Hawks Friday for NBA Cup group stage matchup
@@ -190,13 +183,13 @@ _BOS out: Mitchell Robinson* · ATL out: Jock Landale*, Asa Newell, CJ McCollum,
 | Aaron Wiggins (ATL) | 26 | 12.7 (10.5 / 13.5) | 3.7 | 2.4 | 2.5 | 18.9 |
 
 ### MEM @ MIN — Sa 02:30 Uhr
-**Sieg:** MIN 62% (faire Quote 1.61) · MEM 38% (2.64) — Markt MIN 58%
+**Sieg:** MIN 63% (faire Quote 1.59) · MEM 37% (2.69) — Markt MIN 59%
 **Prognose:** MIN 112.7 – MEM 107.9 (Diff. MIN +4.9, Total 220.6)
 **Handicap** MIN -3.5: MIN deckt 54% · MEM +3.5 deckt 46%
 **Over/Under 220.5:** Over 50% (1.99) · Under 50% (2.01)
 **Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** MIN SNSSS (+8.0) · MEM SSNSS (+9.2)
-_MIN out: Donte DiVincenzo, Jaylen Clark, Anthony Edwards · MIN fraglich: LaMelo Ball* · MEM out: Scotty Pippen Jr., Cameron Boozer, Jerami Grant, GG Jackson, Richie Saunders · MEM fraglich: Zach Edey*_ (* = Meldung der letzten 24 h)
+_MIN out: Donte DiVincenzo, Jaylen Clark, Anthony Edwards · MIN fraglich: LaMelo Ball* · MEM out: Scotty Pippen Jr., Cameron Boozer, Jerami Grant, GG Jackson, Richie Saunders · MEM fraglich: Isaiah Stewart*, Zach Edey*_ (* = Meldung der letzten 24 h)
 > 📰 Timberwolves and Grizzlies meet Friday in NBA Cup group stage
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
@@ -212,13 +205,13 @@ _MIN out: Donte DiVincenzo, Jaylen Clark, Anthony Edwards · MIN fraglich: LaMel
 | Jaylen Wells (MEM) | 26 | 10.9 (7.5 / 11.5) | 3.2 | 1.1 | 2.0 | 15.4 |
 
 ### DAL @ PHX — Sa 03:00 Uhr
-**Sieg:** PHX 55% (faire Quote 1.83) · DAL 45% (2.21) — Markt PHX 56%
+**Sieg:** PHX 54% (faire Quote 1.86) · DAL 46% (2.17) — Markt PHX 55%
 **Prognose:** PHX 114.3 – DAL 113.1 (Diff. PHX +1.2, Total 227.4)
 **Handicap** PHX -1.5: PHX deckt 49% · DAL +1.5 deckt 51%
 **Over/Under 227.5:** Over 50% (2.01) · Under 50% (1.99)
 **Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** PHX SSSSN (+7.0) · DAL NSSSS (+3.2)
-_PHX out: Mark Williams · DAL out: Tobi Lawal, Dereck Lively II, Sergio de Larrea, Tarik Biberovic_
+_PHX out: Mark Williams · DAL out: Tobi Lawal*, Sergio de Larrea*, Dereck Lively II*, Tarik Biberovic*_ (* = Meldung der letzten 24 h)
 > 📰 Mavericks visit Suns Friday in NBA Cup group stage
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
@@ -234,13 +227,13 @@ _PHX out: Mark Williams · DAL out: Tobi Lawal, Dereck Lively II, Sergio de Larr
 | Naji Marshall (DAL) | 24 | 10.6 (8.5 / 11.5) | 2.4 | 3.3 | 1.0 | 16.3 |
 
 ### LAL @ SA — Sa 03:30 Uhr
-**Sieg:** SA 66% (faire Quote 1.52) · LAL 34% (2.92) — Markt SA 65%
+**Sieg:** SA 65% (faire Quote 1.53) · LAL 35% (2.87) — Markt SA 64%
 **Prognose:** SA 115.4 – LAL 109.5 (Diff. SA +5.9, Total 224.9)
 **Handicap** SA -5.5: SA deckt 51% · LAL +5.5 deckt 49%
 **Over/Under 225.5:** Over 49% (2.05) · Under 51% (1.95)
 **Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 228.5 (≥57%)
 **Form (letzte 5):** SA NSSSN (+6.8) · LAL SSNSS (+3.4)
-_SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron Fox* · LAL out: Austin Reaves_ (* = Meldung der letzten 24 h)
+_SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron Fox* · LAL out: Austin Reaves*_ (* = Meldung der letzten 24 h)
 > 📰 Lakers visit Spurs Friday in NBA Cup group stage
 > 📰 Blazers snag home win over the Spurs
 
@@ -256,13 +249,13 @@ _SA out: Dylan Harper, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron
 | Ziaire Williams (LAL) | 23 | 8.0 (5.5 / 8.5) | 2.2 | 1.5 | 1.4 | 11.7 |
 
 ### DEN @ UTAH — Sa 03:30 Uhr
-**Sieg:** UTAH 29% (faire Quote 3.47) · DEN 71% (1.41) — Markt UTAH 23%
-**Prognose:** UTAH 110.5 – DEN 117.8 (Diff. DEN +7.4, Total 228.3)
+**Sieg:** UTAH 28% (faire Quote 3.53) · DEN 72% (1.39) — Markt UTAH 22%
+**Prognose:** UTAH 110.1 – DEN 117.5 (Diff. DEN +7.4, Total 227.6)
 **Handicap** UTAH +9.5: UTAH deckt 57% · DEN -9.5 deckt 43%
-**Over/Under 229.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 232.5 (≥57%)
+**Over/Under 228.5:** Over 48% (2.08) · Under 52% (1.92)
+**Total-Faustregel:** Over lohnt bis 223.5 · Under lohnt ab 231.5 (≥57%)
 **Form (letzte 5):** UTAH SSNNN (+2.0) · DEN NSSSN (-2.4)
-_UTAH out: Jusuf Nurkic, Lauri Markkanen, Jaren Jackson Jr. · UTAH fraglich: Jaxson Hayes_
+_UTAH out: Jusuf Nurkic*, Lauri Markkanen, Jaren Jackson Jr. · UTAH fraglich: Jaxson Hayes*_ (* = Meldung der letzten 24 h)
 > 📰 Nuggets visit Jazz Friday in NBA Cup group stage
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 

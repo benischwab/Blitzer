@@ -4,18 +4,18 @@
 "home": "NY",
 "away": "MIA",
 "out": [
+"Andre Drummond",
 "Jordan Clarkson",
 "OG Anunoby"
 ],
 "dtd": [
-"Andre Drummond",
 "Andrew Wiggins",
 "Giannis Antetokounmpo",
 "Miles McBride"
 ],
-"spread": -3.5,
-"total": 223.5,
-"p_home": 0.6
+"spread": -4.5,
+"total": 222.5,
+"p_home": 0.6045
 },
 "401909327": {
 "matchup": "MIL @ DET",
@@ -29,9 +29,9 @@
 "Taurean Prince"
 ],
 "dtd": [],
-"spread": -9.5,
-"total": 218.5,
-"p_home": 0.7444
+"spread": -10.5,
+"total": 219.5,
+"p_home": 0.7552
 },
 "401909328": {
 "matchup": "PHI @ IND",
@@ -44,14 +44,14 @@
 "Tyrese Haliburton"
 ],
 "dtd": [
-"Aaron Nesmith",
 "Joel Embiid",
+"Kelly Oubre Jr.",
 "Larry Nance Jr.",
 "T.J. McConnell"
 ],
-"spread": 1.5,
-"total": 232.5,
-"p_home": 0.4648
+"spread": 3.5,
+"total": 229.5,
+"p_home": 0.4576
 },
 "401909329": {
 "matchup": "BKN @ TOR",
@@ -67,9 +67,9 @@
 "dtd": [
 "Alijah Martin"
 ],
-"spread": -7.5,
-"total": 220.5,
-"p_home": 0.7304
+"spread": -9.5,
+"total": 218.5,
+"p_home": 0.7441
 },
 "401909330": {
 "matchup": "ATL @ BOS",
@@ -84,9 +84,9 @@
 "Mouhamed Gueye"
 ],
 "dtd": [],
-"spread": -9.5,
+"spread": -8.5,
 "total": 222.5,
-"p_home": 0.7647
+"p_home": 0.743
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -107,9 +107,9 @@
 "LaMelo Ball",
 "Zach Edey"
 ],
-"spread": -3.5,
-"total": 220.5,
-"p_home": 0.6284
+"spread": -4.5,
+"total": 222.5,
+"p_home": 0.6546
 },
 "401909332": {
 "matchup": "DAL @ PHX",
@@ -124,8 +124,8 @@
 ],
 "dtd": [],
 "spread": -1.5,
-"total": 227.5,
-"p_home": 0.539
+"total": 226.5,
+"p_home": 0.5215
 },
 "401909333": {
 "matchup": "LAL @ SA",
@@ -140,9 +140,9 @@
 "dtd": [
 "De'Aaron Fox"
 ],
-"spread": -5.5,
-"total": 225.5,
-"p_home": 0.6517
+"spread": -6.5,
+"total": 226.5,
+"p_home": 0.6703
 },
 "401909334": {
 "matchup": "DEN @ UTAH",
@@ -156,9 +156,9 @@
 "dtd": [
 "Jaxson Hayes"
 ],
-"spread": 9.5,
-"total": 228.5,
-"p_home": 0.2831
+"spread": 10.5,
+"total": 229.5,
+"p_home": 0.2766
 },
 "401909335": {
 "matchup": "NO @ LAC",
@@ -174,9 +174,9 @@
 "dtd": [
 "Julian Reese"
 ],
-"spread": -3.5,
-"total": 231.5,
-"p_home": 0.5978
+"spread": -2.5,
+"total": 230.5,
+"p_home": 0.5684
 },
 "401909336": {
 "matchup": "GS @ POR",
@@ -193,12 +193,13 @@
 "Vit Krejci"
 ],
 "dtd": [],
-"spread": -8.5,
-"total": 220.5,
-"p_home": 0.7461
+"spread": -9.5,
+"total": 219.5,
+"p_home": 0.7655
 },
 "_tips": [
-"UTAH +9.5 (DEN @ UTAH)"
+"UTAH +10.5 (DEN @ UTAH)",
+"IND +3.5 (PHI @ IND)"
 ],
 "_game_day": "2026-11-27"
 }

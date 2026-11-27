@@ -6,16 +6,16 @@
 "out": [
 "Andre Drummond",
 "Jordan Clarkson",
+"Miles McBride",
 "OG Anunoby"
 ],
 "dtd": [
-"Andrew Wiggins",
 "Giannis Antetokounmpo",
-"Miles McBride"
+"Karl-Anthony Towns"
 ],
-"spread": -4.5,
+"spread": -2.5,
 "total": 222.5,
-"p_home": 0.6045
+"p_home": 0.5763
 },
 "401909327": {
 "matchup": "MIL @ DET",
@@ -26,12 +26,13 @@
 "Duncan Robinson",
 "Ebuka Okorie",
 "Jalen Duren",
+"Kasparas Jakucionis",
 "Taurean Prince"
 ],
 "dtd": [],
-"spread": -10.5,
+"spread": -9.5,
 "total": 219.5,
-"p_home": 0.7552
+"p_home": 0.7685
 },
 "401909328": {
 "matchup": "PHI @ IND",
@@ -51,7 +52,7 @@
 ],
 "spread": 3.5,
 "total": 229.5,
-"p_home": 0.4576
+"p_home": 0.4503
 },
 "401909329": {
 "matchup": "BKN @ TOR",
@@ -68,8 +69,8 @@
 "Alijah Martin"
 ],
 "spread": -9.5,
-"total": 218.5,
-"p_home": 0.7441
+"total": 219.5,
+"p_home": 0.7437
 },
 "401909330": {
 "matchup": "ATL @ BOS",
@@ -84,9 +85,9 @@
 "Mouhamed Gueye"
 ],
 "dtd": [],
-"spread": -8.5,
-"total": 222.5,
-"p_home": 0.743
+"spread": -9.5,
+"total": 223.5,
+"p_home": 0.7538
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -99,17 +100,17 @@
 "GG Jackson",
 "Jaylen Clark",
 "Jerami Grant",
+"LaMelo Ball",
 "Richie Saunders",
 "Scotty Pippen Jr."
 ],
 "dtd": [
 "Isaiah Stewart",
-"LaMelo Ball",
 "Zach Edey"
 ],
-"spread": -4.5,
-"total": 222.5,
-"p_home": 0.6546
+"spread": -2.5,
+"total": 219.5,
+"p_home": 0.5922
 },
 "401909332": {
 "matchup": "DAL @ PHX",
@@ -122,17 +123,18 @@
 "Tarik Biberovic",
 "Tobi Lawal"
 ],
-"dtd": [],
-"spread": -1.5,
-"total": 226.5,
-"p_home": 0.5215
+"dtd": [
+"Kyrie Irving"
+],
+"spread": -3.5,
+"total": 225.5,
+"p_home": 0.5612
 },
 "401909333": {
 "matchup": "LAL @ SA",
 "home": "SA",
 "away": "LAL",
 "out": [
-"Austin Reaves",
 "Dylan Harper",
 "Jayden Quaintance",
 "Tobias Harris"
@@ -140,9 +142,9 @@
 "dtd": [
 "De'Aaron Fox"
 ],
-"spread": -6.5,
-"total": 226.5,
-"p_home": 0.6703
+"spread": -5.5,
+"total": 225.5,
+"p_home": 0.6394
 },
 "401909334": {
 "matchup": "DEN @ UTAH",
@@ -154,11 +156,12 @@
 "Lauri Markkanen"
 ],
 "dtd": [
-"Jaxson Hayes"
+"Jaxson Hayes",
+"Mo Bamba"
 ],
-"spread": 10.5,
-"total": 229.5,
-"p_home": 0.2766
+"spread": 9.5,
+"total": 232.5,
+"p_home": 0.2832
 },
 "401909335": {
 "matchup": "NO @ LAC",
@@ -184,6 +187,7 @@
 "away": "GS",
 "out": [
 "Chris Youngblood",
+"Damian Lillard",
 "Ja Morant",
 "Jimmy Butler III",
 "Kristaps Porzingis",
@@ -193,13 +197,14 @@
 "Vit Krejci"
 ],
 "dtd": [],
-"spread": -9.5,
-"total": 219.5,
-"p_home": 0.7655
+"spread": -7.5,
+"total": 218.5,
+"p_home": 0.6939
 },
 "_tips": [
-"UTAH +10.5 (DEN @ UTAH)",
-"IND +3.5 (PHI @ IND)"
+"UTAH +9.5 (DEN @ UTAH)",
+"IND +3.5 (PHI @ IND)",
+"Under 223.5 (ATL @ BOS)"
 ],
 "_game_day": "2026-11-27"
 }

@@ -2092,33 +2092,33 @@
 "p_over": 0.4647
 },
 "401909326": {
-"p_home": 0.6045,
-"margin": 4.17,
-"total": 222.33,
+"p_home": 0.5763,
+"margin": 2.41,
+"total": 221.98,
 "matchup": "MIA @ NY",
 "home": "NY",
 "away": "MIA",
 "day": "2026-11-27",
-"home_spread": -4.5,
-"p_cover": 0.4897,
+"home_spread": -2.5,
+"p_cover": 0.4974,
 "line_total": 222.5,
-"p_over": 0.4964
+"p_over": 0.4889
 },
 "401909327": {
-"p_home": 0.7552,
-"margin": 9.4,
-"total": 218.81,
+"p_home": 0.7685,
+"margin": 9.26,
+"total": 218.25,
 "matchup": "MIL @ DET",
 "home": "DET",
 "away": "MIL",
 "day": "2026-11-27",
-"home_spread": -10.5,
-"p_cover": 0.4662,
+"home_spread": -9.5,
+"p_cover": 0.4925,
 "line_total": 219.5,
-"p_over": 0.4851
+"p_over": 0.473
 },
 "401909328": {
-"p_home": 0.4576,
+"p_home": 0.4503,
 "margin": -1.61,
 "total": 228.57,
 "matchup": "PHI @ IND",
@@ -2131,82 +2131,82 @@
 "p_over": 0.48
 },
 "401909329": {
-"p_home": 0.7441,
+"p_home": 0.7437,
 "margin": 9.06,
-"total": 219.2,
+"total": 219.9,
 "matchup": "BKN @ TOR",
 "home": "TOR",
 "away": "BKN",
 "day": "2026-11-27",
 "home_spread": -9.5,
 "p_cover": 0.4865,
-"line_total": 218.5,
-"p_over": 0.5152
+"line_total": 219.5,
+"p_over": 0.5087
 },
 "401909330": {
-"p_home": 0.743,
-"margin": 8.53,
-"total": 220.45,
+"p_home": 0.7538,
+"margin": 9.23,
+"total": 221.15,
 "matchup": "ATL @ BOS",
 "home": "BOS",
 "away": "ATL",
 "day": "2026-11-27",
-"home_spread": -8.5,
-"p_cover": 0.501,
-"line_total": 222.5,
-"p_over": 0.4558
+"home_spread": -9.5,
+"p_cover": 0.4918,
+"line_total": 223.5,
+"p_over": 0.4494
 },
 "401909331": {
-"p_home": 0.6546,
-"margin": 5.56,
-"total": 221.96,
+"p_home": 0.5922,
+"margin": 3.01,
+"total": 218.71,
 "matchup": "MEM @ MIN",
 "home": "MIN",
 "away": "MEM",
 "day": "2026-11-27",
-"home_spread": -4.5,
-"p_cover": 0.5324,
-"line_total": 222.5,
-"p_over": 0.4884
+"home_spread": -2.5,
+"p_cover": 0.5155,
+"line_total": 219.5,
+"p_over": 0.4831
 },
 "401909332": {
-"p_home": 0.5215,
-"margin": 1.16,
-"total": 226.68,
+"p_home": 0.5612,
+"margin": 2.56,
+"total": 225.98,
 "matchup": "DAL @ PHX",
 "home": "PHX",
 "away": "DAL",
 "day": "2026-11-27",
-"home_spread": -1.5,
-"p_cover": 0.4896,
-"line_total": 226.5,
-"p_over": 0.5039
+"home_spread": -3.5,
+"p_cover": 0.4712,
+"line_total": 225.5,
+"p_over": 0.5104
 },
 "401909333": {
-"p_home": 0.6703,
-"margin": 6.64,
-"total": 225.6,
+"p_home": 0.6394,
+"margin": 5.23,
+"total": 225.61,
 "matchup": "LAL @ SA",
 "home": "SA",
 "away": "LAL",
 "day": "2026-11-27",
-"home_spread": -6.5,
-"p_cover": 0.5043,
-"line_total": 226.5,
-"p_over": 0.4807
+"home_spread": -5.5,
+"p_cover": 0.4919,
+"line_total": 225.5,
+"p_over": 0.5023
 },
 "401909334": {
-"p_home": 0.2766,
-"margin": -8.05,
-"total": 228.3,
+"p_home": 0.2832,
+"margin": -7.35,
+"total": 230.4,
 "matchup": "DEN @ UTAH",
 "home": "UTAH",
 "away": "DEN",
 "day": "2026-11-27",
-"home_spread": 10.5,
-"p_cover": 0.5746,
-"line_total": 229.5,
-"p_over": 0.4741
+"home_spread": 9.5,
+"p_cover": 0.5656,
+"line_total": 232.5,
+"p_over": 0.4547
 },
 "401909335": {
 "p_home": 0.5684,
@@ -2219,20 +2219,20 @@
 "home_spread": -2.5,
 "p_cover": 0.5136,
 "line_total": 230.5,
-"p_over": 0.5259
+"p_over": 0.5258
 },
 "401909336": {
-"p_home": 0.7655,
-"margin": 9.58,
-"total": 219.84,
+"p_home": 0.6939,
+"margin": 6.77,
+"total": 217.74,
 "matchup": "GS @ POR",
 "home": "POR",
 "away": "GS",
 "day": "2026-11-27",
-"home_spread": -9.5,
-"p_cover": 0.5024,
-"line_total": 219.5,
-"p_over": 0.5073
+"home_spread": -7.5,
+"p_cover": 0.4776,
+"line_total": 218.5,
+"p_over": 0.4835
 }
 },
 "singles": {
@@ -2843,10 +2843,10 @@
 "matchup": "DEN @ UTAH",
 "market": "spread",
 "side": "UTAH",
-"line": 10.5,
-"p": 0.5746,
-"dk": 1.8547008547008548,
-"label": "UTAH +10.5"
+"line": 9.5,
+"p": 0.5656,
+"dk": 1.9523809523809523,
+"label": "UTAH +9.5"
 },
 {
 "game_id": "401909328",
@@ -2855,8 +2855,18 @@
 "side": "IND",
 "line": 3.5,
 "p": 0.5578,
-"dk": 1.8547008547008548,
+"dk": 1.8928571428571428,
 "label": "IND +3.5"
+},
+{
+"game_id": "401909330",
+"matchup": "ATL @ BOS",
+"market": "total",
+"side": "under",
+"line": 223.5,
+"p": 0.5506,
+"dk": 1.925925925925926,
+"label": "Under 223.5"
 }
 ]
 },

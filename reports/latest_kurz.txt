@@ -1,28 +1,21 @@
 ÄNDERUNGEN:
-• MIA @ NY: Miles McBride fällt NEU aus
-• MIA @ NY: Handicap NY -4.5 → -2.5
-• MIL @ DET: Kasparas Jakucionis fällt NEU aus
-• MEM @ MIN: LaMelo Ball fällt NEU aus
-• MEM @ MIN: Handicap MIN -4.5 → -2.5
-• MEM @ MIN: Total 222.5 → 219.5
-• MEM @ MIN: Sieg MIN 65% → 59%
-• DAL @ PHX: Handicap PHX -1.5 → -3.5
+• PHI @ IND: T.J. McConnell fällt NEU aus
 
 TIPPS (ab Mindestquote):
 • UTAH +9.5 (DEN @ UTAH) 57% – ab 1.82
 • IND +3.5 (PHI @ IND) 56% – ab 1.85
 • Under 223.5 (ATL @ BOS) 55% – ab 1.87
-• 2er-Kombi: Sieg DET + Sieg POR – 53%, ab 1.93
-• 3er-Kombi: Sieg DET + Sieg POR + Sieg SA – 34%, ab 3.02
+• 2er-Kombi: Sieg BOS + Sieg TOR – 56%, ab 1.85
+• 3er-Kombi: Sieg BOS + Sieg POR + Sieg SA – 34%, ab 3.06
 
-01:00 MIA@NY: NY 58% · U222.5 51%
+01:00 MIA@NY: NY 57% · U222.5 51%
 01:30 MIL@DET: DET 77% · U219.5 53%
-01:30 PHI@IND: PHI 55% · U229.5 52%
-01:30 BKN@TOR: TOR 74% · O219.5 51%
+01:30 PHI@IND: PHI 55% · U228.5 51%
+01:30 BKN@TOR: TOR 74% · O218.5 52%
 02:00 ATL@BOS: BOS 75% · U223.5 55%
-02:30 MEM@MIN: MIN 59% · U219.5 52%
-03:00 DAL@PHX: PHX 56% · O225.5 51%
-03:30 LAL@SA: SA 64% · O225.5 50%
-03:30 DEN@UTAH: DEN 72% · U232.5 55%
-03:30 NO@LAC: LAC 57% · O230.5 53%
-03:30 GS@POR: POR 69% · U218.5 52%
+02:30 MEM@MIN: MIN 59% · U220.5 52%
+03:00 DAL@PHX: PHX 55% · O225.5 51%
+03:30 LAL@SA: SA 65% · U226.5 50%
+03:30 DEN@UTAH: DEN 71% · U232.5 55%
+03:30 NO@LAC: LAC 57% · O229.5 53%
+03:30 GS@POR: POR 69% · U217.5 51%

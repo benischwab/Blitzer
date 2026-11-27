@@ -10,12 +10,11 @@
 "OG Anunoby"
 ],
 "dtd": [
-"Giannis Antetokounmpo",
 "Karl-Anthony Towns"
 ],
 "spread": -2.5,
 "total": 222.5,
-"p_home": 0.5763
+"p_home": 0.5686
 },
 "401909327": {
 "matchup": "MIL @ DET",
@@ -42,17 +41,17 @@
 "Ariel Hukporti",
 "Ben Sheppard",
 "Jaylen Brown",
+"T.J. McConnell",
 "Tyrese Haliburton"
 ],
 "dtd": [
 "Joel Embiid",
 "Kelly Oubre Jr.",
-"Larry Nance Jr.",
-"T.J. McConnell"
+"Larry Nance Jr."
 ],
 "spread": 3.5,
-"total": 229.5,
-"p_home": 0.4503
+"total": 228.5,
+"p_home": 0.4504
 },
 "401909329": {
 "matchup": "BKN @ TOR",
@@ -69,8 +68,8 @@
 "Alijah Martin"
 ],
 "spread": -9.5,
-"total": 219.5,
-"p_home": 0.7437
+"total": 218.5,
+"p_home": 0.7436
 },
 "401909330": {
 "matchup": "ATL @ BOS",
@@ -87,7 +86,7 @@
 "dtd": [],
 "spread": -9.5,
 "total": 223.5,
-"p_home": 0.7538
+"p_home": 0.749
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -109,7 +108,7 @@
 "Zach Edey"
 ],
 "spread": -2.5,
-"total": 219.5,
+"total": 220.5,
 "p_home": 0.5922
 },
 "401909332": {
@@ -128,7 +127,7 @@
 ],
 "spread": -3.5,
 "total": 225.5,
-"p_home": 0.5612
+"p_home": 0.5535
 },
 "401909333": {
 "matchup": "LAL @ SA",
@@ -142,9 +141,9 @@
 "dtd": [
 "De'Aaron Fox"
 ],
-"spread": -5.5,
-"total": 225.5,
-"p_home": 0.6394
+"spread": -6.5,
+"total": 226.5,
+"p_home": 0.6474
 },
 "401909334": {
 "matchup": "DEN @ UTAH",
@@ -161,7 +160,7 @@
 ],
 "spread": 9.5,
 "total": 232.5,
-"p_home": 0.2832
+"p_home": 0.2901
 },
 "401909335": {
 "matchup": "NO @ LAC",
@@ -178,7 +177,7 @@
 "Julian Reese"
 ],
 "spread": -2.5,
-"total": 230.5,
+"total": 229.5,
 "p_home": 0.5684
 },
 "401909336": {
@@ -198,7 +197,7 @@
 ],
 "dtd": [],
 "spread": -7.5,
-"total": 218.5,
+"total": 217.5,
 "p_home": 0.6939
 },
 "_tips": [

@@ -2225,6 +2225,71 @@
 "p_cover": 0.4684,
 "line_total": 216.5,
 "p_over": 0.4965
+},
+"401910046": {
+"p_home": 0.4331,
+"margin": -2.13,
+"total": 220.94,
+"matchup": "ORL @ WSH",
+"home": "WSH",
+"away": "ORL",
+"day": "2026-11-28",
+"home_spread": 3.5,
+"p_cover": 0.542,
+"line_total": 219.5,
+"p_over": 0.531
+},
+"401910047": {
+"p_home": 0.6555,
+"margin": 4.81,
+"total": 212.65,
+"matchup": "BKN @ CHA",
+"home": "CHA",
+"away": "BKN",
+"day": "2026-11-28",
+"home_spread": -5.5,
+"p_cover": 0.4787,
+"line_total": 212.5,
+"p_over": 0.5032
+},
+"401910048": {
+"p_home": 0.5344,
+"margin": 1.91,
+"total": 232.91,
+"matchup": "IND @ CHI",
+"home": "CHI",
+"away": "IND",
+"day": "2026-11-28",
+"home_spread": -2.5,
+"p_cover": 0.482,
+"line_total": 233.5,
+"p_over": 0.4873
+},
+"401910049": {
+"p_home": 0.2217,
+"margin": -10.93,
+"total": 226.49,
+"matchup": "OKC @ MIL",
+"home": "MIL",
+"away": "OKC",
+"day": "2026-11-28",
+"home_spread": 12.5,
+"p_cover": 0.548,
+"line_total": 228.5,
+"p_over": 0.4567
+},
+"401910050": {
+"p_home": 0.8353,
+"margin": 14.78,
+"total": 218.92,
+"matchup": "PHI @ HOU",
+"home": "HOU",
+"away": "PHI",
+"day": "2026-11-28",
+"home_spread": -13.5,
+"p_cover": 0.5392,
+"line_total": 219.5,
+"p_over": 0.4876
 }
 },
 "singles": {
@@ -2850,7 +2915,8 @@
 "dk": 1.8849557522123894,
 "label": "Under 224.5"
 }
-]
+],
+"2026-11-28": []
 },
 "combos": {
 "2026-11-04": [],
@@ -2965,6 +3031,7 @@
 "2026-11-23": [],
 "2026-11-24": [],
 "2026-11-25": [],
-"2026-11-27": []
+"2026-11-27": [],
+"2026-11-28": []
 }
 }

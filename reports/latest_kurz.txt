@@ -1,21 +1,23 @@
 ÄNDERUNGEN:
-• PHI @ IND: T.J. McConnell fällt NEU aus
+• PHI @ IND: Dean Wade fällt NEU aus
+• PHI @ IND: Sieg IND 45% → 60%
+• Neue Tipps: Under 224.5 (ATL @ BOS)
+• Gestrichen: IND +3.5 (PHI @ IND); Under 223.5 (ATL @ BOS)
 
 TIPPS (ab Mindestquote):
 • UTAH +9.5 (DEN @ UTAH) 57% – ab 1.82
-• IND +3.5 (PHI @ IND) 56% – ab 1.85
-• Under 223.5 (ATL @ BOS) 55% – ab 1.87
+• Under 224.5 (ATL @ BOS) 56% – ab 1.85
 • 2er-Kombi: Sieg BOS + Sieg TOR – 56%, ab 1.85
-• 3er-Kombi: Sieg BOS + Sieg POR + Sieg SA – 34%, ab 3.06
+• 3er-Kombi: Sieg DET + Sieg BOS + Sieg IND – 34%, ab 3.01
 
-01:00 MIA@NY: NY 57% · U222.5 51%
-01:30 MIL@DET: DET 77% · U219.5 53%
-01:30 PHI@IND: PHI 55% · U228.5 51%
+01:00 MIA@NY: NY 56%
+01:30 MIL@DET: DET 76% · U218.5 52%
+01:30 PHI@IND: IND 60%
 01:30 BKN@TOR: TOR 74% · O218.5 52%
-02:00 ATL@BOS: BOS 75% · U223.5 55%
-02:30 MEM@MIN: MIN 59% · U220.5 52%
-03:00 DAL@PHX: PHX 55% · O225.5 51%
-03:30 LAL@SA: SA 65% · U226.5 50%
+02:00 ATL@BOS: BOS 75% · U224.5 56%
+02:30 MEM@MIN: MIN 58% · U220.5 52%
+03:00 DAL@PHX: PHX 56% · O225.5 51%
+03:30 LAL@SA: SA 65% · O225.5 50%
 03:30 DEN@UTAH: DEN 71% · U232.5 55%
 03:30 NO@LAC: LAC 57% · O229.5 53%
-03:30 GS@POR: POR 69% · U217.5 51%
+03:30 GS@POR: POR 70% · U216.5 50%

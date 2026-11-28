@@ -1,9 +1,12 @@
 # NBA-Tipps für die Nacht 27.11.–28.11.2026
 
-Stand: Sa 28.11. 00:01 Uhr · 11 Spiele · Datenbasis: 270 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.2 Pkt/Team
+Stand: Sa 28.11. 01:14 Uhr · 11 Spiele · Datenbasis: 270 Saisonspiele · Heimvorteil 1.9 Pkt · Liga-Schnitt 113.2 Pkt/Team
 
 ## Änderungen seit dem letzten Bericht
-- PHI @ IND: T.J. McConnell fällt NEU aus
+- PHI @ IND: Dean Wade fällt NEU aus
+- PHI @ IND: Sieg IND 45% → 60%
+- Neue Tipps: Under 224.5 (ATL @ BOS)
+- Gestrichen: IND +3.5 (PHI @ IND); Under 223.5 (ATL @ BOS)
 
 ## Wett-Vorschläge: sicher und profitabel
 
@@ -14,8 +17,8 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 | Tipp | Spiel | Chance | DK-Quote | EV (DK) | Mindestquote |
 |---|---|---|---|---|---|
 | UTAH +9.5 | DEN @ UTAH | 57% | 1.89 | +7.1% | **1.82** |
-| IND +3.5 | PHI @ IND | 56% | 1.89 | +5.6% | **1.85** |
-| Under 223.5 | ATL @ BOS | 55% | 1.93 | +6.0% | **1.87** |
+| Under 224.5 | ATL @ BOS | 56% | 1.88 | +5.0% | **1.85** |
+| Sieg LAC | NO @ LAC | 57% | 1.74 | -1.1% | **1.81** | _(nur mit besserer Quote)_
 
 **Sichere 2er-Kombi**
 - Sieg BOS (ATL @ BOS) — 75%, DK 1.26
@@ -23,10 +26,10 @@ _Mindestquote = ab dieser Sporttip-Quote hat die Wette einen Erwartungswert von 
 - **Trefferchance 56%** · DK-Quote 1.60 (-10.7%) · **lohnt ab Sporttip-Gesamtquote 1.85** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **3er-Kombi (höhere Quote)**
+- Sieg DET (MIL @ DET) — 76%, DK 1.24
 - Sieg BOS (ATL @ BOS) — 75%, DK 1.26
-- Sieg POR (GS @ POR) — 69%, DK 1.34
-- Sieg SA (LAL @ SA) — 65%, DK 1.46
-- **Trefferchance 34%** · DK-Quote 2.47 (-16.9%) · **lohnt ab Sporttip-Gesamtquote 3.06** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
+- Sieg IND (PHI @ IND) — 60%
+- **Trefferchance 34%** · DK-Quote noch nicht für alle Tipps · **lohnt ab Sporttip-Gesamtquote 3.01** · _nur spielen, wenn Sporttip mind. die Mindestquote bietet_
 
 **Sichere Spieler-Linien** (konstanteste Spieler, Chance ≈ 75 %)
 - Zion Williamson (NO, NO @ LAC): über 25.5 P+R+A — 79% · lohnt ab Quote **1.30**
@@ -41,10 +44,10 @@ _Kombis: Die Chancen multiplizieren sich – ebenso die Marge des Buchmachers. L
 _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in der Saison._
 - DEN @ UTAH: Sieg UTAH — Modell 44% vs. Markt 23%
 - DEN @ UTAH: Handicap UTAH +9.5 — Modell 69%
-- PHI @ IND: Sieg IND — Modell 58% vs. Markt 40%
-- PHI @ IND: Handicap IND +3.5 — Modell 67%
-- ATL @ BOS: Under 223.5 — Modell-Total 215.7 (65%)
+- ATL @ BOS: Under 224.5 — Modell-Total 215.7 (66%)
 - DEN @ UTAH: Under 232.5 — Modell-Total 225.5 (63%)
+- GS @ POR: Sieg GS — Modell 36% vs. Markt 27%
+- NO @ LAC: Over 229.5 — Modell-Total 234.5 (59%)
 
 ## Bilanz bisheriger Tipps
 - Sieger-Prognosen: 112/163 richtig (69%), Brier 0.203
@@ -76,13 +79,11 @@ _Hinweise, keine sicheren Tipps: Der Markt liegt meistens richtig, v.a. früh in
 ## Spiele
 
 ### MIA @ NY — Sa 01:00 Uhr
-**Sieg:** NY 57% (faire Quote 1.76) · MIA 43% (2.32) — Markt NY 57%
-**Prognose:** NY 112.2 – MIA 109.8 (Diff. NY +2.4, Total 222.0)
-**Handicap** NY -2.5: NY deckt 50% · MIA +2.5 deckt 50%
-**Over/Under 222.5:** Over 49% (2.05) · Under 51% (1.96)
-**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
+**Sieg:** NY 56% (faire Quote 1.78) · MIA 44% (2.28)
+**Prognose:** NY 111.5 – MIA 109.3 (Diff. NY +2.2, Total 220.8)
+**Total-Faustregel:** Over lohnt bis 216.5 · Under lohnt ab 224.5 (≥57%)
 **Form (letzte 5):** NY SSSSS (+7.8) · MIA SSSSN (+9.6)
-_NY out: Miles McBride*, OG Anunoby*, Jordan Clarkson*, Andre Drummond* · NY fraglich: Karl-Anthony Towns*_ (* = Meldung der letzten 24 h)
+_NY out: Miles McBride*, OG Anunoby*, Jordan Clarkson*, Andre Drummond*_ (* = Meldung der letzten 24 h)
 > 📰 Wizards rookie Felix Okpara punches Rob Dillingham in G League tilt
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
@@ -98,11 +99,11 @@ _NY out: Miles McBride*, OG Anunoby*, Jordan Clarkson*, Andre Drummond* · NY fr
 | Klay Thompson (MIA) | 25 | 13.4 (9.5 / 13.5) | 1.6 | 2.2 | 3.5 | 17.5 |
 
 ### MIL @ DET — Sa 01:30 Uhr
-**Sieg:** DET 77% (faire Quote 1.30) · MIL 23% (4.32) — Markt DET 79%
-**Prognose:** DET 113.8 – MIL 104.5 (Diff. DET +9.3, Total 218.2)
+**Sieg:** DET 76% (faire Quote 1.31) · MIL 24% (4.20) — Markt DET 78%
+**Prognose:** DET 113.4 – MIL 104.1 (Diff. DET +9.3, Total 217.5)
 **Handicap** DET -9.5: DET deckt 49% · MIL +9.5 deckt 51%
-**Over/Under 219.5:** Over 47% (2.11) · Under 53% (1.90)
-**Total-Faustregel:** Over lohnt bis 214.5 · Under lohnt ab 222.5 (≥57%)
+**Over/Under 218.5:** Over 48% (2.09) · Under 52% (1.92)
+**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 221.5 (≥57%)
 **Form (letzte 5):** DET SSNNS (+6.0) · MIL NNNSN (-4.4)
 _DET out: Duncan Robinson, Cade Cunningham, Jalen Duren, Ebuka Okorie, Taurean Prince · MIL out: Kasparas Jakucionis*_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
@@ -119,15 +120,13 @@ _DET out: Duncan Robinson, Cade Cunningham, Jalen Duren, Ebuka Okorie, Taurean P
 | Brayden Burries (MIL) | 24 | 11.3 (7.5 / 11.5) | 5.9 | 2.8 | 1.2 | 20.0 |
 
 ### PHI @ IND — Sa 01:30 Uhr
-**Sieg:** IND 45% (faire Quote 2.22) · PHI 55% (1.82) — Markt IND 40%
-**Prognose:** IND 113.1 – PHI 114.7 (Diff. PHI +1.6, Total 227.9)
-**Handicap** IND +3.5: IND deckt 56% · PHI -3.5 deckt 44%
-**Over/Under 228.5:** Over 49% (2.06) · Under 51% (1.95)
-**Total-Faustregel:** Over lohnt bis 224.5 · Under lohnt ab 231.5 (≥57%)
+**Sieg:** IND 60% (faire Quote 1.66) · PHI 40% (2.51)
+**Prognose:** IND 114.6 – PHI 110.9 (Diff. IND +3.7, Total 225.5)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** IND NNNNS (-6.6) · PHI SSSNS (+2.0)
-_IND out: T.J. McConnell*, Tyrese Haliburton*, Ben Sheppard · IND fraglich: Larry Nance Jr.*, Kelly Oubre Jr.* · PHI out: Jaylen Brown, Ariel Hukporti · PHI fraglich: Joel Embiid*_ (* = Meldung der letzten 24 h)
+_IND out: T.J. McConnell*, Tyrese Haliburton*, Ben Sheppard · PHI out: Dean Wade*, Jaylen Brown*, Ariel Hukporti_ (* = Meldung der letzten 24 h)
+> 📰 MRI on 76ers star Jaylen Brown's left hamstring showed no new injury
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
-> 📰 Jaylen Brown out against Pacers; Joel Embiid (illness) questionable
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
 |---|---|---|---|---|---|---|
@@ -147,7 +146,7 @@ _IND out: T.J. McConnell*, Tyrese Haliburton*, Ben Sheppard · IND fraglich: Lar
 **Over/Under 218.5:** Over 52% (1.94) · Under 48% (2.06)
 **Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 222.5 (≥57%)
 **Form (letzte 5):** TOR NNNSN (-3.8) · BKN NNNNS (-12.6)
-_TOR out: Kawhi Leonard, Nate Bittle, RJ Barrett · TOR fraglich: Alijah Martin · BKN out: Moritz Wagner, Nolan Traore_
+_TOR out: Kawhi Leonard, Nate Bittle, RJ Barrett · BKN out: Moritz Wagner, Nolan Traore_
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -163,10 +162,10 @@ _TOR out: Kawhi Leonard, Nate Bittle, RJ Barrett · TOR fraglich: Alijah Martin 
 
 ### ATL @ BOS — Sa 02:00 Uhr
 **Sieg:** BOS 75% (faire Quote 1.34) · ATL 25% (3.98) — Markt BOS 76%
-**Prognose:** BOS 115.2 – ATL 106.0 (Diff. BOS +9.2, Total 221.1)
+**Prognose:** BOS 115.5 – ATL 106.3 (Diff. BOS +9.2, Total 221.8)
 **Handicap** BOS -9.5: BOS deckt 49% · ATL +9.5 deckt 51%
-**Over/Under 223.5:** Over 45% (2.23) · Under 55% (1.82)
-**Total-Faustregel:** Over lohnt bis 217.5 · Under lohnt ab 224.5 (≥57%)
+**Over/Under 224.5:** Over 44% (2.26) · Under 56% (1.80)
+**Total-Faustregel:** Over lohnt bis 218.5 · Under lohnt ab 225.5 (≥57%)
 **Form (letzte 5):** BOS NNNNS (-0.2) · ATL NSSSS (+5.6)
 _BOS out: Mitchell Robinson* · ATL out: Jock Landale, Asa Newell, CJ McCollum, Mouhamed Gueye, Henri Veesaar_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
@@ -183,13 +182,13 @@ _BOS out: Mitchell Robinson* · ATL out: Jock Landale, Asa Newell, CJ McCollum, 
 | Aaron Wiggins (ATL) | 26 | 12.7 (10.5 / 13.5) | 3.7 | 2.4 | 2.5 | 18.9 |
 
 ### MEM @ MIN — Sa 02:30 Uhr
-**Sieg:** MIN 59% (faire Quote 1.69) · MEM 41% (2.45) — Markt MIN 58%
+**Sieg:** MIN 58% (faire Quote 1.71) · MEM 42% (2.41) — Markt MIN 57%
 **Prognose:** MIN 111.2 – MEM 108.2 (Diff. MIN +3.0, Total 219.4)
 **Handicap** MIN -2.5: MIN deckt 52% · MEM +2.5 deckt 48%
 **Over/Under 220.5:** Over 48% (2.10) · Under 52% (1.91)
 **Total-Faustregel:** Over lohnt bis 215.5 · Under lohnt ab 223.5 (≥57%)
 **Form (letzte 5):** MIN SNSSS (+8.0) · MEM SSNSS (+9.2)
-_MIN out: LaMelo Ball*, Donte DiVincenzo, Jaylen Clark, Anthony Edwards · MEM out: Scotty Pippen Jr., Cameron Boozer, Jerami Grant, GG Jackson, Richie Saunders · MEM fraglich: Isaiah Stewart*, Zach Edey*_ (* = Meldung der letzten 24 h)
+_MIN out: LaMelo Ball*, Donte DiVincenzo, Jaylen Clark, Anthony Edwards · MEM out: Scotty Pippen Jr., Cameron Boozer, Jerami Grant, GG Jackson, Richie Saunders · MEM fraglich: Isaiah Stewart, Zach Edey_ (* = Meldung der letzten 24 h)
 > 📰 Timberwolves downgrade star LaMelo Ball to out with ankle sprain
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
@@ -205,13 +204,13 @@ _MIN out: LaMelo Ball*, Donte DiVincenzo, Jaylen Clark, Anthony Edwards · MEM o
 | Jaylen Wells (MEM) | 26 | 10.9 (7.5 / 11.5) | 3.2 | 1.1 | 2.0 | 15.4 |
 
 ### DAL @ PHX — Sa 03:00 Uhr
-**Sieg:** PHX 55% (faire Quote 1.81) · DAL 45% (2.24) — Markt PHX 57%
+**Sieg:** PHX 56% (faire Quote 1.78) · DAL 44% (2.28) — Markt PHX 58%
 **Prognose:** PHX 114.3 – DAL 111.7 (Diff. PHX +2.6, Total 226.0)
 **Handicap** PHX -3.5: PHX deckt 47% · DAL +3.5 deckt 53%
 **Over/Under 225.5:** Over 51% (1.96) · Under 49% (2.04)
 **Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** PHX SSSSN (+7.0) · DAL NSSSS (+3.2)
-_PHX out: Mark Williams · DAL out: Tobi Lawal*, Sergio de Larrea*, Dereck Lively II*, Tarik Biberovic* · DAL fraglich: Kyrie Irving*_ (* = Meldung der letzten 24 h)
+_PHX out: Mark Williams · DAL out: Tobi Lawal, Sergio de Larrea, Dereck Lively II, Tarik Biberovic · DAL fraglich: Kyrie Irving*_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -227,12 +226,12 @@ _PHX out: Mark Williams · DAL out: Tobi Lawal*, Sergio de Larrea*, Dereck Livel
 
 ### LAL @ SA — Sa 03:30 Uhr
 **Sieg:** SA 65% (faire Quote 1.54) · LAL 35% (2.84) — Markt SA 66%
-**Prognose:** SA 116.1 – LAL 110.2 (Diff. SA +5.9, Total 226.3)
+**Prognose:** SA 115.8 – LAL 109.8 (Diff. SA +5.9, Total 225.6)
 **Handicap** SA -6.5: SA deckt 48% · LAL +6.5 deckt 52%
-**Over/Under 226.5:** Over 50% (2.02) · Under 50% (1.98)
-**Total-Faustregel:** Over lohnt bis 222.5 · Under lohnt ab 230.5 (≥57%)
+**Over/Under 225.5:** Over 50% (1.99) · Under 50% (2.01)
+**Total-Faustregel:** Over lohnt bis 221.5 · Under lohnt ab 229.5 (≥57%)
 **Form (letzte 5):** SA NSSSN (+6.8) · LAL SSNSS (+3.4)
-_SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron Fox*_ (* = Meldung der letzten 24 h)
+_SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaron Fox_ (* = Meldung der letzten 24 h)
 > 📰 Lakers' Austin Reaves available vs. Spurs after missing 5 games with heel bruise
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
@@ -254,7 +253,7 @@ _SA out: Dylan Harper*, Tobias Harris, Jayden Quaintance · SA fraglich: De'Aaro
 **Over/Under 232.5:** Over 45% (2.20) · Under 55% (1.83)
 **Total-Faustregel:** Over lohnt bis 226.5 · Under lohnt ab 234.5 (≥57%)
 **Form (letzte 5):** UTAH SSNNN (+2.0) · DEN NSSSN (-2.4)
-_UTAH out: Jusuf Nurkic*, Lauri Markkanen, Jaren Jackson Jr. · UTAH fraglich: Mo Bamba*, Jaxson Hayes*_ (* = Meldung der letzten 24 h)
+_UTAH out: Jusuf Nurkic, Lauri Markkanen, Jaren Jackson Jr. · UTAH fraglich: Mo Bamba*, Jaxson Hayes_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates
 
 | Spieler | Min | Pkt (Over bis / Under ab) | Reb | Ast | 3er | P+R+A |
@@ -290,11 +289,11 @@ _LAC out: Bradley Beal, Jordan Miller · NO out: Trendon Watford, Bennedict Math
 | Jordan Poole (NO) | 24 | 14.9 (11.5 / 15.5) | 1.5 | 3.1 | 2.2 | 19.4 |
 
 ### GS @ POR — Sa 03:30 Uhr
-**Sieg:** POR 69% (faire Quote 1.44) · GS 31% (3.27) — Markt POR 72%
-**Prognose:** POR 111.9 – GS 105.1 (Diff. POR +6.8, Total 217.0)
-**Handicap** POR -7.5: POR deckt 48% · GS +7.5 deckt 52%
-**Over/Under 217.5:** Over 49% (2.04) · Under 51% (1.96)
-**Total-Faustregel:** Over lohnt bis 213.5 · Under lohnt ab 220.5 (≥57%)
+**Sieg:** POR 70% (faire Quote 1.42) · GS 30% (3.39) — Markt POR 73%
+**Prognose:** POR 111.9 – GS 104.4 (Diff. POR +7.5, Total 216.3)
+**Handicap** POR -8.5: POR deckt 47% · GS +8.5 deckt 53%
+**Over/Under 216.5:** Over 50% (2.01) · Under 50% (1.99)
+**Total-Faustregel:** Over lohnt bis 212.5 · Under lohnt ab 220.5 (≥57%)
 **Form (letzte 5):** POR NSNSS (+6.0) · GS NNNSS (-10.2)
 _POR out: Damian Lillard*, Chris Youngblood*, Vit Krejci, Ja Morant, Shaedon Sharpe · GS out: Stephen Curry, Kristaps Porzingis, Moses Moody, Jimmy Butler III_ (* = Meldung der letzten 24 h)
 > 📰 2026 NBA Cup: Schedule, scores group standings and updates

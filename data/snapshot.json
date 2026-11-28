@@ -9,12 +9,10 @@
 "Miles McBride",
 "OG Anunoby"
 ],
-"dtd": [
-"Karl-Anthony Towns"
-],
-"spread": -2.5,
-"total": 222.5,
-"p_home": 0.5686
+"dtd": [],
+"spread": null,
+"total": null,
+"p_home": 0.5607
 },
 "401909327": {
 "matchup": "MIL @ DET",
@@ -30,8 +28,8 @@
 ],
 "dtd": [],
 "spread": -9.5,
-"total": 219.5,
-"p_home": 0.7685
+"total": 218.5,
+"p_home": 0.7616
 },
 "401909328": {
 "matchup": "PHI @ IND",
@@ -40,18 +38,15 @@
 "out": [
 "Ariel Hukporti",
 "Ben Sheppard",
+"Dean Wade",
 "Jaylen Brown",
 "T.J. McConnell",
 "Tyrese Haliburton"
 ],
-"dtd": [
-"Joel Embiid",
-"Kelly Oubre Jr.",
-"Larry Nance Jr."
-],
-"spread": 3.5,
-"total": 228.5,
-"p_home": 0.4504
+"dtd": [],
+"spread": null,
+"total": null,
+"p_home": 0.6008
 },
 "401909329": {
 "matchup": "BKN @ TOR",
@@ -64,9 +59,7 @@
 "Nolan Traore",
 "RJ Barrett"
 ],
-"dtd": [
-"Alijah Martin"
-],
+"dtd": [],
 "spread": -9.5,
 "total": 218.5,
 "p_home": 0.7436
@@ -85,8 +78,8 @@
 ],
 "dtd": [],
 "spread": -9.5,
-"total": 223.5,
-"p_home": 0.749
+"total": 224.5,
+"p_home": 0.7489
 },
 "401909331": {
 "matchup": "MEM @ MIN",
@@ -109,7 +102,7 @@
 ],
 "spread": -2.5,
 "total": 220.5,
-"p_home": 0.5922
+"p_home": 0.5845
 },
 "401909332": {
 "matchup": "DAL @ PHX",
@@ -127,7 +120,7 @@
 ],
 "spread": -3.5,
 "total": 225.5,
-"p_home": 0.5535
+"p_home": 0.5612
 },
 "401909333": {
 "matchup": "LAL @ SA",
@@ -142,7 +135,7 @@
 "De'Aaron Fox"
 ],
 "spread": -6.5,
-"total": 226.5,
+"total": 225.5,
 "p_home": 0.6474
 },
 "401909334": {
@@ -196,14 +189,13 @@
 "Vit Krejci"
 ],
 "dtd": [],
-"spread": -7.5,
-"total": 217.5,
-"p_home": 0.6939
+"spread": -8.5,
+"total": 216.5,
+"p_home": 0.7047
 },
 "_tips": [
 "UTAH +9.5 (DEN @ UTAH)",
-"IND +3.5 (PHI @ IND)",
-"Under 223.5 (ATL @ BOS)"
+"Under 224.5 (ATL @ BOS)"
 ],
 "_game_day": "2026-11-27"
 }
